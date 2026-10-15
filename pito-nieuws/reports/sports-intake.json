@@ -1,0 +1,146 @@
+{
+  "checkedAt": "2026-10-14T03:39:26.833682+00:00",
+  "window": [
+    "2026-07-13",
+    "2026-10-14"
+  ],
+  "sources": [
+    {
+      "name": "VTC Woerden",
+      "feed": "https://vtcwoerden.nl/feed/",
+      "status": "ok",
+      "received": 5,
+      "skipped": 5,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "IJsselmeervogels",
+      "feed": "https://www.ijsselmeervogels.nl/?format=feed&type=rss",
+      "status": "ok",
+      "received": 7,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "Bunnik 73",
+      "feed": "https://bunnik73.nl/feed/",
+      "status": "ok",
+      "received": 10,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "USV Hercules",
+      "feed": "https://www.usvhercules.nl/feed/",
+      "status": "ok",
+      "received": 10,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "S.V. Aurora",
+      "feed": "https://svaurora.nl/cms/index.php?format=feed&type=rss",
+      "status": "ok",
+      "received": 8,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "C.O.V. DESTO",
+      "feed": "https://desto-utrecht.nl/feed/",
+      "status": "ok",
+      "received": 10,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "D.O.S.C.",
+      "feed": "https://dosc.nl/feed/",
+      "status": "ok",
+      "received": 6,
+      "skipped": 4,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "FC Driebergen",
+      "feed": "https://fcdriebergen.nl/feed/",
+      "status": "ok",
+      "received": 15,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "USV Elinkwijk",
+      "feed": "https://elinkwijk.nl/feed/",
+      "status": "ok",
+      "received": 10,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "S.V. Nieuw Utrecht",
+      "feed": "https://www.svnieuwutrecht.nl/feed/",
+      "status": "ok",
+      "received": 1,
+      "skipped": 9,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "S.V.F.",
+      "feed": "https://www.svfcothen.nl/feed/",
+      "status": "ok",
+      "received": 10,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "V.V. Veenendaal",
+      "feed": "https://www.vvveenendaal.nl/feed/",
+      "status": "ok",
+      "received": 3,
+      "skipped": 7,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "V.V.Z.A.",
+      "feed": "https://www.vvza.nl/feed/",
+      "status": "ok",
+      "received": 10,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "SV Spakenburg",
+      "feed": "https://spakenburg.com/feed/",
+      "status": "ok",
+      "received": 10,
+      "skipped": 0,
+      "fullArchive": false,
+      "added": 0
+    },
+    {
+      "name": "VV Cabauw",
+      "feed": "https://www.vvcabauw.nl/home/feed/",
+      "status": "ok",
+      "received": 0,
+      "skipped": 1,
+      "fullArchive": false,
+      "added": 0
+    }
+  ],
+  "added": 0,
+  "publicationEnabled": false
+}

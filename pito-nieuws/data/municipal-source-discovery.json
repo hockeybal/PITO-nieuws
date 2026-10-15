@@ -1,0 +1,1711 @@
+[
+  {
+    "municipality": "amersfoort",
+    "name": "Amersfoort",
+    "homepage": "https://www.amersfoort.nl/",
+    "checkedAt": "2026-10-10T15:29:25.054915+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente AmersfoortGemeente AmersfoortVerplichtVerplichtFacebookInstagramLinkedInYoutube",
+    "status": "reachable",
+    "feeds": [
+      "https://www.amersfoort.nl/feed/rss/nieuws"
+    ],
+    "councilLinks": [
+      "https://www.amersfoort.nl/gemeenteraad",
+      "https://www.amersfoort.nl/college-en-gemeenteraad",
+      "https://www.amersfoort.nl/samenvatting-collegebesluiten"
+    ],
+    "councilCheckedUrl": "https://www.amersfoort.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.amersfoort.nl/gemeenteraad",
+    "councilPortals": [
+      "https://amersfoort.raadsinformatie.nl/leden",
+      "https://www.amersfoort.nl/vergaderingen-gemeenteraad",
+      "https://amersfoort.raadsinformatie.nl/dashboard",
+      "https://amersfoort.notubiz.nl/live",
+      "http://amersfoort.notubiz.nl/live",
+      "https://amersfoort.raadsinformatie.nl/info/Uitleg/1132/Termijnagenda_en_vergaderrooster"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:18.300685+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "amersfoort",
+        "sourceRef": "notubiz:gemeente:amersfoort",
+        "label": "Amersfoort",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "amersfoort",
+          "sourceRef": "notubiz:gemeente:amersfoort",
+          "label": "Amersfoort",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0307",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T08:42:20.703Z",
+          "lastRunAt": "2026-10-10T00:00:00.969Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-14T13:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T08:42:06.000Z",
+          "indexedDocuments": 24952,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:15:25.251Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 2891,
+            "heldDocuments": 2865,
+            "missingDocuments": 26,
+            "ratio": 0.991,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:amersfoort:16245788",
+              "document:notubiz:gemeente:amersfoort:16291249",
+              "document:notubiz:gemeente:amersfoort:16476701",
+              "document:notubiz:gemeente:amersfoort:16516000",
+              "document:notubiz:gemeente:amersfoort:16595381",
+              "document:notubiz:gemeente:amersfoort:16625769",
+              "document:notubiz:gemeente:amersfoort:16840603",
+              "document:notubiz:gemeente:amersfoort:16958619",
+              "document:notubiz:gemeente:amersfoort:16972130",
+              "document:notubiz:gemeente:amersfoort:16989168",
+              "document:notubiz:gemeente:amersfoort:17002856",
+              "document:notubiz:gemeente:amersfoort:17144457",
+              "document:notubiz:gemeente:amersfoort:17145042",
+              "document:notubiz:gemeente:amersfoort:17200524",
+              "document:notubiz:gemeente:amersfoort:17239494",
+              "document:notubiz:gemeente:amersfoort:17377190",
+              "document:notubiz:gemeente:amersfoort:17403220",
+              "document:notubiz:gemeente:amersfoort:17427021",
+              "document:notubiz:gemeente:amersfoort:17441245",
+              "document:notubiz:gemeente:amersfoort:17449723",
+              "document:notubiz:gemeente:amersfoort:17451558",
+              "document:notubiz:gemeente:amersfoort:17452040",
+              "document:notubiz:gemeente:amersfoort:17482859",
+              "document:notubiz:gemeente:amersfoort:17486656",
+              "document:notubiz:gemeente:amersfoort:17486666"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "baarn",
+    "name": "Baarn",
+    "homepage": "https://www.baarn.nl/",
+    "checkedAt": "2026-10-10T15:29:25.055240+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente BaarnLoading...",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.baarn.nl/gemeenteraad",
+      "https://www.baarn.nl/bestuur-en-organisatie"
+    ],
+    "councilCheckedUrl": "https://www.baarn.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.baarn.nl/gemeenteraad",
+    "councilPortals": [
+      "https://baarn.raadsinformatie.nl/dashboard"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:19.841624+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "baarn",
+        "sourceRef": "notubiz:gemeente:baarn",
+        "label": "Baarn",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "baarn",
+          "sourceRef": "notubiz:gemeente:baarn",
+          "label": "Baarn",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0308",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T08:47:37.857Z",
+          "lastRunAt": "2026-10-10T00:00:00.978Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-14T18:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T08:47:37.000Z",
+          "indexedDocuments": 20916,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:18:37.145Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 947,
+            "heldDocuments": 937,
+            "missingDocuments": 10,
+            "ratio": 0.989,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:baarn:16549559",
+              "document:notubiz:gemeente:baarn:17386201",
+              "document:notubiz:gemeente:baarn:17386203",
+              "document:notubiz:gemeente:baarn:17386242",
+              "document:notubiz:gemeente:baarn:17410938",
+              "document:notubiz:gemeente:baarn:17480456",
+              "document:notubiz:gemeente:baarn:17482266",
+              "document:notubiz:gemeente:baarn:17482267",
+              "document:notubiz:gemeente:baarn:17482268",
+              "document:notubiz:gemeente:baarn:17482270"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "bunnik",
+    "name": "Bunnik",
+    "homepage": "https://www.bunnik.nl/",
+    "checkedAt": "2026-10-10T15:29:25.055373+00:00",
+    "httpStatus": 200,
+    "title": "www.bunnik.nl",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.bunnik.nl/onze-gemeente/gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.bunnik.nl/onze-gemeente/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.bunnik.nl/onze-gemeente/gemeenteraad",
+    "councilPortals": [
+      "https://bunnik.bestuurlijkeinformatie.nl/People/Profiles/e4ec5afa-5ea0-4384-b564-10714e01d6c7",
+      "https://bunnik.bestuurlijkeinformatie.nl",
+      "https://bunnik.bestuurlijkeinformatie.nl/Calendar"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:18.391666+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "bunnik",
+        "sourceRef": "ibabs:gemeente:bunnik",
+        "label": "Bunnik",
+        "supplier": "ibabs",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "bunnik",
+          "sourceRef": "ibabs:gemeente:bunnik",
+          "label": "Bunnik",
+          "supplier": "ibabs",
+          "organizationType": "gemeente",
+          "cbsId": "GM0312",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T04:15:08.799Z",
+          "lastRunAt": "2026-10-10T00:00:00.784Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-08T17:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T04:15:08.000Z",
+          "indexedDocuments": 12418,
+          "coverage": {
+            "checkedAt": "2026-10-04T14:33:55.943Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1551,
+            "heldDocuments": 1551,
+            "missingDocuments": 0,
+            "ratio": 1,
+            "lowerBound": false,
+            "missingSample": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "bunschoten",
+    "name": "Bunschoten",
+    "homepage": "https://www.bunschoten.nl/",
+    "checkedAt": "2026-10-10T15:29:25.333305+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente BunschotenToegankelijkheidToegankelijkheid",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.bunschoten.nl/gemeenteraad",
+      "https://www.bunschoten.nl/bestuur-en-politiek"
+    ],
+    "councilCheckedUrl": "https://www.bunschoten.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.bunschoten.nl/gemeenteraad",
+    "councilPortals": [
+      "https://bunschoten.raadsinformatie.nl/leden",
+      "https://bunschoten.raadsinformatie.nl/"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:18.750588+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "bunschoten",
+        "sourceRef": "notubiz:gemeente:bunschoten",
+        "label": "Bunschoten",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "bunschoten",
+          "sourceRef": "notubiz:gemeente:bunschoten",
+          "label": "Bunschoten",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0313",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T08:54:01.712Z",
+          "lastRunAt": "2026-10-10T00:00:00.991Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-15T17:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T08:54:01.000Z",
+          "indexedDocuments": 12327,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:21:09.234Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 567,
+            "heldDocuments": 562,
+            "missingDocuments": 5,
+            "ratio": 0.991,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:bunschoten:17412310",
+              "document:notubiz:gemeente:bunschoten:17469732",
+              "document:notubiz:gemeente:bunschoten:17498352",
+              "document:notubiz:gemeente:bunschoten:17500928",
+              "document:notubiz:gemeente:bunschoten:17501243"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "de-bilt",
+    "name": "De Bilt",
+    "homepage": "https://www.debilt.nl/",
+    "checkedAt": "2026-10-10T15:29:25.349151+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente De Bilt",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.debilt.nl/bestuur-en-organisatie/gemeenteraad",
+      "https://www.debilt.nl/bestuur-en-organisatie/college",
+      "https://www.debilt.nl/bestuur-en-organisatie/onderscheidingen",
+      "https://www.debilt.nl/bestuur-en-organisatie/organisatie",
+      "https://www.debilt.nl/bestuur-en-organisatie/verkiezingen",
+      "https://www.debilt.nl/bestuur-en-organisatie/wet-en-regelgeving",
+      "https://www.debilt.nl/bestuur-en-organisatie/organisatie/privacy-en-algoritmes"
+    ],
+    "councilCheckedUrl": "https://www.debilt.nl/bestuur-en-organisatie/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.debilt.nl/bestuur-en-organisatie/gemeenteraad",
+    "councilPortals": [
+      "https://www.debilt.nl/bestuur-en-organisatie/gemeenteraad/vergaderingen-gemeenteraad",
+      "https://www.debilt.nl/nieuwsoverzicht/extra-raadsvergadering-8-oktober-nieuwe-wethouders-en-raadsleden"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:18.636363+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "de_bilt",
+        "sourceRef": "notubiz:gemeente:de_bilt",
+        "label": "De Bilt",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": false,
+        "health": {
+          "sourceKey": "de_bilt",
+          "sourceRef": "notubiz:gemeente:de_bilt",
+          "label": "De Bilt",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0310",
+          "state": "not_implemented",
+          "lastSuccessAt": "2026-09-09T12:24:12.336Z",
+          "lastRunAt": "2026-09-10T00:00:00.286Z",
+          "lastRunStatus": "failed",
+          "lastErrorMessage": "Cancelled 2026-09-10: source awaits municipality approval (#277)"
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "de-ronde-venen",
+    "name": "De Ronde Venen",
+    "homepage": "https://www.derondevenen.nl/",
+    "checkedAt": "2026-10-10T15:29:25.511454+00:00",
+    "httpStatus": 200,
+    "title": "Wonen en leven - Gemeente De Ronde Venen",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.derondevenen.nl/Bestuur_en_organisatie",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Over_ons",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Gemeenteraad",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/College_van_B_en_W",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Adviescommissies",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Gemeentelijk_beleid_en_regelgeving",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Onderscheidingen",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Inkoop_aanbesteding",
+      "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel/Werkzaamheden"
+    ],
+    "councilCheckedUrl": "https://www.derondevenen.nl/Bestuur_en_organisatie",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.derondevenen.nl/Bestuur_en_organisatie",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:18.980022+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "de_ronde_venen",
+        "sourceRef": "notubiz:gemeente:de_ronde_venen",
+        "label": "De Ronde Venen",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "de_ronde_venen",
+          "sourceRef": "notubiz:gemeente:de_ronde_venen",
+          "label": "De Ronde Venen",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0736",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T08:57:15.993Z",
+          "lastRunAt": "2026-10-10T00:00:00.995Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-10T00:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T08:57:15.000Z",
+          "indexedDocuments": 21560,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:21:56.984Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1501,
+            "heldDocuments": 1473,
+            "missingDocuments": 28,
+            "ratio": 0.981,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:de_ronde_venen:16265535",
+              "document:notubiz:gemeente:de_ronde_venen:16291325",
+              "document:notubiz:gemeente:de_ronde_venen:16307098",
+              "document:notubiz:gemeente:de_ronde_venen:16369488",
+              "document:notubiz:gemeente:de_ronde_venen:16385450",
+              "document:notubiz:gemeente:de_ronde_venen:16411225",
+              "document:notubiz:gemeente:de_ronde_venen:16432315",
+              "document:notubiz:gemeente:de_ronde_venen:16461397",
+              "document:notubiz:gemeente:de_ronde_venen:16461680",
+              "document:notubiz:gemeente:de_ronde_venen:16468176",
+              "document:notubiz:gemeente:de_ronde_venen:16533562",
+              "document:notubiz:gemeente:de_ronde_venen:16922852",
+              "document:notubiz:gemeente:de_ronde_venen:16942464",
+              "document:notubiz:gemeente:de_ronde_venen:17134846",
+              "document:notubiz:gemeente:de_ronde_venen:17199321",
+              "document:notubiz:gemeente:de_ronde_venen:17265320",
+              "document:notubiz:gemeente:de_ronde_venen:17383924",
+              "document:notubiz:gemeente:de_ronde_venen:17390229",
+              "document:notubiz:gemeente:de_ronde_venen:17405910",
+              "document:notubiz:gemeente:de_ronde_venen:17405911",
+              "document:notubiz:gemeente:de_ronde_venen:17427533",
+              "document:notubiz:gemeente:de_ronde_venen:17447434",
+              "document:notubiz:gemeente:de_ronde_venen:17451270",
+              "document:notubiz:gemeente:de_ronde_venen:17454286",
+              "document:notubiz:gemeente:de_ronde_venen:17454290"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "eemnes",
+    "name": "Eemnes",
+    "homepage": "https://www.eemnes.nl/",
+    "checkedAt": "2026-10-10T15:29:25.682808+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente EemnesToegankelijkheidToegankelijkheid",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.eemnes.nl/bestuur-en-organisatie"
+    ],
+    "councilCheckedUrl": "https://www.eemnes.nl/bestuur-en-organisatie",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.eemnes.nl/bestuur-en-organisatie",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:19.246820+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "eemnes",
+        "sourceRef": "notubiz:gemeente:eemnes",
+        "label": "Eemnes",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "eemnes",
+          "sourceRef": "notubiz:gemeente:eemnes",
+          "label": "Eemnes",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0317",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T09:07:43.881Z",
+          "lastRunAt": "2026-10-10T00:00:01.005Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-05T18:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T09:07:42.000Z",
+          "indexedDocuments": 49716,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:29:15.773Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1448,
+            "heldDocuments": 1435,
+            "missingDocuments": 13,
+            "ratio": 0.991,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:eemnes:17362589",
+              "document:notubiz:gemeente:eemnes:17402976",
+              "document:notubiz:gemeente:eemnes:17403129",
+              "document:notubiz:gemeente:eemnes:17403130",
+              "document:notubiz:gemeente:eemnes:17403131",
+              "document:notubiz:gemeente:eemnes:17403186",
+              "document:notubiz:gemeente:eemnes:17403336",
+              "document:notubiz:gemeente:eemnes:17403337",
+              "document:notubiz:gemeente:eemnes:17403341",
+              "document:notubiz:gemeente:eemnes:17403342",
+              "document:notubiz:gemeente:eemnes:17415533",
+              "document:notubiz:gemeente:eemnes:17472423",
+              "document:notubiz:gemeente:eemnes:17489586"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "houten",
+    "name": "Houten",
+    "homepage": "https://www.houten.nl/",
+    "checkedAt": "2026-10-10T15:29:25.838066+00:00",
+    "httpStatus": 200,
+    "title": "Gemeente Houten | Gemeente Houten",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.houten.nl/meedoen-en-meepraten/denk-mee-met-de-gemeenteraad",
+      "https://www.houten.nl/gemeenteraad-en-college/jongerenadviesraad-en-kinderraad",
+      "https://www.houten.nl/gemeenteraad-en-college/gemeenteraad",
+      "https://www.houten.nl/gemeenteraad-en-college/college-van-b-en-w",
+      "https://www.houten.nl/gemeenteraad-en-college/bezoek-van-de-burgemeester",
+      "https://www.houten.nl/gemeenteraad-en-college/audit-en-rekeningcommissie",
+      "https://www.houten.nl/gemeenteraad-en-college/rekenkamer"
+    ],
+    "councilCheckedUrl": "https://www.houten.nl/gemeenteraad-en-college/rekenkamer",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.houten.nl/gemeenteraad-en-college/rekenkamer",
+    "councilPortals": [
+      "https://houten.bestuurlijkeinformatie.nl/"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:19.255169+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "houten",
+        "sourceRef": "ibabs:gemeente:houten",
+        "label": "Houten",
+        "supplier": "ibabs",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "houten",
+          "sourceRef": "ibabs:gemeente:houten",
+          "label": "Houten",
+          "supplier": "ibabs",
+          "organizationType": "gemeente",
+          "cbsId": "GM0321",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T06:34:06.692Z",
+          "lastRunAt": "2026-10-10T00:00:00.832Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-09T00:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T06:31:12.000Z",
+          "indexedDocuments": 15200,
+          "coverage": {
+            "checkedAt": "2026-10-05T00:46:45.839Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 948,
+            "heldDocuments": 948,
+            "missingDocuments": 0,
+            "ratio": 1,
+            "lowerBound": false,
+            "missingSample": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "ijsselstein",
+    "name": "IJsselstein",
+    "homepage": "https://www.ijsselstein.nl/",
+    "checkedAt": "2026-10-10T15:29:26.011589+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente IJsselsteinToegankelijkheidToegankelijkheidLoading...",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.ijsselstein.nl/bestuur-en-organisatie",
+      "https://www.ijsselstein.nl/gemeenteraad",
+      "https://www.ijsselstein.nl/bekendmakingen-plannen-en-besluiten"
+    ],
+    "councilCheckedUrl": "https://www.ijsselstein.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.ijsselstein.nl/gemeenteraad",
+    "councilPortals": [
+      "https://www.ijsselstein.nl/vergaderingen-en-besluiten"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:19.755378+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "ijsselstein",
+        "sourceRef": "notubiz:gemeente:ijsselstein",
+        "label": "Ijsselstein",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "ijsselstein",
+          "sourceRef": "notubiz:gemeente:ijsselstein",
+          "label": "Ijsselstein",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0353",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T09:31:59.867Z",
+          "lastRunAt": "2026-10-10T00:00:01.026Z",
+          "lastRunStatus": "succeeded",
+          "latestContentDate": "2026-10-08T18:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T09:31:59.000Z",
+          "indexedDocuments": 16603,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:37:14.771Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 444,
+            "heldDocuments": 397,
+            "missingDocuments": 47,
+            "ratio": 0.894,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:ijsselstein:17367153",
+              "document:notubiz:gemeente:ijsselstein:17367310",
+              "document:notubiz:gemeente:ijsselstein:17367317",
+              "document:notubiz:gemeente:ijsselstein:17367325",
+              "document:notubiz:gemeente:ijsselstein:17367350",
+              "document:notubiz:gemeente:ijsselstein:17367507",
+              "document:notubiz:gemeente:ijsselstein:17367533",
+              "document:notubiz:gemeente:ijsselstein:17367546",
+              "document:notubiz:gemeente:ijsselstein:17367576",
+              "document:notubiz:gemeente:ijsselstein:17367769",
+              "document:notubiz:gemeente:ijsselstein:17367786",
+              "document:notubiz:gemeente:ijsselstein:17367801",
+              "document:notubiz:gemeente:ijsselstein:17367889",
+              "document:notubiz:gemeente:ijsselstein:17367970",
+              "document:notubiz:gemeente:ijsselstein:17367972",
+              "document:notubiz:gemeente:ijsselstein:17367995",
+              "document:notubiz:gemeente:ijsselstein:17367999",
+              "document:notubiz:gemeente:ijsselstein:17368011",
+              "document:notubiz:gemeente:ijsselstein:17368013",
+              "document:notubiz:gemeente:ijsselstein:17368014",
+              "document:notubiz:gemeente:ijsselstein:17368027",
+              "document:notubiz:gemeente:ijsselstein:17370829",
+              "document:notubiz:gemeente:ijsselstein:17390791",
+              "document:notubiz:gemeente:ijsselstein:17406391",
+              "document:notubiz:gemeente:ijsselstein:17406416"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "leusden",
+    "name": "Leusden",
+    "homepage": "https://www.leusden.nl/",
+    "checkedAt": "2026-10-10T15:29:26.157359+00:00",
+    "httpStatus": 200,
+    "title": "Startpagina | Gemeente Leusden",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.leusden.nl/bestuur-en-organisatie"
+    ],
+    "councilCheckedUrl": "https://www.leusden.nl/bestuur-en-organisatie",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.leusden.nl/bestuur-en-organisatie",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:19.511705+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "leusden",
+        "sourceRef": "gemeenteoplossingen:gemeente:leusden",
+        "label": "Leusden",
+        "supplier": "gemeenteoplossingen",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "leusden",
+          "sourceRef": "gemeenteoplossingen:gemeente:leusden",
+          "label": "Leusden",
+          "supplier": "gemeenteoplossingen",
+          "organizationType": "gemeente",
+          "cbsId": "GM0327",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T03:17:02.056Z",
+          "lastRunAt": "2026-10-10T00:00:00.733Z",
+          "lastRunStatus": "succeeded",
+          "latestContentDate": "2026-10-15T17:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T03:17:01.000Z",
+          "indexedDocuments": 15324,
+          "coverage": {
+            "checkedAt": "2026-10-04T08:16:02.612Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 992,
+            "heldDocuments": 967,
+            "missingDocuments": 25,
+            "ratio": 0.975,
+            "lowerBound": false,
+            "missingSample": [
+              "document:gemeenteoplossingen:gemeente:leusden:52917",
+              "document:gemeenteoplossingen:gemeente:leusden:52924",
+              "document:gemeenteoplossingen:gemeente:leusden:53088",
+              "document:gemeenteoplossingen:gemeente:leusden:53089",
+              "document:gemeenteoplossingen:gemeente:leusden:53090",
+              "document:gemeenteoplossingen:gemeente:leusden:53091",
+              "document:gemeenteoplossingen:gemeente:leusden:53092",
+              "document:gemeenteoplossingen:gemeente:leusden:53093",
+              "document:gemeenteoplossingen:gemeente:leusden:53094",
+              "document:gemeenteoplossingen:gemeente:leusden:53095",
+              "document:gemeenteoplossingen:gemeente:leusden:53096",
+              "document:gemeenteoplossingen:gemeente:leusden:53097",
+              "document:gemeenteoplossingen:gemeente:leusden:53098",
+              "document:gemeenteoplossingen:gemeente:leusden:53099",
+              "document:gemeenteoplossingen:gemeente:leusden:53100",
+              "document:gemeenteoplossingen:gemeente:leusden:53101",
+              "document:gemeenteoplossingen:gemeente:leusden:53102",
+              "document:gemeenteoplossingen:gemeente:leusden:53103",
+              "document:gemeenteoplossingen:gemeente:leusden:53104",
+              "document:gemeenteoplossingen:gemeente:leusden:53105",
+              "document:gemeenteoplossingen:gemeente:leusden:53106",
+              "document:gemeenteoplossingen:gemeente:leusden:53107",
+              "document:gemeenteoplossingen:gemeente:leusden:53108",
+              "document:gemeenteoplossingen:gemeente:leusden:53109",
+              "document:gemeenteoplossingen:gemeente:leusden:53110"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "lopik",
+    "name": "Lopik",
+    "homepage": "https://www.lopik.nl/",
+    "checkedAt": "2026-10-10T15:29:26.167988+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente LopikLoading...",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.lopik.nl/gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.lopik.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.lopik.nl/gemeenteraad",
+    "councilPortals": [
+      "https://www.lopik.nl/vergaderingen"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:19.989729+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "lopik",
+        "sourceRef": "notubiz:gemeente:lopik",
+        "label": "Lopik",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": false,
+        "health": {
+          "sourceKey": "lopik",
+          "sourceRef": "notubiz:gemeente:lopik",
+          "label": "Lopik",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0331",
+          "state": "not_implemented",
+          "lastSuccessAt": "2026-09-10T02:39:09.811Z",
+          "lastRunAt": "2026-09-10T00:00:00.288Z",
+          "lastRunStatus": "failed",
+          "lastErrorMessage": "Cancelled 2026-09-10: source awaits municipality approval (#277)"
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "montfoort",
+    "name": "Montfoort",
+    "homepage": "https://www.montfoort.nl/",
+    "checkedAt": "2026-10-10T15:29:26.489551+00:00",
+    "httpStatus": 200,
+    "title": "Alle onderwerpen - Gemeente Montfoort",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie",
+      "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie/Wob_verzoek_indienen",
+      "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie/College_van_B_W",
+      "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie/Werken_bij_Montfoort",
+      "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie/Openbare_bekendmakingen",
+      "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie/Gemeenteraad",
+      "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Gemeenteraad_Montfoort_behandelt_onderwerp_toetsingskader_windenergie_Cattenbroek_op_latere_datum"
+    ],
+    "councilCheckedUrl": "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.montfoort.nl/Alle_onderwerpen/Bestuur_en_organisatie",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:20.084928+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "montfoort",
+        "sourceRef": "ibabs:gemeente:montfoort",
+        "label": "Montfoort",
+        "supplier": "ibabs",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "montfoort",
+          "sourceRef": "ibabs:gemeente:montfoort",
+          "label": "Montfoort",
+          "supplier": "ibabs",
+          "organizationType": "gemeente",
+          "cbsId": "GM0335",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T06:35:05.554Z",
+          "lastRunAt": "2026-10-10T00:00:00.865Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-08T00:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T06:35:02.000Z",
+          "indexedDocuments": 9778,
+          "coverage": {
+            "checkedAt": "2026-10-05T06:55:37.877Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1714,
+            "heldDocuments": 1693,
+            "missingDocuments": 21,
+            "ratio": 0.988,
+            "lowerBound": false,
+            "missingSample": [
+              "document:ibabs:gemeente:montfoort:10c7ad78-57a5-4f09-8760-f1bb208ff1b0",
+              "document:ibabs:gemeente:montfoort:1b0c6f0e-2fc6-4563-bbdb-32fa698b98a1",
+              "document:ibabs:gemeente:montfoort:445b9329-f61e-42e7-b124-28b71ac6dc84",
+              "document:ibabs:gemeente:montfoort:4a0bc91e-7b34-4f92-9af3-43de0ca6509b",
+              "document:ibabs:gemeente:montfoort:4ddab1c9-1308-4930-8153-aa217a44e6e0",
+              "document:ibabs:gemeente:montfoort:534f1e98-d998-458c-957c-343b73bbb8fe",
+              "document:ibabs:gemeente:montfoort:57092bbe-72e4-4dc8-bca7-7d32b49ef6ee",
+              "document:ibabs:gemeente:montfoort:574d2163-a535-41cf-945c-0350bdb64ef6",
+              "document:ibabs:gemeente:montfoort:5d80f521-37f7-4dd2-8457-a2612a39f640",
+              "document:ibabs:gemeente:montfoort:690160e8-4588-4a86-8181-c137a8677b75",
+              "document:ibabs:gemeente:montfoort:6ac5859a-07ec-42a8-8216-a57b76219689",
+              "document:ibabs:gemeente:montfoort:6e34362a-ff77-4778-8093-eda6aac9ccca",
+              "document:ibabs:gemeente:montfoort:7d79f231-0ab0-4b31-9de6-bcdb67732f45",
+              "document:ibabs:gemeente:montfoort:83f1ba82-a869-48e9-be42-d16db98b2201",
+              "document:ibabs:gemeente:montfoort:9aed1c87-f8fb-4c1b-98e0-260796a07c51",
+              "document:ibabs:gemeente:montfoort:ceff9723-85bd-4b92-98cf-6634dacb7567",
+              "document:ibabs:gemeente:montfoort:d547bdcf-50c4-41a5-9283-d001a50a2633",
+              "document:ibabs:gemeente:montfoort:d72fa89c-a48b-4a01-9bff-03c11fdc8b26",
+              "document:ibabs:gemeente:montfoort:e1be913f-6235-4d1d-a2f0-664b60ad0700",
+              "document:ibabs:gemeente:montfoort:e3ebe255-a5e3-465a-8522-d9699a92029c",
+              "document:ibabs:gemeente:montfoort:e4fe007b-14ae-41ff-bee3-f099946ab2d3"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "nieuwegein",
+    "name": "Nieuwegein",
+    "homepage": "https://www.nieuwegein.nl/",
+    "checkedAt": "2026-10-10T15:29:26.583028+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente Nieuwegein",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.nieuwegein.nl/gemeente-bestuur-en-organisatie",
+      "https://www.nieuwegein.nl/gemeente-bestuur-en-organisatie/organisatie/werken-bij-de-gemeente"
+    ],
+    "councilCheckedUrl": "https://www.nieuwegein.nl/gemeente-bestuur-en-organisatie",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.nieuwegein.nl/gemeente-bestuur-en-organisatie",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:20.111620+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "nieuwegein",
+        "sourceRef": "ibabs:gemeente:nieuwegein",
+        "label": "Nieuwegein",
+        "supplier": "ibabs",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "nieuwegein",
+          "sourceRef": "ibabs:gemeente:nieuwegein",
+          "label": "Nieuwegein",
+          "supplier": "ibabs",
+          "organizationType": "gemeente",
+          "cbsId": "GM0356",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T06:18:49.930Z",
+          "lastRunAt": "2026-10-10T00:00:00.869Z",
+          "lastRunStatus": "succeeded",
+          "latestContentDate": "2026-10-15T18:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T06:18:37.000Z",
+          "indexedDocuments": 52718,
+          "coverage": {
+            "checkedAt": "2026-10-05T07:30:10.056Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 175,
+            "heldDocuments": 175,
+            "missingDocuments": 0,
+            "ratio": 1,
+            "lowerBound": false,
+            "missingSample": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "oudewater",
+    "name": "Oudewater",
+    "homepage": "https://www.oudewater.nl/",
+    "checkedAt": "2026-10-10T15:29:26.797038+00:00",
+    "httpStatus": 200,
+    "title": "Onderwerpen - Gemeente Oudewater",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.oudewater.nl/Gemeente/Gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.oudewater.nl/Gemeente/Gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.oudewater.nl/Gemeente/Gemeenteraad",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:20.265485+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "oudewater",
+        "sourceRef": "gemeenteoplossingen:gemeente:oudewater",
+        "label": "Oudewater",
+        "supplier": "gemeenteoplossingen",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "oudewater",
+          "sourceRef": "gemeenteoplossingen:gemeente:oudewater",
+          "label": "Oudewater",
+          "supplier": "gemeenteoplossingen",
+          "organizationType": "gemeente",
+          "cbsId": "GM0589",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T03:17:26.945Z",
+          "lastRunAt": "2026-10-10T00:00:00.736Z",
+          "lastRunStatus": "succeeded",
+          "latestContentDate": "2026-10-01T18:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T03:17:26.000Z",
+          "indexedDocuments": 24292,
+          "coverage": {
+            "checkedAt": "2026-10-04T08:16:26.339Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1389,
+            "heldDocuments": 1389,
+            "missingDocuments": 0,
+            "ratio": 1,
+            "lowerBound": false,
+            "missingSample": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "renswoude",
+    "name": "Renswoude",
+    "homepage": "https://www.renswoude.nl/",
+    "checkedAt": "2026-10-10T15:29:26.847999+00:00",
+    "httpStatus": 200,
+    "title": "Home | RenswoudeLoading...",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.renswoude.nl/bestuur-organisatie",
+      "https://www.renswoude.nl/besluitenlijsten-bw",
+      "https://www.renswoude.nl/gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.renswoude.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.renswoude.nl/gemeenteraad",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:20.531064+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "renswoude",
+        "sourceRef": "notubiz:gemeente:renswoude",
+        "label": "Renswoude",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "renswoude",
+          "sourceRef": "notubiz:gemeente:renswoude",
+          "label": "Renswoude",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0339",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T09:51:35.946Z",
+          "lastRunAt": "2026-10-10T00:00:01.047Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-13T17:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T09:51:35.000Z",
+          "indexedDocuments": 9381,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:44:40.763Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 854,
+            "heldDocuments": 854,
+            "missingDocuments": 0,
+            "ratio": 1,
+            "lowerBound": false,
+            "missingSample": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "rhenen",
+    "name": "Rhenen",
+    "homepage": "https://www.rhenen.nl/",
+    "checkedAt": "2026-10-10T15:29:26.871981+00:00",
+    "httpStatus": 200,
+    "title": "Gemeente Rhenen | Gemeente Rhenen",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.rhenen.nl/info-over-de-gemeente/gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.rhenen.nl/info-over-de-gemeente/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.rhenen.nl/info-over-de-gemeente/gemeenteraad",
+    "councilPortals": [
+      "https://rhenen.raadsinformatie.nl/",
+      "https://rhenen.raadsinformatie.nl/leden",
+      "https://rhenen.raadsinformatie.nl/info/info/1146/wilt_u_contact_met_de_gemeenteraad_",
+      "https://rhenen.raadsinformatie.nl/live",
+      "https://rhenen.raadsinformatie.nl/info/Info/1145/Hoe_werkt_de_gemeenteraad_",
+      "https://rhenen.raadsinformatie.nl/info/Info/1146/Wilt_u_contact_met_de_gemeenteraad_"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:20.423031+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "rhenen",
+        "sourceRef": "notubiz:gemeente:rhenen",
+        "label": "Rhenen",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "rhenen",
+          "sourceRef": "notubiz:gemeente:rhenen",
+          "label": "Rhenen",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0340",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T10:04:02.343Z",
+          "lastRunAt": "2026-10-10T00:00:01.048Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-09T00:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T10:04:02.000Z",
+          "indexedDocuments": 34405,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:44:49.276Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1265,
+            "heldDocuments": 1217,
+            "missingDocuments": 48,
+            "ratio": 0.962,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:rhenen:17382501",
+              "document:notubiz:gemeente:rhenen:17383643",
+              "document:notubiz:gemeente:rhenen:17383644",
+              "document:notubiz:gemeente:rhenen:17383781",
+              "document:notubiz:gemeente:rhenen:17383782",
+              "document:notubiz:gemeente:rhenen:17383783",
+              "document:notubiz:gemeente:rhenen:17384970",
+              "document:notubiz:gemeente:rhenen:17384998",
+              "document:notubiz:gemeente:rhenen:17389812",
+              "document:notubiz:gemeente:rhenen:17389813",
+              "document:notubiz:gemeente:rhenen:17390088",
+              "document:notubiz:gemeente:rhenen:17390089",
+              "document:notubiz:gemeente:rhenen:17390090",
+              "document:notubiz:gemeente:rhenen:17390213",
+              "document:notubiz:gemeente:rhenen:17392305",
+              "document:notubiz:gemeente:rhenen:17392306",
+              "document:notubiz:gemeente:rhenen:17392348",
+              "document:notubiz:gemeente:rhenen:17392350",
+              "document:notubiz:gemeente:rhenen:17392451",
+              "document:notubiz:gemeente:rhenen:17392560",
+              "document:notubiz:gemeente:rhenen:17392561",
+              "document:notubiz:gemeente:rhenen:17392562",
+              "document:notubiz:gemeente:rhenen:17392563",
+              "document:notubiz:gemeente:rhenen:17392564",
+              "document:notubiz:gemeente:rhenen:17392565"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "soest",
+    "name": "Soest",
+    "homepage": "https://www.soest.nl/",
+    "checkedAt": "2026-10-10T15:29:27.071884+00:00",
+    "httpStatus": 200,
+    "title": "Welkom op de website van de gemeente Soest | Gemeente Soest",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.soest.nl/bestuur-en-organisatie/college-van-b-en-w",
+      "https://www.soest.nl/gemeenteraad/rekenkamer",
+      "https://www.soest.nl/bestuur-en-organisatie/besluiten-college",
+      "https://www.soest.nl/gemeenteraad/actueel",
+      "https://www.soest.nl/gemeenteraad/vergaderstukken",
+      "https://www.soest.nl/bestuur-en-organisatie",
+      "https://www.soest.nl/gemeenteraad",
+      "https://www.soest.nl/gemeenteraad/wat-doet-de-gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.soest.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.soest.nl/gemeenteraad",
+    "councilPortals": [
+      "https://soest.bestuurlijkeinformatie.nl/Calendar",
+      "https://soest.bestuurlijkeinformatie.nl/People/Profiles/b90cd07a-090e-4969-9a3f-19d21676ceac",
+      "https://www.soest.nl/gemeenteraad/raadsvergaderingen"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:20.633770+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "soest",
+        "sourceRef": "ibabs:gemeente:soest",
+        "label": "Soest",
+        "supplier": "ibabs",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "soest",
+          "sourceRef": "ibabs:gemeente:soest",
+          "label": "Soest",
+          "supplier": "ibabs",
+          "organizationType": "gemeente",
+          "cbsId": "GM0342",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T06:54:25.525Z",
+          "lastRunAt": "2026-10-10T00:00:00.915Z",
+          "lastRunStatus": "succeeded",
+          "latestContentDate": "2026-10-15T19:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T06:54:25.000Z",
+          "indexedDocuments": 21030,
+          "coverage": {
+            "checkedAt": "2026-10-05T12:04:50.218Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 495,
+            "heldDocuments": 493,
+            "missingDocuments": 2,
+            "ratio": 0.996,
+            "lowerBound": false,
+            "missingSample": [
+              "document:ibabs:gemeente:soest:1fc474bb-bd14-45de-8687-018fcbe65dbd",
+              "document:ibabs:gemeente:soest:dc339b61-e423-45d1-bc1a-bcb6d96f4f31"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "stichtse-vecht",
+    "name": "Stichtse Vecht",
+    "homepage": "https://www.stichtsevecht.nl/",
+    "checkedAt": "2026-10-10T15:29:27.213198+00:00",
+    "httpStatus": 200,
+    "title": "Gemeente | Gemeente Stichtse Vecht",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie/burgemeester-en-wethouders",
+      "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie/gemeenteraad",
+      "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie/gemeentelijke-organisatie",
+      "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie/onderscheidingen-aanvragen",
+      "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie/klacht-en-bezwaar",
+      "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie/nieuwsbrief",
+      "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie",
+      "https://raadsinformatie.stichtsevecht.nl/"
+    ],
+    "councilCheckedUrl": "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.stichtsevecht.nl/gemeenteraad-college-en-organisatie",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:20.711750+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "stichtse_vecht",
+        "sourceRef": "gemeenteoplossingen:gemeente:stichtse_vecht",
+        "label": "Stichtse Vecht",
+        "supplier": "gemeenteoplossingen",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "stichtse_vecht",
+          "sourceRef": "gemeenteoplossingen:gemeente:stichtse_vecht",
+          "label": "Stichtse Vecht",
+          "supplier": "gemeenteoplossingen",
+          "organizationType": "gemeente",
+          "cbsId": "GM1904",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T03:22:02.626Z",
+          "lastRunAt": "2026-10-10T00:00:00.747Z",
+          "lastRunStatus": "succeeded",
+          "latestContentDate": "2026-10-13T17:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T03:22:01.000Z",
+          "indexedDocuments": 17744,
+          "coverage": {
+            "checkedAt": "2026-10-04T08:41:36.219Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1065,
+            "heldDocuments": 1059,
+            "missingDocuments": 6,
+            "ratio": 0.994,
+            "lowerBound": false,
+            "missingSample": [
+              "document:gemeenteoplossingen:gemeente:stichtse_vecht:67491",
+              "document:gemeenteoplossingen:gemeente:stichtse_vecht:67492",
+              "document:gemeenteoplossingen:gemeente:stichtse_vecht:67493",
+              "document:gemeenteoplossingen:gemeente:stichtse_vecht:67494",
+              "document:gemeenteoplossingen:gemeente:stichtse_vecht:67495",
+              "document:gemeenteoplossingen:gemeente:stichtse_vecht:67496"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "utrecht",
+    "name": "Utrecht",
+    "homepage": "https://www.utrecht.nl/",
+    "checkedAt": "2026-10-10T15:29:27.297091+00:00",
+    "httpStatus": 200,
+    "title": "www.utrecht.nl | gemeente Utrecht",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.utrecht.nl/bestuur-en-organisatie",
+      "https://www.utrecht.nl/bestuur-en-organisatie/werken-bij-de-gemeente",
+      "https://www.utrecht.nl/bestuur-en-organisatie/begroting-en-verantwoording/begroting"
+    ],
+    "councilCheckedUrl": "https://www.utrecht.nl/bestuur-en-organisatie",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.utrecht.nl/bestuur-en-organisatie",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:20.772854+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "utrecht",
+        "sourceRef": "ibabs:gemeente:utrecht",
+        "label": "Utrecht",
+        "supplier": "ibabs",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "utrecht",
+          "sourceRef": "ibabs:gemeente:utrecht",
+          "label": "Utrecht",
+          "supplier": "ibabs",
+          "organizationType": "gemeente",
+          "cbsId": "GM0344",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T08:08:18.043Z",
+          "lastRunAt": "2026-10-10T00:00:00.932Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-15T19:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T08:05:03.000Z",
+          "indexedDocuments": 67274,
+          "coverage": {
+            "checkedAt": "2026-10-05T13:44:44.339Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": null,
+            "heldDocuments": null,
+            "missingDocuments": null,
+            "ratio": null,
+            "lowerBound": true,
+            "missingSample": [],
+            "error": "Signal timed out."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "utrechtse-heuvelrug",
+    "name": "Utrechtse Heuvelrug",
+    "homepage": "https://www.heuvelrug.nl/",
+    "checkedAt": "2026-10-10T15:29:27.423066+00:00",
+    "httpStatus": 200,
+    "title": "Home | HeuvelrugLoading...",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.heuvelrug.nl/gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.heuvelrug.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.heuvelrug.nl/gemeenteraad",
+    "councilPortals": [
+      "https://www.heuvelrug.nl/gemeentebestuur",
+      "https://heuvelrug.notubiz.nl",
+      "https://www.heuvelrug.nl/vergaderingen-van-de-raad"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:21.121363+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "utrechtse_heuvelrug",
+        "sourceRef": "notubiz:gemeente:utrechtse_heuvelrug",
+        "label": "Utrechtse Heuvelrug",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": false,
+        "health": {
+          "sourceKey": "utrechtse_heuvelrug",
+          "sourceRef": "notubiz:gemeente:utrechtse_heuvelrug",
+          "label": "Utrechtse Heuvelrug",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM1581",
+          "state": "not_implemented",
+          "lastSuccessAt": "2026-09-10T03:32:35.994Z",
+          "lastRunAt": "2026-09-10T00:00:00.288Z",
+          "lastRunStatus": "failed",
+          "lastErrorMessage": "Cancelled 2026-09-10: source awaits municipality approval (#277)"
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "veenendaal",
+    "name": "Veenendaal",
+    "homepage": "https://www.veenendaal.nl/",
+    "checkedAt": "2026-10-10T15:29:27.501804+00:00",
+    "httpStatus": 200,
+    "title": "Homepagina | Gemeente Veenendaal",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.veenendaal.nl/info-over-de-gemeente/gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.veenendaal.nl/info-over-de-gemeente/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.veenendaal.nl/info-over-de-gemeente/gemeenteraad",
+    "councilPortals": [
+      "https://veenendaal.raadsinformatie.nl/"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:21.031413+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "veenendaal",
+        "sourceRef": "notubiz:gemeente:veenendaal",
+        "label": "Veenendaal",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "veenendaal",
+          "sourceRef": "notubiz:gemeente:veenendaal",
+          "label": "Veenendaal",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0345",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T10:23:39.235Z",
+          "lastRunAt": "2026-10-10T00:00:01.059Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-15T17:30:00.000Z",
+          "lastIndexedAt": "2026-10-10T10:23:39.000Z",
+          "indexedDocuments": 21900,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:51:18.791Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1065,
+            "heldDocuments": 999,
+            "missingDocuments": 66,
+            "ratio": 0.938,
+            "lowerBound": false,
+            "missingSample": [
+              "document:notubiz:gemeente:veenendaal:17297908",
+              "document:notubiz:gemeente:veenendaal:17302548",
+              "document:notubiz:gemeente:veenendaal:17302550",
+              "document:notubiz:gemeente:veenendaal:17302551",
+              "document:notubiz:gemeente:veenendaal:17302552",
+              "document:notubiz:gemeente:veenendaal:17302553",
+              "document:notubiz:gemeente:veenendaal:17302554",
+              "document:notubiz:gemeente:veenendaal:17302555",
+              "document:notubiz:gemeente:veenendaal:17302565",
+              "document:notubiz:gemeente:veenendaal:17308614",
+              "document:notubiz:gemeente:veenendaal:17317901",
+              "document:notubiz:gemeente:veenendaal:17317902",
+              "document:notubiz:gemeente:veenendaal:17317904",
+              "document:notubiz:gemeente:veenendaal:17317905",
+              "document:notubiz:gemeente:veenendaal:17335841",
+              "document:notubiz:gemeente:veenendaal:17335842",
+              "document:notubiz:gemeente:veenendaal:17339778",
+              "document:notubiz:gemeente:veenendaal:17339779",
+              "document:notubiz:gemeente:veenendaal:17339780",
+              "document:notubiz:gemeente:veenendaal:17339781",
+              "document:notubiz:gemeente:veenendaal:17339782",
+              "document:notubiz:gemeente:veenendaal:17339913",
+              "document:notubiz:gemeente:veenendaal:17339914",
+              "document:notubiz:gemeente:veenendaal:17339915",
+              "document:notubiz:gemeente:veenendaal:17339916"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "vijfheerenlanden",
+    "name": "Vijfheerenlanden",
+    "homepage": "https://www.vijfheerenlanden.nl/",
+    "checkedAt": "2026-10-10T15:29:27.526561+00:00",
+    "httpStatus": 200,
+    "title": "Gemeente VijfheerenlandenLogo Gemeente VijfheerenlandenSluit het menuLogo Gemeente VijfheerenlandenSluit het menuSluit het zoekformulierGa naar zoekresultatenGa naar Gemeente Vijfheerenlanden op FacebookGa naar Gemeente Vijfheerenlanden op InstagramGa naar Gemeente Vijfheerenlanden op XGa naar Gemeente Vijfheerenlanden op YouTubeGa naar Gemeente Vijfheerenlanden op LinkedInGa naar Gemeente Vijfheerenlanden op BlueskyGa naar Gemeente Vijfheerenlanden op WhatsApp",
+    "status": "reachable",
+    "feeds": [
+      "https://www.vijfheerenlanden.nl/feeds/1/laatste-nieuws-gemeente-vijfheerenlanden.rss",
+      "https://www.vijfheerenlanden.nl/feeds/2/laatste-evenementen-gemeente-vijfheerenlanden.rss",
+      "https://www.vijfheerenlanden.nl/feeds/3/lexmond.rss",
+      "https://www.vijfheerenlanden.nl/feeds/6/ameide.rss",
+      "https://www.vijfheerenlanden.nl/feeds/9/meerkerk.rss",
+      "https://www.vijfheerenlanden.nl/feeds/12/everdingen.rss",
+      "https://www.vijfheerenlanden.nl/feeds/15/hagestein.rss",
+      "https://www.vijfheerenlanden.nl/feeds/18/hei-en-boeicop.rss",
+      "https://www.vijfheerenlanden.nl/feeds/21/hoef-en-haag.rss",
+      "https://www.vijfheerenlanden.nl/feeds/24/kedichem.rss",
+      "https://www.vijfheerenlanden.nl/feeds/27/leerbroek.rss",
+      "https://www.vijfheerenlanden.nl/feeds/30/leerdam.rss",
+      "https://www.vijfheerenlanden.nl/feeds/33/nieuwland.rss",
+      "https://www.vijfheerenlanden.nl/feeds/36/oosterwijk.rss",
+      "https://www.vijfheerenlanden.nl/feeds/39/schoonrewoerd.rss",
+      "https://www.vijfheerenlanden.nl/feeds/42/tienhoven-aan-de-lek.rss",
+      "https://www.vijfheerenlanden.nl/feeds/45/vianen.rss",
+      "https://www.vijfheerenlanden.nl/feeds/48/zijderveld.rss"
+    ],
+    "councilLinks": [
+      "https://www.vijfheerenlanden.nl/gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.vijfheerenlanden.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.vijfheerenlanden.nl/gemeenteraad",
+    "councilPortals": [
+      "https://vijfheerenlanden.bestuurlijkeinformatie.nl/Calendar",
+      "https://www.vijfheerenlanden.nl/raadsvergadering-online"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:21.244485+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "vijfheerenlanden",
+        "sourceRef": "ibabs:gemeente:vijfheerenlanden",
+        "label": "Vijfheerenlanden",
+        "supplier": "ibabs",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "vijfheerenlanden",
+          "sourceRef": "ibabs:gemeente:vijfheerenlanden",
+          "label": "Vijfheerenlanden",
+          "supplier": "ibabs",
+          "organizationType": "gemeente",
+          "cbsId": "GM1961",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T07:41:00.319Z",
+          "lastRunAt": "2026-10-10T00:00:00.934Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-15T18:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T07:41:00.000Z",
+          "indexedDocuments": 26820,
+          "coverage": {
+            "checkedAt": "2026-10-05T13:49:18.660Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": null,
+            "heldDocuments": null,
+            "missingDocuments": null,
+            "ratio": null,
+            "lowerBound": true,
+            "missingSample": [],
+            "error": "Signal timed out."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "wijk-bij-duurstede",
+    "name": "Wijk bij Duurstede",
+    "homepage": "https://www.wijkbijduurstede.nl/",
+    "checkedAt": "2026-10-10T15:29:27.904915+00:00",
+    "httpStatus": 200,
+    "title": "Homepage | Gemeente Wijk bij Duurstede",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.wijkbijduurstede.nl/gemeenteraad",
+      "https://www.wijkbijduurstede.nl/fileadmin/wijk_bij_duurstede/Gemeenteraad/Raadsagenda_2022_Samenwerking_Creativiteit_Verantwoordelijkheid-DEF.pdf"
+    ],
+    "councilCheckedUrl": "https://www.wijkbijduurstede.nl/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.wijkbijduurstede.nl/gemeenteraad",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:21.277267+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "wijk_bij_duurstede",
+        "sourceRef": "notubiz:gemeente:wijk_bij_duurstede",
+        "label": "Wijk Bij Duurstede",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "wijk_bij_duurstede",
+          "sourceRef": "notubiz:gemeente:wijk_bij_duurstede",
+          "label": "Wijk Bij Duurstede",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0352",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T10:15:33.738Z",
+          "lastRunAt": "2026-10-10T00:00:01.070Z",
+          "lastRunStatus": "succeeded",
+          "latestContentDate": "2025-02-06T16:00:00.000Z",
+          "lastIndexedAt": "2026-09-07T20:51:16.000Z",
+          "indexedDocuments": 1257,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:56:11.774Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 0,
+            "heldDocuments": 0,
+            "missingDocuments": 0,
+            "ratio": null,
+            "lowerBound": false,
+            "missingSample": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "woerden",
+    "name": "Woerden",
+    "homepage": "https://www.woerden.nl/",
+    "checkedAt": "2026-10-10T15:29:27.922185+00:00",
+    "httpStatus": 200,
+    "title": "Onderwerpen - Gemeente Woerden",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.woerden.nl/Gemeente/Gemeenteraad"
+    ],
+    "councilCheckedUrl": "https://www.woerden.nl/Gemeente/Gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.woerden.nl/Gemeente/Gemeenteraad",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:21.384719+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "woerden",
+        "sourceRef": "gemeenteoplossingen:gemeente:woerden",
+        "label": "Woerden",
+        "supplier": "gemeenteoplossingen",
+        "organizationType": "gemeente",
+        "implemented": false,
+        "health": {
+          "sourceKey": "woerden",
+          "sourceRef": "gemeenteoplossingen:gemeente:woerden",
+          "label": "Woerden",
+          "supplier": "gemeenteoplossingen",
+          "organizationType": "gemeente",
+          "cbsId": "GM0632",
+          "state": "not_implemented",
+          "lastRunAt": "2026-09-10T00:00:00.297Z",
+          "lastRunStatus": "failed",
+          "lastErrorMessage": "Cancelled 2026-09-10: source awaits municipality approval (#277)"
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "woudenberg",
+    "name": "Woudenberg",
+    "homepage": "https://www.woudenberg.nl/",
+    "checkedAt": "2026-10-10T15:29:28.022781+00:00",
+    "httpStatus": 200,
+    "title": "Home | Gemeente Woudenberg",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://gemeentebestuur.woudenberg.nl/gemeentebestuur/politieke-partijen/",
+      "https://gemeentebestuur.woudenberg.nl/gemeentebestuur/gemeenteraad/",
+      "https://gemeentebestuur.woudenberg.nl/Vergaderingen",
+      "http://gemeentebestuur.woudenberg.nl/Documenten/Besluitenlijsten-B-W-openbaar"
+    ],
+    "councilCheckedUrl": "https://gemeentebestuur.woudenberg.nl/gemeentebestuur/gemeenteraad/",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://gemeentebestuur.woudenberg.nl/gemeentebestuur/gemeenteraad/",
+    "councilPortals": [],
+    "councilCheckedAt": "2026-10-10T15:44:21.451005+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "woudenberg",
+        "sourceRef": "gemeenteoplossingen:gemeente:woudenberg",
+        "label": "Woudenberg",
+        "supplier": "gemeenteoplossingen",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "woudenberg",
+          "sourceRef": "gemeenteoplossingen:gemeente:woudenberg",
+          "label": "Woudenberg",
+          "supplier": "gemeenteoplossingen",
+          "organizationType": "gemeente",
+          "cbsId": "GM0351",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T03:27:33.257Z",
+          "lastRunAt": "2026-10-10T00:00:00.751Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-15T18:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T03:27:32.000Z",
+          "indexedDocuments": 17453,
+          "coverage": {
+            "checkedAt": "2026-10-04T08:42:17.079Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1456,
+            "heldDocuments": 1455,
+            "missingDocuments": 1,
+            "ratio": 0.999,
+            "lowerBound": false,
+            "missingSample": [
+              "document:gemeenteoplossingen:gemeente:woudenberg:79515"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "municipality": "zeist",
+    "name": "Zeist",
+    "homepage": "https://www.zeist.nl/",
+    "checkedAt": "2026-10-10T15:29:28.240705+00:00",
+    "httpStatus": 200,
+    "title": "Zeist | Gemeente Zeist",
+    "status": "reachable",
+    "feeds": [],
+    "councilLinks": [
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/wijkinformatie/melding-openbare-ruimte-en-overlast",
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/bestuur",
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/gemeenteraad",
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/organisatie",
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/procedures-en-verzoeken",
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/rekenkamer",
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/verkiezingen",
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/wijkinformatie"
+    ],
+    "councilCheckedUrl": "https://www.zeist.nl/gemeente-bestuur-en-organisatie/gemeenteraad",
+    "councilStatus": "page_verified",
+    "councilFinalUrl": "https://www.zeist.nl/gemeente-bestuur-en-organisatie/gemeenteraad",
+    "councilPortals": [
+      "https://www.zeist.nl/gemeente-bestuur-en-organisatie/gemeenteraad/vergaderingen-van-de-gemeenteraad"
+    ],
+    "councilCheckedAt": "2026-10-10T15:44:21.638984+00:00",
+    "openBesluitvorming": [
+      {
+        "key": "zeist",
+        "sourceRef": "notubiz:gemeente:zeist",
+        "label": "Zeist",
+        "supplier": "notubiz",
+        "organizationType": "gemeente",
+        "implemented": true,
+        "health": {
+          "sourceKey": "zeist",
+          "sourceRef": "notubiz:gemeente:zeist",
+          "label": "Zeist",
+          "supplier": "notubiz",
+          "organizationType": "gemeente",
+          "cbsId": "GM0355",
+          "state": "ok",
+          "lastSuccessAt": "2026-10-10T10:22:28.485Z",
+          "lastRunAt": "2026-10-10T00:00:01.074Z",
+          "lastRunStatus": "partial",
+          "latestContentDate": "2026-10-15T19:00:00.000Z",
+          "lastIndexedAt": "2026-10-10T10:22:28.000Z",
+          "indexedDocuments": 14609,
+          "coverage": {
+            "checkedAt": "2026-10-05T20:56:51.526Z",
+            "windowFrom": "2025-10-04",
+            "windowTo": "2026-10-04",
+            "supplierDocuments": 1181,
+            "heldDocuments": 1178,
+            "missingDocuments": 3,
+            "ratio": 0.997,
+            "lowerBound": true,
+            "missingSample": [
+              "document:notubiz:gemeente:zeist:16250543",
+              "document:notubiz:gemeente:zeist:17411927",
+              "document:notubiz:gemeente:zeist:17475008"
+            ]
+          }
+        }
+      }
+    ]
+  }
+]

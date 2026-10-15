@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Utrecht: raadsbrieven over vaccinatie",
+    "url": "https://www.rtvutrecht.nl/nieuws/4103214/leidsche-rijn-voegt-zich-bij-wijken-met-zeer-lage-vaccinatiegraad-we-maken-ons-zorgen",
+    "finding": "Het RTV-artikel noemt expliciet een voortgangsbrief aan de gemeenteraad. Een gemeentelijke nieuwsfeed alleen is onvoldoende. De exacte nieuwste brief is nog niet teruggevonden; oudere brieven zijn geen vervanging.",
+    "status": "Raadsroute bekend; volledige briefinname en nieuwste document niet bevestigd",
+    "evidence": ""
+  },
+  {
+    "name": "Amersfoort: raad + Stedin",
+    "url": "https://www.stedin.net/over-stedin/wat-doet-stedin/projecten-in-uw-regio/elektriciteitsstation-amersfoort-bovenduist",
+    "finding": "RTV verwijst naar een brief van wethouder Bulthuis. Stedin heeft daarnaast een eigen projectpagina over Bovenduist. Die projectpagina is context, geen onafhankelijke bevestiging van alle aantallen in de nieuwe raadsbrief.",
+    "status": "Stedin als bronfamilie bekend; projectpagina niet structureel aangesloten",
+    "evidence": "https://www.rtvutrecht.nl/nieuws/4102809/duizenden-woningen-in-amersfoort-voorlopig-niet-op-stroomnet"
+  },
+  {
+    "name": "Utrechts Landschap: natuurverbinding De Bilt",
+    "url": "https://www.utrechtslandschap.nl/nieuws/utrechts-landschap-versterkt-natuurverbinding-in-de-bilt",
+    "finding": "Primaire publicatie van 8 oktober gevonden achter het ZOUT-bericht van 12 oktober. Dit is een concrete directe nieuwsroute voor natuur, grondaankopen en projecten.",
+    "status": "Primaire artikelpagina geverifieerd; structurele koppeling nog nodig",
+    "evidence": "https://www.omroepzout.nl/nieuwe-grondaankoop-voor-versterking-natuur-in-zuidoost-utrecht/"
+  },
+  {
+    "name": "Stadsmuseum Woerden",
+    "url": "https://www.stadsmuseumwoerden.nl/",
+    "finding": "BLOEI staat op de eigen museumwebsite, naast tentoonstellingen en bezoekersinformatie. Culturele organisaties leveren nieuws dat niet in gemeentelijke persfeeds hoeft te staan. De Engelse en toeristische agenda tonen verschillende einddatums: voor publicatie de juiste datum controleren.",
+    "status": "Eigen pagina gecontroleerd; geen structurele nieuwsadapter bevestigd",
+    "evidence": "https://www.woerdensecourant.nl/nieuws/nieuws/481387/stadsmuseum-woerden-toont-botanische-kunst-in-tentoonstelling-bloei"
+  },
+  {
+    "name": "IJsbaan Woerden / curlingorganisatie",
+    "url": "https://www.ijsbaanwoerden.nl/",
+    "finding": "Woerdense Courant linkt de organisator direct voor inschrijving. Dit levert een bronroute voor lokaal sport- en evenementennieuws. In deze audit is de organisatorlink gevonden, de volledige pagina nog niet bevestigd.",
+    "status": "Directe bronlink aangetroffen; inhoudelijke controle nog nodig",
+    "evidence": "https://www.woerdensecourant.nl/nieuws/nieuws/481207/inschrijving-woerdense-curlingcompetitie-opent-24-oktober"
+  },
+  {
+    "name": "Woerden: schriftelijke vragen over Dorpsstraat",
+    "url": "https://www.woerdensecourant.nl/nieuws/nieuws/480920/cda-wil-maatregelen-tegen-hardrijders-in-dorpsstraat-harmelen",
+    "finding": "Het bericht noemt schriftelijke vragen van CDA-raadsleden van 9 oktober. De juiste route is het raadsportaal plus bijlagen en vragen, niet alleen de vergaderagenda.",
+    "status": "Bronsoort bevestigd; originele vragen nog opzoeken",
+    "evidence": ""
+  },
+  {
+    "name": "112: fotografen en eigen waarneming",
+    "url": "https://www.woerdensecourant.nl/112/112/481204/man-gewond-na-botsing-fatbike-en-auto-op-rembrandtlaan",
+    "finding": "De foto draagt een credit van Egberts Media. Dat bewijst niet dat een politiepersbericht bestaat of dat PITO het beeld mag gebruiken. Incidenten kunnen via verslaggevers en fotografen binnenkomen.",
+    "status": "Artikel gecontroleerd; primaire openbare politiepublicatie niet vastgesteld",
+    "evidence": ""
+  },
+  {
+    "name": "Eemland1: interviews en lokale tips",
+    "url": "https://www.eemland1.nl/",
+    "finding": "De actuele voorpagina combineert politiek, sport en interviews, waaronder een wethoudergesprek over de Baarnse begroting. De site vraagt expliciet om tips en beeldinzendingen.",
+    "status": "Feed werkt; eigen gesprekken zijn geen zelfstandige openbare persfeed",
+    "evidence": "https://www.eemland1.nl/nieuws/wethouder-aan-tafel-begroting-2027-baarn/"
+  },
+  {
+    "name": "Zenderstreeknieuws",
+    "url": "https://www.zenderstreeknieuws.nl/",
+    "finding": "Actuele lokale berichten, sport, 112 en agenda aangetroffen voor IJsselstein en Lopik, met omliggend nieuws. Ontbrak in het regionale mediaregister van 53 sites.",
+    "status": "Nieuw opgenomen als te koppelen website; feed niet bevestigd",
+    "evidence": ""
+  },
+  {
+    "name": "Het Kontakt Vijfheerenlanden",
+    "url": "https://www.hetkontakt.nl/vijfheerenlanden/archive",
+    "finding": "Digitale edities in het archief aangetroffen; dit is niet hetzelfde als een gepagineerd webartikelarchief. Ontbrak in het regionale mediaregister.",
+    "status": "Nieuw opgenomen; artikelindex en feed nog onderzoeken",
+    "evidence": ""
+  },
+  {
+    "name": "De Molenkruier",
+    "url": "https://www.molenkruier.nl/",
+    "finding": "Uitgeversnavigatie van Woerdense Courant verwijst naar de Nieuwegeinse editie. Ontbrak in het regionale mediaregister.",
+    "status": "Nieuwe bronroute via uitgever bevestigd; actuele technische koppeling nog niet getest",
+    "evidence": "https://www.woerdensecourant.nl/archive"
+  },
+  {
+    "name": "Woerdense Courant: digitaal krantenarchief",
+    "url": "https://www.woerdensecourant.nl/archive",
+    "finding": "Archief toont edities, onder meer augustus en juli. Een crawler die alleen nieuwslinks verwacht verwerkt deze niet. De gebruikte webweergave is ouder; geen actuele volledigheidsclaim.",
+    "status": "Archieftype gecontroleerd; edities niet integraal gelezen",
+    "evidence": ""
+  }
+]

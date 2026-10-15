@@ -1,0 +1,60 @@
+PITO Nieuws — lokale aanpassingen, 14 oktober 2026
+
+BEKIJKEN
+http://127.0.0.1:4198/nieuws/utrecht
+Opnieuw starten op macOS: dubbelklik start-local.command.
+De starter opent de browser en geeft uitleg bij een bezette poort.
+
+UITSTRALING EN SNELHEID
+- De zes promotieplekken aan de zijkanten zijn behouden: drie links en drie rechts.
+  Ze dragen de vaste posities left-top/middle/bottom en right-top/middle/bottom.
+  Op desktop zijn ze 200 of 260 pixels breed, met ruimte tussen nieuws en promotie.
+  De zijblokken worden onder 1300 pixels verborgen; de bestaande inline-promotie blijft beschikbaar.
+- Gedeelde presentatie met rustige marges, leesbare koppen en consistente kaarten.
+- Minder herhaalde promoties onderaan de nieuwsinhoud.
+- Locatiekeuze opent via de knop in de gemeentekiezer.
+- Gemeentekeuze, artikel en agenda visueel gecontroleerd; mobiel 360/390 en desktop 1440.
+- Ranking circa 5,16 naar 0,008 seconden met dezelfde volgorde voor 1610 artikelen.
+  Gemeten archief circa 7,20 naar 2,22 seconden; homepage circa 10,82 naar 3,95 seconden.
+  Dit zijn lokale renderbenchmarks, geen gegarandeerde laadtijden op productie.
+
+BEVEILIGING
+- Server bindt aan 127.0.0.1; Host en Origin worden gecontroleerd.
+- CSRF-controle vindt vóór het lezen van de body plaats. JSON-type, veldtypes,
+  omvang en timeout worden begrensd; onbekende POST-routes leveren een antwoord.
+- Browserheaders beperken scripts, frames, formulieren en externe verbindingen.
+- Privédata is niet statisch bereikbaar. Beheer/API/onderzoeksroutes en alle
+  lokale mutaties sluiten in productiemodus; de executable weigert die modus.
+- Ontdekte bronlinks moeten veilige HTTPS-links zijn, ook bij rapportweergave.
+- De aangepaste collectors controleren publieke DNS/IP-doelen, iedere redirect,
+  TLS, grootte en deadline. XML weigert DTD/entities en onveilige encodings.
+- .gitignore sluit lokale credentials, work, virtuele omgeving en privéredactiedata uit.
+
+VERIFICATIE
+Volledige bestaande testset: 236 tests, 218 geslaagd, 18 failures, 0 errors.
+Alle 18 failures traden ook op in de geïsoleerde ontvangen versie; het betreft
+onder meer eerdere UI/archiefafspraken, agendaselecties, bronweergave en beeldherhaling.
+Ze zijn vastgelegd als bestaand vervolgwerk, niet stilzwijgend weggewerkt door tests te verwijderen.
+Alle acht nieuwe HTTP-beveiligingstests slagen. De bronbeveiliging heeft daarnaast
+77 geslaagde gerichte offline checks. Alle 26 gemeentelijke HTTP-routes zijn gecontroleerd.
+Zes ongeldige activeUntil-timestamps zijn tot hun bestaande kalenderdatum beperkt.
+Eén beoordeling zonder motivering is onbeoordeeld gemaakt; alle 1610 zichtbare
+rankingrecords voldoen nu aan hun validatiecontract.
+
+BEWIJS EN OVERDRACHT
+reports/local-preview-20261014.jpg — gecontroleerde desktopweergave met zijblokken.
+reports/local-tests-20261014.txt — volledige testuitvoer en baselinevergelijking.
+reports/baseline-comparison-20261014.json — details van de bestaande testfouten.
+reports/date-corrections-20261014.json — lokale metadata-correcties.
+reports/security-baseline-20261014.md — audit van de ontvangen versie, vóór de fixes.
+reports/security-changes-20261014.txt — bronbeveiligingsfixes, tests en beperkingen.
+De auditdekkingsgraad is gedeeltelijk; niet ieder datasetrecord of asset is individueel geaudit.
+Originele aangepaste kernbestanden en articles.json staan als backup in
+/private/tmp/pito-original-20261014; deze tijdelijke map is geen duurzame backupvoorziening.
+
+LIVEGANG
+Dit resultaat is een lokaal werkende preview. De meegeleverde overdracht bevat
+geen complete Laravel/Vue-productieapp of bevestigde Strapi-productiekoppeling.
+Voor livegang zijn die integratie, echte accounts/rollen, HTTPS, beheer van
+publicaties en inhoud/beeldrechten nodig. De bestaande testfouten moeten daarbij
+worden beoordeeld en de productieroutes opnieuw getest. Raadpleeg START-HIER-DEVELOPER.txt.

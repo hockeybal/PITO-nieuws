@@ -1,0 +1,43 @@
+PITO · Woerden als proefgemeente · 12 oktober 2026
+
+UITGEVOERD
+- Begrensde website-indexcrawler voor Woerdense Courant, indebuurt Woerden,
+  RTV Midden Holland en Gemeente Woerden.
+- Robotscontrole, herkenbare PITO user-agent, beperkte snelheid en stoppen
+  bij toegangsblokkade/rate limit. Geen foto's of artikelteksten publiceren.
+- Bronlinks, expliciet ontbrekende datums, geografische controlekandidaten
+  en voortgang staan in data/regional-archive-inbox.json en -report.json.
+- De redactie-inbox heeft een tab Lokale nieuwswebsites.
+- Nieuwshomepages bevatten Vandaag te doen en Agenda deze week direct na
+  het hoofdnieuws, met gemeentefilter en links naar de organisator.
+- /agenda/utrecht/[gemeente]/deze-week toont resterende dagen t/m zondag.
+- Agenda gebruikt bestaande PITO-inhoud; lokale import is herkenbaar als
+  preview. Live Strapi is niet aangesloten zonder het bestaande endpoint.
+
+CRAWL UITVOEREN (in de projectmap)
+PYTHONPATH=work/python-libs PYTHONDONTWRITEBYTECODE=1 python3 scripts/regional_archive_intake.py --start 2026-07-12 --end 2026-10-12 --max-pages 20
+PYTHONDONTWRITEBYTECODE=1 python3 scripts/news_pipeline.py --queue-only
+
+Dit is een handmatige run, geen productieplanner. Toegang kan per run
+verschillen. Een ontbrekende RSS-feed sluit openbare website-inname niet uit.
+Een bereikbare website geeft niet automatisch herpublicatierechten.
+
+WANNEER IS DEKKING VOLDOENDE?
+Per gemeente moeten primaire bronnen én journalistieke signalering bestaan
+voor veiligheid, verkeer, bestuur, wonen/omgeving, ondernemers, activiteiten,
+sport, bewoners en voorzieningen. Meet laatste geslaagde inname, wachtende
+signalen en gecontroleerde publicaties afzonderlijk. Geen quota vullen.
+De Woerdense Courant is een vergelijkingsbron; PITO schrijft eigen verhalen
+op basis van gecontroleerde feiten en bronverwijzingen. URL-aantallen zijn
+geen bewijs van journalistieke volledigheid.
+
+NOG NODIG VOOR VOLWAARDIGE PRODUCTIE
+- Volledige archiefpaginering inclusief dynamische Meer laden-routes; ontbrekende
+  brondatums uit artikelmetadata bevestigen. De eerste crawl is onvolledig.
+- Artikelinhoud lezen, doublures per gebeurtenis samenvoegen, gevoelige feiten
+  beoordelen en eigen artikelen maken. De crawler doet alleen ontdekking.
+- Elke plaats (ook Harmelen, Kamerik, Zegveld) en omliggende gemeenten controleren.
+- Gecontroleerde redactierun en Strapi-conceptimport koppelen; publicatie pas
+  na redactionele goedkeuring. Bestaande importworkflow schrijft geen live nieuws.
+- Actuele agenda uit PITO Strapi en directe organisatoren aansluiten.
+- Bronstoring en ontbrekende onderwerpen zichtbaar monitoren; geen stille gaten.

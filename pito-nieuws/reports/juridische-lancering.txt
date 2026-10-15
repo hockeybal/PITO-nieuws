@@ -1,0 +1,39 @@
+PITO Nieuws – juridische inrichting, 14 oktober 2026
+
+GEREED IN LOKALE WEBSITE
+- Footer met officiële merkvariant en verantwoording/contact/privacy-links.
+- /nieuws/verantwoording: uitgevergegevens overgenomen van pito.app;
+  brongebruik, beeldrechten, correcties, advertenties en huidige opslag uitgelegd.
+- Geen nieuwe analytics, tracking, betaalde diensten of formulieren toegevoegd.
+- Geen fictieve redacteur, vergunning, aansluiting of juridische vrijgave geclaimd.
+
+VOOR PRODUCTIE CONCREET AF TE RONDEN
+1. Bevestig PITO APP B.V. als uitgever/verwerkingsverantwoordelijke voor pitonieuws.nl;
+   wijs verantwoordelijke hoofdredactie en beheerder van correctie-/rechtenmeldingen aan.
+2. Leg hosting, CDN, logs, analytics, embeds en externe beeldhosts vast. Controleer
+   netwerkverzoeken en opslag in productie. Per verwerking: doel, AVG-grondslag,
+   ontvangers, bewaartermijn, beveiliging en eventuele doorgifte buiten de EER.
+3. Breid privacyverklaring uit voor nieuws, journalistieke verwerking en inzendingen.
+   Beoordeel journalistieke uitzonderingen per verwerking; geen algemene AVG-vrijstelling.
+   Regel inzage/verwijderverzoeken, klachtmogelijkheid en verwerkersovereenkomsten.
+4. Bepaal noodzakelijke opslag versus tracking; blokkeer optionele tracking vóór
+   toestemming. Gelijkwaardige weigering en intrekking als een CMP nodig wordt.
+5. Maak een daadwerkelijk beheerd correctieproces met vastlegging van melding,
+   beoordeling, wederhoor, reactie en zichtbare artikelcorrectie. Geen automatische
+   verwijdering of automatische afwijzing van rechtenclaims.
+6. Publicatiecontrole: tekstherkomst, feiten, datums, privacy, beschuldigingen,
+   minderjarigen, beeldrechten, auteurstoekenning en advertentielabels.
+   Controle van metadata is geen bewijs dat een foto werkelijk gelicentieerd is.
+7. Toets bulk-/archiefinname afzonderlijk aan bronvoorwaarden, auteursrecht,
+   databankrecht en persuitgeversrecht; eigen woorden zijn geen algemene vrijbrief.
+8. Bepaal licentie van communitybijdragen, verwijderprocedure en voorwaarden voor
+   commerciële nieuwsproducten. Laat de concrete productiedocumenten toetsen.
+
+BRONNEN GERAADPLEEGD
+https://pito.app/ (bedrijfsgegevens, navigatie, bestaande beleidslinks)
+https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/cookies/heldere-cookiebanners
+https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/internet-telefoon-tv-en-post/cookies
+https://www.auteursrecht.nl/Auteursrechtwijzer/Mag-ik-een-foto-of-plaatjes-die-ik-op-internet-vind-gebruiken-voor-mijn-site-of-blog
+https://rvdj.nl/leidraad/
+De inhoud van bestaande PITO-beleidspagina's kon via de webtool niet worden
+opgehaald; toepasselijkheid op pitonieuws.nl is dus niet bevestigd.

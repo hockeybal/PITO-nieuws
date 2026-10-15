@@ -1,0 +1,72 @@
+[
+  {
+    "publisherPage": "https://bdumedia.nl/nieuwsmerk/de-rijnpost",
+    "status": "site_link_missing"
+  },
+  {
+    "name": "De Woudenberger",
+    "url": "https://www.dewoudenberger.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Bunniks Nieuws",
+    "url": "https://www.bunniksnieuws.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Wijks Nieuws",
+    "url": "https://www.wijksnieuws.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Houtens Nieuws",
+    "url": "https://www.houtensnieuws.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "De Nieuwsbode",
+    "url": "https://www.denieuwsbode.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Vierklank",
+    "url": "https://www.vierklank.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "De Stad Amersfoort",
+    "url": "https://www.destadamersfoort.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Leusder Krant",
+    "url": "https://www.leusderkrant.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Soester Courant",
+    "url": "https://www.soestercourant.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Baarnsche Courant",
+    "url": "https://www.baarnschecourant.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "name": "Nieuwsblad De Kaap",
+    "url": "https://www.nieuwsbladdekaap.nl",
+    "feeds": [],
+    "homepage": "curl: (56) The requested URL returned error: 403\n"
+  }
+]

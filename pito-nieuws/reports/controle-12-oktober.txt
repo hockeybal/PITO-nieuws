@@ -1,0 +1,14 @@
+PITO controle 12 oktober 2026
+1. Nieuwsopening: van hoge hoofdfoto naar compacte drieledige opening; echte stationsfoto maart 2024; lokaal clubbericht uitgesloten van provinciale homepage.
+2. Agenda: compacte regels, gemeentelijke spreiding in provinciale selectie; nog bestaande preview-inhoud, geen live Strapi.
+3. Rubrieken en weetje: kleinere titels, vaste tussenruimten en eigen tekstlink zonder conflicterende knopstijl.
+4. Beeld: echte Amersfoortfoto toegevoegd, Sportlust-illustratie uit artikel gehaald. Clubvoorwaarden staan herpublicatie niet vrij toe. Veel overige AI-illustraties zijn nog niet vervangen.
+Toegankelijkheid: geen volledige audit. Desktop 1280px en mobiel 390px gecontroleerd zonder horizontale pagina-overflow. Weetjeslink visueel gecontroleerd.
+
+RSS: 40 gecontroleerd, 40 bereikbaar, 1 nieuw signaal.
+Gemeentelijke archieven: 26 gemeenten; begrensde run van max. 8 pagina’s per gemeente.
+Regionale archieven: 12 bronnen, 8 met resultaten.
+KOOP: 2 gemeenten hebben nog vervolgpagina’s.
+Raadsinformatie: 3 bronnen met vervolgpagina’s; 4 niet aangesloten via deze adapter.
+NDW: 185 kandidaten, nog geen openbare waarschuwingen. AMBER: nul actieve resultaten.
+Geen nieuwe artikelen gepubliceerd door deze inname. Niet alle geïnventariseerde bronroutes zijn adapters: onder meer lokale clubs, ondernemers en projecten vragen verdere aansluiting.

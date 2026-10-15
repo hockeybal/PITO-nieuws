@@ -1,0 +1,32 @@
+PITO lokaal weer en tankprijzen — 14 oktober 2026
+
+Nu: werkende bronlinks in Handig vandaag; geen live prijzen of weersmetingen.
+Weer: KNMI Open Data API vereist API-key. Dataset en licentie per product vastleggen; waarschuwingen op provincie/regio filteren. Notification Service gebruiken om nieuwe bestanden op te halen, geen overmatig pollen. Bron: https://developer.dataplatform.knmi.nl/open-data-api
+
+Voorstel compacte gemeentekaart: temperatuur, neerslagkans, verwachtingstijdvak, bron en laatste update. Waarschuwing apart met geldig-tot; verlopen data niet als actueel presenteren. Gemeentecentrum als locatie, geen toestemming voor GPS nodig.
+
+Tanken: ANWB Onderweg toont prijzen per pomp, maar in dit onderzoek is geen publieke hergebruik-API bevestigd. Tot die koppeling beschikbaar is blijft een duidelijke bronlink staan. Bron: https://www.anwb.nl/mobiel/onderweg-app/goedkoop-tanken-met-de-anwb-onderweg-app
+
+Benodigde prijsvelden: station-ID, naam, adres, coördinaten, brandstof E10/E5/diesel/LPG, euro/liter, waarnemingstijd, openingstijden, bron/licentie. Kies gemeente en straal 5/10/20km. Sorteer alleen dezelfde brandstof op prijs, toon afstand en update. Label Laagste bekende prijs binnen dit gebied; claim niet goedkoopste als dekking onvolledig is. Verouderde prijzen uitsluiten van ranglijst. Geen losse oude nieuwsprijzen gebruiken.
+
+Sport: bestaande clubinventaris en feedstatus per gemeente in reports/municipal-photo-sport-coverage.json. Prioriteit eigen wedstrijdverslagen, programmawijzigingen, accommodatie, jubileum en buurtactiviteiten. Uitslagen niet uit een publicatiedatum afleiden. Foto match op exacte club en accommodatie; algemene voetbalfoto slechts herkenbaar als illustratie.
+
+Aanvullende broncontrole 14 oktober:
+Open-Meteo biedt een gemeentelijke verwachting via coördinaten. De gehoste gratis API is voor niet-commercieel gebruik; voor PITO is een commerciële API-subscriptie nodig, of passend zelfbeheer. Data-attributie CC BY 4.0 blijft vereist. Geen abonnement afgesloten. Bron: https://open-meteo.com/en/pricing
+CBS-dagprijzen zijn landelijke statistiek met publicatievertraging en geen actuele ranglijst van individuele pompen. Niet inzetten voor 'goedkoopste in Woerden'. Bron: https://data.overheid.nl/dataset/03b556cd-3049-49eb-a084-fc8b10a77b87
+
+Uitwerking: compacte weerkaart bij gemeentekeuze, uitgebreide verwachting op Handig vandaag. Tankprijzen apart per gemeente met brandstofkeuze en afstand; pas zichtbaar zodra een bruikbare actuele prijsleverancier is aangesloten. Geen verzonnen demo-prijzen op de nieuwspagina.
+
+Voetbalbeeldbank: reports/club-photo-queue.json prioriteert alle 74 geïnventariseerde voetbalclubs over 26 gemeenten. Exacte naamherkenning geldt alleen binnen Sport en de juiste gemeente. Dit verandert geen generieke voetbalfoto in een echte foto van een club of wedstrijd. 46 artikel-clubkoppelingen gevonden; handmatige beoordeling blijft nodig voor varianten en korte afkortingen.
+
+Nieuwe controle 14 oktober: KNMI-datasetlicentie per product controleren. Dataplatform noemt CC BY 4.0; website heeft aparte copyrightvoorwaarden. Bron: https://www.knmidata.nl/open-data en https://www.knmi.nl/copyright . Tankprijzen blijven bronlinks, zonder een bevestigd hergebruikcontract/API geen eigen actuele prijsranglijst.
+
+Aanvullende verificatie: KNMI Open Data API documentatie bevat een publiek beschikbare anonieme sleutel voor een prototype. Een eigen account is dus niet strikt nodig om de eerste data-aanvoer te testen. Voor productie is een geregistreerde sleutel aanbevolen. Datasetkeuze, verwerking, verversing en concrete licentiecontrole blijven noodzakelijk. Geen live weerkaart geïmplementeerd. https://developer.dataplatform.knmi.nl/open-data-api
+
+Datasetkeuze concreet gecontroleerd: gebruik knmi-public-weather-warnings versie 1.0 (of extended 1.0), niet de verouderde waarschuwingen_nederland_48h/1.0. KNMI meldt dat de nieuwe dataset overeenkomt met app en website. Filter de regio Utrecht, bewaar uitgifte-, ingangs- en eindtijd, en toon bij mislukte verversing geen oude waarschuwing als actueel. Bron: https://developer.dataplatform.knmi.nl/deprecation-warnings
+
+Praktijktest vervolg 14 oktober: GET knmi-public-weather-warnings/1.0/files met de gedocumenteerde openbare prototypesleutel geeft HTTP 404. Dit is geen werkende aansluiting. Datasetnaam/toegang verder onderzoeken voordat live waarschuwingen worden getoond. ANWB bronpagina opnieuw bevestigd; geen publieke hergebruik-API vastgesteld.
+
+Correctie op 14 oktober 2026 na controle van KNMI-overgangsbericht (7 oktober): de nieuwe datasets knmi-public-weather-warnings bevatten tot 2 november uitsluitend testdata. De eerdere aanbeveling om deze nu operationeel te gebruiken vervalt. Tot de daadwerkelijke overgang blijft waarschuwingen_nederland_48h de operationele bron. Bouw een expliciete blokkade voor PublicationType=test en operational_status=test; controleer daarnaast uitgifte- en eindtijd. Overgangsdatum kan verschuiven. Bron: https://www.knmidata.nl/actueel/nieuws/2026/10/07/overgang-naar-waarschuwingen-op-lokale-schaal
+
+Vervolgcontrole: Open-Meteo commerciële licentie blijft nodig voor gehost commercieel gebruik (https://open-meteo.com/en/pricing). ANWB bevestigt actuele pompprijzen in Onderweg (https://www.anwb.nl/mobiel/onderweg-app); geen hergebruik-API bevestigd. Clubfotowerklijst bijgewerkt: 80 clubs, 144 artikel-clubkoppelingen, slechts 3 clubs met bestaande exacte beeldbankkandidaten. 702 ontdekte externe foto-URLs blijven ongeverifieerd. Interne review toont nu gekoppelde artikelen en beeldtekorten per gemeente.

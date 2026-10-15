@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-13T22:49:11.350871+00:00",
+  "routes": [
+    "/nieuws/utrecht",
+    "/nieuws/utrecht/woerden",
+    "/nieuws/utrecht/woerden/wonen",
+    "/nieuws/utrecht/omgevingszaken",
+    "/agenda/utrecht/woerden/vandaag",
+    "/nieuws/utrecht/artikel/woerden-onderzoekt-gebruik-van-parkeerterreinen-bij-station"
+  ],
+  "widths": [
+    390,
+    768,
+    1440
+  ],
+  "checks": 18,
+  "horizontalOverflow": false,
+  "selectorOverlapsNavigation": false,
+  "fixes": [
+    "Gemeenteselectie heeft automatische hoogte bij afbrekende labels; CTA blijft binnen hero.",
+    "Dubbele mobiele zijmarge omgevingszaken verwijderd; inhoud begint op 16px."
+  ],
+  "limits": "Representatieve paginatypen getest; geen volledige visuele controle van ieder individueel artikel."
+}

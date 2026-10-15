@@ -1,0 +1,45 @@
+PITO: redactionele rechtencontrole — werkafspraken, geen juridische garantie
+12 oktober 2026
+
+TEKST
+Feiten zijn niet auteursrechtelijk beschermd; de uitwerking van een verhaal
+kan dat wel zijn. Zelf schrijven begint bij een eigen, gecontroleerd
+feitenoverzicht. Alleen synoniemen gebruiken of de structuur van een artikel
+volgen is geen rechtencontrole. Kopieer geen teksten, interviews of citaten
+zonder passende grondslag. Citaatrecht vraagt onder meer een passend doel,
+proportionaliteit en naams-/bronvermelding; geen automatische route voor
+illustratieve foto's. Bulkgebruik kan ook databank- en uitgeversrechten raken.
+
+BRON
+Leg URL, uitgever, brondatum, controledatum en geraadpleegde primaire bronnen
+vast. Houd toegang/crawlen, inhoud lezen en herpublicatie apart. Robotsregels
+zijn geen herpublicatielicentie. Geblokkeerde toegang niet omzeilen.
+
+BEELD
+Een foto bij een nieuwsbericht, RSS-feed of og:image is slechts een kandidaat.
+Gebruik een eigen foto, aantoonbare toestemming, geschikte licentie of
+geverifieerd publiek domein. Controleer per foto, niet alleen per website.
+Ook bij politie en gemeenten kan de fotograaf een externe rechthebbende zijn.
+Bewaar maker, bronpagina, licentielink/toestemmingsbewijs, beoordelaar,
+controledatum, opnamejaar, bewerking, commerciële gebruiksrechten en
+voorwaarden zoals gelijk delen. Privacy, portret en feitelijke context blijven
+aparte controles. PITO hanteert daarnaast opnamejaar 2022 of later.
+
+WEERGAVE
+Kort bij de foto: maker / uitgever en zo nodig 'Archiefbeeld' of 'Ter illustratie'.
+Vereiste licentie- en bronlinks blijven direct bereikbaar. 'Ter illustratie'
+is geen rechtenvrijstelling. Niet doen alsof een contextbeeld het incident toont.
+
+PRODUCTIE
+Concepten blijven concepten tot inhoud, bronnen en beeld goedgekeurd zijn.
+De beeldcheck in rights_review.py is een controle van vastgelegde velden;
+geen automatische vaststelling dat een licentie echt is of juridisch volstaat.
+De huidige preview/beeldbibliotheek is hiermee niet opnieuw juridisch vrijgegeven.
+
+BRONNEN
+https://www.auteursrecht.nl/auteursrecht/wat-wordt-niet-beschermd
+https://www.auteursrecht.nl/Auteursrechtwijzer/Mag-ik-een-foto-of-plaatjes-die-ik-op-internet-vind-gebruiken-voor-mijn-site-of-blog
+https://auteursrechten.nl/faq/wat-is-het-citaatrecht/
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/share-your-work/use-remix/cc-licenses/
+https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/internet-telefoon-tv-en-post/persoonsgegevens-op-internet

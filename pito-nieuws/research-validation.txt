@@ -1,0 +1,11 @@
+10 oktober 2026
+41 tests geslaagd: bestaande routes, 26 gemeenten, archief, bronimport, redactionele opslag, nieuwe prioriteitsregels en Strapi-payload.
+Browser: standaard Relevant voor inwoners, Waarom dit bericht?, selectiepagina en onderzoeksrapport gecontroleerd.
+Strapi dry run: 42 concepten; geen externe import uitgevoerd.
+Nieuwe eerste zes berichten:
+amersfoort-spoorwerk-12-18-oktober | Binnenkort iets om rekening mee te houden · Controleer jouw vertrekdag in de reisplanner. Dit bericht beschrijft geplande werkzaamheden; het is geen live overzicht van vertragingen.
+baarn-begroting-huisvestingsplan-commissie | Binnenkort iets om rekening mee te houden · De commissie bespreekt op 14 oktober voorlopige standpunten. Die bespreking is nog geen definitief besluit over de begroting of schoolgebouwen.
+regio-gezamenlijk-stroomnet-aanvragen | Begrijp wat er verandert · De afspraak raakt de voorbereiding van nieuwe woningen en scholen. Een plek op de lijst is geen garantie voor een aansluiting of een bouwdatum.
+soest-begroting-woonlasten-2027 | Begrijp wat er verandert · De genoemde bedragen zijn gemeentelijke gemiddelden. Het raadsvoorstel is nog geen definitieve belastingaanslag voor jouw huishouden.
+utrecht-leiden-omreizen-gouwespoorbrug | Praktisch voor je dag · Plan de volledige reis opnieuw in de NS-app. De genoemde extra reistijd geldt voor het advies Utrecht Centraal–Leiden, niet voor ieder vertrekadres.
+rhenen-plan-stationsgebied-inspraak | Denk of beslis mee · Inwoners kunnen op 3 november meedenken. De toekomstige inrichting ligt nog niet vast.

@@ -1,0 +1,2399 @@
+[
+  {
+    "id": "politie",
+    "name": "Politie Utrecht",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/nb/provincies/utrecht.xml",
+    "status": "Officiële provinciale nieuwsfeed geconfigureerd; alleen redactionele signalering",
+    "mode": "signal",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ]
+  },
+  {
+    "id": "utrecht",
+    "name": "Gemeente Utrecht",
+    "kind": "Gemeente",
+    "url": "https://www.utrecht.nl/wonen-en-leven/parkeren/invoeren-betaald-parkeren/zuilen",
+    "status": "Primaire bron gelezen; handmatig",
+    "mode": "manual"
+  },
+  {
+    "id": "woerden",
+    "name": "Gemeente Woerden",
+    "kind": "Gemeente / agenda",
+    "url": "https://www.woerden.nl/Voorzieningen/Vrije_tijd/Evenementen?datefrom=01-10-2026",
+    "status": "Officiële RSS gekoppeld; alleen signalering, selectie door redactie",
+    "mode": "manual",
+    "feed": "https://www.woerden.nl/rss.jsp?objectid=a7b99c7a-2bc1-4333-aeb8-6b0c6a9e1b20",
+    "articleHosts": [
+      "www.woerden.nl"
+    ]
+  },
+  {
+    "id": "provincie",
+    "name": "Provincie Utrecht",
+    "kind": "Provincie",
+    "url": "https://www.provincie-utrecht.nl/actueel",
+    "status": "Provinciale detailbron geblokkeerd bij controle; geen onbevestigd artikel geplaatst",
+    "mode": "manual"
+  },
+  {
+    "id": "raad",
+    "name": "U-reka / gemeenteraad Utrecht",
+    "kind": "Gemeenteraad",
+    "url": "https://ureka.utrecht.nl/",
+    "status": "Agendering gevonden; besluit niet vastgesteld",
+    "mode": "manual"
+  },
+  {
+    "id": "ori",
+    "name": "Open Raadsinformatie",
+    "kind": "Raadsdocumenten",
+    "url": "https://openraadsinformatie.nl/",
+    "status": "Nog geen API-inname aangesloten",
+    "mode": "manual"
+  },
+  {
+    "id": "bekendmakingen",
+    "name": "Officiële bekendmakingen",
+    "kind": "Vergunningen en besluiten",
+    "url": "https://zoek.officielebekendmakingen.nl/",
+    "status": "Staatscourant 2026, 33368 gebruikt voor geografische controle; recente vergunningaanvraag nog niet volledig geverifieerd",
+    "mode": "manual"
+  },
+  {
+    "id": "rws",
+    "name": "Rijkswaterstaat",
+    "kind": "Verkeer en water",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/10/veldweg-en-zouwendijk-weer-open-dit-is-echt-millimeterwerk",
+    "status": "Vernieuwing onderdoorgangen Vijfheerenlanden: bronpublicatie 7 oktober gelezen; geen live verkeersfeed",
+    "mode": "manual"
+  },
+  {
+    "id": "ndw",
+    "name": "NDW",
+    "kind": "Verkeersdata",
+    "url": "https://opendata.ndw.nu/",
+    "status": "Nog geen DATEX II-adapter aangesloten",
+    "mode": "manual"
+  },
+  {
+    "id": "vru",
+    "name": "Veiligheidsregio Utrecht",
+    "kind": "Veiligheid",
+    "url": "https://vru.nl/",
+    "status": "Primaire incident- en nieuwspagina’s gecontroleerd; geen automatische adapter",
+    "mode": "manual"
+  },
+  {
+    "id": "regionaal",
+    "name": "De Molenkruier",
+    "kind": "Regionale signalering",
+    "url": "https://www.molenkruier.nl/nieuws",
+    "status": "Signaal Westraven gevonden; primaire bevestiging vereist",
+    "mode": "signal"
+  },
+  {
+    "id": "rhenen",
+    "name": "Gemeente Rhenen",
+    "kind": "Lokale politiek",
+    "url": "https://www.rhenen.nl/info-over-de-gemeente/nieuws/hoe-ziet-u-de-toekomst-van-het-stationsgebied-rhenen",
+    "status": "Plan stationsgebied, bronpublicatie 9 oktober gecontroleerd; nog geen definitief besluit",
+    "mode": "manual"
+  },
+  {
+    "id": "baarn",
+    "name": "Gemeente Baarn",
+    "kind": "Gemeenteraad",
+    "url": "https://www.baarn.nl/oordeelsvorming-in-de-raadscommissie-op-woensdag-14-oktober",
+    "status": "Begrotingsbespreking, aankondiging 8 oktober gecontroleerd; inhoudelijke raadsstukken nog te analyseren",
+    "mode": "manual"
+  },
+  {
+    "id": "politie-onderzoek-illegaal-gokken",
+    "name": "Politie",
+    "kind": "Artikelbron",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/9/inval-in-woning-in-utrecht-na-vermoedens-illegaal-gokken.html",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "garagebrand-harmelen-geblust",
+    "name": "Veiligheidsregio Utrecht",
+    "kind": "Artikelbron",
+    "url": "https://vru.nl/incidenten/grote-brand-in-garage-in-harmelen/",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "radio-m-utrecht-afspraken-crisisinformatie",
+    "name": "Veiligheidsregio Utrecht",
+    "kind": "Artikelbron",
+    "url": "https://vru.nl/nieuws/rtv-utrecht-en-veiligheidsregio-utrecht-vernieuwen-afspraken-over-calamiteitenzender/",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "woerden-geen-vuurwerkontheffingen",
+    "name": "Gemeente Woerden",
+    "kind": "Artikelbron",
+    "url": "https://www.woerden.nl/Nieuws/Geen_vuurwerkontheffingen_tijdens_aankomende_jaarwisseling",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "griftpark-toezicht-na-online-oproep",
+    "name": "Politie",
+    "kind": "Artikelbron",
+    "url": "https://www.politie.nl/nieuws/2026/oktober/10/03-aanhoudingen-na-oproep-tot-rellen-in-griftpark.html",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "amersfoort-begroting-nieuwe-plannen-volgen",
+    "name": "Gemeente Amersfoort",
+    "kind": "Artikelbron",
+    "url": "https://www.amersfoort.nl/meerjarenbegroting-2027-2030",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "nieuwegein-begroting-woonlasten",
+    "name": "Gemeente Nieuwegein",
+    "kind": "Artikelbron",
+    "url": "https://www.nieuwegein.nl/nieuws/begroting-2027",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "merwedelijn-voorstel-naar-raden",
+    "name": "Gemeente Nieuwegein",
+    "kind": "Artikelbron",
+    "url": "https://www.nieuwegein.nl/nieuws/verkennende-fase-merwedelijn-afgerond",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "soest-begroting-woonlasten-2027",
+    "name": "Gemeente Soest",
+    "kind": "Artikelbron",
+    "url": "https://www.soest.nl/actueel/soest-investeert-in-wonen-zorg-en-leefbaarheid-en-kiest-voor-realistische-begroting",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "woerden-begroting-geen-ozb-indexatie",
+    "name": "Gemeente Woerden",
+    "kind": "Artikelbron",
+    "url": "https://www.woerden.nl/Nieuws/Gemeente_Woerden_investeert_in_wonen_leefbaarheid_en_veiligheid",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "regio-gezamenlijk-stroomnet-aanvragen",
+    "name": "Gemeente Houten",
+    "kind": "Artikelbron",
+    "url": "https://www.houten.nl/nieuws/houten-en-regio-kiezen-voor-regionale-aanpak-aanvragen-netcapaciteit",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "houten-rmn-afvalinzameling-2027",
+    "name": "Gemeente Houten",
+    "kind": "Artikelbron",
+    "url": "https://www.houten.nl/nieuws/gemeente-en-rmn-bereiden-nieuwe-afvalinzameling-voor-1",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "stichtse-vecht-cyclus-afval-2027",
+    "name": "Gemeente Stichtse Vecht",
+    "kind": "Artikelbron",
+    "url": "https://www.stichtsevecht.nl/nieuws/vanaf-2027-zamelt-cyclus-het-afval-in-download-alvast-de-nieuwe-afval-app",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "stichtse-vecht-jaarwisseling-maarssenbroek",
+    "name": "Gemeente Stichtse Vecht",
+    "kind": "Artikelbron",
+    "url": "https://www.stichtsevecht.nl/nieuws/stichtse-vecht-bereidt-zich-voor-op-eerste-jaarwisseling-met-landelijk-vuurwerkverbod",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "amersfoort-spoorwerk-12-18-oktober",
+    "name": "NS",
+    "kind": "Artikelbron",
+    "url": "https://nieuws.ns.nl/werkzaamheden-tussen-amersfoort-apeldoorn-en-putten",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "utrecht-leiden-omreizen-gouwespoorbrug",
+    "name": "NS",
+    "kind": "Artikelbron",
+    "url": "https://nieuws.ns.nl/9-maanden-geen-treinen-tussen-alphen-ad-rijn-en-bodegraven-extra-maatregelen-voor-betere-reis/",
+    "status": "Primaire publicatie en datum gecontroleerd op 10 oktober; eigen samenvatting in lokale editie.",
+    "mode": "manual"
+  },
+  {
+    "id": "omgevingsalert",
+    "name": "OmgevingsAlert",
+    "kind": "Bekendmakingen / signalering",
+    "url": "https://www.omgevingsalert.nl/",
+    "status": "Service-link toegevoegd. Geen feed, account of API gekoppeld. Signalen eerst toetsen aan de officiële bekendmaking; alleen grote lokale gevolgen selecteren.",
+    "mode": "signal"
+  },
+  {
+    "id": "utrecht-ov-aanpassing-april-spark",
+    "name": "Regiotram Utrecht / provincie Utrecht",
+    "kind": "Archiefbron",
+    "url": "https://regiotramutrecht.provincie-utrecht.nl/nieuws/13-20-en-28-april-aangepaste-dienstregeling-rondom-utrecht-centraal",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "utrecht-stroomnet-pauze-aangekondigd-april",
+    "name": "Rijksoverheid",
+    "kind": "Archiefbron",
+    "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/21/aansluitstop-stroomnet-flevopolder-gelderland-utrecht-grotendeels-voorkomen-door-stevige-maatregelen",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "houten-het-rond-ontwikkeling-mei",
+    "name": "Gemeente Houten",
+    "kind": "Archiefbron",
+    "url": "https://www.houten.nl/houten-bouwt/bouwprojecten/bouwprojecten-houten/in-cmk-bouwen-we-met-elkaar-aan-nieuwe-woonbuurten/gemeente-houten-woonin-en-altera-starten-gezamenlijke-uitwerking-ontwikkeling-het-rond",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "nieuwegein-woningbouwkaart-mei",
+    "name": "Gemeente Nieuwegein",
+    "kind": "Archiefbron",
+    "url": "https://www.nieuwegein.nl/nieuws/woningbouwkaart-laat-zien-waar-nieuwegein-bouwt-aan-nieuwe-woningen",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "a12-onderhoud-utrecht-veenendaal-mei",
+    "name": "Rijkswaterstaat",
+    "kind": "Archiefbron",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/05/a12-groot-onderhoud-tussen-utrecht-en-veenendaal-in-2026",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "groenekan-raad-woningen-copijnlaan-mei",
+    "name": "Gemeente De Bilt",
+    "kind": "Archiefbron",
+    "url": "https://www.debilt.nl/nieuwsoverzicht/raad-stemt-in-met-31-woningen-aan-de-copijnlaan-in-groenekan",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "heuvelrug-wateronttrekking-droogte-mei",
+    "name": "Hoogheemraadschap De Stichtse Rijnlanden",
+    "kind": "Archiefbron",
+    "url": "https://www.hdsr.nl/actueel/nieuws/@231260/onttrekkingsverbod-oppervlaktewater/",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "amersfoort-extra-isolatiebudget-juni",
+    "name": "Gemeente Amersfoort",
+    "kind": "Archiefbron",
+    "url": "https://www.amersfoort.nl/meer-subsidie-voor-inwoners-die-hun-woning-willen-isoleren",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "amersfoort-wachttijden-jeugdhulp-aanpak-juni",
+    "name": "Gemeente Amersfoort",
+    "kind": "Archiefbron",
+    "url": "https://www.amersfoort.nl/taskforce-presenteert-aanpak-wachttijden-jeugdhulp",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "zeist-natuurbrandrisico-juni",
+    "name": "Gemeente Zeist",
+    "kind": "Archiefbron",
+    "url": "https://www.zeist.nl/nieuws-en-actualiteiten/natuurbrandrisico-omhoog-naar-fase-2",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "uplg-programma-landelijk-gebied-juli",
+    "name": "Provincie Utrecht / Officiële bekendmakingen",
+    "kind": "Archiefbron",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-12303.html",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "ov-plannen-2027-betrouwbaarheid",
+    "name": "Provincie Utrecht / Regiotram",
+    "kind": "Archiefbron",
+    "url": "https://regiotramutrecht.provincie-utrecht.nl/nieuws/nieuwe-ov-plannen-voor-2027-stapsgewijs-naar-betrouwbaar-openbaar-vervoer",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "droogte-dijkinspecties-augustus",
+    "name": "Hoogheemraadschap De Stichtse Rijnlanden",
+    "kind": "Archiefbron",
+    "url": "https://www.hdsr.nl/@243650/extra-dijkinspecties-afgerond-schades/",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "a2-onderhoud-nieuwe-fase-september",
+    "name": "Rijkswaterstaat",
+    "kind": "Archiefbron",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/09/a2-werkzaamheden-op-schema-vanaf-27-september-2026-nieuwe-verkeerssituatie",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "ring-utrecht-project-stopgezet",
+    "name": "Rijkswaterstaat",
+    "kind": "Archiefbron",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/09/project-a27-a12-ring-utrecht-stopgezet",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "soesterberg-pr-renovatie-augustus",
+    "name": "Rijkswaterstaat",
+    "kind": "Archiefbron",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/08/rijkswaterstaat-vernieuwt-p-r-soesterberg-vanaf-10-augustus-2026",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "a12-zomeronderhoud-vier-weekenden",
+    "name": "Rijkswaterstaat",
+    "kind": "Archiefbron",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/07/a12-1e-fase-groot-onderhoud-grotendeels-afgerond-vanaf-14-augustus-2026-4-weekenden-dicht",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "a27-zomerafsluitingen-juli",
+    "name": "Rijkswaterstaat",
+    "kind": "Archiefbron",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/07/a27-afsluitingen-in-juli-2026",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "amsterdam-rijnkanaal-nachtbeperking",
+    "name": "Rijkswaterstaat",
+    "kind": "Archiefbron",
+    "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/08/amsterdam-rijnkanaal-nachtelijke-stremming-grotere-schepen-vanaf-1-september-2026-door-personeelstekort",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "f12-doorfietsroute-opening-september",
+    "name": "Gemeente Woerden",
+    "kind": "Archiefbron",
+    "url": "https://www.woerden.nl/Nieuws/Kom_naar_de_opening_van_de_doorfietsroute_F12",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "uov-korting-tegemoetkoming-reizigers",
+    "name": "Provincie Utrecht / Regiotram",
+    "kind": "Archiefbron",
+    "url": "https://regiotramutrecht.provincie-utrecht.nl/nieuws/reizigers-krijgen-twee-maanden-50-procent-korting-bij-u-ov",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "droogte-extra-wateraanvoer-juli",
+    "name": "Hoogheemraadschap De Stichtse Rijnlanden",
+    "kind": "Archiefbron",
+    "url": "https://www.hdsr.nl/@235362/stand-zaken-droogte-extra-wateraanvoer/",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "postiljonschool-voorbereidingskrediet",
+    "name": "Gemeente Soest",
+    "kind": "Archiefbron",
+    "url": "https://www.soest.nl/bestuur-en-organisatie/besluiten-college/openbare-besluitenlijst-22-september",
+    "status": "Historische publicatie gecontroleerd op 10 oktober. Geen bevestiging van de huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "bunschoten-bepaalt-volgorde-voor-stroomaanvragen-van-woningen-en-scholen",
+    "name": "Gemeente Bunschoten",
+    "kind": "Archiefbron",
+    "url": "https://www.bunschoten.nl/volgorde-aanvragen-stroomaansluiting",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "dolf-huijgen-treedt-aan-als-wethouder-in-bunschoten",
+    "name": "Gemeente Bunschoten",
+    "kind": "Archiefbron",
+    "url": "https://www.bunschoten.nl/dolf-huijgen-benoemd-als-wethouder",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "grondovereenkomst-brengt-18-woningen-bij-de-klimrakker-dichterbij",
+    "name": "Gemeente Leusden",
+    "kind": "Archiefbron",
+    "url": "https://www.leusden.nl/koopovereenkomst-getekend-voor-bouw-18-beneden-en-bovenwoningen-op-locatie-voormalige-school-de-klimrakker",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "leusden-stelt-onderzoek-naar-windenergie-langs-de-a28-voor",
+    "name": "Gemeente Leusden",
+    "kind": "Archiefbron",
+    "url": "https://www.leusden.nl/college-leusden-wil-windenergie-langs-a28-onderzoeken-om-buitengebied-te-ontzien",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "leusbroekerweg-krijgt-meer-ruimte-voor-fietsers",
+    "name": "Gemeente Leusden",
+    "kind": "Archiefbron",
+    "url": "https://www.leusden.nl/herinrichting-leusbroekerweg-geeft-fietser-meer-ruimte",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "renswoude-meldde-in-augustus-aanhoudende-bouwstop-beekweide-ii",
+    "name": "Gemeente Renswoude",
+    "kind": "Archiefbron",
+    "url": "https://www.renswoude.nl/tijdelijke-bouwstop-beekweide-ii-nog-niet-voorbij",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "werkzaamheden-beekweide-ii-mogen-onder-voorwaarden-hervatten",
+    "name": "Gemeente Renswoude",
+    "kind": "Archiefbron",
+    "url": "https://www.renswoude.nl/de-bouw-in-beekweide-ii-mag-weer-beginnen",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "renswoude-vraagt-inwoners-om-input-voor-veiligheidsbeleid",
+    "name": "Gemeente Renswoude",
+    "kind": "Archiefbron",
+    "url": "https://www.renswoude.nl/denk-mee-over-veiligheid-in-renswoude",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "woudenberg-legt-conceptbegroting-2027-aan-de-raad-voor",
+    "name": "Gemeente Woudenberg",
+    "kind": "Archiefbron",
+    "url": "https://www.woudenberg.nl/nieuwsoverzicht/begroting-2027-2030-solide-basis-om-op-te-bouwen",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "woudenberg-helpt-huurders-bij-overstap-naar-kleinere-woning",
+    "name": "Gemeente Woudenberg",
+    "kind": "Archiefbron",
+    "url": "https://www.woudenberg.nl/nieuwsoverzicht/ondersteuning-voor-senioren-in-woudenberg-die-passende-woonstap-willen-maken",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "verdachte-aangehouden-na-brand-bij-gemeentehuis-woudenberg",
+    "name": "Gemeente Woudenberg",
+    "kind": "Archiefbron",
+    "url": "https://www.woudenberg.nl/nieuwsoverzicht/verdachte-aangehouden-brand-gemeentehuis-woudenberg",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "lopik-maakt-tijdelijke-woning-voor-mantelzorg-mogelijk",
+    "name": "Gemeente Lopik",
+    "kind": "Archiefbron",
+    "url": "https://www.lopik.nl/pre-mantelzorgwoning-nu-mogelijk-in-de-gemeente-lopik",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "lopik-kondigt-langdurige-afsluiting-n210-in-het-najaar-aan",
+    "name": "Gemeente Lopik",
+    "kind": "Archiefbron",
+    "url": "https://www.lopik.nl/werkzaamheden-n210-3-oktober-tot-6-november-afgesloten",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "dijkwerk-tussen-hekendorp-en-montfoort-moet-waterkering-versterken",
+    "name": "Gemeente Oudewater",
+    "kind": "Archiefbron",
+    "url": "https://www.oudewater.nl/Nieuws/Start_dijkverbetering_Gekanaliseerde_Hollandsche_IJssel_GHIJ_tussen_Hekendorp_en_Oudewater",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "oudewater-testte-tijdklok-bij-wilhelmina-van-pruisenbrug",
+    "name": "Gemeente Oudewater",
+    "kind": "Archiefbron",
+    "url": "https://www.oudewater.nl/Nieuws/Aangepaste_bediening_Wilhelmina_van_Pruisenbrug",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "eemnes-legt-compensatie-voor-betaalbare-woningbouw-vast",
+    "name": "Gemeente Eemnes",
+    "kind": "Archiefbron",
+    "url": "https://www.eemnes.nl/eemnes-stelt-nieuwe-regeling-vast-voor-meer-betaalbare-woningen",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "nieuw-college-van-eemnes-begint-aan-bestuursperiode",
+    "name": "Gemeente Eemnes",
+    "kind": "Archiefbron",
+    "url": "https://www.eemnes.nl/nieuw-college-voor-eemnes",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "baarn-opent-starterslening-voor-bestaande-woningen-en-nieuwbouw",
+    "name": "Gemeente Baarn",
+    "kind": "Archiefbron",
+    "url": "https://www.baarn.nl/gemeente-baarn-helpt-starters-met-een-starterslening",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "baarn-nodigt-inwoners-uit-om-mee-te-praten-over-de-brink",
+    "name": "Gemeente Baarn",
+    "kind": "Archiefbron",
+    "url": "https://www.baarn.nl/raad-op-pad-denk-mee-over-de-toekomst-van-de-brink",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "rhenen-installeert-vier-wethouders-en-presenteert-coalitieakkoord",
+    "name": "Gemeente Rhenen",
+    "kind": "Archiefbron",
+    "url": "https://www.rhenen.nl/info-over-de-gemeente/nieuws/coalitieakkoord-gepresenteerd-en-nieuwe-wethouders-geinstalleerd",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "rhenen-rapporteert-minder-geregistreerde-criminaliteit-in-eerste-halfjaar",
+    "name": "Gemeente Rhenen",
+    "kind": "Archiefbron",
+    "url": "https://www.rhenen.nl/info-over-de-gemeente/nieuws/criminaliteit-in-rhenen-afgelopen-halfjaar-gedaald",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "ldij-en-vvd-bereiken-coalitieakkoord-in-ijsselstein",
+    "name": "Gemeente IJsselstein",
+    "kind": "Archiefbron",
+    "url": "https://www.ijsselstein.nl/ldij-en-vvd-bereiken-akkoord-voor-ijsselstein",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "ijsselstein-besluit-tot-tijdelijke-noodopvang-bij-groenvliet",
+    "name": "Gemeente IJsselstein",
+    "kind": "Archiefbron",
+    "url": "https://www.ijsselstein.nl/ijsselstein-biedt-noodopvang-vluchtelingen",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "vinkeveen-kondigt-eerste-fase-van-wegenplan-aan",
+    "name": "Gemeente De Ronde Venen",
+    "kind": "Archiefbron",
+    "url": "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel/Nieuws/Herinrichting_Bonkestekersweg_en_Reigerstraat_start_op_1_juni",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "archeologen-tonen-sporen-van-bronstijdbewoning-bij-de-bleek",
+    "name": "Gemeente Montfoort",
+    "kind": "Archiefbron",
+    "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Archeologiedag_De_Bleek_groot_succes",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "partners-sluiten-overeenkomst-voor-40-huurwoningen-in-de-bleek",
+    "name": "Gemeente Montfoort",
+    "kind": "Archiefbron",
+    "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ondertekening_samenwerkingsovereenkomst_voor_40_modulaire_woningen",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "montfoort-verhoogt-fonds-voor-startersleningen-met-een-miljoen",
+    "name": "Gemeente Montfoort",
+    "kind": "Archiefbron",
+    "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Fonds_Starterslening_aangevuld_met_1_miljoen_euro",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "hogere-bouwkosten-zetten-plannen-voor-de-vaart-onder-druk",
+    "name": "Gemeente Montfoort",
+    "kind": "Archiefbron",
+    "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Herontwikkeling_dorpshuis_De_Vaart_onder_de_loep_door_stijgende_kosten",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "inspraak-over-windenergie-cattenbroek-afgerond-voorwaarden-volgen",
+    "name": "Gemeente Montfoort",
+    "kind": "Archiefbron",
+    "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Participatietraject_windenergie_Cattenbroek_afgerond",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "veenendaalse-raad-bespreekt-koers-en-onderhoud-van-openbare-ruimte",
+    "name": "Gemeente Veenendaal",
+    "kind": "Archiefbron",
+    "url": "https://www.veenendaal.nl/nieuws/voorruitblik-op-de-politieke-agenda-van-oktober",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "onderhoud-n233-tussen-rhenen-en-veenendaal-aangekondigd",
+    "name": "Gemeente Veenendaal",
+    "kind": "Archiefbron",
+    "url": "https://www.veenendaal.nl/nieuws/asfaltonderhoud-n233-tussen-rhenen-en-veenendaal",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "buslijn-87-krijgt-geen-route-door-veenendaal-oost",
+    "name": "Gemeente Veenendaal",
+    "kind": "Archiefbron",
+    "url": "https://www.veenendaal.nl/nieuws/buslijn-87-blijft-via-de-rondweg-oost-rijden",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "de-bilt-laat-veiligheid-rond-mogelijke-opvanglocatie-onderzoeken",
+    "name": "Gemeente De Bilt",
+    "kind": "Archiefbron",
+    "url": "https://www.debilt.nl/nieuwsoverzicht/veiligheidsanalyse-voor-mogelijke-komst-van-opvanglocatie-asielzoekers",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "de-bilt-kondigde-afsluiting-nieuwe-weteringseweg-in-mei-aan",
+    "name": "Gemeente De Bilt",
+    "kind": "Archiefbron",
+    "url": "https://www.debilt.nl/nieuwsoverzicht/werkzaamheden-nieuwe-weteringseweg-n234-in-mei",
+    "status": "Publicatie en datum gelezen op 10 oktober 2026. Eigen conceptsamenvatting; geen bevestiging van huidige situatie.",
+    "mode": "manual"
+  },
+  {
+    "id": "amersfoort-live",
+    "name": "Gemeente Amersfoort",
+    "url": "https://www.amersfoort.nl",
+    "feed": "https://www.amersfoort.nl/feed/rss/nieuws",
+    "articleHosts": [
+      "www.amersfoort.nl"
+    ],
+    "kind": "Officiële nieuwsfeed",
+    "mode": "signal",
+    "municipality": "amersfoort",
+    "status": "Feed ontdekt op officiële website; signalen blijven in redactie-inbox. Geografie en feiten worden afzonderlijk gecontroleerd.",
+    "verifiedAt": "2026-10-10"
+  },
+  {
+    "id": "vijfheerenlanden-live",
+    "name": "Gemeente Vijfheerenlanden",
+    "url": "https://www.vijfheerenlanden.nl",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/1/laatste-nieuws-gemeente-vijfheerenlanden.rss",
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "kind": "Officiële nieuwsfeed",
+    "mode": "signal",
+    "municipality": "vijfheerenlanden",
+    "status": "Feed ontdekt op officiële website; signalen blijven in redactie-inbox. Geografie en feiten worden afzonderlijk gecontroleerd.",
+    "verifiedAt": "2026-10-10"
+  },
+  {
+    "id": "provincie-live",
+    "name": "Provincie Utrecht",
+    "url": "https://www.provincie-utrecht.nl",
+    "feed": "https://www.provincie-utrecht.nl/actueel/nieuwsberichten/rss",
+    "articleHosts": [
+      "www.provincie-utrecht.nl"
+    ],
+    "kind": "Officiële nieuwsfeed",
+    "mode": "signal",
+    "municipality": "",
+    "status": "Feed ontdekt op officiële website; signalen blijven in redactie-inbox. Geografie en feiten worden afzonderlijk gecontroleerd.",
+    "verifiedAt": "2026-10-10"
+  },
+  {
+    "id": "ns-live",
+    "name": "NS nieuws",
+    "url": "https://nieuws.ns.nl",
+    "feed": "https://nieuws.ns.nl/feed/nl",
+    "articleHosts": [
+      "nieuws.ns.nl"
+    ],
+    "kind": "Officiële nieuwsfeed",
+    "mode": "signal",
+    "municipality": "",
+    "status": "Feed ontdekt op officiële website; signalen blijven in redactie-inbox. Geografie en feiten worden afzonderlijk gecontroleerd.",
+    "verifiedAt": "2026-10-10"
+  },
+  {
+    "id": "politie-amersfoort",
+    "name": "Politie Amersfoort",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/amersfoort.xml",
+    "municipality": "amersfoort",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-baarn",
+    "name": "Politie Baarn",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/baarn.xml",
+    "municipality": "baarn",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-bunnik",
+    "name": "Politie Bunnik",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/bunnik.xml",
+    "municipality": "bunnik",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-bunschoten",
+    "name": "Politie Bunschoten",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/bunschoten.xml",
+    "municipality": "bunschoten",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-de-bilt",
+    "name": "Politie De Bilt",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/de-bilt.xml",
+    "municipality": "de-bilt",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-de-ronde-venen",
+    "name": "Politie De Ronde Venen",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/de-ronde-venen.xml",
+    "municipality": "de-ronde-venen",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-eemnes",
+    "name": "Politie Eemnes",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/eemnes.xml",
+    "municipality": "eemnes",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-houten",
+    "name": "Politie Houten",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/houten.xml",
+    "municipality": "houten",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-ijsselstein",
+    "name": "Politie IJsselstein",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/ijsselstein.xml",
+    "municipality": "ijsselstein",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-leusden",
+    "name": "Politie Leusden",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/leusden.xml",
+    "municipality": "leusden",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-lopik",
+    "name": "Politie Lopik",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/lopik.xml",
+    "municipality": "lopik",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-montfoort",
+    "name": "Politie Montfoort",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/montfoort.xml",
+    "municipality": "montfoort",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-nieuwegein",
+    "name": "Politie Nieuwegein",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/nieuwegein.xml",
+    "municipality": "nieuwegein",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-oudewater",
+    "name": "Politie Oudewater",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/oudewater.xml",
+    "municipality": "oudewater",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-renswoude",
+    "name": "Politie Renswoude",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/renswoude.xml",
+    "municipality": "renswoude",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-rhenen",
+    "name": "Politie Rhenen",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/rhenen.xml",
+    "municipality": "rhenen",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-soest",
+    "name": "Politie Soest",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/soest.xml",
+    "municipality": "soest",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-stichtse-vecht",
+    "name": "Politie Stichtse Vecht",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/stichtse-vecht.xml",
+    "municipality": "stichtse-vecht",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-utrecht",
+    "name": "Politie Utrecht",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/utrecht.xml",
+    "municipality": "utrecht",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-utrechtse-heuvelrug",
+    "name": "Politie Utrechtse Heuvelrug",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/utrechtse-heuvelrug.xml",
+    "municipality": "utrechtse-heuvelrug",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-veenendaal",
+    "name": "Politie Veenendaal",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/veenendaal.xml",
+    "municipality": "veenendaal",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-vijfheerenlanden",
+    "name": "Politie Vijfheerenlanden",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/vijfheerenlanden.xml",
+    "municipality": "vijfheerenlanden",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-wijk-bij-duurstede",
+    "name": "Politie Wijk bij Duurstede",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/wijk-bij-duurstede.xml",
+    "municipality": "wijk-bij-duurstede",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-woerden",
+    "name": "Politie Woerden",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/woerden.xml",
+    "municipality": "woerden",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-woudenberg",
+    "name": "Politie Woudenberg",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/woudenberg.xml",
+    "municipality": "woudenberg",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "politie-zeist",
+    "name": "Politie Zeist",
+    "kind": "Politie",
+    "url": "https://www.politie.nl/rss",
+    "feed": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/zeist.xml",
+    "municipality": "zeist",
+    "articleHosts": [
+      "www.politie.nl",
+      "politie.nl"
+    ],
+    "mode": "signal",
+    "status": "Officiële gemeentefeed ontdekt; gezondheid wordt bij inname getest",
+    "sensitive": true
+  },
+  {
+    "id": "rtv-utrecht",
+    "name": "RTV Utrecht",
+    "kind": "Regionale media",
+    "url": "https://www.rtvutrecht.nl/rss-feeds",
+    "feed": "https://www.rtvutrecht.nl/rss/nieuws.xml",
+    "articleHosts": [
+      "www.rtvutrecht.nl",
+      "rtvutrecht.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS voor signalering; geen toestemming tot artikel- of beeldhergebruik afgeleid",
+    "municipality": "",
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "gemeente-utrecht-rss",
+    "name": "Gemeente Utrecht",
+    "kind": "Gemeente",
+    "url": "https://www.utrecht.nl/over-deze-website/rss",
+    "feed": "https://www.utrecht.nl/nieuws/rss.xml",
+    "articleHosts": [
+      "www.utrecht.nl",
+      "utrecht.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS voor signalering; geen toestemming tot artikel- of beeldhergebruik afgeleid",
+    "municipality": "utrecht"
+  },
+  {
+    "id": "local-c918b0c3d0",
+    "name": "Eemland1",
+    "kind": "Regionale media",
+    "url": "https://www.eemland1.nl/",
+    "feed": "https://www.eemland1.nl/feed/",
+    "articleHosts": [
+      "www.eemland1.nl",
+      "eemland1.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "amersfoort",
+      "leusden",
+      "baarn",
+      "bunschoten",
+      "soest"
+    ]
+  },
+  {
+    "id": "local-7a8fc062a5",
+    "name": "Omroep ZOUT",
+    "kind": "Regionale media",
+    "url": "https://www.omroepzout.nl/",
+    "feed": "https://www.omroepzout.nl/feed/",
+    "articleHosts": [
+      "omroepzout.nl",
+      "www.omroepzout.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "de-bilt",
+      "bunnik",
+      "zeist",
+      "utrechtse-heuvelrug",
+      "wijk-bij-duurstede"
+    ]
+  },
+  {
+    "id": "local-248d0d4668",
+    "name": "Omroep Lekstroom",
+    "kind": "Regionale media",
+    "url": "https://omroeplekstroom.nl/",
+    "feed": "https://omroeplekstroom.nl/feed/",
+    "articleHosts": [
+      "www.omroeplekstroom.nl",
+      "omroeplekstroom.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "houten",
+      "ijsselstein",
+      "lopik",
+      "nieuwegein"
+    ]
+  },
+  {
+    "id": "local-48f102e077",
+    "name": "RTV Midden Holland",
+    "kind": "Regionale media",
+    "url": "https://rtvmiddenholland.nl/",
+    "feed": "https://rtvmiddenholland.nl/feed/",
+    "articleHosts": [
+      "rtvmiddenholland.nl",
+      "www.rtvmiddenholland.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ]
+  },
+  {
+    "id": "local-d6df2689a8",
+    "name": "XON / 1 VALLEI",
+    "kind": "Regionale media",
+    "url": "https://xon.nu/",
+    "feed": "https://xon.nu/feed/",
+    "articleHosts": [
+      "xon.nu",
+      "www.xon.nu"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "renswoude",
+      "rhenen",
+      "veenendaal",
+      "woudenberg"
+    ]
+  },
+  {
+    "id": "local-7c5d47cc08",
+    "name": "indebuurt Woerden",
+    "kind": "Regionale media",
+    "url": "https://indebuurt.nl/woerden/",
+    "feed": "https://indebuurt.nl/woerden/rss.xml",
+    "articleHosts": [
+      "www.indebuurt.nl",
+      "indebuurt.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "woerden"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-0349b16d77",
+    "name": "AD Amersfoort",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/amersfoort/",
+    "feed": "https://www.ad.nl/amersfoort/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "amersfoort"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-4de4a9a6d7",
+    "name": "AD Baarn",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/baarn/",
+    "feed": "https://www.ad.nl/baarn/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "baarn"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-1e40f79542",
+    "name": "AD Bunnik",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/bunnik/",
+    "feed": "https://www.ad.nl/bunnik/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "bunnik"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-3122a3f181",
+    "name": "AD Bunschoten",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/bunschoten/",
+    "feed": "https://www.ad.nl/bunschoten-spakenburg/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "bunschoten"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-07742549ac",
+    "name": "AD De Bilt",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/de-bilt/",
+    "feed": "https://www.ad.nl/de-bilt/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "de-bilt"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-7e5b830891",
+    "name": "AD De Ronde Venen",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/de-ronde-venen/",
+    "feed": "https://www.ad.nl/de-ronde-venen/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "de-ronde-venen"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-a2ddbfbc99",
+    "name": "AD Eemnes",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/eemnes/",
+    "feed": "https://www.ad.nl/eemnes/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "eemnes"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-d2a71b5d68",
+    "name": "AD Houten",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/houten/",
+    "feed": "https://www.ad.nl/houten/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "houten"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-b02174302b",
+    "name": "AD IJsselstein",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/ijsselstein/",
+    "feed": "https://www.ad.nl/ijsselstein/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "ijsselstein"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-8d7dfbf746",
+    "name": "AD Leusden",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/leusden/",
+    "feed": "https://www.ad.nl/leusden/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "leusden"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-9144d14ca1",
+    "name": "AD Lopik",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/lopik/",
+    "feed": "https://www.ad.nl/lopik/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "lopik"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-86998eda06",
+    "name": "AD Montfoort",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/montfoort/",
+    "feed": "https://www.ad.nl/montfoort/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "montfoort"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-c9a0b91220",
+    "name": "AD Nieuwegein",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/nieuwegein/",
+    "feed": "https://www.ad.nl/nieuwegein/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "nieuwegein"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-75f44490a7",
+    "name": "AD Oudewater",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/oudewater/",
+    "feed": "https://www.ad.nl/oudewater/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "oudewater"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-a6305f30ac",
+    "name": "AD Renswoude",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/renswoude/",
+    "feed": "https://www.ad.nl/renswoude/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "renswoude"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-fdc3fa0059",
+    "name": "AD Rhenen",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/rhenen/",
+    "feed": "https://www.ad.nl/rhenen/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "rhenen"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-022b5d8b8d",
+    "name": "AD Soest",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/soest/",
+    "feed": "https://www.ad.nl/soest/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "soest"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-144d0d9923",
+    "name": "AD Stichtse Vecht",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/stichtse-vecht/",
+    "feed": "https://www.ad.nl/stichtse-vecht/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "stichtse-vecht"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-ea2ae72854",
+    "name": "AD Utrecht",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/utrecht/",
+    "feed": "https://www.ad.nl/utrecht/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "utrecht"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-b76a2b66fb",
+    "name": "AD Utrechtse Heuvelrug",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/utrechtse-heuvelrug/",
+    "feed": "https://www.ad.nl/utrechtse-heuvelrug/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "utrechtse-heuvelrug"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-3cbd1b0a86",
+    "name": "AD Veenendaal",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/veenendaal/",
+    "feed": "https://www.ad.nl/veenendaal/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "veenendaal"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-298fb56c77",
+    "name": "AD Vijfheerenlanden",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/vijfheerenlanden/",
+    "feed": "https://www.ad.nl/vijfheerenlanden/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-d8035b7f2d",
+    "name": "AD Wijk bij Duurstede",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/wijk-bij-duurstede/",
+    "feed": "https://www.ad.nl/wijk-bij-duurstede/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "wijk-bij-duurstede"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-883f15133c",
+    "name": "AD Woerden",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/woerden/",
+    "feed": "https://www.ad.nl/woerden/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "woerden"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-abe73662d1",
+    "name": "AD Woudenberg",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/woudenberg/",
+    "feed": "https://www.ad.nl/woudenberg/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "woudenberg"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-06021799e1",
+    "name": "AD Zeist",
+    "kind": "Regionale media",
+    "url": "https://www.ad.nl/zeist/",
+    "feed": "https://www.ad.nl/zeist/rss.xml",
+    "articleHosts": [
+      "www.ad.nl",
+      "ad.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "zeist"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-fd23ba1133",
+    "name": "indebuurt Amersfoort",
+    "kind": "Regionale media",
+    "url": "https://indebuurt.nl/amersfoort/",
+    "feed": "https://indebuurt.nl/amersfoort/rss.xml",
+    "articleHosts": [
+      "indebuurt.nl",
+      "www.indebuurt.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "amersfoort"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-1340abf8fa",
+    "name": "indebuurt Utrecht",
+    "kind": "Regionale media",
+    "url": "https://indebuurt.nl/utrecht/",
+    "feed": "https://indebuurt.nl/utrecht/rss.xml",
+    "articleHosts": [
+      "indebuurt.nl",
+      "www.indebuurt.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "utrecht"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "local-8340937b61",
+    "name": "indebuurt Veenendaal",
+    "kind": "Regionale media",
+    "url": "https://indebuurt.nl/veenendaal/",
+    "feed": "https://indebuurt.nl/veenendaal/rss.xml",
+    "articleHosts": [
+      "indebuurt.nl",
+      "www.indebuurt.nl"
+    ],
+    "mode": "signal",
+    "status": "RSS-metadata; feiten en gemeente controleren vóór concept",
+    "coverageCandidates": [
+      "veenendaal"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false
+  },
+  {
+    "id": "nu-nl",
+    "name": "NU.nl",
+    "kind": "Landelijk medium / lokale signalering",
+    "url": "https://www.nu.nl/",
+    "feedCandidate": "https://www.nu.nl/rss",
+    "mode": "manual",
+    "status": "Opgenomen in bronselectie. RSS-controle 13 oktober 2026: HTTP 403; geen werkende automatische koppeling bevestigd. Alleen berichten met aantoonbare gevolgen voor een Utrechtse gemeente selecteren.",
+    "articleHosts": [
+      "www.nu.nl",
+      "nu.nl"
+    ],
+    "sourceRole": "external_media",
+    "automaticPublication": false,
+    "checkedAt": "2026-10-13"
+  },
+  {
+    "id": "club-woerden-volleybal",
+    "name": "VTC Woerden",
+    "kind": "Sportclub",
+    "url": "https://vtcwoerden.nl/",
+    "feed": "https://vtcwoerden.nl/feed/",
+    "mode": "signal",
+    "municipality": "woerden",
+    "coverageCandidates": [
+      "woerden"
+    ],
+    "articleHosts": [
+      "vtcwoerden.nl"
+    ],
+    "status": "Directe clubfeed; feiten controleren, geen beeldrechten afgeleid"
+  },
+  {
+    "id": "club-bunschoten-voetbal",
+    "name": "IJsselmeervogels",
+    "kind": "Sportclub",
+    "url": "https://www.ijsselmeervogels.nl/",
+    "feed": "https://www.ijsselmeervogels.nl/?format=feed&type=rss",
+    "mode": "signal",
+    "municipality": "bunschoten",
+    "coverageCandidates": [
+      "bunschoten"
+    ],
+    "articleHosts": [
+      "www.ijsselmeervogels.nl"
+    ],
+    "status": "Directe clubfeed; feiten controleren, geen beeldrechten afgeleid"
+  },
+  {
+    "id": "discovered-d1f1ccbd304a",
+    "name": "Vrijwilligers vacaturebank (Verwijst naar een externe website)",
+    "kind": "RSS / signalering",
+    "url": "https://welzijnrivierstroom.nl/feed/",
+    "feed": "https://welzijnrivierstroom.nl/feed/",
+    "mode": "signal",
+    "coverageCandidates": [
+      "rhenen"
+    ],
+    "articleHosts": [
+      "welzijnrivierstroom.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:04.027761+00:00"
+  },
+  {
+    "id": "discovered-1a63fe13b674",
+    "name": "Vijfheerenlanden · Lexmond",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/3/lexmond.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/3/lexmond.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:07.010591+00:00"
+  },
+  {
+    "id": "discovered-cdbd6dea01d2",
+    "name": "Vijfheerenlanden · Ameide",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/6/ameide.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/6/ameide.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:07.588906+00:00"
+  },
+  {
+    "id": "discovered-5639df029dc1",
+    "name": "Vijfheerenlanden · Meerkerk",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/9/meerkerk.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/9/meerkerk.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:08.341570+00:00"
+  },
+  {
+    "id": "discovered-f626f00fb362",
+    "name": "Vijfheerenlanden · Everdingen",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/12/everdingen.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/12/everdingen.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:08.903708+00:00"
+  },
+  {
+    "id": "discovered-fee8569fd8d2",
+    "name": "Vijfheerenlanden · Hagestein",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/15/hagestein.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/15/hagestein.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:09.486955+00:00"
+  },
+  {
+    "id": "discovered-86cdee5b3c26",
+    "name": "Vijfheerenlanden · Hei En Boeicop",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/18/hei-en-boeicop.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/18/hei-en-boeicop.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:10.260913+00:00"
+  },
+  {
+    "id": "discovered-0f9373af1e2e",
+    "name": "Vijfheerenlanden · Hoef En Haag",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/21/hoef-en-haag.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/21/hoef-en-haag.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:10.999540+00:00"
+  },
+  {
+    "id": "discovered-48ec5b166ce4",
+    "name": "Vijfheerenlanden · Kedichem",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/24/kedichem.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/24/kedichem.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:11.767592+00:00"
+  },
+  {
+    "id": "discovered-e21a0e0cfdf9",
+    "name": "Vijfheerenlanden · Leerbroek",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/27/leerbroek.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/27/leerbroek.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:12.491234+00:00"
+  },
+  {
+    "id": "discovered-b7c07278f577",
+    "name": "Vijfheerenlanden · Leerdam",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/30/leerdam.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/30/leerdam.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:13.285043+00:00"
+  },
+  {
+    "id": "discovered-9840a38a4e94",
+    "name": "Vijfheerenlanden · Nieuwland",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/33/nieuwland.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/33/nieuwland.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:14.066865+00:00"
+  },
+  {
+    "id": "discovered-ea1eac92950c",
+    "name": "Vijfheerenlanden · Oosterwijk",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/36/oosterwijk.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/36/oosterwijk.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:14.828527+00:00"
+  },
+  {
+    "id": "discovered-799f6a48dc5c",
+    "name": "Vijfheerenlanden · Schoonrewoerd",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/39/schoonrewoerd.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/39/schoonrewoerd.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:15.574279+00:00"
+  },
+  {
+    "id": "discovered-590261ae3b81",
+    "name": "Vijfheerenlanden · Tienhoven Aan De Lek",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/42/tienhoven-aan-de-lek.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/42/tienhoven-aan-de-lek.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:16.311674+00:00"
+  },
+  {
+    "id": "discovered-f2c543a20532",
+    "name": "Vijfheerenlanden · Vianen",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/45/vianen.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/45/vianen.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:17.169887+00:00"
+  },
+  {
+    "id": "discovered-4623adcdc6d4",
+    "name": "Vijfheerenlanden · Zijderveld",
+    "kind": "RSS / signalering",
+    "url": "https://www.vijfheerenlanden.nl/feeds/48/zijderveld.rss",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/48/zijderveld.rss",
+    "mode": "signal",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "articleHosts": [
+      "www.vijfheerenlanden.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:22:17.936115+00:00"
+  },
+  {
+    "id": "discovered-1b06f295f41e",
+    "name": "SportUtrecht – clubs",
+    "kind": "RSS / signalering",
+    "url": "https://www.sportutrecht.nl/feed/",
+    "feed": "https://www.sportutrecht.nl/feed/",
+    "mode": "signal",
+    "coverageCandidates": [
+      "utrecht"
+    ],
+    "articleHosts": [
+      "www.sportutrecht.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:23:11.964223+00:00"
+  },
+  {
+    "id": "discovered-fa1e9d510937",
+    "name": "Cultuur in Baarn",
+    "kind": "RSS / signalering",
+    "url": "https://www.cultuurinbaarn.nl/feed/",
+    "feed": "https://www.cultuurinbaarn.nl/feed/",
+    "mode": "signal",
+    "coverageCandidates": [
+      "baarn"
+    ],
+    "articleHosts": [
+      "www.cultuurinbaarn.nl"
+    ],
+    "status": "Live XML-inname getest; geografische selectie per bericht vereist",
+    "connectedAt": "2026-10-13T11:23:19.757014+00:00"
+  },
+  {
+    "id": "club-69a118161462",
+    "name": "Bunnik 73",
+    "url": "https://www.bunnik73.nl/",
+    "feed": "https://bunnik73.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "bunnik",
+    "coverageCandidates": [
+      "bunnik"
+    ],
+    "articleHosts": [
+      "bunnik73.nl",
+      "www.bunnik73.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:12:10.673086+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-b4c99a2318e1",
+    "name": "USV Hercules",
+    "url": "https://www.usvhercules.nl/",
+    "feed": "https://www.usvhercules.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "utrecht",
+    "coverageCandidates": [
+      "utrecht"
+    ],
+    "articleHosts": [
+      "usvhercules.nl",
+      "www.usvhercules.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:12:10.673086+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-0f891da1323e",
+    "name": "S.V. Aurora",
+    "url": "https://svaurora.nl/cms/",
+    "feed": "https://svaurora.nl/cms/index.php?format=feed&type=rss",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "bunnik",
+    "coverageCandidates": [
+      "bunnik"
+    ],
+    "articleHosts": [
+      "svaurora.nl",
+      "www.svaurora.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-cc500656f1d7",
+    "name": "C.O.V. DESTO",
+    "url": "https://desto-utrecht.nl/",
+    "feed": "https://desto-utrecht.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "utrecht",
+    "coverageCandidates": [
+      "utrecht"
+    ],
+    "articleHosts": [
+      "desto-utrecht.nl",
+      "www.desto-utrecht.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-d8471950c063",
+    "name": "D.O.S.C.",
+    "url": "https://www.dosc.nl",
+    "feed": "https://dosc.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "zeist",
+    "coverageCandidates": [
+      "zeist"
+    ],
+    "articleHosts": [
+      "dosc.nl",
+      "www.dosc.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-bf4db67d5f78",
+    "name": "FC Driebergen",
+    "url": "https://www.fcdriebergen.nl",
+    "feed": "https://fcdriebergen.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "utrechtse-heuvelrug",
+    "coverageCandidates": [
+      "utrechtse-heuvelrug"
+    ],
+    "articleHosts": [
+      "fcdriebergen.nl",
+      "www.fcdriebergen.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-62065697cd0b",
+    "name": "USV Elinkwijk",
+    "url": "https://www.elinkwijk.nl",
+    "feed": "https://elinkwijk.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "utrecht",
+    "coverageCandidates": [
+      "utrecht"
+    ],
+    "articleHosts": [
+      "elinkwijk.nl",
+      "www.elinkwijk.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-cde567e65dac",
+    "name": "S.V. Nieuw Utrecht",
+    "url": "https://www.svnieuwutrecht.nl",
+    "feed": "https://www.svnieuwutrecht.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "utrecht",
+    "coverageCandidates": [
+      "utrecht"
+    ],
+    "articleHosts": [
+      "svnieuwutrecht.nl",
+      "www.svnieuwutrecht.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-69e5f6265c65",
+    "name": "S.V.F.",
+    "url": "https://www.svfcothen.nl/",
+    "feed": "https://www.svfcothen.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "wijk-bij-duurstede",
+    "coverageCandidates": [
+      "wijk-bij-duurstede"
+    ],
+    "articleHosts": [
+      "svfcothen.nl",
+      "www.svfcothen.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-c49aaa3ebb83",
+    "name": "V.V. Veenendaal",
+    "url": "https://www.vvveenendaal.nl",
+    "feed": "https://www.vvveenendaal.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "veenendaal",
+    "coverageCandidates": [
+      "veenendaal"
+    ],
+    "articleHosts": [
+      "vvveenendaal.nl",
+      "www.vvveenendaal.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-9d006d599ea9",
+    "name": "V.V.Z.A.",
+    "url": "https://www.vvza.nl/",
+    "feed": "https://www.vvza.nl/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "amersfoort",
+    "coverageCandidates": [
+      "amersfoort"
+    ],
+    "articleHosts": [
+      "vvza.nl",
+      "www.vvza.nl"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-13T22:29:19.440736+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "club-8cc637686d68",
+    "name": "SV Spakenburg",
+    "url": "https://spakenburg.com/",
+    "feed": "https://spakenburg.com/feed/",
+    "kind": "Amateursport / RSS",
+    "mode": "signal",
+    "municipality": "bunschoten",
+    "coverageCandidates": [
+      "bunschoten"
+    ],
+    "articleHosts": [
+      "spakenburg.com",
+      "www.spakenburg.com"
+    ],
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+    "status": "Clubfeed getest; feiten en beelden apart controleren"
+  }
+]

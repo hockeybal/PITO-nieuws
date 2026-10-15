@@ -1,0 +1,340 @@
+{
+  "amersfoort": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 033",
+    "address": "Stadhuisplein 1, 3811 LM Amersfoort",
+    "contactSource": "https://www.amersfoort.nl/contact",
+    "wasteLabel": "Scheiden & hergebruik",
+    "wasteFacts": [
+      "Papier, glas, PMD, GFT en restafval hebben elk hun eigen inzamelroute.",
+      "Grote spullen die niet in een container passen vallen onder grofvuil; de gemeente geeft ook opties voor hergebruik."
+    ],
+    "wasteSource": "https://www.amersfoort.nl/afval",
+    "calendarUrl": null
+  },
+  "baarn": {
+    "checkedAt": "2026-10-14",
+    "phone": "035 548 16 11",
+    "address": "",
+    "contactSource": "https://www.baarn.nl/contact",
+    "wasteLabel": "RMN",
+    "wasteFacts": [
+      "Zet je container op de inzameldag uiterlijk om 07.30 uur aan de straat.",
+      "Grofvuil kun je naar het recyclingstation brengen. Ophalen door RMN is sinds 1 januari 2026 betaald."
+    ],
+    "wasteSource": "https://www.baarn.nl/afval-ophalen-of-wegbrengen",
+    "calendarUrl": "https://www.rmn.nl/afvalkalender-2026/"
+  },
+  "bunnik": {
+    "checkedAt": "2026-10-14",
+    "phone": "030 659 48 48",
+    "address": "Singelpark 1, 3984 NC Odijk",
+    "contactSource": "https://www.bunnik.nl/contact-en-openingstijden",
+    "wasteLabel": "RMN",
+    "wasteFacts": [
+      "In de RMN-afvalkalender staan de ophaaldagen, de dichtstbijzijnde glasbak en de scheidingsinformatie.",
+      "Voor het recyclingstation heeft de gemeente een aparte pasregeling."
+    ],
+    "wasteSource": "https://www.bunnik.nl/wonen-en-leefomgeving/afval",
+    "calendarUrl": "https://www.bunnik.nl/wonen-en-leefomgeving/afval/afvalkalender"
+  },
+  "bunschoten": {
+    "checkedAt": "2026-10-14",
+    "phone": "033 299 14 11",
+    "address": "Stadsspui 1, 3752 CL Bunschoten-Spakenburg",
+    "contactSource": "https://www.bunschoten.nl/openingstijden",
+    "wasteLabel": "ROVA · Restafval+",
+    "wasteFacts": [
+      "PMD mag bij het restafval in de container met oranje deksel: Restafval+. GFT, papier en glas blijven apart.",
+      "Bij hoogbouw wordt Restafval+ via de ondergrondse container ingezameld. Openen gaat met de ROVA-pas."
+    ],
+    "wasteSource": "https://www.bunschoten.nl/inzameling-huishoudelijk-afval",
+    "calendarUrl": null
+  },
+  "de-bilt": {
+    "checkedAt": "2026-10-14",
+    "phone": "030 228 94 11",
+    "address": "",
+    "contactSource": "https://www.debilt.nl/contact-en-openingstijden",
+    "wasteLabel": "Afval & milieupas",
+    "wasteFacts": [
+      "Grofvuil, elektrische apparaten en oud ijzer hebben aparte ophaalroutes.",
+      "Voor afval wegbrengen kun je bij de milieustraat terecht. Een milieupas vraag je bij de gemeente aan."
+    ],
+    "wasteSource": "https://www.debilt.nl/afval-en-groen/afval",
+    "calendarUrl": "https://www.debilt.nl/afval-en-groen/afval/afval-of-grofvuil-laten-ophalen"
+  },
+  "de-ronde-venen": {
+    "checkedAt": "2026-10-14",
+    "phone": "0297 291 616",
+    "address": "Croonstadtlaan 111, 3641 AL Mijdrecht",
+    "contactSource": "https://www.derondevenen.nl/Configuratie/Contact_of_bezoeken",
+    "wasteLabel": "Mijn Afvalwijzer",
+    "wasteFacts": [
+      "De gemeente heeft afvalbrengstations in Abcoude en Mijdrecht.",
+      "Vanaf 1 januari 2027 wordt Cyclus de nieuwe afvalinzamelaar. Raadpleeg voor de huidige ophaaldagen Mijn Afvalwijzer."
+    ],
+    "wasteSource": "https://www.derondevenen.nl/Wonen_en_leven/Afval",
+    "calendarUrl": "https://www.derondevenen.nl/Wonen_en_leven/Afval/Afvalkalender"
+  },
+  "eemnes": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 035",
+    "address": "BEL Combinatie: Zuidersingel 5, 3755 AZ Eemnes. Gemeentehuis: Zuidersingel 1.",
+    "contactSource": "https://www.eemnes.nl/contact",
+    "wasteLabel": "GAD",
+    "wasteFacts": [
+      "De GAD haalt afval en grofvuil op en behandelt problemen met containers.",
+      "Afval kun je ook naar een scheidingsstation in de regio brengen. Voor glas, textiel en papier zijn er inzamelcontainers."
+    ],
+    "wasteSource": "https://www.eemnes.nl/afval",
+    "calendarUrl": "https://www.eemnes.nl/afvalkalender"
+  },
+  "houten": {
+    "checkedAt": "2026-10-14",
+    "phone": "030 639 26 11",
+    "address": "Het Kant 2, 3995 DZ Houten",
+    "contactSource": "https://www.houten.nl/gemeentelijke-organisatie/contact",
+    "wasteLabel": "AfvalWijzer",
+    "wasteFacts": [
+      "Met postcode en huisnummer zie je wanneer de kliko wordt geleegd. Je kunt dit overzicht ook printen.",
+      "De AfvalWijzer-app geeft meldingen bij wijzigingen en kan je herinneren aan de inzameldag. Vragen: afval@houten.nl."
+    ],
+    "wasteSource": "https://www.houten.nl/afval/afvalkalender",
+    "calendarUrl": "https://www.mijnafvalwijzer.nl/"
+  },
+  "ijsselstein": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 030",
+    "address": "Overtoom 1, 3401 BK IJsselstein",
+    "contactSource": "https://www.ijsselstein.nl/contact-en-openingstijden",
+    "wasteLabel": "RMN",
+    "wasteFacts": [
+      "Het recyclingstation voor inwoners ligt aan Archimedesstraat 3, 3401 JB IJsselstein. Bedrijven hebben geen toegang.",
+      "RMN behandelt meldingen over afvalinzameling, grofvuil, zwerfafval en straatreiniging."
+    ],
+    "wasteSource": "https://www.ijsselstein.nl/afval-0",
+    "calendarUrl": null
+  },
+  "leusden": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 033",
+    "address": "Huis van Leusden, ’t Erf 1, 3831 NA Leusden",
+    "contactSource": "https://www.leusden.nl/contact",
+    "wasteLabel": "Mijn Afvalwijzer",
+    "wasteFacts": [
+      "Zet je container op de ophaaldag vóór 07.30 uur aan de straat.",
+      "Voor de milieustraat en ondergrondse containers heb je de woninggebonden milieupas nodig. ROVA neemt de inzameling over vanaf 1 januari 2027."
+    ],
+    "wasteSource": "https://www.leusden.nl/afval",
+    "calendarUrl": "https://www.leusden.nl/afval/afvalkalender-mijn-afvalwijzer"
+  },
+  "lopik": {
+    "checkedAt": "2026-10-14",
+    "phone": "0348 559 955",
+    "address": "Raadhuisplein 1, 3411 CH Lopik",
+    "contactSource": "https://www.lopik.nl/gemeentehuis",
+    "wasteLabel": "Grofvuil op afspraak",
+    "wasteFacts": [
+      "Huishoudelijk grofvuil en snoeihout worden na aanmelding tweewekelijks op woensdag opgehaald.",
+      "Zet het aangemelde afval vóór 08.00 uur klaar. Bouw- en sloopafval, pallets, chemisch afval en huisvuilzakken vallen buiten deze regeling."
+    ],
+    "wasteSource": "https://www.lopik.nl/afval-grofvuil",
+    "calendarUrl": null
+  },
+  "montfoort": {
+    "checkedAt": "2026-10-14",
+    "phone": "0348 476 400",
+    "address": "Kasteelplein 5, 3417 JG Montfoort",
+    "contactSource": "https://www.montfoort.nl/Contact",
+    "wasteLabel": "Cyclus afvalapp",
+    "wasteFacts": [
+      "Ophaaldagen staan in de afvalkalender en de Cyclus afvalapp.",
+      "Afval kun je naar de milieustraat op de gemeentewerf brengen. Voor ondergrondse containers in de binnenstad is een afvalpas beschikbaar."
+    ],
+    "wasteSource": "https://www.montfoort.nl/Alle_onderwerpen/Afval",
+    "calendarUrl": "https://www.montfoort.nl/Alle_onderwerpen/Afval/Afvalkalender"
+  },
+  "nieuwegein": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 030",
+    "address": "Stadsplein 1, 3431 LZ Nieuwegein",
+    "contactSource": "https://www.nieuwegein.nl/contact",
+    "wasteLabel": "RMN",
+    "wasteFacts": [
+      "Een volle of kapotte ondergrondse container meld je bij RMN. Het containernummer staat links op de container.",
+      "Een kliko omwisselen regel je bij RMN. In sommige situaties is dit gratis, bijvoorbeeld bij schade door de vuilniswagen."
+    ],
+    "wasteSource": "https://www.nieuwegein.nl/afval",
+    "calendarUrl": "https://www.nieuwegein.nl/afval/afvalkalender"
+  },
+  "oudewater": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 0348",
+    "address": "Burgerzaken op afspraak: Cultuurhuis, Kluwen 9, 3421 KW Oudewater",
+    "contactSource": "https://www.oudewater.nl/Contact",
+    "wasteLabel": "Afval Woerden en Oudewater",
+    "wasteFacts": [
+      "Grofvuil wordt na een online afspraak op de eerste vrijdag van de maand opgehaald.",
+      "De afvalkalender toont de inzameling van de grijze en groene container. De gezamenlijke afval-app toont ook ondergrondse containers."
+    ],
+    "wasteSource": "https://www.oudewater.nl/Afval",
+    "calendarUrl": "https://www.oudewater.nl/Afval/Afvalkalender"
+  },
+  "renswoude": {
+    "checkedAt": "2026-10-14",
+    "phone": "0318 578 150",
+    "address": "",
+    "contactSource": "https://www.renswoude.nl/contact",
+    "wasteLabel": "ACV",
+    "wasteFacts": [
+      "Voor grofvuil kun je naar Het Waardepunt aan Neonstraat 4 in Ede. Neem je ACV-pas mee.",
+      "Elk kalenderjaar staan er zes gratis punten op de pas. Grofvuil laten ophalen kan op afspraak en kost drie punten."
+    ],
+    "wasteSource": "https://www.renswoude.nl/afvalinzameling",
+    "calendarUrl": null
+  },
+  "rhenen": {
+    "checkedAt": "2026-10-14",
+    "phone": "0317 681 681",
+    "address": "Nieuwe Veenendaalseweg 75, 3911 MG Rhenen",
+    "contactSource": "https://www.rhenen.nl/info-over-de-gemeente/service-en-contact",
+    "wasteLabel": "Gemeente Rhenen",
+    "wasteFacts": [
+      "De gemeente haalt het afval zelf op. De ophaaldagen staan in Afvalwijzer.",
+      "Afvalbrengstation Remmerden is alleen op afspraak toegankelijk. Je hebt een afvalpas nodig."
+    ],
+    "wasteSource": "https://www.rhenen.nl/aanvragen-en-regelen/afval",
+    "calendarUrl": "https://www.mijnafvalwijzer.nl/"
+  },
+  "soest": {
+    "checkedAt": "2026-10-14",
+    "phone": "035 609 34 11",
+    "address": "Raadhuisplein 1, 3762 AV Soest. De hoofdingang is aan de achterkant.",
+    "contactSource": "https://www.soest.nl/contact",
+    "wasteLabel": "RMN",
+    "wasteFacts": [
+      "RMN haalt het huishoudelijk afval in Soest op. Vul je postcode en huisnummer in de afvalkalender in voor jouw ophaaldagen.",
+      "De gratis RMN-app is beschikbaar voor iOS en Android; je kunt de kalender ook online bekijken."
+    ],
+    "wasteSource": "https://www.soest.nl/in-de-gemeente-soest/afvalkalender",
+    "calendarUrl": "https://21burgerportaal.mendixcloud.com/p/rmn/landing/"
+  },
+  "stichtse-vecht": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 0346",
+    "address": "",
+    "contactSource": "https://www.stichtsevecht.nl/contact-en-openingstijden",
+    "wasteLabel": "Cyclus",
+    "wasteFacts": [
+      "Met postcode en huisnummer vind je de ophaaldagen voor jouw straat bij Cyclus.",
+      "Dezelfde informatie is beschikbaar via de Cyclus afval-app."
+    ],
+    "wasteSource": "https://www.stichtsevecht.nl/afval",
+    "calendarUrl": "https://www.stichtsevecht.nl/afval/afvalkalender"
+  },
+  "utrecht": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 030",
+    "address": "Stadskantoor, Stadsplateau 1, 3521 AZ Utrecht",
+    "contactSource": "https://www.utrecht.nl/contact/",
+    "wasteLabel": "Utrechtse Afvalapp",
+    "wasteFacts": [
+      "De Utrechtse Afvalapp toont je persoonlijke afvalkalender en kan een herinnering sturen.",
+      "De gemeente heeft aparte regelingen voor grofvuil, snoeiafval en afvalscheidingsstations. Voor vragen over afval bel je 14 030."
+    ],
+    "wasteSource": "https://www.utrecht.nl/wonen-en-leven/afval",
+    "calendarUrl": null
+  },
+  "utrechtse-heuvelrug": {
+    "checkedAt": "2026-10-14",
+    "phone": "0343 565 600",
+    "address": "Kerkplein 2, 3941 HV Doorn",
+    "contactSource": "https://www.heuvelrug.nl/contact",
+    "wasteLabel": "Remondis",
+    "wasteFacts": [
+      "Remondis zamelt het huishoudelijk afval in. Klachten over de inzameling kun je melden via 033 479 63 12.",
+      "Voor afvalpassen, kliko’s en de milieustraat heeft de gemeente aparte informatie en aanvraagmogelijkheden."
+    ],
+    "wasteSource": "https://www.heuvelrug.nl/alles-over-afval",
+    "calendarUrl": "https://www.heuvelrug.nl/afvalapp-en-afvalkalender"
+  },
+  "veenendaal": {
+    "checkedAt": "2026-10-14",
+    "phone": "0318 538 538",
+    "address": "Raadhuisplein 1, 3901 GA Veenendaal",
+    "contactSource": "https://www.veenendaal.nl/info-over-de-gemeente/over-de-gemeente/contact-en-openingstijden",
+    "wasteLabel": "ACV",
+    "wasteFacts": [
+      "ACV haalt het huisvuil op. Ophaaldagen staan in de ACV-afvalkalender en de ACV-app.",
+      "Je ACV-pas opent de ondergrondse restafvalcontainer en geeft toegang tot het Waardepunt. Een vervangende pas regel je bij ACV."
+    ],
+    "wasteSource": "https://www.veenendaal.nl/wonen-en-leefomgeving/afval-en-riolering/acv-huisvuil-grofvuil-klikos-en-milieupas",
+    "calendarUrl": null
+  },
+  "vijfheerenlanden": {
+    "checkedAt": "2026-10-14",
+    "phone": "088 599 7000",
+    "address": "Op afspraak: Voorstraat 30, 4132 AS Vianen of Prinses Marijkeweg 1, 4231 BP Meerkerk",
+    "contactSource": "https://www.vijfheerenlanden.nl/contact-en-openingstijden",
+    "wasteLabel": "Waardlanden",
+    "wasteFacts": [
+      "Met je milieupas kun je als inwoner terecht bij alle milieustraten van Waardlanden. De pas hoort bij je woning.",
+      "Grofvuil laat je op afspraak ophalen via de Waardlanden-app of website. Vragen over inzameling: 0183 681 111."
+    ],
+    "wasteSource": "https://www.vijfheerenlanden.nl/afvalinzameling",
+    "calendarUrl": "https://www.vijfheerenlanden.nl/afvalinzameling"
+  },
+  "wijk-bij-duurstede": {
+    "checkedAt": "2026-10-14",
+    "phone": "0343 595 595",
+    "address": "Karel de Grotestraat 30, Wijk bij Duurstede",
+    "contactSource": "https://www.wijkbijduurstede.nl/contact-en-service",
+    "wasteLabel": "Milieupark & containerservice",
+    "wasteFacts": [
+      "Het milieupark ligt aan Vogelpoelweg 20. Neem je afvalpas mee.",
+      "Een kapotte of niet geleegde kliko, een vermiste pas of niet opgehaalde PMD-zak meld je bij de containerservicelijn: 0800 333 66 99."
+    ],
+    "wasteSource": "https://www.wijkbijduurstede.nl/afval",
+    "calendarUrl": "https://www.wijkbijduurstede.nl/afval/afvalwijzer"
+  },
+  "woerden": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 0348",
+    "address": "Blekerijlaan 14, 3447 GR Woerden",
+    "contactSource": "https://www.woerden.nl/Contact",
+    "wasteLabel": "Afval Woerden en Oudewater",
+    "wasteFacts": [
+      "Grofvuil wordt op afspraak opgehaald op woensdag in oneven weken; snoeiafval op dinsdag in even weken.",
+      "Je kunt tien keer per jaar gratis grofvuil naar de milieustraat op het Stadserf brengen. De afval-app toont jouw ophaaldagen en containerlocaties."
+    ],
+    "wasteSource": "https://www.woerden.nl/Afval",
+    "calendarUrl": "https://www.woerden.nl/Afval/Afvalkalender"
+  },
+  "woudenberg": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 033",
+    "address": "",
+    "contactSource": "https://www.woudenberg.nl/service-en-contact",
+    "wasteLabel": "ROVA",
+    "wasteFacts": [
+      "ROVA haalt restafval, GFT, PMD en oud papier op. Voor restafval betaal je per aanbieding.",
+      "Zet je container vanaf 19.00 uur op de avond vóór de ophaaldag buiten en haal hem op de ophaaldag vóór 20.00 uur weer weg."
+    ],
+    "wasteSource": "https://www.woudenberg.nl/afval",
+    "calendarUrl": "https://www.rova.nl/inwoners"
+  },
+  "zeist": {
+    "checkedAt": "2026-10-14",
+    "phone": "14 030",
+    "address": "Het Rond 1, 3701 HS Zeist",
+    "contactSource": "https://www.zeist.nl/contact",
+    "wasteLabel": "RMN",
+    "wasteFacts": [
+      "De RMN-afvalkalender toont de ophaaldagen voor je adres.",
+      "Vul eenmalig postcode en huisnummer in de gratis RMN-app in om je kalender en inzamelgegevens bij de hand te houden."
+    ],
+    "wasteSource": "https://www.zeist.nl/afval/afvalkalender",
+    "calendarUrl": "https://21burgerportaal.mendixcloud.com/p/rmn/landing/"
+  }
+}

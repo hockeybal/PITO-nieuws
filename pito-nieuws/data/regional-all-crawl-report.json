@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "region-6bcbc98453",
+    "name": "Eemland1",
+    "checkedAt": "2026-10-13T11:32:30.988412+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 19,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "amersfoort",
+      "leusden",
+      "baarn",
+      "bunschoten",
+      "soest"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-bc9b6aa170",
+    "name": "Omroep ZOUT",
+    "checkedAt": "2026-10-13T11:32:31.416070+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 4,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "de-bilt",
+      "bunnik",
+      "zeist",
+      "utrechtse-heuvelrug",
+      "wijk-bij-duurstede"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-6a29f2d4eb",
+    "name": "Omroep Lekstroom",
+    "checkedAt": "2026-10-13T11:32:32.241831+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 1,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "houten",
+      "ijsselstein",
+      "lopik",
+      "nieuwegein"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-1a5e0ddbf6",
+    "name": "RTV Midden Holland",
+    "checkedAt": "2026-10-13T11:32:34.251014+00:00",
+    "pages": 12,
+    "dynamicPagination": false,
+    "discovered": 142,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "status": "partial",
+    "hasMore": true
+  },
+  {
+    "id": "region-66220da9ba",
+    "name": "XON / 1 VALLEI",
+    "checkedAt": "2026-10-13T11:33:00.930882+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 19,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "renswoude",
+      "rhenen",
+      "veenendaal",
+      "woudenberg"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-ec89981e15",
+    "name": "RTV Stichtse Vecht",
+    "checkedAt": "2026-10-13T11:33:04.446726+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://rtvstichtsevecht.nl/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "stichtse-vecht"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-80437f9cba",
+    "name": "RTV Ronde Venen",
+    "checkedAt": "2026-10-13T11:33:05.132199+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 19,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "de-ronde-venen"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-feb44178d3",
+    "name": "NH Gooi",
+    "checkedAt": "2026-10-13T11:33:05.904452+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.nhnieuws.nl/nhgooi HTTP 307"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "eemnes"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-6562579ea7",
+    "name": "SRC",
+    "checkedAt": "2026-10-13T11:33:06.339811+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 17,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-265b7de6a7",
+    "name": "DUIC",
+    "checkedAt": "2026-10-13T11:33:07.400224+00:00",
+    "pages": 7,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "utrecht"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-abfb0368ef",
+    "name": "Woerdense Courant",
+    "checkedAt": "2026-10-13T11:33:17.556229+00:00",
+    "pages": 3,
+    "dynamicPagination": true,
+    "discovered": 50,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "woerden"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-eee0c15ee1",
+    "name": "indebuurt Woerden",
+    "checkedAt": "2026-10-13T11:33:21.138313+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://indebuurt.nl/woerden/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "woerden"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-0717f603ea",
+    "name": "AD Amersfoort",
+    "checkedAt": "2026-10-13T11:33:21.763274+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/amersfoort/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "amersfoort"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-c4060dcba8",
+    "name": "AD Baarn",
+    "checkedAt": "2026-10-13T11:33:22.231306+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/baarn/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "baarn"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-cc63d6f433",
+    "name": "AD Bunnik",
+    "checkedAt": "2026-10-13T11:33:22.589434+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/bunnik/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "bunnik"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-12a583a36d",
+    "name": "AD Bunschoten",
+    "checkedAt": "2026-10-13T11:33:23.002037+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/bunschoten/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "bunschoten"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-43f29708ee",
+    "name": "AD De Bilt",
+    "checkedAt": "2026-10-13T11:33:23.268297+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/de-bilt/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "de-bilt"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-5dac563ca7",
+    "name": "AD De Ronde Venen",
+    "checkedAt": "2026-10-13T11:33:23.676889+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/de-ronde-venen/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "de-ronde-venen"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-97170a2127",
+    "name": "AD Eemnes",
+    "checkedAt": "2026-10-13T11:33:23.920881+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/eemnes/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "eemnes"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-165e86439f",
+    "name": "AD Houten",
+    "checkedAt": "2026-10-13T11:33:24.305600+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/houten/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "houten"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-0cd3357aed",
+    "name": "AD IJsselstein",
+    "checkedAt": "2026-10-13T11:33:24.657509+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/ijsselstein/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "ijsselstein"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-4ed2418f20",
+    "name": "AD Leusden",
+    "checkedAt": "2026-10-13T11:33:25.063030+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/leusden/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "leusden"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-337f69152b",
+    "name": "AD Lopik",
+    "checkedAt": "2026-10-13T11:33:25.401777+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/lopik/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "lopik"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-ba2c62102c",
+    "name": "AD Montfoort",
+    "checkedAt": "2026-10-13T11:33:25.728480+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/montfoort/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "montfoort"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-90e7a8192e",
+    "name": "AD Nieuwegein",
+    "checkedAt": "2026-10-13T11:33:25.959562+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/nieuwegein/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "nieuwegein"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-c899b1b090",
+    "name": "AD Oudewater",
+    "checkedAt": "2026-10-13T11:33:26.480071+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/oudewater/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "oudewater"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-432d1c51a7",
+    "name": "AD Renswoude",
+    "checkedAt": "2026-10-13T11:33:26.836698+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/renswoude/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "renswoude"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-64c9127e7d",
+    "name": "AD Rhenen",
+    "checkedAt": "2026-10-13T11:33:27.322105+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/rhenen/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "rhenen"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-56261367ca",
+    "name": "AD Soest",
+    "checkedAt": "2026-10-13T11:33:27.691582+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/soest/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "soest"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-63e31a9031",
+    "name": "AD Stichtse Vecht",
+    "checkedAt": "2026-10-13T11:33:27.989463+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/stichtse-vecht/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "stichtse-vecht"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-21eb23052d",
+    "name": "AD Utrecht",
+    "checkedAt": "2026-10-13T11:33:28.450179+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/utrecht/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "utrecht"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-46c8f5d835",
+    "name": "AD Utrechtse Heuvelrug",
+    "checkedAt": "2026-10-13T11:33:28.826541+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/utrechtse-heuvelrug/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "utrechtse-heuvelrug"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-df0cef1b10",
+    "name": "AD Veenendaal",
+    "checkedAt": "2026-10-13T11:33:29.415881+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/veenendaal/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "veenendaal"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-55ec9b451b",
+    "name": "AD Vijfheerenlanden",
+    "checkedAt": "2026-10-13T11:33:29.792698+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/vijfheerenlanden/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-5f1c5977ac",
+    "name": "AD Wijk bij Duurstede",
+    "checkedAt": "2026-10-13T11:33:30.226675+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/wijk-bij-duurstede/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "wijk-bij-duurstede"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-7c34b14b5a",
+    "name": "AD Woerden",
+    "checkedAt": "2026-10-13T11:33:30.554838+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/woerden/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "woerden"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-b1e110f187",
+    "name": "AD Woudenberg",
+    "checkedAt": "2026-10-13T11:33:31.086418+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/woudenberg/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "woudenberg"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-fa2bc23427",
+    "name": "AD Zeist",
+    "checkedAt": "2026-10-13T11:33:31.363598+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.ad.nl/zeist/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "zeist"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-bdc02cfcec",
+    "name": "indebuurt Amersfoort",
+    "checkedAt": "2026-10-13T11:33:31.682306+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://indebuurt.nl/amersfoort/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "amersfoort"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-d44dee3024",
+    "name": "indebuurt Utrecht",
+    "checkedAt": "2026-10-13T11:33:31.980359+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://indebuurt.nl/utrecht/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "utrecht"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-b03d374b33",
+    "name": "indebuurt Veenendaal",
+    "checkedAt": "2026-10-13T11:33:32.468467+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://indebuurt.nl/veenendaal/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "veenendaal"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-ea39bfa10a",
+    "name": "De Woudenberger",
+    "checkedAt": "2026-10-13T11:33:32.948717+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 91,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "woudenberg"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-700d76d325",
+    "name": "Bunniks Nieuws",
+    "checkedAt": "2026-10-13T11:33:36.913936+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 76,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "bunnik"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-d31d40c8e6",
+    "name": "Wijks Nieuws",
+    "checkedAt": "2026-10-13T11:33:41.459877+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 87,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "wijk-bij-duurstede"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-190f4113cc",
+    "name": "Houtens Nieuws",
+    "checkedAt": "2026-10-13T11:33:45.172376+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 83,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "houten"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-32a2d275c9",
+    "name": "De Nieuwsbode",
+    "checkedAt": "2026-10-13T11:33:48.568925+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 80,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "zeist"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-920f5c3412",
+    "name": "Vierklank",
+    "checkedAt": "2026-10-13T11:33:52.382938+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 80,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "de-bilt"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-d4c86224c4",
+    "name": "De Stad Amersfoort",
+    "checkedAt": "2026-10-13T11:33:56.505376+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 88,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "amersfoort"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-c261f907c7",
+    "name": "Leusder Krant",
+    "checkedAt": "2026-10-13T11:33:59.978955+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 83,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "leusden"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-0e2d7a9037",
+    "name": "Soester Courant",
+    "checkedAt": "2026-10-13T11:34:03.742405+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 77,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "soest"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-dba5350795",
+    "name": "Baarnsche Courant",
+    "checkedAt": "2026-10-13T11:34:07.551621+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 91,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "baarn"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-db8a251b5a",
+    "name": "Nieuwsblad De Kaap",
+    "checkedAt": "2026-10-13T11:34:11.362242+00:00",
+    "pages": 3,
+    "dynamicPagination": false,
+    "discovered": 79,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "utrechtse-heuvelrug"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-ec7f281a3b",
+    "name": "Zenderstreeknieuws",
+    "checkedAt": "2026-10-13T11:34:14.994551+00:00",
+    "pages": 2,
+    "dynamicPagination": true,
+    "discovered": 38,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "ijsselstein",
+      "lopik"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-72955f9d3f",
+    "name": "Het Kontakt Vijfheerenlanden",
+    "checkedAt": "2026-10-13T11:34:17.459031+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.hetkontakt.nl/vijfheerenlanden/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-e045bf93d3",
+    "name": "De Molenkruier",
+    "checkedAt": "2026-10-13T11:34:18.019286+00:00",
+    "pages": 2,
+    "dynamicPagination": true,
+    "discovered": 44,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-13",
+      "2026-10-13"
+    ],
+    "municipalities": [
+      "nieuwegein"
+    ],
+    "status": "partial",
+    "hasMore": false
+  }
+]

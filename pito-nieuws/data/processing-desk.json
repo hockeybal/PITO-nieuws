@@ -1,0 +1,142 @@
+[
+  {
+    "host": "www.ad.nl",
+    "signals": 431,
+    "linked": 1,
+    "extracted": 0,
+    "unreadable": 431
+  },
+  {
+    "host": "indebuurt.nl",
+    "signals": 132,
+    "linked": 1,
+    "extracted": 0,
+    "unreadable": 132
+  },
+  {
+    "host": "www.politie.nl",
+    "signals": 126,
+    "linked": 77,
+    "extracted": 0,
+    "unreadable": 0
+  },
+  {
+    "host": "www.rtvutrecht.nl",
+    "signals": 104,
+    "linked": 102,
+    "extracted": 104,
+    "unreadable": 0
+  },
+  {
+    "host": "rtvmiddenholland.nl",
+    "signals": 66,
+    "linked": 26,
+    "extracted": 64,
+    "unreadable": 2
+  },
+  {
+    "host": "omroeplekstroom.nl",
+    "signals": 55,
+    "linked": 52,
+    "extracted": 55,
+    "unreadable": 0
+  },
+  {
+    "host": "www.provincie-utrecht.nl",
+    "signals": 39,
+    "linked": 39,
+    "extracted": 30,
+    "unreadable": 0
+  },
+  {
+    "host": "www.vijfheerenlanden.nl",
+    "signals": 32,
+    "linked": 32,
+    "extracted": 30,
+    "unreadable": 2
+  },
+  {
+    "host": "www.eemland1.nl",
+    "signals": 32,
+    "linked": 30,
+    "extracted": 27,
+    "unreadable": 5
+  },
+  {
+    "host": "www.utrecht.nl",
+    "signals": 31,
+    "linked": 23,
+    "extracted": 20,
+    "unreadable": 0
+  },
+  {
+    "host": "nieuws.ns.nl",
+    "signals": 27,
+    "linked": 9,
+    "extracted": 27,
+    "unreadable": 0
+  },
+  {
+    "host": "xon.nu",
+    "signals": 21,
+    "linked": 8,
+    "extracted": 19,
+    "unreadable": 2
+  },
+  {
+    "host": "www.omroepzout.nl",
+    "signals": 18,
+    "linked": 18,
+    "extracted": 18,
+    "unreadable": 0
+  },
+  {
+    "host": "www.amersfoort.nl",
+    "signals": 14,
+    "linked": 13,
+    "extracted": 14,
+    "unreadable": 0
+  },
+  {
+    "host": "www.ijsselmeervogels.nl",
+    "signals": 7,
+    "linked": 6,
+    "extracted": 7,
+    "unreadable": 0
+  },
+  {
+    "host": "www.sportutrecht.nl",
+    "signals": 7,
+    "linked": 7,
+    "extracted": 7,
+    "unreadable": 0
+  },
+  {
+    "host": "www.cultuurinbaarn.nl",
+    "signals": 6,
+    "linked": 6,
+    "extracted": 6,
+    "unreadable": 0
+  },
+  {
+    "host": "www.woerden.nl",
+    "signals": 5,
+    "linked": 5,
+    "extracted": 4,
+    "unreadable": 0
+  },
+  {
+    "host": "vtcwoerden.nl",
+    "signals": 5,
+    "linked": 3,
+    "extracted": 5,
+    "unreadable": 0
+  },
+  {
+    "host": "welzijnrivierstroom.nl",
+    "signals": 5,
+    "linked": 2,
+    "extracted": 0,
+    "unreadable": 5
+  }
+]

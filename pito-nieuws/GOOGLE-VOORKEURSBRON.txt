@@ -1,0 +1,14 @@
+Google voorkeursbron · PITO · 12 oktober 2026
+
+Link: https://www.google.com/preferences/source?q=pito.app
+Geïmplementeerd als gewone link op nieuwsvoorpagina's en onder nieuwsartikelen.
+De bezoeker kiest en bevestigt zelf bij Google. Geen Google-account gewijzigd.
+Geen extra Google-script nodig voor deze gedocumenteerde deeplink.
+
+PITO's beschikbaarheid in Googles bronkiezer is nog niet bevestigd.
+Deze knop registreert de uitgever niet en garandeert geen positie in Google.
+Alleen domein/subdomein is geschikt: pito.app, niet pito.app/nieuws of gemeenten.
+Lokale preview blijft noindex. Bij livegang indexering en bronkiezer controleren.
+
+Documentatie:
+https://developers.google.com/search/docs/appearance/preferred-sources

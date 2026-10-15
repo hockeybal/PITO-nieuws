@@ -1,0 +1,2577 @@
+[
+  {
+    "name": "Amersfoort",
+    "slug": "amersfoort",
+    "eligibleTaggedPhotos": 32,
+    "photoKeys": [
+      "amersfoort-centraal-2024",
+      "amersfoort-spoorwerk-2024",
+      "amersfoort-station-werk-2024",
+      "amersfoort-perron-2024",
+      "archive-photo-181225142",
+      "archive-photo-175972888",
+      "archive-photo-194717586",
+      "archive-photo-194718523",
+      "archive-photo-193177806",
+      "archive-photo-193069526",
+      "archive-photo-169311669",
+      "archive-photo-197458619",
+      "archive-photo-163597809",
+      "archive-photo-163597814",
+      "archive-photo-187141102",
+      "archive-photo-193070001",
+      "archive-photo-181229679",
+      "archive-photo-169568288",
+      "archive-photo-126180132",
+      "archive-photo-176621693",
+      "archive-photo-158411062",
+      "archive-photo-151532909",
+      "archive-photo-151532520",
+      "archive-photo-151532517",
+      "archive-photo-151532516",
+      "archive-photo-151532525",
+      "archive-photo-151532527",
+      "archive-photo-151532528",
+      "archive-photo-151532534",
+      "archive-photo-155890703",
+      "archive-photo-149450417",
+      "local-review-155918540"
+    ],
+    "clubs": [
+      {
+        "name": "CJVV",
+        "url": "https://www.cjvv.nl/",
+        "municipality": "amersfoort",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:35.512541+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.cjvv.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.cjvv.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window"
+      },
+      {
+        "name": "VV Hoogland",
+        "url": "https://www.vvhoogland.nl/",
+        "municipality": "amersfoort",
+        "sport": "voetbal",
+        "discoverySource": "https://www.vvhoogland.nl/",
+        "checkedAt": "2026-10-13T21:53:45.025216+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "A.F.C. Quick 1890",
+        "url": "https://www.afcquick1890.nl/",
+        "municipality": "amersfoort",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:57.784494+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "AFC Quick 1890",
+          "Quick 1890"
+        ]
+      },
+      {
+        "name": "V.V.Z.A.",
+        "url": "https://www.vvza.nl/",
+        "municipality": "amersfoort",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:03.423674+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vvza.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://www.vvza.nl/feed/",
+        "received": 10,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+        "aliases": [
+          "VVZA"
+        ]
+      },
+      {
+        "name": "VV Hooglanderveen",
+        "aliases": [
+          "Hooglanderveen"
+        ],
+        "url": "https://www.vvhooglanderveen.nl/",
+        "municipality": "amersfoort",
+        "discoverySource": "https://www.vvhooglanderveen.nl/bestuur",
+        "sport": "voetbal",
+        "checkedAt": "2026-10-14T03:14:50.405210+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vvhooglanderveen.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Signaleringsbron; geen toestemming voor overname van foto’s of teksten vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, programma en afgelastingen.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.vvhooglanderveen.nl/home/feed/"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Baarn",
+    "slug": "baarn",
+    "eligibleTaggedPhotos": 22,
+    "photoKeys": [
+      "baarn-pekingtuin-muziektent-2024",
+      "baarn-station-tunnel-2024",
+      "archive-photo-195060790",
+      "archive-photo-137859273",
+      "archive-photo-137859272",
+      "archive-photo-153044396",
+      "archive-photo-118118651",
+      "archive-photo-143623500",
+      "archive-photo-122519749",
+      "archive-photo-185678351",
+      "archive-photo-185678352",
+      "archive-photo-175147996",
+      "archive-photo-175090964",
+      "archive-photo-175090966",
+      "archive-photo-175090969",
+      "archive-photo-175090962",
+      "archive-photo-199496354",
+      "archive-photo-122450852",
+      "archive-photo-122450853",
+      "archive-photo-175090963",
+      "local-review-199496353",
+      "local-review-149364166"
+    ],
+    "clubs": [
+      {
+        "name": "TOV",
+        "url": "https://www.tov-baarn.nl/",
+        "municipality": "baarn",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:35.613862+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Bunnik",
+    "slug": "bunnik",
+    "eligibleTaggedPhotos": 17,
+    "photoKeys": [
+      "bunnik-station-2024",
+      "archive-photo-142001092",
+      "archive-photo-189533387",
+      "archive-photo-188967354",
+      "archive-photo-188967843",
+      "archive-photo-149270689",
+      "archive-photo-149270695",
+      "archive-photo-149270688",
+      "archive-photo-121184174",
+      "archive-photo-121184662",
+      "archive-photo-121184300",
+      "archive-photo-121184299",
+      "archive-photo-121184175",
+      "local-review-149270698",
+      "local-review-149270708",
+      "local-review-149270707",
+      "local-review-114164105"
+    ],
+    "clubs": [
+      {
+        "name": "Bunnik 73",
+        "url": "https://www.bunnik73.nl/",
+        "municipality": "bunnik",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:35.709596+00:00",
+        "feedChecks": [
+          {
+            "url": "https://bunnik73.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://bunnik73.nl/feed/",
+        "feedStatus": "connected_signals",
+        "received": 10,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00"
+      },
+      {
+        "name": "S.V. Aurora",
+        "url": "https://svaurora.nl/cms/",
+        "municipality": "bunnik",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.407256+00:00",
+        "feedChecks": [
+          {
+            "url": "https://svaurora.nl/cms/index.php?format=feed&type=rss",
+            "status": "XML-feed bereikbaar",
+            "items": 8
+          },
+          {
+            "url": "https://svaurora.nl/cms/index.php?format=feed&type=atom",
+            "status": "XML-feed bereikbaar",
+            "items": 8
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://svaurora.nl/cms/index.php?format=feed&type=rss",
+        "received": 8,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+        "aliases": [
+          "Aurora"
+        ]
+      },
+      {
+        "name": "S.V. Odijk",
+        "url": "https://www.sv-odijk.nl/",
+        "municipality": "bunnik",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:57.012077+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "Odijk"
+        ]
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Bunschoten",
+    "slug": "bunschoten",
+    "eligibleTaggedPhotos": 12,
+    "photoKeys": [
+      "archive-photo-120017416",
+      "archive-photo-120049011",
+      "archive-photo-120017417",
+      "archive-photo-120017428",
+      "archive-photo-120017418",
+      "archive-photo-120017420",
+      "archive-photo-120017421",
+      "archive-photo-120017425",
+      "archive-photo-132807945",
+      "archive-photo-157790113",
+      "local-expansion-164389562",
+      "ijsselmeervogels-sportpark-2026"
+    ],
+    "clubs": [
+      {
+        "name": "IJsselmeervogels",
+        "url": "https://www.ijsselmeervogels.nl/",
+        "municipality": "bunschoten",
+        "sport": "voetbal",
+        "feedCandidates": [
+          "https://www.ijsselmeervogels.nl/?format=feed&type=rss",
+          "https://www.ijsselmeervogels.nl/?format=feed&type=atom"
+        ],
+        "links": [
+          {
+            "title": "Nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          },
+          {
+            "title": "Nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          },
+          {
+            "title": "Nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          },
+          {
+            "title": "Nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          },
+          {
+            "title": "Al het nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          },
+          {
+            "title": "Al het nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          },
+          {
+            "title": "Al het nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          },
+          {
+            "title": "Al het nieuws",
+            "url": "https://www.ijsselmeervogels.nl/nieuws"
+          }
+        ],
+        "checkedAt": "2026-10-13T21:53:35.512428+00:00",
+        "status": "website_verified",
+        "evidenceFile": "work/quarter-sources/d82ee8f2f3253db370c65062-73f9f5ae055b.html",
+        "feed": "https://www.ijsselmeervogels.nl/?format=feed&type=rss",
+        "feedStatus": "connected_signals",
+        "received": 7,
+        "skipped": 0,
+        "feedChecks": [
+          {
+            "url": "https://www.ijsselmeervogels.nl/?format=feed&type=rss",
+            "status": "XML-feed bereikbaar",
+            "items": 7
+          },
+          {
+            "url": "https://www.ijsselmeervogels.nl/?format=feed&type=atom",
+            "status": "XML-feed bereikbaar",
+            "items": 7
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00"
+      },
+      {
+        "name": "SV Spakenburg",
+        "aliases": [
+          "Spakenburg"
+        ],
+        "url": "https://spakenburg.com/",
+        "municipality": "bunschoten",
+        "discoverySource": "https://spakenburg.com/contact/",
+        "sport": "voetbal",
+        "checkedAt": "2026-10-14T03:14:49.941214+00:00",
+        "feedChecks": [
+          {
+            "url": "https://spakenburg.com/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Signaleringsbron; geen toestemming voor overname van foto’s of teksten vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, programma en afgelastingen.",
+        "feedStatus": "connected_signals",
+        "feed": "https://spakenburg.com/feed/",
+        "received": 10,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "De Bilt",
+    "slug": "de-bilt",
+    "eligibleTaggedPhotos": 36,
+    "photoKeys": [
+      "de-bilt-voordaan-2024",
+      "de-bilt-station-2024",
+      "de-bilt-gemeentehuis-2026",
+      "archive-photo-156979088",
+      "archive-photo-156356890",
+      "archive-photo-157058081",
+      "archive-photo-157058070",
+      "archive-photo-157058218",
+      "archive-photo-156357003",
+      "archive-photo-167581035",
+      "archive-photo-156979192",
+      "archive-photo-156972182",
+      "archive-photo-156979259",
+      "archive-photo-157314890",
+      "archive-photo-157315263",
+      "archive-photo-157314776",
+      "archive-photo-156357756",
+      "archive-photo-156357783",
+      "archive-photo-156357803",
+      "archive-photo-156357819",
+      "archive-photo-156357827",
+      "archive-photo-156357842",
+      "archive-photo-156357895",
+      "archive-photo-156357931",
+      "archive-photo-156357937",
+      "archive-photo-156357948",
+      "archive-photo-156972000",
+      "archive-photo-156352371",
+      "archive-photo-156352372",
+      "archive-photo-156352369",
+      "archive-photo-156352378",
+      "archive-photo-156352377",
+      "archive-photo-156979090",
+      "archive-photo-156979091",
+      "archive-photo-156972134",
+      "archive-photo-156972133"
+    ],
+    "clubs": [
+      {
+        "name": "FC De Bilt",
+        "url": "https://www.fcdebilt.nl/",
+        "municipality": "de-bilt",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:36.233476+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "SVM",
+        "url": "https://www.svmmaartensdijk.nl/",
+        "municipality": "de-bilt",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:59.204558+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svmmaartensdijk.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.svmmaartensdijk.nl/home/feed/"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "De Ronde Venen",
+    "slug": "de-ronde-venen",
+    "eligibleTaggedPhotos": 24,
+    "photoKeys": [
+      "de-ronde-venen-bus-2024",
+      "de-ronde-venen-station-abcoude-2024",
+      "archive-photo-165595566",
+      "archive-photo-146499694",
+      "archive-photo-146499695",
+      "archive-photo-146499709",
+      "archive-photo-146499725",
+      "archive-photo-146499727",
+      "archive-photo-134128934",
+      "archive-photo-134128935",
+      "archive-photo-134128937",
+      "archive-photo-144932282",
+      "archive-photo-149526071",
+      "archive-photo-149526070",
+      "archive-photo-149526069",
+      "archive-photo-149526065",
+      "archive-photo-149525766",
+      "archive-photo-149526067",
+      "archive-photo-149526200",
+      "archive-photo-150426141",
+      "local-review-150426140",
+      "local-review-146499696",
+      "local-review-150426139",
+      "local-review-146499702"
+    ],
+    "clubs": [
+      {
+        "name": "SV Argon",
+        "url": "https://www.svargon.nl/",
+        "municipality": "de-ronde-venen",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:36.327938+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "FC Abcoude",
+        "url": "https://www.fcabcoude.nl",
+        "municipality": "de-ronde-venen",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.407170+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "Hertha Vinkeveen",
+        "url": "https://hertha.nl/",
+        "municipality": "de-ronde-venen",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.278804+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Eemnes",
+    "slug": "eemnes",
+    "eligibleTaggedPhotos": 8,
+    "photoKeys": [
+      "archive-photo-148273037",
+      "archive-photo-176933020",
+      "archive-photo-148273036",
+      "local-expansion-168196746",
+      "local-review-176933022",
+      "local-review-148273041",
+      "local-review-148273242",
+      "local-review-148273043"
+    ],
+    "clubs": [
+      {
+        "name": "SV Eemnes",
+        "url": "https://www.sveemnes.nl/",
+        "municipality": "eemnes",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:36.761123+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.sveemnes.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.sveemnes.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Houten",
+    "slug": "houten",
+    "eligibleTaggedPhotos": 22,
+    "photoKeys": [
+      "archive-photo-137717913",
+      "archive-photo-149641772",
+      "archive-photo-149641774",
+      "archive-photo-149641783",
+      "archive-photo-200292699",
+      "archive-photo-200292697",
+      "archive-photo-133902142",
+      "archive-photo-129755140",
+      "archive-photo-129910761",
+      "archive-photo-116353085",
+      "archive-photo-129755542",
+      "archive-photo-129755691",
+      "archive-photo-129755057",
+      "archive-photo-129755373",
+      "archive-photo-129755169",
+      "archive-photo-132504755",
+      "archive-photo-116511126",
+      "archive-photo-116511972",
+      "archive-photo-116511803",
+      "archive-photo-116511804",
+      "local-review-149641773",
+      "local-review-149641784"
+    ],
+    "clubs": [
+      {
+        "name": "SV Houten",
+        "url": "https://www.svhouten.nl/",
+        "municipality": "houten",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:36.761366+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svhouten.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.svhouten.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window"
+      },
+      {
+        "name": "FC Delta Sports '95",
+        "url": "https://www.deltasports.nl",
+        "municipality": "houten",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.507466+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "V.V. 't Goy",
+        "url": "https://www.vvtgoy.nl",
+        "municipality": "houten",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:55.696605+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "IJsselstein",
+    "slug": "ijsselstein",
+    "eligibleTaggedPhotos": 27,
+    "photoKeys": [
+      "archive-photo-198143453",
+      "archive-photo-198143458",
+      "archive-photo-138648040",
+      "archive-photo-172288426",
+      "archive-photo-172288622",
+      "archive-photo-172288775",
+      "archive-photo-172290473",
+      "archive-photo-172291069",
+      "archive-photo-172291126",
+      "archive-photo-172291208",
+      "archive-photo-172290139",
+      "archive-photo-190554301",
+      "archive-photo-190554311",
+      "archive-photo-190554320",
+      "archive-photo-186216621",
+      "archive-photo-186216617",
+      "archive-photo-186315921",
+      "archive-photo-186315926",
+      "archive-photo-186315935",
+      "archive-photo-186315938",
+      "archive-photo-186315937",
+      "archive-photo-190554318",
+      "archive-photo-191386471",
+      "archive-photo-191386472",
+      "archive-photo-191472589",
+      "local-review-198143454",
+      "local-review-198143459"
+    ],
+    "clubs": [
+      {
+        "name": "IJFC",
+        "url": "https://www.ijfc.nl/",
+        "municipality": "ijsselstein",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:38.597366+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "VVIJ",
+        "url": "https://www.vvij.nl",
+        "municipality": "ijsselstein",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:03.154571+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Leusden",
+    "slug": "leusden",
+    "eligibleTaggedPhotos": 24,
+    "photoKeys": [
+      "archive-photo-153287004",
+      "archive-photo-115613854",
+      "archive-photo-115613982",
+      "archive-photo-115614017",
+      "archive-photo-115613880",
+      "archive-photo-115613903",
+      "archive-photo-115613929",
+      "archive-photo-115613957",
+      "archive-photo-180509880",
+      "archive-photo-153287042",
+      "archive-photo-153287005",
+      "archive-photo-175430995",
+      "archive-photo-175430996",
+      "archive-photo-175430997",
+      "archive-photo-175431006",
+      "archive-photo-199605678",
+      "archive-photo-199605680",
+      "archive-photo-199605664",
+      "archive-photo-153845058",
+      "archive-photo-153845062",
+      "local-review-115614674",
+      "local-review-115614675",
+      "local-review-115614676",
+      "local-review-116446231"
+    ],
+    "clubs": [
+      {
+        "name": "Roda 46",
+        "url": "https://www.roda46.nl/",
+        "municipality": "leusden",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:38.691676+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "Roda ’46"
+        ]
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Lopik",
+    "slug": "lopik",
+    "eligibleTaggedPhotos": 0,
+    "photoKeys": [],
+    "clubs": [
+      {
+        "name": "SV Lopik",
+        "url": "https://www.svlopik.nl/",
+        "municipality": "lopik",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:39.508296+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svlopik.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.svlopik.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window"
+      },
+      {
+        "name": "V.V. Benschop",
+        "url": "https://www.vvbenschop.nl",
+        "municipality": "lopik",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.407360+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "Benschop"
+        ]
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Montfoort",
+    "slug": "montfoort",
+    "eligibleTaggedPhotos": 2,
+    "photoKeys": [
+      "archive-photo-133365551",
+      "archive-photo-133365549"
+    ],
+    "clubs": [
+      {
+        "name": "Montfoort SV 19",
+        "url": "https://www.montfoortsv19.nl/",
+        "municipality": "montfoort",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:39.538393+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.montfoortsv19.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.montfoortsv19.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window",
+        "aliases": [
+          "Montfoort SV ’19"
+        ]
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Nieuwegein",
+    "slug": "nieuwegein",
+    "eligibleTaggedPhotos": 22,
+    "photoKeys": [
+      "archive-photo-152246562",
+      "archive-photo-138648039",
+      "archive-photo-194224689",
+      "archive-photo-194225990",
+      "archive-photo-178494459",
+      "archive-photo-129740149",
+      "archive-photo-129739997",
+      "archive-photo-129740254",
+      "archive-photo-129754987",
+      "archive-photo-129755004",
+      "archive-photo-129739992",
+      "archive-photo-129739998",
+      "archive-photo-138648043",
+      "archive-photo-128923259",
+      "archive-photo-128923261",
+      "archive-photo-128923267",
+      "archive-photo-128923272",
+      "archive-photo-128923274",
+      "archive-photo-138609736",
+      "archive-photo-138609737",
+      "local-review-160264271",
+      "local-review-129739993"
+    ],
+    "clubs": [
+      {
+        "name": "JSV Nieuwegein",
+        "url": "https://www.jsv-nieuwegein.nl/",
+        "municipality": "nieuwegein",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:39.968598+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.jsv-nieuwegein.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.jsv-nieuwegein.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window"
+      },
+      {
+        "name": "SV Parkhout",
+        "url": "https://www.svparkhout.nl",
+        "municipality": "nieuwegein",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:57.193422+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svparkhout.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.svparkhout.nl/home/feed/"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Oudewater",
+    "slug": "oudewater",
+    "eligibleTaggedPhotos": 5,
+    "photoKeys": [
+      "archive-photo-133365808",
+      "archive-photo-133365806",
+      "oudewater-heksenwaag-2024",
+      "local-review-133365805",
+      "local-review-133365812"
+    ],
+    "clubs": [
+      {
+        "name": "FC Oudewater",
+        "url": "https://www.fcoudewater.nl/",
+        "municipality": "oudewater",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:40.071716+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) Exceeded the maximum allowed file size (2000000) with 2000000 bytes\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Renswoude",
+    "slug": "renswoude",
+    "eligibleTaggedPhotos": 15,
+    "photoKeys": [
+      "archive-photo-157205751",
+      "archive-photo-157205900",
+      "archive-photo-140605540",
+      "archive-photo-140605553",
+      "archive-photo-140605574",
+      "archive-photo-140605538",
+      "archive-photo-140605543",
+      "archive-photo-140605547",
+      "archive-photo-140605548",
+      "archive-photo-124736993",
+      "archive-photo-124737045",
+      "archive-photo-124737046",
+      "archive-photo-198920746",
+      "archive-photo-198920756",
+      "local-review-140605552"
+    ],
+    "clubs": [
+      {
+        "name": "VV Renswoude",
+        "url": "https://www.vvrenswoude.nl/",
+        "municipality": "renswoude",
+        "sport": "voetbal",
+        "discoverySource": "https://www.vvrenswoude.nl/",
+        "checkedAt": "2026-10-13T21:53:44.886185+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Rhenen",
+    "slug": "rhenen",
+    "eligibleTaggedPhotos": 20,
+    "photoKeys": [
+      "rhenen-station-2024",
+      "archive-photo-158448066",
+      "archive-photo-147896157",
+      "archive-photo-122791485",
+      "archive-photo-147896165",
+      "archive-photo-147896167",
+      "archive-photo-131634085",
+      "archive-photo-120500694",
+      "archive-photo-166479857",
+      "archive-photo-144606267",
+      "archive-photo-147896166",
+      "archive-photo-151765248",
+      "archive-photo-152462006",
+      "archive-photo-152462018",
+      "archive-photo-152462027",
+      "archive-photo-152462024",
+      "archive-photo-154850304",
+      "local-review-144606270",
+      "local-review-147896159",
+      "local-review-151765246"
+    ],
+    "clubs": [
+      {
+        "name": "Oranje Wit Elst",
+        "url": "https://www.vvoranjewit.nl/",
+        "municipality": "rhenen",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:41.507446+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 404\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Soest",
+    "slug": "soest",
+    "eligibleTaggedPhotos": 22,
+    "photoKeys": [
+      "soest-station-2024",
+      "archive-photo-146251826",
+      "archive-photo-148203340",
+      "archive-photo-176933021",
+      "archive-photo-168903814",
+      "archive-photo-146251589",
+      "archive-photo-146251601",
+      "archive-photo-146251600",
+      "archive-photo-146251587",
+      "archive-photo-168845530",
+      "archive-photo-168845708",
+      "archive-photo-146251831",
+      "archive-photo-146251833",
+      "archive-photo-189753064",
+      "archive-photo-146251834",
+      "archive-photo-146251851",
+      "archive-photo-168846030",
+      "archive-photo-168846018",
+      "local-review-161646504",
+      "local-review-146251599",
+      "local-review-168845526",
+      "local-review-146251603"
+    ],
+    "clubs": [
+      {
+        "name": "SO Soest",
+        "url": "https://www.so-soest.nl/",
+        "municipality": "soest",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:41.585390+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Stichtse Vecht",
+    "slug": "stichtse-vecht",
+    "eligibleTaggedPhotos": 35,
+    "photoKeys": [
+      "stichtse-vecht-poldersloot-2024",
+      "stichtse-vecht-gemaal-2024",
+      "archive-photo-152164000",
+      "archive-photo-178787897",
+      "archive-photo-146500250",
+      "archive-photo-146500258",
+      "archive-photo-149271463",
+      "archive-photo-149271467",
+      "archive-photo-149271469",
+      "archive-photo-195913633",
+      "archive-photo-195913636",
+      "archive-photo-195913634",
+      "archive-photo-195913637",
+      "archive-photo-178337932",
+      "archive-photo-168368214",
+      "archive-photo-168368213",
+      "archive-photo-168368215",
+      "archive-photo-168368216",
+      "archive-photo-152249562",
+      "archive-photo-152164892",
+      "archive-photo-152194766",
+      "archive-photo-152164896",
+      "archive-photo-152166690",
+      "archive-photo-152166689",
+      "archive-photo-152166691",
+      "archive-photo-152164893",
+      "archive-photo-152164891",
+      "archive-photo-152202408",
+      "archive-photo-152165868",
+      "archive-photo-152165869",
+      "archive-photo-152201460",
+      "archive-photo-152201459",
+      "local-review-168368217",
+      "local-review-149271465",
+      "local-review-149271464"
+    ],
+    "clubs": [
+      {
+        "name": "FC Breukelen",
+        "url": "https://www.fcbreukelen.nl/",
+        "municipality": "stichtse-vecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:41.842787+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.fcbreukelen.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.fcbreukelen.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window"
+      },
+      {
+        "name": "V.V. D.W.S.M.",
+        "url": "https://www.dwsm.nl",
+        "municipality": "stichtse-vecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:54.067114+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.dwsm.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.dwsm.nl/home/feed/",
+        "aliases": [
+          "DWSM"
+        ]
+      },
+      {
+        "name": "V.V. Kockengen",
+        "url": "https://www.vvkockengen.nl",
+        "municipality": "stichtse-vecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.711123+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "V.V. Maarssen",
+        "url": "https://www.vvmaarssen.nl",
+        "municipality": "stichtse-vecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.817251+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vvmaarssen.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.vvmaarssen.nl/home/feed/"
+      },
+      {
+        "name": "OSM'75",
+        "url": "https://www.osm75.nl",
+        "municipality": "stichtse-vecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:57.094040+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "S.V. De Vecht",
+        "url": "https://www.svdevecht.nl/",
+        "municipality": "stichtse-vecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:02.496711+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Utrecht",
+    "slug": "utrecht",
+    "eligibleTaggedPhotos": 26,
+    "photoKeys": [
+      "utrecht-bibliotheek-2024",
+      "utrecht-stadskantoor-2024",
+      "utrecht-spoorwerk-2024",
+      "utrecht-buurtstraat-2024",
+      "utrecht-park-2024",
+      "utrecht-rivm-2024",
+      "utrecht-universiteitsbibliotheek-2024",
+      "utrecht-woningen-2024",
+      "utrecht-plus-ultra-bouw-2024",
+      "utrecht-high-five-bouw-2024",
+      "archive-photo-168180556",
+      "archive-photo-168027149",
+      "archive-photo-167886159",
+      "archive-photo-145560073",
+      "archive-photo-145560071",
+      "archive-photo-168035580",
+      "archive-photo-167896167",
+      "archive-photo-114430909",
+      "archive-photo-158971430",
+      "archive-photo-128383638",
+      "archive-photo-151034208",
+      "archive-photo-160917658",
+      "archive-photo-118384063",
+      "archive-photo-118384060",
+      "archive-photo-154844048",
+      "archive-photo-147370243"
+    ],
+    "clubs": [
+      {
+        "name": "USV Hercules",
+        "url": "https://www.usvhercules.nl/",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:42.393416+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.usvhercules.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.usvhercules.nl/feed/",
+        "feedStatus": "connected_signals",
+        "received": 10,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+        "aliases": [
+          "Hercules"
+        ]
+      },
+      {
+        "name": "V.V. De Meern",
+        "url": "https://www.vvdemeern.nl",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.410161+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "SV Overvecht De Dreef",
+        "url": "https://www.svodedreef.nl/",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.507333+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (6) Could not resolve host: www.svodedreef.nl\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "C.O.V. DESTO",
+        "url": "https://desto-utrecht.nl/",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.536765+00:00",
+        "feedChecks": [
+          {
+            "url": "https://desto-utrecht.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://desto-utrecht.nl/feed/",
+        "received": 10,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+        "aliases": [
+          "DESTO"
+        ]
+      },
+      {
+        "name": "ASV D.V.S.U.",
+        "url": "https://www.dvsu.nl",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:53.965438+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.dvsu.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.dvsu.nl/home/feed/",
+        "aliases": [
+          "DVSU"
+        ]
+      },
+      {
+        "name": "USV Elinkwijk",
+        "url": "https://www.elinkwijk.nl",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:54.128949+00:00",
+        "feedChecks": [
+          {
+            "url": "https://elinkwijk.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://elinkwijk.nl/feed/",
+        "received": 10,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+        "qualityWarning": "Drie casinopromotiepagina’s in feed aangetroffen en uitgesloten. Alleen eigen clubnieuws inhoudelijk beoordelen; geen automatische publicatie.",
+        "aliases": [
+          "Elinkwijk"
+        ]
+      },
+      {
+        "name": "S.V. Kampong",
+        "url": "https://www.kampongvoetbal.nl/",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.646929+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "S.V. Nieuw Utrecht",
+        "url": "https://www.svnieuwutrecht.nl",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.873159+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svnieuwutrecht.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://www.svnieuwutrecht.nl/feed/",
+        "received": 1,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00"
+      },
+      {
+        "name": "PVC",
+        "url": "https://www.pvcvoetbal.nl",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:57.305123+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.pvcvoetbal.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.pvcvoetbal.nl/home/feed/"
+      },
+      {
+        "name": "PVCV",
+        "url": "https://www.pvcv.nl",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:57.548743+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "UVV Voetbal",
+        "url": "https://www.uvv-voetbal.nl/",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:01.909934+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.uvv-voetbal.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.uvv-voetbal.nl/home/feed/"
+      },
+      {
+        "name": "VVJ",
+        "url": "https://www.vvjutrecht.nl/",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:03.257325+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vvjutrecht.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.vvjutrecht.nl/home/feed/"
+      },
+      {
+        "name": "Zwaluwen Utrecht'11",
+        "url": "https://www.zwaluwenutrecht1911.nl/",
+        "municipality": "utrecht",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:05.323492+00:00",
+        "feedChecks": [],
+        "homepageStatus": "://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Utrechtse Heuvelrug",
+    "slug": "utrechtse-heuvelrug",
+    "eligibleTaggedPhotos": 15,
+    "photoKeys": [
+      "utrechtse-heuvelrug-station-maarn-2024",
+      "archive-photo-155067797",
+      "archive-photo-155067802",
+      "archive-photo-131054202",
+      "archive-photo-147896670",
+      "archive-photo-198471272",
+      "archive-photo-200994864",
+      "archive-photo-158857226",
+      "archive-photo-158857218",
+      "archive-photo-166479253",
+      "archive-photo-198470932",
+      "archive-photo-149553706",
+      "local-review-198471274",
+      "local-review-198471273",
+      "local-review-200994866"
+    ],
+    "clubs": [
+      {
+        "name": "DEV Doorn",
+        "url": "https://www.devdoorn.nl/",
+        "municipality": "utrechtse-heuvelrug",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:42.712743+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.devdoorn.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.devdoorn.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window"
+      },
+      {
+        "name": "FC Driebergen",
+        "url": "https://www.fcdriebergen.nl",
+        "municipality": "utrechtse-heuvelrug",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:53.304060+00:00",
+        "feedChecks": [
+          {
+            "url": "https://fcdriebergen.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 15
+          },
+          {
+            "url": "https://fcdriebergen.nl/sample-page/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 0
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://fcdriebergen.nl/feed/",
+        "received": 15,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00"
+      },
+      {
+        "name": "DVSA",
+        "url": "https://www.dvsa.nl",
+        "municipality": "utrechtse-heuvelrug",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:53.904833+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "V.V. HDS",
+        "url": "https://www.vvhds.nl",
+        "municipality": "utrechtse-heuvelrug",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:55.875305+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vvhds.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.vvhds.nl/home/feed/",
+        "aliases": [
+          "HDS"
+        ]
+      },
+      {
+        "name": "SVMM",
+        "url": "https://www.svmm.nl/",
+        "municipality": "utrechtse-heuvelrug",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:00.822213+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svmm.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.svmm.nl/home/feed/"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Veenendaal",
+    "slug": "veenendaal",
+    "eligibleTaggedPhotos": 23,
+    "photoKeys": [
+      "veenendaal-station-2024",
+      "archive-photo-149588189",
+      "archive-photo-149588213",
+      "archive-photo-149588212",
+      "archive-photo-149588216",
+      "archive-photo-149588203",
+      "archive-photo-147896374",
+      "archive-photo-128104577",
+      "archive-photo-128104553",
+      "archive-photo-128104565",
+      "archive-photo-138612955",
+      "archive-photo-138612961",
+      "archive-photo-138616205",
+      "archive-photo-138616222",
+      "archive-photo-138616209",
+      "archive-photo-138621386",
+      "archive-photo-138625132",
+      "archive-photo-138621390",
+      "archive-photo-138621393",
+      "archive-photo-138623239",
+      "archive-photo-138623244",
+      "local-review-138612965",
+      "local-review-138612964"
+    ],
+    "clubs": [
+      {
+        "name": "GVVV",
+        "url": "https://www.gvvv.nl/",
+        "municipality": "veenendaal",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:43.841336+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "DOVO",
+        "url": "https://www.dovo.nl/196/nieuws/",
+        "municipality": "veenendaal",
+        "sport": "voetbal",
+        "discoverySource": "https://www.dovo.nl/196/nieuws/",
+        "checkedAt": "2026-10-13T21:53:45.056985+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "De Merino's",
+        "url": "https://www.demerinos.nl",
+        "municipality": "veenendaal",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.502158+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "Merino’s"
+        ]
+      },
+      {
+        "name": "V.V. Veenendaal",
+        "url": "https://www.vvveenendaal.nl",
+        "municipality": "veenendaal",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:02.586014+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vvveenendaal.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://www.vvveenendaal.nl/feed/",
+        "received": 3,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Vijfheerenlanden",
+    "slug": "vijfheerenlanden",
+    "eligibleTaggedPhotos": 8,
+    "photoKeys": [
+      "archive-photo-168563748",
+      "archive-photo-149638588",
+      "archive-photo-149638587",
+      "archive-photo-149638595",
+      "archive-photo-120378786",
+      "local-review-149638586",
+      "local-review-149638594",
+      "local-review-149638593"
+    ],
+    "clubs": [
+      {
+        "name": "Brederodes",
+        "url": "https://www.brederodes.nl/",
+        "municipality": "vijfheerenlanden",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:43.950125+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "Lekvogels",
+        "url": "https://www.lekvogels.nl",
+        "municipality": "vijfheerenlanden",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.734681+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "LRC Leerdam",
+        "url": "https://www.vvlrc.nl/",
+        "municipality": "vijfheerenlanden",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.791713+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Wijk bij Duurstede",
+    "slug": "wijk-bij-duurstede",
+    "eligibleTaggedPhotos": 18,
+    "photoKeys": [
+      "archive-photo-131108282",
+      "archive-photo-131108284",
+      "archive-photo-130960261",
+      "archive-photo-131672513",
+      "archive-photo-133979972",
+      "archive-photo-133979973",
+      "archive-photo-131105826",
+      "archive-photo-130961522",
+      "archive-photo-130960260",
+      "archive-photo-197248265",
+      "archive-photo-131672512",
+      "archive-photo-133456561",
+      "archive-photo-133456565",
+      "archive-photo-133456560",
+      "archive-photo-133456558",
+      "archive-photo-133456557",
+      "archive-photo-174961506",
+      "archive-photo-174961630"
+    ],
+    "clubs": [
+      {
+        "name": "CDW",
+        "url": "https://cdw.nl/",
+        "municipality": "wijk-bij-duurstede",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:44.022810+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "S.V.F.",
+        "url": "https://www.svfcothen.nl/",
+        "municipality": "wijk-bij-duurstede",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:58.749232+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svfcothen.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://www.svfcothen.nl/feed/",
+        "received": 10,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+        "aliases": [
+          "SVF"
+        ]
+      },
+      {
+        "name": "S.V.L.",
+        "url": "https://www.svl-voetbal.nl/",
+        "municipality": "wijk-bij-duurstede",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:58.955276+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.svl-voetbal.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.svl-voetbal.nl/home/feed/",
+        "aliases": [
+          "SVL"
+        ]
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Woerden",
+    "slug": "woerden",
+    "eligibleTaggedPhotos": 24,
+    "photoKeys": [
+      "woerden-station-2024",
+      "woerden-bus-2024",
+      "woerden-werk-2024",
+      "woerden-station-perron-2024",
+      "woerden-sportlust-clubgebouw-2022",
+      "woerden-stembureau-2022",
+      "woerden-flexflitser-2024",
+      "archive-photo-155270985",
+      "archive-photo-148560773",
+      "archive-photo-146500448",
+      "archive-photo-121843707",
+      "archive-photo-122276959",
+      "archive-photo-125065226",
+      "archive-photo-125065228",
+      "archive-photo-125065272",
+      "archive-photo-122128969",
+      "archive-photo-166997518",
+      "archive-photo-166997516",
+      "archive-photo-170357479",
+      "archive-photo-121880881",
+      "archive-photo-133365442",
+      "sportlust-relief-2022",
+      "local-review-116084437",
+      "local-review-125065227"
+    ],
+    "clubs": [
+      {
+        "name": "Sportlust 46",
+        "url": "https://www.sportlust46.nl/",
+        "municipality": "woerden",
+        "sport": "voetbal",
+        "feedCandidates": [],
+        "links": [],
+        "status": "fetch_error",
+        "error": "curl: (56) The requested URL returned error: 403\n",
+        "checkedAt": "2026-10-13T21:53:35.512131+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Directe crawler opnieuw testen; nieuwsindex, programma en fotoarchief gevonden. Geen RSS of fotorechten bevestigd.",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "Sportlust",
+          "Sportlust ’46"
+        ],
+        "webVerification": {
+          "checkedAt": "2026-10-14",
+          "status": "readable_via_web",
+          "newsUrl": "https://www.sportlust46.nl/192/nieuws/",
+          "programmeUrl": "https://www.sportlust46.nl/229/programma/",
+          "photoArchiveUrl": "https://www.sportlust46.nl/1111/foto/?type=1&from=0",
+          "note": "Website, nieuwsindex, programma en fotoarchief via web gelezen. Eerdere directe crawler gaf 403; automatische toegang nog niet bevestigd. Fotolicentie niet bevestigd."
+        }
+      },
+      {
+        "name": "VTC Woerden",
+        "url": "https://vtcwoerden.nl/",
+        "municipality": "woerden",
+        "sport": "volleybal",
+        "feedCandidates": [
+          "https://vtcwoerden.nl/feed/",
+          "https://vtcwoerden.nl/comments/feed/",
+          "https://vtcwoerden.nl/home/feed/",
+          "https://vtcwoerden.nl/feed/"
+        ],
+        "links": [
+          {
+            "title": "Nieuws",
+            "url": "https://vtcwoerden.nl/nieuws/"
+          },
+          {
+            "title": "Quadrant Bouw VTC Woerden Dames 1 wint vijfsetter van Compaen DS2",
+            "url": "https://vtcwoerden.nl/dames-1/quadrant-bouw-vtc-woerden-dames-1-wint-vijfsetter-van-compaen-ds2/"
+          },
+          {
+            "title": "Meer nieuws",
+            "url": "https://vtcwoerden.nl/nieuws/"
+          }
+        ],
+        "checkedAt": "2026-10-13T21:53:35.512370+00:00",
+        "status": "website_verified",
+        "evidenceFile": "work/quarter-sources/98932236f740e141473a9e78-a892199499f1.html",
+        "feed": "https://vtcwoerden.nl/feed/",
+        "feedStatus": "connected_signals",
+        "received": 5,
+        "skipped": 5,
+        "feedChecks": [
+          {
+            "url": "https://vtcwoerden.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          },
+          {
+            "url": "https://vtcwoerden.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 0
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00"
+      },
+      {
+        "name": "SCH 44",
+        "url": "https://www.sch44.nl/",
+        "municipality": "woerden",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:44.144643+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "SCH ’44"
+        ]
+      },
+      {
+        "name": "SC Woerden",
+        "url": "https://www.scwoerden.nl/",
+        "municipality": "woerden",
+        "sport": "voetbal",
+        "discoverySource": "https://www.scwoerden.nl/",
+        "checkedAt": "2026-10-13T21:53:44.971730+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "V.V. Kamerik",
+        "url": "https://www.vvkamerik.nl",
+        "municipality": "woerden",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:56.559972+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed",
+        "aliases": [
+          "Kamerik"
+        ]
+      },
+      {
+        "name": "VEP",
+        "url": "https://www.vvvep.nl/",
+        "municipality": "woerden",
+        "sport": "voetbal",
+        "aliases": [
+          "VV VEP"
+        ],
+        "discoverySource": "https://www.vvvep.nl/1/nieuws/?tid=1",
+        "checkedAt": "2026-10-14",
+        "status": "website_verified",
+        "homepageStatus": "Via web bevestigd",
+        "feedChecks": [],
+        "feedStatus": "no_verified_feed",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten en signalen; geen toestemming voor overname van clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, programma, uitslagen en afgelastingen.",
+        "next": "Nieuwsindex en wedstrijdverslagen uitlezen; RSS en beeldrechten afzonderlijk controleren."
+      },
+      {
+        "name": "SIVEO ’60",
+        "url": "https://www.siveo.nl/",
+        "municipality": "woerden",
+        "sport": "voetbal",
+        "aliases": [
+          "Siveo",
+          "Siveo 60"
+        ],
+        "discoverySource": "https://www.siveo.nl/411/over-siveo/",
+        "checkedAt": "2026-10-14",
+        "status": "website_verified",
+        "homepageStatus": "Via web bevestigd",
+        "feedChecks": [],
+        "feedStatus": "no_verified_feed",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten en signalen; geen toestemming voor overname van clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, programma, uitslagen en afgelastingen.",
+        "next": "Nieuwsindex en wedstrijdverslagen uitlezen; RSS en beeldrechten afzonderlijk controleren."
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Woudenberg",
+    "slug": "woudenberg",
+    "eligibleTaggedPhotos": 18,
+    "photoKeys": [
+      "archive-photo-131568180",
+      "archive-photo-118462562",
+      "archive-photo-130272778",
+      "archive-photo-130272981",
+      "archive-photo-175858188",
+      "archive-photo-178514676",
+      "archive-photo-178514674",
+      "archive-photo-178514665",
+      "archive-photo-178514672",
+      "archive-photo-200072706",
+      "archive-photo-200072708",
+      "archive-photo-126143958",
+      "archive-photo-146036931",
+      "archive-photo-130273101",
+      "archive-photo-175858191",
+      "local-review-131568181",
+      "local-review-131568182",
+      "local-review-146036941"
+    ],
+    "clubs": [
+      {
+        "name": "VV Woudenberg",
+        "url": "https://www.vvwoudenberg.nl/",
+        "municipality": "woudenberg",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:44.233046+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  },
+  {
+    "name": "Zeist",
+    "slug": "zeist",
+    "eligibleTaggedPhotos": 22,
+    "photoKeys": [
+      "zeist-station-den-dolder-2024",
+      "archive-photo-146252078",
+      "archive-photo-125336026",
+      "archive-photo-170844307",
+      "archive-photo-125336011",
+      "archive-photo-125335998",
+      "archive-photo-125335997",
+      "archive-photo-190539833",
+      "archive-photo-150531353",
+      "archive-photo-150557765",
+      "archive-photo-156684344",
+      "archive-photo-156687804",
+      "archive-photo-150556773",
+      "archive-photo-163286828",
+      "archive-photo-154845430",
+      "archive-photo-154845435",
+      "archive-photo-154845437",
+      "archive-photo-154845301",
+      "archive-photo-154845303",
+      "archive-photo-150556248",
+      "archive-photo-153144839",
+      "archive-photo-156756582"
+    ],
+    "clubs": [
+      {
+        "name": "VV Jonathan",
+        "url": "https://www.vvjonathan.nl/",
+        "municipality": "zeist",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T21:53:44.316321+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vvjonathan.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Bron voor feiten/signalen; geen toestemming voor overname van teksten of clubfoto’s vastgesteld.",
+        "scope": "Eigen clubnieuws, wedstrijdverslagen, evenementen en afgelastingen; geen externe nationale voetbalfeed.",
+        "feed": "https://www.vvjonathan.nl/home/feed/",
+        "feedStatus": "no_dated_items_in_window",
+        "aliases": [
+          "Jonathan"
+        ]
+      },
+      {
+        "name": "D.O.S.C.",
+        "url": "https://www.dosc.nl",
+        "municipality": "zeist",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:52.585950+00:00",
+        "feedChecks": [
+          {
+            "url": "https://dosc.nl/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 10
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Feiten, wedstrijd-/publicatiedatum en beeldrechten beoordelen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "connected_signals",
+        "feed": "https://dosc.nl/feed/",
+        "received": 6,
+        "connectedAt": "2026-10-14T03:15:28.048024+00:00",
+        "aliases": [
+          "DOSC"
+        ]
+      },
+      {
+        "name": "Saestum",
+        "url": "https://www.saestum.nl",
+        "municipality": "zeist",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:28:57.860280+00:00",
+        "feedChecks": [],
+        "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "fetch_error",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      },
+      {
+        "name": "V.V. 't Vliegdorp",
+        "url": "https://www.vliegdorp.nl/",
+        "municipality": "zeist",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:02.897607+00:00",
+        "feedChecks": [
+          {
+            "url": "https://www.vliegdorp.nl/home/feed/",
+            "status": "XML-feed bereikbaar",
+            "items": 1
+          }
+        ],
+        "homepageStatus": "Opgehaald",
+        "next": "Geen gedateerde clubberichten in deze feed; nieuwsindex onderzoeken",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_dated_items_in_window",
+        "feed": "https://www.vliegdorp.nl/home/feed/"
+      },
+      {
+        "name": "S.V. Zeist",
+        "url": "https://www.svzeist.nl",
+        "municipality": "zeist",
+        "sport": "voetbal",
+        "discoverySource": "https://www.fcutrecht.nl/club/fc-utrecht-partnerclubs/fc-utrecht-partnerclubs/",
+        "checkedAt": "2026-10-13T22:29:03.622124+00:00",
+        "feedChecks": [],
+        "homepageStatus": "Opgehaald",
+        "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+        "status": "website_verified",
+        "publicationEnabled": false,
+        "rights": "Feitenbron; hergebruik van clubfoto’s en teksten niet vrijgegeven.",
+        "scope": "Eigen clubnieuws; wedstrijd, team en datum afzonderlijk controleren.",
+        "feedStatus": "no_verified_feed"
+      }
+    ],
+    "remaining": [
+      "Meer clubs inventariseren; deze startlijst is niet volledig",
+      "Club- en sportparkfoto’s met expliciete rechten verzamelen",
+      "Toewijzing op club, sport, locatie en datum; niet alleen onderwerp"
+    ]
+  }
+]

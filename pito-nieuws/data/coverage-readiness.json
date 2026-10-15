@@ -1,0 +1,1505 @@
+{
+  "checkedAt": "2026-10-12T07:48:20.994706+00:00",
+  "complete": false,
+  "uniqueIndexCandidates": 581,
+  "imageCandidates": 286,
+  "newArticlesPublishedByThisCrawl": 0,
+  "municipalities": [
+    {
+      "municipality": "amersfoort",
+      "name": "Amersfoort",
+      "registeredRoutes": 17,
+      "mediaSources": [
+        "Eemland1",
+        "RTV Utrecht",
+        "AD Amersfoort",
+        "indebuurt Amersfoort",
+        "De Stad Amersfoort"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6bcbc98453",
+          "name": "Eemland1",
+          "checkedAt": "2026-10-12T07:18:13.405057+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 18,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "amersfoort",
+            "leusden",
+            "baarn",
+            "bunschoten",
+            "soest"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-d4c86224c4",
+          "name": "De Stad Amersfoort",
+          "checkedAt": "2026-10-12T07:35:02.251055+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 4,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "amersfoort"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 29,
+      "candidateImages": 4,
+      "articleRecordsIncludingConcepts": 13,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "baarn",
+      "name": "Baarn",
+      "registeredRoutes": 25,
+      "mediaSources": [
+        "Eemland1",
+        "RTV Utrecht",
+        "AD Baarn",
+        "Baarnsche Courant"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6bcbc98453",
+          "name": "Eemland1",
+          "checkedAt": "2026-10-12T07:18:13.405057+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 18,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "amersfoort",
+            "leusden",
+            "baarn",
+            "bunschoten",
+            "soest"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-dba5350795",
+          "name": "Baarnsche Courant",
+          "checkedAt": "2026-10-12T07:35:08.210476+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "baarn"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 30,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 7,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "bunnik",
+      "name": "Bunnik",
+      "registeredRoutes": 27,
+      "mediaSources": [
+        "Omroep ZOUT",
+        "RTV Utrecht",
+        "AD Bunnik",
+        "Bunniks Nieuws"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-bc9b6aa170",
+          "name": "Omroep ZOUT",
+          "checkedAt": "2026-10-12T07:18:13.875789+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 4,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "de-bilt",
+            "bunnik",
+            "zeist",
+            "utrechtse-heuvelrug",
+            "wijk-bij-duurstede"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-700d76d325",
+          "name": "Bunniks Nieuws",
+          "checkedAt": "2026-10-12T07:34:51.231969+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "bunnik"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 22,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 11,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "bunschoten",
+      "name": "Bunschoten",
+      "registeredRoutes": 18,
+      "mediaSources": [
+        "Eemland1",
+        "RTV Utrecht",
+        "AD Bunschoten"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6bcbc98453",
+          "name": "Eemland1",
+          "checkedAt": "2026-10-12T07:18:13.405057+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 18,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "amersfoort",
+            "leusden",
+            "baarn",
+            "bunschoten",
+            "soest"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 25,
+      "candidateImages": 0,
+      "articleRecordsIncludingConcepts": 19,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "de-bilt",
+      "name": "De Bilt",
+      "registeredRoutes": 49,
+      "mediaSources": [
+        "Omroep ZOUT",
+        "RTV Utrecht",
+        "AD De Bilt",
+        "Vierklank"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-bc9b6aa170",
+          "name": "Omroep ZOUT",
+          "checkedAt": "2026-10-12T07:18:13.875789+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 4,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "de-bilt",
+            "bunnik",
+            "zeist",
+            "utrechtse-heuvelrug",
+            "wijk-bij-duurstede"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-920f5c3412",
+          "name": "Vierklank",
+          "checkedAt": "2026-10-12T07:34:59.732189+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "de-bilt"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 22,
+      "candidateImages": 4,
+      "articleRecordsIncludingConcepts": 36,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "de-ronde-venen",
+      "name": "De Ronde Venen",
+      "registeredRoutes": 26,
+      "mediaSources": [
+        "RTV Ronde Venen",
+        "RTV Utrecht",
+        "AD De Ronde Venen"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-80437f9cba",
+          "name": "RTV Ronde Venen",
+          "checkedAt": "2026-10-12T07:34:44.097013+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 18,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "de-ronde-venen"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 29,
+      "candidateImages": 19,
+      "articleRecordsIncludingConcepts": 12,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "eemnes",
+      "name": "Eemnes",
+      "registeredRoutes": 10,
+      "mediaSources": [
+        "NH Gooi",
+        "RTV Utrecht",
+        "AD Eemnes"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-feb44178d3",
+          "name": "NH Gooi",
+          "checkedAt": "2026-10-12T07:34:44.775205+00:00",
+          "pages": 0,
+          "dynamicPagination": false,
+          "discovered": 0,
+          "errors": [
+            "https://www.nhnieuws.nl/nhgooi HTTP 307"
+          ],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "eemnes"
+          ],
+          "status": "unresolved",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 0,
+      "candidateImages": 0,
+      "articleRecordsIncludingConcepts": 12,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "houten",
+      "name": "Houten",
+      "registeredRoutes": 78,
+      "mediaSources": [
+        "Omroep Lekstroom",
+        "RTV Utrecht",
+        "AD Houten",
+        "Houtens Nieuws"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6a29f2d4eb",
+          "name": "Omroep Lekstroom",
+          "checkedAt": "2026-10-12T07:18:14.744153+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 1,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "houten",
+            "ijsselstein",
+            "lopik",
+            "nieuwegein"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-190f4113cc",
+          "name": "Houtens Nieuws",
+          "checkedAt": "2026-10-12T07:34:55.334052+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "houten"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 34,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 28,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "ijsselstein",
+      "name": "IJsselstein",
+      "registeredRoutes": 21,
+      "mediaSources": [
+        "Omroep Lekstroom",
+        "RTV Utrecht",
+        "AD IJsselstein"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6a29f2d4eb",
+          "name": "Omroep Lekstroom",
+          "checkedAt": "2026-10-12T07:18:14.744153+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 1,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "houten",
+            "ijsselstein",
+            "lopik",
+            "nieuwegein"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 29,
+      "candidateImages": 0,
+      "articleRecordsIncludingConcepts": 15,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "leusden",
+      "name": "Leusden",
+      "registeredRoutes": 13,
+      "mediaSources": [
+        "Eemland1",
+        "RTV Utrecht",
+        "AD Leusden",
+        "Leusder Krant"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6bcbc98453",
+          "name": "Eemland1",
+          "checkedAt": "2026-10-12T07:18:13.405057+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 18,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "amersfoort",
+            "leusden",
+            "baarn",
+            "bunschoten",
+            "soest"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-c261f907c7",
+          "name": "Leusder Krant",
+          "checkedAt": "2026-10-12T07:35:04.244652+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "leusden"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 30,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 3,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "lopik",
+      "name": "Lopik",
+      "registeredRoutes": 27,
+      "mediaSources": [
+        "Omroep Lekstroom",
+        "RTV Utrecht",
+        "AD Lopik"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6a29f2d4eb",
+          "name": "Omroep Lekstroom",
+          "checkedAt": "2026-10-12T07:18:14.744153+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 1,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "houten",
+            "ijsselstein",
+            "lopik",
+            "nieuwegein"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 29,
+      "candidateImages": 0,
+      "articleRecordsIncludingConcepts": 10,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "montfoort",
+      "name": "Montfoort",
+      "registeredRoutes": 19,
+      "mediaSources": [
+        "RTV Midden Holland",
+        "RTV Utrecht",
+        "AD Montfoort"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-1a5e0ddbf6",
+          "name": "RTV Midden Holland",
+          "checkedAt": "2026-10-12T07:18:16.679917+00:00",
+          "pages": 8,
+          "dynamicPagination": false,
+          "discovered": 109,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "woerden",
+            "oudewater",
+            "montfoort"
+          ],
+          "status": "partial",
+          "hasMore": true
+        }
+      ],
+      "candidateLinksInSourceArea": 115,
+      "candidateImages": 103,
+      "articleRecordsIncludingConcepts": 17,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "nieuwegein",
+      "name": "Nieuwegein",
+      "registeredRoutes": 13,
+      "mediaSources": [
+        "Omroep Lekstroom",
+        "RTV Utrecht",
+        "AD Nieuwegein"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6a29f2d4eb",
+          "name": "Omroep Lekstroom",
+          "checkedAt": "2026-10-12T07:18:14.744153+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 1,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "houten",
+            "ijsselstein",
+            "lopik",
+            "nieuwegein"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 29,
+      "candidateImages": 0,
+      "articleRecordsIncludingConcepts": 15,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "oudewater",
+      "name": "Oudewater",
+      "registeredRoutes": 14,
+      "mediaSources": [
+        "RTV Midden Holland",
+        "RTV Utrecht",
+        "AD Oudewater"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-1a5e0ddbf6",
+          "name": "RTV Midden Holland",
+          "checkedAt": "2026-10-12T07:18:16.679917+00:00",
+          "pages": 8,
+          "dynamicPagination": false,
+          "discovered": 109,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "woerden",
+            "oudewater",
+            "montfoort"
+          ],
+          "status": "partial",
+          "hasMore": true
+        }
+      ],
+      "candidateLinksInSourceArea": 115,
+      "candidateImages": 103,
+      "articleRecordsIncludingConcepts": 7,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "renswoude",
+      "name": "Renswoude",
+      "registeredRoutes": 18,
+      "mediaSources": [
+        "XON / 1 VALLEI",
+        "RTV Utrecht",
+        "AD Renswoude"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-66220da9ba",
+          "name": "XON / 1 VALLEI",
+          "checkedAt": "2026-10-12T07:18:44.042099+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 19,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "renswoude",
+            "rhenen",
+            "veenendaal",
+            "woudenberg"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 55,
+      "candidateImages": 29,
+      "articleRecordsIncludingConcepts": 14,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "rhenen",
+      "name": "Rhenen",
+      "registeredRoutes": 34,
+      "mediaSources": [
+        "XON / 1 VALLEI",
+        "RTV Utrecht",
+        "AD Rhenen"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-66220da9ba",
+          "name": "XON / 1 VALLEI",
+          "checkedAt": "2026-10-12T07:18:44.042099+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 19,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "renswoude",
+            "rhenen",
+            "veenendaal",
+            "woudenberg"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 55,
+      "candidateImages": 29,
+      "articleRecordsIncludingConcepts": 22,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "soest",
+      "name": "Soest",
+      "registeredRoutes": 46,
+      "mediaSources": [
+        "Eemland1",
+        "RTV Utrecht",
+        "AD Soest",
+        "Soester Courant"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6bcbc98453",
+          "name": "Eemland1",
+          "checkedAt": "2026-10-12T07:18:13.405057+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 18,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "amersfoort",
+            "leusden",
+            "baarn",
+            "bunschoten",
+            "soest"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-0e2d7a9037",
+          "name": "Soester Courant",
+          "checkedAt": "2026-10-12T07:35:06.212356+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "soest"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 30,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 17,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "stichtse-vecht",
+      "name": "Stichtse Vecht",
+      "registeredRoutes": 36,
+      "mediaSources": [
+        "RTV Stichtse Vecht",
+        "RTV Utrecht",
+        "AD Stichtse Vecht"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-ec89981e15",
+          "name": "RTV Stichtse Vecht",
+          "checkedAt": "2026-10-12T07:34:43.579991+00:00",
+          "pages": 0,
+          "dynamicPagination": false,
+          "discovered": 0,
+          "errors": [
+            "https://rtvstichtsevecht.nl/ HTTP 302"
+          ],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "stichtse-vecht"
+          ],
+          "status": "unresolved",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 0,
+      "candidateImages": 0,
+      "articleRecordsIncludingConcepts": 18,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "utrecht",
+      "name": "Utrecht",
+      "registeredRoutes": 17,
+      "mediaSources": [
+        "DUIC",
+        "RTV Utrecht",
+        "AD Utrecht",
+        "indebuurt Utrecht"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-265b7de6a7",
+          "name": "DUIC",
+          "checkedAt": "2026-10-12T07:34:46.212566+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 0,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "utrecht"
+          ],
+          "status": "unresolved",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 29,
+      "candidateImages": 18,
+      "articleRecordsIncludingConcepts": 37,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "utrechtse-heuvelrug",
+      "name": "Utrechtse Heuvelrug",
+      "registeredRoutes": 12,
+      "mediaSources": [
+        "Omroep ZOUT",
+        "RTV Utrecht",
+        "AD Utrechtse Heuvelrug",
+        "Nieuwsblad De Kaap"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-bc9b6aa170",
+          "name": "Omroep ZOUT",
+          "checkedAt": "2026-10-12T07:18:13.875789+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 4,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "de-bilt",
+            "bunnik",
+            "zeist",
+            "utrechtse-heuvelrug",
+            "wijk-bij-duurstede"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-db8a251b5a",
+          "name": "Nieuwsblad De Kaap",
+          "checkedAt": "2026-10-12T07:35:10.070537+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 6,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "utrechtse-heuvelrug"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 23,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 12,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "veenendaal",
+      "name": "Veenendaal",
+      "registeredRoutes": 23,
+      "mediaSources": [
+        "XON / 1 VALLEI",
+        "RTV Utrecht",
+        "AD Veenendaal",
+        "indebuurt Veenendaal"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-66220da9ba",
+          "name": "XON / 1 VALLEI",
+          "checkedAt": "2026-10-12T07:18:44.042099+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 19,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "renswoude",
+            "rhenen",
+            "veenendaal",
+            "woudenberg"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 55,
+      "candidateImages": 29,
+      "articleRecordsIncludingConcepts": 11,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "vijfheerenlanden",
+      "name": "Vijfheerenlanden",
+      "registeredRoutes": 15,
+      "mediaSources": [
+        "SRC",
+        "RTV Utrecht",
+        "AD Vijfheerenlanden"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-6562579ea7",
+          "name": "SRC",
+          "checkedAt": "2026-10-12T07:34:45.107566+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 17,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "vijfheerenlanden"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 23,
+      "candidateImages": 12,
+      "articleRecordsIncludingConcepts": 28,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "wijk-bij-duurstede",
+      "name": "Wijk bij Duurstede",
+      "registeredRoutes": 31,
+      "mediaSources": [
+        "Omroep ZOUT",
+        "RTV Utrecht",
+        "AD Wijk bij Duurstede",
+        "Wijks Nieuws"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-bc9b6aa170",
+          "name": "Omroep ZOUT",
+          "checkedAt": "2026-10-12T07:18:13.875789+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 4,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "de-bilt",
+            "bunnik",
+            "zeist",
+            "utrechtse-heuvelrug",
+            "wijk-bij-duurstede"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-d31d40c8e6",
+          "name": "Wijks Nieuws",
+          "checkedAt": "2026-10-12T07:34:53.224484+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "wijk-bij-duurstede"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 22,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 18,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "woerden",
+      "name": "Woerden",
+      "registeredRoutes": 20,
+      "mediaSources": [
+        "RTV Midden Holland",
+        "RTV Utrecht",
+        "Woerdense Courant",
+        "indebuurt Woerden",
+        "AD Woerden"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-1a5e0ddbf6",
+          "name": "RTV Midden Holland",
+          "checkedAt": "2026-10-12T07:18:16.679917+00:00",
+          "pages": 8,
+          "dynamicPagination": false,
+          "discovered": 109,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "woerden",
+            "oudewater",
+            "montfoort"
+          ],
+          "status": "partial",
+          "hasMore": true
+        },
+        {
+          "id": "region-abfb0368ef",
+          "name": "Woerdense Courant",
+          "checkedAt": "2026-10-12T07:34:46.896832+00:00",
+          "pages": 2,
+          "dynamicPagination": true,
+          "discovered": 39,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "woerden"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-eee0c15ee1",
+          "name": "indebuurt Woerden",
+          "checkedAt": "2026-10-12T07:18:51.918142+00:00",
+          "pages": 0,
+          "dynamicPagination": false,
+          "discovered": 0,
+          "errors": [
+            "https://indebuurt.nl/woerden/ HTTP 302"
+          ],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "woerden"
+          ],
+          "status": "unresolved",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 319,
+      "candidateImages": 155,
+      "articleRecordsIncludingConcepts": 16,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "woudenberg",
+      "name": "Woudenberg",
+      "registeredRoutes": 14,
+      "mediaSources": [
+        "XON / 1 VALLEI",
+        "RTV Utrecht",
+        "AD Woudenberg",
+        "De Woudenberger"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-66220da9ba",
+          "name": "XON / 1 VALLEI",
+          "checkedAt": "2026-10-12T07:18:44.042099+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 19,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "renswoude",
+            "rhenen",
+            "veenendaal",
+            "woudenberg"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-ea39bfa10a",
+          "name": "De Woudenberger",
+          "checkedAt": "2026-10-12T07:34:48.943150+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "woudenberg"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 60,
+      "candidateImages": 34,
+      "articleRecordsIncludingConcepts": 8,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    },
+    {
+      "municipality": "zeist",
+      "name": "Zeist",
+      "registeredRoutes": 35,
+      "mediaSources": [
+        "Omroep ZOUT",
+        "RTV Utrecht",
+        "AD Zeist",
+        "De Nieuwsbode"
+      ],
+      "crawlRuns": [
+        {
+          "id": "region-bc9b6aa170",
+          "name": "Omroep ZOUT",
+          "checkedAt": "2026-10-12T07:18:13.875789+00:00",
+          "pages": 1,
+          "dynamicPagination": false,
+          "discovered": 4,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "de-bilt",
+            "bunnik",
+            "zeist",
+            "utrechtse-heuvelrug",
+            "wijk-bij-duurstede"
+          ],
+          "status": "partial",
+          "hasMore": false
+        },
+        {
+          "id": "region-32a2d275c9",
+          "name": "De Nieuwsbode",
+          "checkedAt": "2026-10-12T07:34:57.675790+00:00",
+          "pages": 2,
+          "dynamicPagination": false,
+          "discovered": 5,
+          "errors": [],
+          "fullArchive": false,
+          "autoPublish": false,
+          "window": [
+            "2026-07-12",
+            "2026-10-12"
+          ],
+          "municipalities": [
+            "zeist"
+          ],
+          "status": "partial",
+          "hasMore": false
+        }
+      ],
+      "candidateLinksInSourceArea": 22,
+      "candidateImages": 5,
+      "articleRecordsIncludingConcepts": 13,
+      "benchmarkAgainstLocalEditions": "not_completed",
+      "readyForRollout": false,
+      "gaps": [
+        "Brongebied is nog geen bevestigde plaats van het nieuws",
+        "Driemaandsarchief niet volledig ingelezen en beoordeeld",
+        "Artikelinhoud en beeldrechten per publicatie controleren",
+        "Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen",
+        "Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd"
+      ]
+    }
+  ]
+}

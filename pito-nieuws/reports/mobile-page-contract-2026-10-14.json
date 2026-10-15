@@ -1,0 +1,204 @@
+{
+  "method": "Server-side rendering and viewport/stylesheet checks; not browser geometry or screenshots",
+  "checks": [
+    {
+      "page": "nieuws/amersfoort",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/baarn",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/bunnik",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/bunschoten",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/de-bilt",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/de-ronde-venen",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/eemnes",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/houten",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/ijsselstein",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/leusden",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/lopik",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/montfoort",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/nieuwegein",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/oudewater",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/renswoude",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/rhenen",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/soest",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/stichtse-vecht",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/utrecht",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/utrechtse-heuvelrug",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/veenendaal",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/vijfheerenlanden",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/wijk-bij-duurstede",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/woerden",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/woudenberg",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "nieuws/zeist",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "provincie",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "artikel",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "agenda",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "vandaag",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "wonen",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "omgevingszaken",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    },
+    {
+      "page": "verantwoording",
+      "render": "passed",
+      "viewport": true,
+      "mobileStylesheet": true
+    }
+  ],
+  "visualReview": "blocked by browser access policy; actual 320/375/390/430/768px device testing remains"
+}

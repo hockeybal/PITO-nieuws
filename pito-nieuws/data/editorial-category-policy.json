@@ -1,0 +1,225 @@
+{
+  "version": "2026-10-11-user-hypotheses-v1",
+  "evidenceStatus": "Door gebruiker aangeleverde hypothesen; geen gemeten PITO-bezoekerspotentie of bewezen universele rangorde",
+  "purpose": "Bronnenplanning, redactionele dekking en voorlopige onderwerpsuggesties; geen automatische categoriebonus in de homepage-ranking",
+  "selectionOrder": [
+    "Aantoonbare lokale relevantie en controleerbare feiten",
+    "Vandaag geverifieerde waarschuwing binnen geldigheidsduur",
+    "Gevolgen, bereik, actualiteit en eventuele deadline",
+    "Variatie in onderwerpen en informatiebehoeften"
+  ],
+  "measurementPlan": {
+    "metrics": [
+      "Kaartvertoningen en doorklikpercentage per categorie én positie",
+      "Betrokken leestijd en terugkeer binnen zeven dagen",
+      "Agenda- en bronkliks als afzonderlijke acties",
+      "Correcties, verouderde waarschuwingen en klachten"
+    ],
+    "method": "Eerst vier weken een nulmeting bij voldoende bezoek. Vergelijk per gemeente, plaatsing en actualiteit; toon steekproefomvang en onzekerheid. Klikken alleen bepalen nooit de nieuwsselectie.",
+    "implemented": false
+  },
+  "categories": [
+    {
+      "id": "veiligheid",
+      "label": "Politie, incidenten en veiligheid",
+      "userPriority": 1,
+      "audiencePotentialHypothesis": "Zeer hoog",
+      "keywords": [
+        "politie",
+        "brand",
+        "ongeval",
+        "veiligheid",
+        "vermissing"
+      ],
+      "sourceRoutes": [
+        "Politie-RSS per gemeente",
+        "VRU-incidenten",
+        "Burgernet-kindalerts"
+      ],
+      "currentCoverage": "Politie en VRU gekoppeld; algemene Burgernet- en P2000-inname ontbreken",
+      "selectionRule": "Alleen bevestigde publieke impact; urgente status opnieuw controleren. Geen voorrang voor ieder klein incident."
+    },
+    {
+      "id": "verkeer",
+      "label": "Verkeer, afsluitingen en werkzaamheden",
+      "userPriority": 2,
+      "audiencePotentialHypothesis": "Zeer hoog",
+      "keywords": [
+        "afsluiting",
+        "wegwerk",
+        "verkeer",
+        "spoor",
+        "trein",
+        "omleiding"
+      ],
+      "sourceRoutes": [
+        "NDW",
+        "Wegbeheerder / Rijkswaterstaat",
+        "NS"
+      ],
+      "currentCoverage": "NDW-proefinname en NS-nieuwsfeed; NS-verstoringssleutel en precieze geografie ontbreken",
+      "selectionRule": "Route, rijrichting, begin en einde verifiëren; afloop verlaagt urgentie."
+    },
+    {
+      "id": "wonen",
+      "label": "Wonen, bouwen en leefomgeving",
+      "userPriority": 3,
+      "audiencePotentialHypothesis": "Hoog",
+      "keywords": [
+        "woning",
+        "nieuwbouw",
+        "bouwplan",
+        "omgevingsplan",
+        "warmtenet"
+      ],
+      "sourceRoutes": [
+        "Gemeenten",
+        "KOOP",
+        "Projectaanbieders",
+        "Woningcorporaties"
+      ],
+      "currentCoverage": "Gemeentelijke bekendmakingen gekoppeld; projectbronnen deels handmatig",
+      "selectionRule": "Aanvraag, ontwerp, besluit, verkoop en inschrijving gescheiden houden."
+    },
+    {
+      "id": "activiteiten",
+      "label": "Evenementen en activiteiten",
+      "userPriority": 4,
+      "audiencePotentialHypothesis": "Hoog",
+      "keywords": [
+        "evenement",
+        "festival",
+        "activiteit",
+        "tentoonstelling",
+        "concert"
+      ],
+      "sourceRoutes": [
+        "PITO Strapi-agenda",
+        "Organisatoren",
+        "Culturele instellingen"
+      ],
+      "currentCoverage": "Strapi-agendakoppeling ontbreekt; enkele handmatige bronnen",
+      "selectionRule": "Gecontroleerde datum en locatie; agenda-item is niet automatisch een nieuwsartikel."
+    },
+    {
+      "id": "ondernemers",
+      "label": "Ondernemers, winkels en horeca",
+      "userPriority": 5,
+      "audiencePotentialHypothesis": "Hoog",
+      "keywords": [
+        "winkel",
+        "horeca",
+        "restaurant",
+        "ondernemer",
+        "winkelopening"
+      ],
+      "sourceRoutes": [
+        "Ondernemer zelf",
+        "Winkelgebied / ondernemersvereniging",
+        "Gemeentelijke publicaties"
+      ],
+      "currentCoverage": "Nog geen structurele inname",
+      "selectionRule": "Opening, sluiting of betekenisvolle verandering bevestigen; reclame herkenbaar apart."
+    },
+    {
+      "id": "sport",
+      "label": "Lokale sport",
+      "userPriority": 6,
+      "audiencePotentialHypothesis": "Hoog",
+      "keywords": [
+        "sport",
+        "wedstrijd",
+        "vereniging",
+        "competitie",
+        "kampioen"
+      ],
+      "sourceRoutes": [
+        "Sportclubs",
+        "Sportbond",
+        "Organisator"
+      ],
+      "currentCoverage": "Nog geen structurele inname",
+      "selectionRule": "Selecteer lokale prestaties en clubontwikkelingen; uitslagen alleen uit gecontroleerde bron."
+    },
+    {
+      "id": "inwoners",
+      "label": "Verhalen over inwoners",
+      "userPriority": 7,
+      "audiencePotentialHypothesis": "Hoog",
+      "keywords": [
+        "bewoner",
+        "inwoner",
+        "buurtgenoot",
+        "interview"
+      ],
+      "sourceRoutes": [
+        "Eigen interviews",
+        "Community-inzendingen",
+        "Lokale initiatieven"
+      ],
+      "currentCoverage": "Communityflow bestaat; eigen interviews nog opbouwen",
+      "selectionRule": "Eigen verslaggeving en toestemming waar nodig; geen automatisch verzonnen levensverhalen."
+    },
+    {
+      "id": "weer",
+      "label": "Weer en lokale waarschuwingen",
+      "userPriority": 8,
+      "audiencePotentialHypothesis": "Hoog bij bijzonder weer",
+      "keywords": [
+        "storm",
+        "weerwaarschuwing",
+        "hitte",
+        "gladheid",
+        "wateroverlast"
+      ],
+      "sourceRoutes": [
+        "KNMI",
+        "VRU",
+        "Waterschappen"
+      ],
+      "currentCoverage": "KNMI nog niet aangesloten",
+      "selectionRule": "Alleen operationele waarschuwing voor het juiste gebied en binnen de geldigheidsduur."
+    },
+    {
+      "id": "politiek",
+      "label": "Gemeentepolitiek en besluiten",
+      "userPriority": 9,
+      "audiencePotentialHypothesis": "Middel tot hoog",
+      "keywords": [
+        "gemeenteraad",
+        "begroting",
+        "verordening",
+        "verkiezing",
+        "raadsbesluit",
+        "belasting"
+      ],
+      "sourceRoutes": [
+        "Gemeenteraden",
+        "Provinciale Staten",
+        "KOOP"
+      ],
+      "currentCoverage": "22 raadskoppelingen met beperkte inname; vier directe koppelingen ontbreken",
+      "selectionRule": "Concrete gevolgen bepalen prioriteit; agendering is geen besluit."
+    },
+    {
+      "id": "buurt",
+      "label": "Buurtinitiatieven en vrijwilligerswerk",
+      "userPriority": 10,
+      "audiencePotentialHypothesis": "Middel",
+      "keywords": [
+        "vrijwilliger",
+        "buurtinitiatief",
+        "buurthuis",
+        "collectief",
+        "bewonersinitiatief"
+      ],
+      "sourceRoutes": [
+        "PITO-community",
+        "Initiatiefnemer",
+        "Welzijnsorganisatie"
+      ],
+      "currentCoverage": "Communityflow bestaat; bronaanvoer nog opbouwen",
+      "selectionRule": "Lokale deelname en herkenning; werving onderscheiden van onafhankelijk nieuws."
+    }
+  ]
+}

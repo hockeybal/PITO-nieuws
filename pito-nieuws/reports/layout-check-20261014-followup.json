@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-13T23:06:33.076048+00:00",
+  "mobile": {
+    "width": 390,
+    "municipalities": 26,
+    "sideMargin": 16,
+    "horizontalOverflow": false
+  },
+  "desktop": {
+    "width": 1440,
+    "routes": [
+      "/nieuws/utrecht",
+      "/nieuws/utrecht/woerden",
+      "/nieuws/utrecht/woerden/wonen",
+      "/nieuws/utrecht/omgevingszaken",
+      "/agenda/utrecht/woerden/vandaag",
+      "/nieuws/praktisch"
+    ],
+    "horizontalOverflow": false
+  },
+  "limits": "DOM geometry across templates; not a visual review of every article and every scroll position.",
+  "addedPhotos": [
+    "sportlust-relief-2022",
+    "ijsselmeervogels-sportpark-2026"
+  ],
+  "services": "KNMI and ANWB source links, no live data"
+}

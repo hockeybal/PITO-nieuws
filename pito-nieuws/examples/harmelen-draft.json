@@ -1,0 +1,90 @@
+{
+  "data": {
+    "title": "Garagebrand in Harmelen zorgde voor rook op de A12",
+    "summary": "Bij een garagebrand aan de Reijerscop in Harmelen trok op 9 oktober rook over de A12. De veiligheidsregio heeft het incident inmiddels als gesloten gemarkeerd.",
+    "body": "Een brand in een garage aan de Reijerscop in Harmelen veroorzaakte op 9 oktober rookoverlast op de A12. Volgens Veiligheidsregio Utrecht ondervond het verkeer hinder bij hectometerpaal 49,4.\n\nDe brandweer zette meerdere eenheden in en schaalde op naar grote brand. De inzet was ook gericht op het voorkomen van overslag naar de naastgelegen woning.\n\nDe veiligheidsregio heeft het incident inmiddels als gesloten gemarkeerd.",
+    "municipalities": [
+      "woerden"
+    ],
+    "reviewStatus": "needs_review",
+    "publishedAt": null
+  },
+  "evidence": {
+    "title": "Garagebrand in Harmelen zorgde voor rook op de A12",
+    "summary": "Bij een garagebrand aan de Reijerscop in Harmelen trok op 9 oktober rook over de A12. De veiligheidsregio heeft het incident inmiddels als gesloten gemarkeerd.",
+    "municipalities": [
+      "woerden"
+    ],
+    "sources": [
+      {
+        "id": "vru",
+        "url": "https://vru.nl/incidenten/grote-brand-in-garage-in-harmelen/",
+        "checkedAt": "2026-10-11T11:27:08.745845+00:00",
+        "name": "Veiligheidsregio Utrecht",
+        "sourceDateType": "incidentdatum"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "statement": "VRU meldde op 9 oktober 2026 een garagebrand aan de Reijerscop in Harmelen.",
+        "sourceIds": [
+          "vru"
+        ],
+        "verified": true
+      },
+      {
+        "id": "f2",
+        "statement": "Rook trok over de A12 ter hoogte van hectometerpaal 49,4 en hinderde het verkeer.",
+        "sourceIds": [
+          "vru"
+        ],
+        "verified": true
+      },
+      {
+        "id": "f3",
+        "statement": "De brandweer schaalde op naar grote brand en probeerde overslag naar de naastgelegen woning te voorkomen.",
+        "sourceIds": [
+          "vru"
+        ],
+        "verified": true
+      },
+      {
+        "id": "f4",
+        "statement": "Het incident staat bij de VRU op gesloten.",
+        "sourceIds": [
+          "vru"
+        ],
+        "verified": true
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Een brand in een garage aan de Reijerscop in Harmelen veroorzaakte op 9 oktober rookoverlast op de A12. Volgens Veiligheidsregio Utrecht ondervond het verkeer hinder bij hectometerpaal 49,4.",
+        "factIds": [
+          "f1",
+          "f2"
+        ]
+      },
+      {
+        "text": "De brandweer zette meerdere eenheden in en schaalde op naar grote brand. De inzet was ook gericht op het voorkomen van overslag naar de naastgelegen woning.",
+        "factIds": [
+          "f3"
+        ]
+      },
+      {
+        "text": "De veiligheidsregio heeft het incident inmiddels als gesloten gemarkeerd.",
+        "factIds": [
+          "f4"
+        ]
+      }
+    ],
+    "note": "Voorbeeld van omvorming van gecontroleerde primaire feiten; geen actuele verkeerswaarschuwing. Geen brondatum als eigen publicatiedatum gebruiken."
+  },
+  "checksPending": [
+    "Feiten en formulering door redacteur vergelijken met brondocumenten",
+    "Geografie, besluitstatus, incidentstatus en vervaldatum",
+    "Rechten van tekst en beeld; geen overgenomen persfoto zonder grondslag",
+    "Kop en intro volledig gedekt door feiten; geen suggestieve of persoonlijke details"
+  ]
+}

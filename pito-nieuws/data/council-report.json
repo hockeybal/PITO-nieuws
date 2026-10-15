@@ -1,0 +1,180 @@
+{
+  "runAt": "2026-10-12T07:19:51.335303+00:00",
+  "window": [
+    "2026-07-12",
+    "2026-10-12"
+  ],
+  "sources": [
+    {
+      "municipality": "amersfoort",
+      "status": "ok",
+      "received": 24,
+      "hasMore": true,
+      "totalEstimate": 40
+    },
+    {
+      "municipality": "baarn",
+      "status": "ok",
+      "received": 20,
+      "hasMore": false,
+      "totalEstimate": 20
+    },
+    {
+      "municipality": "bunnik",
+      "status": "ok",
+      "received": 8,
+      "hasMore": false,
+      "totalEstimate": 8
+    },
+    {
+      "municipality": "bunschoten",
+      "status": "ok",
+      "received": 20,
+      "hasMore": false,
+      "totalEstimate": 20
+    },
+    {
+      "municipality": "de-bilt",
+      "status": "direct_council_required"
+    },
+    {
+      "municipality": "de-ronde-venen",
+      "status": "ok",
+      "received": 10,
+      "hasMore": false,
+      "totalEstimate": 10
+    },
+    {
+      "municipality": "eemnes",
+      "status": "ok",
+      "received": 8,
+      "hasMore": false,
+      "totalEstimate": 8
+    },
+    {
+      "municipality": "houten",
+      "status": "ok",
+      "received": 5,
+      "hasMore": false,
+      "totalEstimate": 5
+    },
+    {
+      "municipality": "ijsselstein",
+      "status": "ok",
+      "received": 8,
+      "hasMore": false,
+      "totalEstimate": 8
+    },
+    {
+      "municipality": "leusden",
+      "status": "ok",
+      "received": 7,
+      "hasMore": false,
+      "totalEstimate": 7
+    },
+    {
+      "municipality": "lopik",
+      "status": "direct_council_required"
+    },
+    {
+      "municipality": "montfoort",
+      "status": "ok",
+      "received": 11,
+      "hasMore": false,
+      "totalEstimate": 11
+    },
+    {
+      "municipality": "nieuwegein",
+      "status": "ok",
+      "received": 12,
+      "hasMore": false,
+      "totalEstimate": 12
+    },
+    {
+      "municipality": "oudewater",
+      "status": "ok",
+      "received": 4,
+      "hasMore": false,
+      "totalEstimate": 4
+    },
+    {
+      "municipality": "renswoude",
+      "status": "ok",
+      "received": 2,
+      "hasMore": false,
+      "totalEstimate": 2
+    },
+    {
+      "municipality": "rhenen",
+      "status": "ok",
+      "received": 9,
+      "hasMore": false,
+      "totalEstimate": 9
+    },
+    {
+      "municipality": "soest",
+      "status": "ok",
+      "received": 18,
+      "hasMore": false,
+      "totalEstimate": 18
+    },
+    {
+      "municipality": "stichtse-vecht",
+      "status": "ok",
+      "received": 6,
+      "hasMore": false,
+      "totalEstimate": 6
+    },
+    {
+      "municipality": "utrecht",
+      "status": "ok",
+      "received": 24,
+      "hasMore": true,
+      "totalEstimate": 48
+    },
+    {
+      "municipality": "utrechtse-heuvelrug",
+      "status": "direct_council_required"
+    },
+    {
+      "municipality": "veenendaal",
+      "status": "ok",
+      "received": 14,
+      "hasMore": false,
+      "totalEstimate": 14
+    },
+    {
+      "municipality": "vijfheerenlanden",
+      "status": "ok",
+      "received": 9,
+      "hasMore": false,
+      "totalEstimate": 9
+    },
+    {
+      "municipality": "wijk-bij-duurstede",
+      "status": "ok",
+      "received": 0,
+      "hasMore": false,
+      "totalEstimate": 0
+    },
+    {
+      "municipality": "woerden",
+      "status": "direct_council_required"
+    },
+    {
+      "municipality": "woudenberg",
+      "status": "ok",
+      "received": 12,
+      "hasMore": false,
+      "totalEstimate": 12
+    },
+    {
+      "municipality": "zeist",
+      "status": "ok",
+      "received": 24,
+      "hasMore": true,
+      "totalEstimate": 30
+    }
+  ],
+  "fullArchive": false
+}

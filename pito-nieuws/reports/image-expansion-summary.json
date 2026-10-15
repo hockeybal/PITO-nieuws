@@ -1,0 +1,987 @@
+{
+  "eligiblePhotos": 77,
+  "articlesChecked": 381,
+  "articlesWithCandidate": 292,
+  "missing": [
+    {
+      "slug": "heuvelrug-wateronttrekking-droogte-mei",
+      "title": "Droogte leidde in mei tot verbod op water uit sloten halen",
+      "municipalities": [
+        "de-bilt",
+        "zeist",
+        "wijk-bij-duurstede",
+        "utrechtse-heuvelrug"
+      ],
+      "topics": [
+        "water"
+      ]
+    },
+    {
+      "slug": "amersfoort-wachttijden-jeugdhulp-aanpak-juni",
+      "title": "Regio Amersfoort presenteerde aanpak voor wachttijden jeugdhulp",
+      "municipalities": [
+        "amersfoort",
+        "eemnes"
+      ],
+      "topics": [
+        "zorg"
+      ]
+    },
+    {
+      "slug": "ov-plannen-2027-betrouwbaarheid",
+      "title": "Nieuwe OV-plannen: provincie kiest voor betrouwbaardere dienstregeling",
+      "municipalities": [],
+      "topics": [
+        "ov"
+      ]
+    },
+    {
+      "slug": "droogte-dijkinspecties-augustus",
+      "title": "Dijkinspecties na droogte: schade gevonden, lekkage bij Linschoten hersteld",
+      "municipalities": [
+        "montfoort"
+      ],
+      "topics": [
+        "toezicht",
+        "water"
+      ]
+    },
+    {
+      "slug": "ring-utrecht-project-stopgezet",
+      "title": "Rijkswaterstaat licht stopzetting project A27/A12 Ring Utrecht toe",
+      "municipalities": [
+        "utrecht",
+        "bunnik",
+        "de-bilt"
+      ],
+      "topics": [
+        "wegen"
+      ]
+    },
+    {
+      "slug": "soesterberg-pr-renovatie-augustus",
+      "title": "P+R Soesterberg wordt vernieuwd, bushalte verhuist naar het terrein",
+      "municipalities": [
+        "soest"
+      ],
+      "topics": [
+        "bus"
+      ]
+    },
+    {
+      "slug": "f12-doorfietsroute-opening-september",
+      "title": "Woerden en Utrecht kondigen opening doorfietsroute F12 aan",
+      "municipalities": [
+        "woerden",
+        "utrecht"
+      ],
+      "topics": [
+        "wegen"
+      ]
+    },
+    {
+      "slug": "droogte-extra-wateraanvoer-juli",
+      "title": "Droogte: extra wateraanvoer en tijdelijke pompen in het Kromme Rijngebied",
+      "municipalities": [
+        "wijk-bij-duurstede",
+        "utrechtse-heuvelrug",
+        "woerden",
+        "lopik"
+      ],
+      "topics": [
+        "water"
+      ]
+    },
+    {
+      "slug": "leusbroekerweg-krijgt-meer-ruimte-voor-fietsers",
+      "title": "Leusbroekerweg krijgt meer ruimte voor fietsers",
+      "municipalities": [
+        "leusden"
+      ],
+      "topics": [
+        "verkeer",
+        "wegwerkzaamheden"
+      ]
+    },
+    {
+      "slug": "oudewater-testte-tijdklok-bij-wilhelmina-van-pruisenbrug",
+      "title": "Oudewater testte tijdklok bij Wilhelmina van Pruisenbrug",
+      "municipalities": [
+        "oudewater"
+      ],
+      "topics": [
+        "verkeer",
+        "wegwerkzaamheden"
+      ]
+    },
+    {
+      "slug": "buslijn-87-krijgt-geen-route-door-veenendaal-oost",
+      "title": "Buslijn 87 krijgt geen route door Veenendaal-oost",
+      "municipalities": [
+        "veenendaal"
+      ],
+      "topics": [
+        "bus",
+        "verkeer",
+        "wegwerkzaamheden"
+      ]
+    },
+    {
+      "slug": "amersfoort-vier-toegankelijke-toiletten",
+      "title": "Amersfoort breidt openbare toiletten uit op vier locaties",
+      "municipalities": [
+        "amersfoort"
+      ],
+      "topics": [
+        "toilet"
+      ]
+    },
+    {
+      "slug": "hoef-en-haag-hagestein-fietsroute-2027",
+      "title": "Bestaande fietsroute tussen Hoef en Haag en Hagestein wordt verbeterd",
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "topics": [
+        "wegen"
+      ]
+    },
+    {
+      "slug": "leerdam-gymzaal-noord-renovatie",
+      "title": "Gymzaal Noord in Leerdam wordt vernieuwd en verduurzaamd",
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "topics": [
+        "energie",
+        "gymzaal",
+        "sport"
+      ]
+    },
+    {
+      "slug": "utrecht-270-straten-dertig-kilometer",
+      "title": "Utrecht verlaagde maximumsnelheid op circa 270 straten naar 30",
+      "municipalities": [
+        "utrecht"
+      ],
+      "topics": [
+        "wegen"
+      ]
+    },
+    {
+      "slug": "hulpdiensten-geven-demonstraties-op-eemplein",
+      "title": "Hulpdiensten geven demonstraties op Eemplein",
+      "municipalities": [
+        "amersfoort"
+      ],
+      "topics": [
+        "toezicht",
+        "veiligheid"
+      ]
+    },
+    {
+      "slug": "historische-kring-zoekt-baarnse-herinneringen-aan-escher",
+      "title": "Historische Kring zoekt Baarnse herinneringen aan Escher",
+      "municipalities": [
+        "baarn"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "bunnik-zet-bomen-repareren-en-duurzame-huizen-op-programma-klimaatweek",
+      "title": "Bunnik zet bomen, repareren en duurzame huizen op programma Klimaatweek",
+      "municipalities": [
+        "bunnik"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "gemeente-verwijdert-ongeveer-105-zieke-iepen-aan-achterdijk",
+      "title": "Gemeente verwijdert ongeveer 105 zieke iepen aan Achterdijk",
+      "municipalities": [
+        "bunnik"
+      ],
+      "topics": [
+        "samenleving",
+        "water"
+      ]
+    },
+    {
+      "slug": "bunnik-hervat-gratis-ophalen-van-gewipte-tuintegels",
+      "title": "Bunnik hervat gratis ophalen van gewipte tuintegels",
+      "municipalities": [
+        "bunnik"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "bunschoten-biedt-gratis-training-over-omgaan-met-dementie",
+      "title": "Bunschoten biedt gratis training over omgaan met dementie",
+      "municipalities": [
+        "bunschoten"
+      ],
+      "topics": [
+        "samenleving",
+        "zorg"
+      ]
+    },
+    {
+      "slug": "bunschoten-wijst-ondernemers-op-scan-voor-uitval-van-voorzieningen",
+      "title": "Bunschoten wijst ondernemers op scan voor uitval van voorzieningen",
+      "municipalities": [
+        "bunschoten"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "bunschoten-zoekt-lokale-aanbiedingen-voor-nieuwe-inwoners",
+      "title": "Bunschoten zoekt lokale aanbiedingen voor nieuwe inwoners",
+      "municipalities": [
+        "bunschoten"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "nieuwe-fase-werkzaamheden-oostelijke-randweg-vraagt-omleidingen",
+      "title": "Nieuwe fase werkzaamheden Oostelijke Randweg vraagt omleidingen",
+      "municipalities": [
+        "bunschoten"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "bunschoten-en-negentien-organisaties-sluiten-anti-pestenpact",
+      "title": "Bunschoten en negentien organisaties sluiten anti-pestenpact",
+      "municipalities": [
+        "bunschoten"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "defensie-kondigde-oefening-aan-bij-de-kronkels",
+      "title": "Defensie kondigde oefening aan bij De Kronkels",
+      "municipalities": [
+        "bunschoten"
+      ],
+      "topics": [
+        "veiligheid"
+      ]
+    },
+    {
+      "slug": "dienstverlening-de-bilt-hervat-na-digitale-storing",
+      "title": "Dienstverlening De Bilt hervat na digitale storing",
+      "municipalities": [
+        "de-bilt"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "bilthoven-test-flexibele-laad-en-losplek-aan-nachtegaallaan",
+      "title": "Bilthoven test flexibele laad- en losplek aan Nachtegaallaan",
+      "municipalities": [
+        "de-bilt"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "de-bilt-bood-in-september-gratis-vervoer-van-tuintegels-aan",
+      "title": "De Bilt bood in september gratis vervoer van tuintegels aan",
+      "municipalities": [
+        "de-bilt"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "monumenten-in-de-bilt-opengesteld-voor-septemberprogramma",
+      "title": "Monumenten in De Bilt opengesteld voor septemberprogramma",
+      "municipalities": [
+        "de-bilt"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "de-bilt-stelde-bijdrage-beschikbaar-voor-burendaginitiatieven",
+      "title": "De Bilt stelde bijdrage beschikbaar voor Burendaginitiatieven",
+      "municipalities": [
+        "de-bilt"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "eerste-fase-wegenplan-vinkeveen-afgerond",
+      "title": "Eerste fase Wegenplan Vinkeveen afgerond",
+      "municipalities": [
+        "de-ronde-venen"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "ijsselstein-vraagt-voetgangers-om-lastige-routes-aan-te-wijzen",
+      "title": "IJsselstein vraagt voetgangers om lastige routes aan te wijzen",
+      "municipalities": [
+        "ijsselstein"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "ijsselstein-verruimt-tijden-burgerzaken-voor-paspoortpiek",
+      "title": "IJsselstein verruimt tijden Burgerzaken voor paspoortpiek",
+      "municipalities": [
+        "ijsselstein"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "ijsselstein-kondigde-eerste-cultuurhub-bij-kasteeltoren-aan",
+      "title": "IJsselstein kondigde eerste CultuurHub bij Kasteeltoren aan",
+      "municipalities": [
+        "ijsselstein"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "ijsselstein-start-proef-met-cultuur-op-tijdelijke-podia",
+      "title": "IJsselstein start proef met cultuur op tijdelijke podia",
+      "municipalities": [
+        "ijsselstein"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "ijsselstein-zet-buurtverbinders-in-rond-noodopvang",
+      "title": "IJsselstein zet buurtverbinders in rond noodopvang",
+      "municipalities": [
+        "ijsselstein"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "lasergamen-in-benschop-tijdens-herfstvakantie",
+      "title": "Lasergamen in Benschop tijdens herfstvakantie",
+      "municipalities": [
+        "lopik"
+      ],
+      "topics": [
+        "gymzaal",
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "lopik-kondigde-mantelzorgwaardering-voor-november-aan",
+      "title": "Lopik kondigde mantelzorgwaardering voor november aan",
+      "municipalities": [
+        "lopik"
+      ],
+      "topics": [
+        "samenleving",
+        "zorg"
+      ]
+    },
+    {
+      "slug": "montfoort-verwijst-naar-officiele-textielcontainers",
+      "title": "Montfoort verwijst naar officiële textielcontainers",
+      "municipalities": [
+        "montfoort"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "onderzoek-duiker-heeswijkerpoort-vroeg-tijdelijke-omleiding",
+      "title": "Onderzoek duiker Heeswijkerpoort vroeg tijdelijke omleiding",
+      "municipalities": [
+        "montfoort"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "nieuwegein-biedt-twee-straten-hulp-bij-geveltuinen",
+      "title": "Nieuwegein biedt twee straten hulp bij geveltuinen",
+      "municipalities": [
+        "nieuwegein"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "brom-en-snorfietsen-geweerd-van-eiland-nedereindse-park",
+      "title": "Brom- en snorfietsen geweerd van eiland Nedereindse Park",
+      "municipalities": [
+        "nieuwegein"
+      ],
+      "topics": [
+        "park",
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "licht-op-noorderveld-keert-terug-op-6-november",
+      "title": "Licht op Noorderveld keert terug op 6 november",
+      "municipalities": [
+        "nieuwegein"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "nieuwegein-repareert-verouderde-pijler-plettenburgsebrug",
+      "title": "Nieuwegein repareert verouderde pijler Plettenburgsebrug",
+      "municipalities": [
+        "nieuwegein"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "straatverlichtingsstoring-nieuwegein-als-opgelost-gemarkeerd",
+      "title": "Straatverlichtingsstoring Nieuwegein als opgelost gemarkeerd",
+      "municipalities": [
+        "nieuwegein"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "nieuwegein-vernieuwt-buurtkaarten-met-hulp-en-activiteiten",
+      "title": "Nieuwegein vernieuwt buurtkaarten met hulp en activiteiten",
+      "municipalities": [
+        "nieuwegein"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "oudewater-vraagt-reacties-op-twee-fietsroutes",
+      "title": "Oudewater vraagt reacties op twee fietsroutes",
+      "municipalities": [
+        "oudewater"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "weekmarkt-oudewater-tijdelijk-naar-waardsedijk",
+      "title": "Weekmarkt Oudewater tijdelijk naar Waardsedijk",
+      "municipalities": [
+        "oudewater"
+      ],
+      "topics": [
+        "samenleving",
+        "water"
+      ]
+    },
+    {
+      "slug": "renswoude-opent-aanvraag-voor-mantelzorgwaardering",
+      "title": "Renswoude opent aanvraag voor mantelzorgwaardering",
+      "municipalities": [
+        "renswoude"
+      ],
+      "topics": [
+        "samenleving",
+        "zorg"
+      ]
+    },
+    {
+      "slug": "extra-aanbod-mentale-gezondheid-beschikbaar-voor-renswoude",
+      "title": "Extra aanbod mentale gezondheid beschikbaar voor Renswoude",
+      "municipalities": [
+        "renswoude"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving",
+        "vrijwilligers",
+        "zorg"
+      ]
+    },
+    {
+      "slug": "malkander-volgt-swo-op-als-welzijnsorganisatie-renswoude",
+      "title": "Malkander volgt SWO op als welzijnsorganisatie Renswoude",
+      "municipalities": [
+        "renswoude"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "rhenen-vraagt-gebruikers-sociaal-team-om-ervaringen",
+      "title": "Rhenen vraagt gebruikers sociaal team om ervaringen",
+      "municipalities": [
+        "rhenen"
+      ],
+      "topics": [
+        "samenleving",
+        "zorg"
+      ]
+    },
+    {
+      "slug": "gratis-cursussen-over-mentale-gezondheid-voor-rhenen",
+      "title": "Gratis cursussen over mentale gezondheid voor Rhenen",
+      "municipalities": [
+        "rhenen"
+      ],
+      "topics": [
+        "samenleving",
+        "zorg"
+      ]
+    },
+    {
+      "slug": "vier-organisaties-voeren-welzijnsaanbod-rhenen-samen-uit",
+      "title": "Vier organisaties voeren welzijnsaanbod Rhenen samen uit",
+      "municipalities": [
+        "rhenen"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "n233-tussen-rhenen-en-veenendaal-krijgt-onderhoud-in-vijf-fases",
+      "title": "N233 tussen Rhenen en Veenendaal krijgt onderhoud in vijf fases",
+      "municipalities": [
+        "rhenen"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "landmacht-oefent-van-12-tot-16-oktober-in-regio-soest",
+      "title": "Landmacht oefent van 12 tot 16 oktober in regio Soest",
+      "municipalities": [
+        "soest"
+      ],
+      "topics": [
+        "veiligheid"
+      ]
+    },
+    {
+      "slug": "soest-zoekt-nieuwe-beheerder-voor-de-basis",
+      "title": "Soest zoekt nieuwe beheerder voor De Basis",
+      "municipalities": [
+        "soest"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "dementalent-start-in-soest-en-soesterberg",
+      "title": "DemenTalent start in Soest en Soesterberg",
+      "municipalities": [
+        "soest"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving",
+        "vrijwilligers",
+        "zorg"
+      ]
+    },
+    {
+      "slug": "vreelander-ronald-bleys-onderscheiden-bij-afscheid-als-hoogleraar",
+      "title": "Vreelander Ronald Bleys onderscheiden bij afscheid als hoogleraar",
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "ruim-1-100-bezoekers-op-open-dag-stichtse-vecht",
+      "title": "Ruim 1.100 bezoekers op open dag Stichtse Vecht",
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "nieuwe-afspraken-over-fietsroute-van-utrecht-naar-amsterdam",
+      "title": "Nieuwe afspraken over fietsroute van Utrecht naar Amsterdam",
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "vrijwilligers-kunnen-opleiding-tot-groen-en-koel-coach-volgen",
+      "title": "Vrijwilligers kunnen opleiding tot Groen en Koel-coach volgen",
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving",
+        "vrijwilligers"
+      ]
+    },
+    {
+      "slug": "werk-aan-busstation-maarssen-afgerond",
+      "title": "Werk aan busstation Maarssen afgerond",
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "topics": [
+        "ov",
+        "verkeer",
+        "wegen"
+      ]
+    },
+    {
+      "slug": "jou-blijft-tien-jaar-verantwoordelijk-voor-utrechts-jongerenwerk",
+      "title": "JOU blijft tien jaar verantwoordelijk voor Utrechts jongerenwerk",
+      "municipalities": [
+        "utrecht"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "utrecht-werkt-ontwerp-voetbrug-naar-wolvenplein-uit",
+      "title": "Utrecht werkt ontwerp voetbrug naar Wolvenplein uit",
+      "municipalities": [
+        "utrecht"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "utrechtse-filmprijs-voor-regen-in-augustus",
+      "title": "Utrechtse filmprijs voor Regen in Augustus",
+      "municipalities": [
+        "utrecht"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "extra-winteropvang-overdag-voorzien-in-lutherse-kerk",
+      "title": "Extra winteropvang overdag voorzien in Lutherse Kerk",
+      "municipalities": [
+        "utrecht"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "utrecht-vraagt-inwoners-mee-te-denken-over-nieuw-oeverpark",
+      "title": "Utrecht vraagt inwoners mee te denken over nieuw oeverpark",
+      "municipalities": [
+        "utrecht"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "bladruimrondes-op-utrechtse-heuvelrug-starten-op-12-oktober",
+      "title": "Bladruimrondes op Utrechtse Heuvelrug starten op 12 oktober",
+      "municipalities": [
+        "utrechtse-heuvelrug"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "nvwa-onderzoekt-vondst-tijgermug-in-driebergen",
+      "title": "NVWA onderzoekt vondst tijgermug in Driebergen",
+      "municipalities": [
+        "utrechtse-heuvelrug"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "vrijwilligers-gezocht-voor-onderhoud-begraafplaatsen-op-de-heuvelrug",
+      "title": "Vrijwilligers gezocht voor onderhoud begraafplaatsen op de Heuvelrug",
+      "municipalities": [
+        "utrechtse-heuvelrug"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving",
+        "vrijwilligers"
+      ]
+    },
+    {
+      "slug": "wandelnetwerk-rond-veenendaal-vernieuwd",
+      "title": "Wandelnetwerk rond Veenendaal vernieuwd",
+      "municipalities": [
+        "veenendaal"
+      ],
+      "topics": [
+        "samenleving",
+        "wandelen"
+      ]
+    },
+    {
+      "slug": "jantina-van-de-lustgraaf-ontvangt-veense-kei",
+      "title": "Jantina van de Lustgraaf ontvangt Veense Kei",
+      "municipalities": [
+        "veenendaal"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "vijfheerenlanden-biedt-rolstoelvaardigheidstraining-aan",
+      "title": "Vijfheerenlanden biedt rolstoelvaardigheidstraining aan",
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "werk-aan-a2-tussen-everdingen-en-deil-tot-half-oktober-gepland",
+      "title": "Werk aan A2 tussen Everdingen en Deil tot half oktober gepland",
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "schade-aan-riool-bij-mijlweg-in-vianen-vraagt-verkeersmaatregelen",
+      "title": "Schade aan riool bij Mijlweg in Vianen vraagt verkeersmaatregelen",
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "topics": [
+        "verkeer",
+        "wegen"
+      ]
+    },
+    {
+      "slug": "dijkwerk-beperkt-toegang-tot-havengebied-wijk-bij-duurstede",
+      "title": "Dijkwerk beperkt toegang tot havengebied Wijk bij Duurstede",
+      "municipalities": [
+        "wijk-bij-duurstede"
+      ],
+      "topics": [
+        "verkeer",
+        "water"
+      ]
+    },
+    {
+      "slug": "buurtgroepen-kunnen-zich-aanmelden-voor-kern-met-pit",
+      "title": "Buurtgroepen kunnen zich aanmelden voor Kern met Pit",
+      "municipalities": [
+        "wijk-bij-duurstede"
+      ],
+      "topics": [
+        "buurthuis",
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "monumentendag-rond-cothen-langbroek-en-wijk-aangekondigd",
+      "title": "Monumentendag rond Cothen, Langbroek en Wijk aangekondigd",
+      "municipalities": [
+        "wijk-bij-duurstede"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "ruim-473-000-euro-voor-digitaal-archeologisch-onderzoek-in-wijk",
+      "title": "Ruim 473.000 euro voor digitaal archeologisch onderzoek in Wijk",
+      "municipalities": [
+        "wijk-bij-duurstede"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "waarschuwing-voor-onveilige-bomen-op-groenewoudsesteeg",
+      "title": "Waarschuwing voor onveilige bomen op Groenewoudsesteeg",
+      "municipalities": [
+        "woudenberg"
+      ],
+      "topics": [
+        "samenleving",
+        "wandelen"
+      ]
+    },
+    {
+      "slug": "heemsteedsepad-dicht-voor-aanleg-damwand-langs-fietsroute",
+      "title": "Heemsteedsepad dicht voor aanleg damwand langs fietsroute",
+      "municipalities": [
+        "houten"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "houten-vraagt-voetgangers-hun-ervaringen-te-delen",
+      "title": "Houten vraagt voetgangers hun ervaringen te delen",
+      "municipalities": [
+        "houten"
+      ],
+      "topics": [
+        "buurthuis",
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "pleinkerk-houten-krijgt-nieuwe-constructie-voor-historische-klok",
+      "title": "Pleinkerk Houten krijgt nieuwe constructie voor historische klok",
+      "municipalities": [
+        "houten"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "waterliniedag-in-polder-blokhoven-aangekondigd",
+      "title": "Waterliniedag in polder Blokhoven aangekondigd",
+      "municipalities": [
+        "houten"
+      ],
+      "topics": [
+        "samenleving"
+      ]
+    },
+    {
+      "slug": "doorfietsroute-f12-tussen-woerden-en-utrecht-geopend",
+      "title": "Doorfietsroute F12 tussen Woerden en Utrecht geopend",
+      "municipalities": [
+        "woerden",
+        "utrecht"
+      ],
+      "topics": [
+        "verkeer"
+      ]
+    },
+    {
+      "slug": "wild-producties-annie-brouwer-korf-prijs-2026",
+      "title": "Utrechtse Annie Brouwer-Korf prijs gaat naar WILD Producties",
+      "municipalities": [
+        "utrecht"
+      ],
+      "topics": [
+        "theater"
+      ]
+    },
+    {
+      "slug": "rhenen-wil-bestaande-parkeerplekken-beter-benutten",
+      "title": "Rhenen wil bestaande parkeerplekken beter benutten",
+      "municipalities": [
+        "rhenen"
+      ],
+      "topics": [
+        "wegen"
+      ]
+    }
+  ],
+  "missingTopics": {
+    "samenleving": 51,
+    "verkeer": 21,
+    "buurthuis": 11,
+    "zorg": 8,
+    "wegen": 7,
+    "water": 6,
+    "vrijwilligers": 4,
+    "wegwerkzaamheden": 3,
+    "veiligheid": 3,
+    "ov": 2,
+    "toezicht": 2,
+    "bus": 2,
+    "gymzaal": 2,
+    "wandelen": 2,
+    "toilet": 1,
+    "energie": 1,
+    "sport": 1,
+    "park": 1,
+    "theater": 1
+  },
+  "note": "Een kandidaat is nog geen goedkeuring voor het specifieke bericht. Exacte bronfoto gaat voor onderwerpstock; opnamedatum vanaf 2022; geen AI-fallback.",
+  "newPhotoFiles": 60,
+  "downloadedCandidates": 103,
+  "searches": 160,
+  "technicalChecks": {
+    "missingFiles": [],
+    "rightsRecordIssues": {},
+    "sourceAndLicenseOnArticle": true
+  },
+  "limitations": [
+    "Nog geen passende fotokandidaat voor 89 berichten.",
+    "Geen geschikte foto vanaf 2022 voor het Romeinse schip bij het Woerdense weetje gevonden.",
+    "Beeldbank nog niet live aangesloten op Strapi."
+  ],
+  "verification": {
+    "automatedTestsPassed": 18,
+    "articlePagesCheckedForPhotoAndSourceLink": 292,
+    "visualProof": "reports/sportlust-real-photo.png",
+    "preview": "http://127.0.0.1:4198/nieuws/beeldbibliotheek"
+  }
+}

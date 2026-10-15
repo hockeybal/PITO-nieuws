@@ -1,0 +1,105 @@
+{
+  "baselinePath": "/var/folders/3x/4pn03fy50ss_ms7vp4gm5yvh0000gn/T/pito-baseline-52xc_iw0",
+  "restoredOriginalFiles": [
+    "news.py",
+    "frontpage.py",
+    "server.py",
+    "data/articles.json"
+  ],
+  "note": "Other modules are current; ranking optimization has independently proven exact ordering parity. Original source files restored in isolated temp directory; original article data used outside HTTP temporary copies.",
+  "testsRun": 18,
+  "failures": 17,
+  "errors": 1,
+  "results": [
+    {
+      "test": "test_archive_navigation.ArchiveTests.test_combined_current_and_archive_images_do_not_repeat",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 32 != 25"
+    },
+    {
+      "test": "test_archive_navigation.ArchiveTests.test_home_exposes_archive_and_topic_history",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'Filters & archief' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><title>Nie"
+    },
+    {
+      "test": "test_article_navigation.NavigationTests.test_ads_are_labeled_and_bounded",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'ADVERTENTIE · PITO' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><title>Ni"
+    },
+    {
+      "test": "test_article_navigation.NavigationTests.test_local_article_navigation_and_rail",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'Meer uit Vijfheerenlanden' not found in '<aside class=\"article-rail\"><section class=\"article-local\"><h2>Net binnen</h2><p class=\"rail-location\">Vijfheerenlanden</p><ol class=\"article-latest-timeline\"><li><time>12-10-2026</time><a href=\"/nieuws/utrecht/artikel/nieuw-hulppunt-voor-geld-en-regelzaken-in-meerkerk\">Nieuw hulppunt voor geld- en regelzaken in Meerkerk</a></li><li><time>12-10-2026</time><a href=\"/nieuws/utrecht/artikel/raadscommissies-vijfheerenlanden-bijeen-op-13-14-en"
+    },
+    {
+      "test": "test_community.CommunityTests.test_today_filters_date_and_municipality",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'Morgen Woerden' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><title>Gemeen"
+    },
+    {
+      "test": "test_frontpage.FrontpageTests.test_overview_has_sections_without_pagination",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 6 != 5"
+    },
+    {
+      "test": "test_frontpage.FrontpageTests.test_selection_is_unique_and_local_in_every_municipality",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: False is not true : amersfoort"
+    },
+    {
+      "test": "test_homepage_agenda.AgendaHomepageTests.test_sunday_and_empty_feed",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: '/woerden/deze-week' not found in '<div class=\"invitation-agenda\" aria-label=\"Activiteiten in Woerden\"><section class=\"invitation-strip today\" id=\"home-vandaag\"><header><span class=\"invitation-kicker\">GA EROP UIT</span><h2>Vandaag in de regio</h2><p>Nog geen lokale activiteiten bekend. Ontdek ook wat er in de regio te doen is.</p><a class=\"invitation-all\" href=\"/agenda/utrecht/vandaag\">Ontdek vandaag <span aria-hidden=\"true\">→</span></a></header><div class=\"invitation-content\"><d"
+    },
+    {
+      "test": "test_local_continuity.LocalContinuityTests.test_month_and_city_filters_combine",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'Woerden november' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><title>Geme"
+    },
+    {
+      "test": "test_local_continuity.LocalContinuityTests.test_sixty_day_window_and_pages",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 0 != 24"
+    },
+    {
+      "test": "test_location_sources.LocationSources.test_article_source_is_not_collapsed",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: '<section class=\"sourcebox\">' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\">"
+    },
+    {
+      "test": "test_media_library.LibraryTests.test_agenda_only_selected_city",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'Alleen Baarn' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><title>Gemeente"
+    },
+    {
+      "test": "test_news.ServerTests.test_archive_routing_and_recent_feed",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'uplg-programma-landelijk-gebied-juli' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO"
+    },
+    {
+      "test": "test_news.ServerTests.test_filter_and_search",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'woerden-geen-vuurwerkontheffingen' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Ni"
+    },
+    {
+      "test": "test_newsroom.NewsroomTests.test_all_articles_use_editorial_body",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'Bronnen en verantwoording' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><t"
+    },
+    {
+      "test": "test_ranking.RankingTests.test_archive_month_and_pagination",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'Archiefpagina' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><title>Net bin"
+    },
+    {
+      "test": "test_ranking.RankingTests.test_complete_assets_dates_and_ranking",
+      "baseline": "failure",
+      "baselineReason": "ValueError: Invalid isoformat string: '2026-10-18T23:59:59+02:00'"
+    },
+    {
+      "test": "test_relevance.RelevanceTests.test_default_and_opt_out_routes",
+      "baseline": "failure",
+      "baselineReason": "AssertionError: 'value=\"relevance\" selected' not found in '<!doctype html><html lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/news-static/pito-icon-32.png?v=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/news-static/pito-icon.svg?v=1\"><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/news-static/pito-icon-180.png?v=1\"><meta name=\"apple-mobile-web-app-title\" content=\"PITO Nieuws\"><"
+    }
+  ]
+}

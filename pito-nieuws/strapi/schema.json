@@ -1,0 +1,101 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pito_news_articles",
+  "info": {
+    "singularName": "pito-news-article",
+    "pluralName": "pito-news-articles",
+    "displayName": "PITO Nieuwsartikel"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "category": {
+      "type": "string"
+    },
+    "sourceUrl": {
+      "type": "string",
+      "required": true
+    },
+    "sourceName": {
+      "type": "string",
+      "required": true
+    },
+    "dateNote": {
+      "type": "string"
+    },
+    "reviewer": {
+      "type": "string"
+    },
+    "reviewNote": {
+      "type": "string"
+    },
+    "rights": {
+      "type": "string",
+      "required": true
+    },
+    "summary": {
+      "type": "text",
+      "required": true
+    },
+    "body": {
+      "type": "text",
+      "required": true
+    },
+    "sourcePublishedAt": {
+      "type": "date"
+    },
+    "eventDate": {
+      "type": "date"
+    },
+    "verifiedAt": {
+      "type": "date"
+    },
+    "municipalities": {
+      "type": "json",
+      "required": true
+    },
+    "provinceWide": {
+      "type": "boolean",
+      "default": false
+    },
+    "sensitive": {
+      "type": "boolean",
+      "default": false
+    },
+    "reviewStatus": {
+      "type": "enumeration",
+      "enum": [
+        "needs_review",
+        "approved",
+        "rejected"
+      ],
+      "default": "needs_review"
+    },
+    "impact": {
+      "type": "text"
+    },
+    "imageKey": {
+      "type": "string"
+    },
+    "additionalSources": {
+      "type": "json"
+    },
+    "ranking": {
+      "type": "json"
+    },
+    "imageTopics": {
+      "type": "json"
+    }
+  }
+}

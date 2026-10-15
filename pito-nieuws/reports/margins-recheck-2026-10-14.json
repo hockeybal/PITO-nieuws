@@ -1,0 +1,97 @@
+{
+  "method": "Live in-app browser DOM measurements; visual Woerden and agenda inspection",
+  "checks": [
+    {
+      "route": "/nieuws/utrecht",
+      "viewport": 390,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/woerden",
+      "viewport": 390,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/agenda/utrecht/woerden/vandaag",
+      "viewport": 390,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/woerden/wonen",
+      "viewport": 390,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/omgevingszaken",
+      "viewport": 390,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/artikel/woerden-onderzoekt-gebruik-van-parkeerterreinen-bij-station",
+      "viewport": 390,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht",
+      "viewport": 768,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/woerden",
+      "viewport": 768,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/agenda/utrecht/woerden/vandaag",
+      "viewport": 768,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/woerden/wonen",
+      "viewport": 768,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/omgevingszaken",
+      "viewport": 768,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/artikel/woerden-onderzoekt-gebruik-van-parkeerterreinen-bij-station",
+      "viewport": 768,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht",
+      "viewport": 1440,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/woerden",
+      "viewport": 1440,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/agenda/utrecht/woerden/vandaag",
+      "viewport": 1440,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/woerden/wonen",
+      "viewport": 1440,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/omgevingszaken",
+      "viewport": 1440,
+      "horizontalOverflow": false
+    },
+    {
+      "route": "/nieuws/utrecht/artikel/woerden-onderzoekt-gebruik-van-parkeerterreinen-bij-station",
+      "viewport": 1440,
+      "horizontalOverflow": false
+    }
+  ],
+  "fix": "Agenda main width 1180 \u2192 1120 at viewport1440; aligned with news reading edges. Verified live.",
+  "limitations": "Representative shared templates; not a visual examination of every individual article."
+}

@@ -1,0 +1,154 @@
+{
+  "method": "Live browser DOMcontrole plus visuele controle rubriek desktop/mobiel",
+  "checks": [
+    {
+      "path": "/nieuws/utrecht",
+      "width": 390,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden",
+      "width": 390,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/agenda/utrecht/woerden/vandaag",
+      "width": 390,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/wonen",
+      "width": 390,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/omgevingszaken",
+      "width": 390,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/onderwerp/sport",
+      "width": 390,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht",
+      "width": 768,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden",
+      "width": 768,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/agenda/utrecht/woerden/vandaag",
+      "width": 768,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/wonen",
+      "width": 768,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/omgevingszaken",
+      "width": 768,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/onderwerp/sport",
+      "width": 768,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht",
+      "width": 1280,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden",
+      "width": 1280,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/agenda/utrecht/woerden/vandaag",
+      "width": 1280,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/wonen",
+      "width": 1280,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/omgevingszaken",
+      "width": 1280,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/onderwerp/sport",
+      "width": 1280,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht",
+      "width": 1600,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden",
+      "width": 1600,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/agenda/utrecht/woerden/vandaag",
+      "width": 1600,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/wonen",
+      "width": 1600,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/omgevingszaken",
+      "width": 1600,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "path": "/nieuws/utrecht/woerden/onderwerp/sport",
+      "width": 1600,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    }
+  ],
+  "fixed": [
+    "Actieve rubriek in navigatie",
+    "Titel en filters in gedeelde compacte rij"
+  ],
+  "limitation": "Geen volledige visuele inspectie van ieder artikel; eerdere afzonderlijke 26-gemeentencontrole aanwezig."
+}

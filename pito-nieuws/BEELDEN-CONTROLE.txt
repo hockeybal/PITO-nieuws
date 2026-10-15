@@ -1,0 +1,32 @@
+11 oktober 2026 — Controle van alle 26 gebruikte gemeentebeelden
+
+20 gemeenten gebruiken tijdelijke gewone lokale foto’s, geen droneshots. De presentatie houdt het herkenningspunt nu heel. Dit vervangt de ontbrekende luchtbeelden niet.
+
+amersfoort: hero-amersfoort.png — aerial-review-with-original-needed
+baarn: hero-baarn.png — aerial-review-with-original-needed
+bunnik: municipality-bunnik.jpg — temporary-ground-photo-needs-local-aerial
+de-ronde-venen: hero-vinkeveen.png — aerial-review-with-original-needed
+ijsselstein: municipality-ijsselstein.jpg — temporary-ground-photo-needs-local-aerial
+leusden: municipality-leusden.jpg — temporary-ground-photo-needs-local-aerial
+nieuwegein: municipality-nieuwegein.jpg — temporary-ground-photo-needs-local-aerial
+renswoude: municipality-renswoude.jpg — temporary-ground-photo-needs-local-aerial
+rhenen: hero-rhenen.png — aerial-review-with-original-needed
+soest: municipality-soest.jpg — temporary-ground-photo-needs-local-aerial
+utrechtse-heuvelrug: municipality-utrechtse-heuvelrug.jpg — temporary-ground-photo-needs-local-aerial
+veenendaal: municipality-veenendaal.jpg — temporary-ground-photo-needs-local-aerial
+wijk-bij-duurstede: municipality-wijk-bij-duurstede.jpg — temporary-ground-photo-needs-local-aerial
+woudenberg: municipality-woudenberg.jpg — temporary-ground-photo-needs-local-aerial
+zeist: municipality-zeist.jpg — temporary-ground-photo-needs-local-aerial
+woerden: aerial-woerden.jpg — existing-aerial
+montfoort: aerial-montfoort.jpg — existing-aerial
+bunschoten: municipality-bunschoten.jpg — temporary-ground-photo-needs-local-aerial
+de-bilt: municipality-de-bilt.jpg — temporary-ground-photo-needs-local-aerial
+eemnes: municipality-eemnes.jpg — temporary-ground-photo-needs-local-aerial
+houten: municipality-houten.jpg — temporary-ground-photo-needs-local-aerial
+lopik: municipality-lopik.jpg — temporary-ground-photo-needs-local-aerial
+oudewater: municipality-oudewater.jpg — temporary-ground-photo-needs-local-aerial
+stichtse-vecht: municipality-stichtse-vecht.jpg — temporary-ground-photo-needs-local-aerial
+utrecht: municipality-utrecht.jpg — temporary-ground-photo-needs-local-aerial
+vijfheerenlanden: municipality-vijfheerenlanden.jpg — temporary-ground-photo-needs-local-aerial
+
+Geen nieuwe geografische details gegenereerd. Volgende stap: originele PITO-dronebestanden per gemeente selecteren of aantoonbaar gelicentieerde luchtfoto’s verwerven.

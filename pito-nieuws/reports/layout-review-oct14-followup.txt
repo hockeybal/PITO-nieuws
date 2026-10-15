@@ -1,0 +1,5 @@
+14 oktober 2026 — vervolgcontrole
+15 browsercontroles: Woerden, agenda vandaag, wonen, Soest omgevingszaken en artikel parkeren; elk op 390, 768 en 1280 pixels. Geen horizontale documentoverloop of buiten het scherm vallende koppen/formulieren/figuren. Dit is geen garantie dat elke afzonderlijke pagina visueel perfect is.
+Zijadvertenties 1100–1500px: minder dubbele uitleg, leesbaardere koppen zonder geforceerde letterafbreking, compactere CTA-marges. Voordelen en directe CTA behouden.
+4 extra foto’s visueel beoordeeld en toegevoegd; twee gemaal Eemnes, twee station Driebergen-Zeist. Datum, maker en CC BY-SA 4.0 vastgelegd. Lopik blijft een beeldhiaat.
+Sportlust: webtoegang bevestigd, eerdere directe crawler-403 niet ten onrechte opgeheven. Nieuws-, programma- en fotolinks toegevoegd.

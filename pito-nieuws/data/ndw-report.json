@@ -1,0 +1,14 @@
+{
+  "runAt": "2026-10-12T07:19:59.757051+00:00",
+  "sourceUrl": "https://opendata.ndw.nu/actueel_beeld.xml.gz",
+  "status": "ok",
+  "candidates": 185,
+  "statistics": {
+    "situations": 1055,
+    "outsideCandidateArea": 1144,
+    "nonReal": 0,
+    "expired": 0,
+    "invalidTime": 0
+  },
+  "publicAlerts": 0
+}

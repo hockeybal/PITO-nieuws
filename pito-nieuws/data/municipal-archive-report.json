@@ -1,0 +1,407 @@
+{
+  "window": [
+    "2026-07-13",
+    "2026-10-13"
+  ],
+  "sources": [
+    {
+      "municipality": "amersfoort",
+      "name": "Amersfoort",
+      "homepage": "https://www.amersfoort.nl/",
+      "archiveUrls": [
+        "https://www.amersfoort.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:11.694929+00:00",
+      "pages": 3,
+      "discovered": 14,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "baarn",
+      "name": "Baarn",
+      "homepage": "https://www.baarn.nl/",
+      "archiveUrls": [
+        "https://www.baarn.nl/nieuws",
+        "https://www.baarn.nl/actueel"
+      ],
+      "checkedAt": "2026-10-13T11:32:11.679712+00:00",
+      "pages": 2,
+      "discovered": 10,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "bunnik",
+      "name": "Bunnik",
+      "homepage": "https://www.bunnik.nl/",
+      "archiveUrls": [
+        "https://www.bunnik.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:11.695919+00:00",
+      "pages": 2,
+      "discovered": 11,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "bunschoten",
+      "name": "Bunschoten",
+      "homepage": "https://www.bunschoten.nl/",
+      "archiveUrls": [
+        "https://www.bunschoten.nl/nieuws",
+        "https://www.bunschoten.nl/actueel"
+      ],
+      "checkedAt": "2026-10-13T11:32:12.606628+00:00",
+      "pages": 9,
+      "discovered": 27,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "de-bilt",
+      "name": "De Bilt",
+      "homepage": "https://www.debilt.nl/",
+      "archiveUrls": [
+        "https://www.debilt.nl/nieuwsoverzicht"
+      ],
+      "checkedAt": "2026-10-13T11:32:12.733928+00:00",
+      "pages": 12,
+      "discovered": 36,
+      "hasMore": true,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "de-ronde-venen",
+      "name": "De Ronde Venen",
+      "homepage": "https://www.derondevenen.nl/",
+      "archiveUrls": [
+        "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel",
+        "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel/Nieuws/Nieuws:aFkv6zXWTOajiENj2fJtHA"
+      ],
+      "checkedAt": "2026-10-13T11:32:12.757954+00:00",
+      "pages": 4,
+      "discovered": 16,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "eemnes",
+      "name": "Eemnes",
+      "homepage": "https://www.eemnes.nl/",
+      "archiveUrls": [
+        "https://www.eemnes.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:14.393287+00:00",
+      "pages": 4,
+      "discovered": 14,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "houten",
+      "name": "Houten",
+      "homepage": "https://www.houten.nl/",
+      "archiveUrls": [
+        "https://www.houten.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:16.671344+00:00",
+      "pages": 5,
+      "discovered": 34,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "ijsselstein",
+      "name": "IJsselstein",
+      "homepage": "https://www.ijsselstein.nl/",
+      "archiveUrls": [
+        "https://www.ijsselstein.nl/nieuws",
+        "https://www.ijsselstein.nl/actueel"
+      ],
+      "checkedAt": "2026-10-13T11:32:16.805879+00:00",
+      "pages": 6,
+      "discovered": 15,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "leusden",
+      "name": "Leusden",
+      "homepage": "https://www.leusden.nl/",
+      "archiveUrls": [
+        "https://www.leusden.nl/actueel",
+        "https://www.leusden.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:17.923040+00:00",
+      "pages": 4,
+      "discovered": 28,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "lopik",
+      "name": "Lopik",
+      "homepage": "https://www.lopik.nl/",
+      "archiveUrls": [
+        "https://www.lopik.nl/nieuwsoverzicht"
+      ],
+      "checkedAt": "2026-10-13T11:32:18.539671+00:00",
+      "pages": 4,
+      "discovered": 13,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "montfoort",
+      "name": "Montfoort",
+      "homepage": "https://www.montfoort.nl/",
+      "archiveUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:18.866021+00:00",
+      "pages": 3,
+      "discovered": 12,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "nieuwegein",
+      "name": "Nieuwegein",
+      "homepage": "https://www.nieuwegein.nl/",
+      "archiveUrls": [
+        "https://www.nieuwegein.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:19.742697+00:00",
+      "pages": 8,
+      "discovered": 15,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "oudewater",
+      "name": "Oudewater",
+      "homepage": "https://www.oudewater.nl/",
+      "archiveUrls": [
+        "https://www.oudewater.nl/Actueel",
+        "https://www.oudewater.nl/Nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:19.877604+00:00",
+      "pages": 2,
+      "discovered": 4,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "renswoude",
+      "name": "Renswoude",
+      "homepage": "https://www.renswoude.nl/",
+      "archiveUrls": [
+        "https://www.renswoude.nl/nieuwsberichten",
+        "https://www.renswoude.nl/actueel"
+      ],
+      "checkedAt": "2026-10-13T11:32:20.460067+00:00",
+      "pages": 12,
+      "discovered": 18,
+      "hasMore": true,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "rhenen",
+      "name": "Rhenen",
+      "homepage": "https://www.rhenen.nl/",
+      "archiveUrls": [
+        "https://www.rhenen.nl/info-over-de-gemeente/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:20.933365+00:00",
+      "pages": 6,
+      "discovered": 27,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "soest",
+      "name": "Soest",
+      "homepage": "https://www.soest.nl/",
+      "archiveUrls": [
+        "https://www.soest.nl/gemeenteraad/actueel",
+        "https://www.soest.nl/actueel"
+      ],
+      "checkedAt": "2026-10-13T11:32:23.858172+00:00",
+      "pages": 4,
+      "discovered": 19,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "stichtse-vecht",
+      "name": "Stichtse Vecht",
+      "homepage": "https://www.stichtsevecht.nl/",
+      "archiveUrls": [
+        "https://www.stichtsevecht.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:24.513060+00:00",
+      "pages": 2,
+      "discovered": 20,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "utrecht",
+      "name": "Utrecht",
+      "homepage": "https://www.utrecht.nl/",
+      "archiveUrls": [
+        "https://www.utrecht.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:25.351197+00:00",
+      "pages": 2,
+      "discovered": 21,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "utrechtse-heuvelrug",
+      "name": "Utrechtse Heuvelrug",
+      "homepage": "https://www.heuvelrug.nl/",
+      "archiveUrls": [
+        "https://www.heuvelrug.nl/nieuws-en-meer"
+      ],
+      "checkedAt": "2026-10-13T11:32:25.417733+00:00",
+      "pages": 2,
+      "discovered": 10,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "veenendaal",
+      "name": "Veenendaal",
+      "homepage": "https://www.veenendaal.nl/",
+      "archiveUrls": [
+        "https://www.veenendaal.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:25.551696+00:00",
+      "pages": 1,
+      "discovered": 10,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "vijfheerenlanden",
+      "name": "Vijfheerenlanden",
+      "homepage": "https://www.vijfheerenlanden.nl/",
+      "archiveUrls": [
+        "https://www.vijfheerenlanden.nl/nieuws/"
+      ],
+      "checkedAt": "2026-10-13T11:32:25.859055+00:00",
+      "pages": 6,
+      "discovered": 30,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "wijk-bij-duurstede",
+      "name": "Wijk bij Duurstede",
+      "homepage": "https://www.wijkbijduurstede.nl/",
+      "archiveUrls": [
+        "https://www.wijkbijduurstede.nl/nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:25.992645+00:00",
+      "pages": 2,
+      "discovered": 20,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "woerden",
+      "name": "Woerden",
+      "homepage": "https://www.woerden.nl/",
+      "archiveUrls": [
+        "https://www.woerden.nl/Actueel",
+        "https://www.woerden.nl/Nieuws"
+      ],
+      "checkedAt": "2026-10-13T11:32:26.474555+00:00",
+      "pages": 2,
+      "discovered": 4,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "woudenberg",
+      "name": "Woudenberg",
+      "homepage": "https://www.woudenberg.nl/",
+      "archiveUrls": [
+        "https://www.woudenberg.nl/nieuwsoverzicht"
+      ],
+      "checkedAt": "2026-10-13T11:32:26.692959+00:00",
+      "pages": 12,
+      "discovered": 8,
+      "hasMore": true,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    },
+    {
+      "municipality": "zeist",
+      "name": "Zeist",
+      "homepage": "https://www.zeist.nl/",
+      "archiveUrls": [
+        "https://www.zeist.nl/nieuws-en-actualiteiten"
+      ],
+      "checkedAt": "2026-10-13T11:32:27.125176+00:00",
+      "pages": 2,
+      "discovered": 8,
+      "hasMore": false,
+      "errors": [],
+      "fullArchive": false,
+      "status": "partial"
+    }
+  ]
+}

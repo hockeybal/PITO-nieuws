@@ -1,0 +1,80 @@
+PITO Nieuws — geteste bronaanvoer, 13 oktober 2026
+
+STATUS
+Deze lokale omgeving heeft werkende run-once inname, deduplicatie op bron-URL,
+bronregistratie, gedeeltelijke artikeltekstextractie en ongepubliceerde concepten.
+Niet geïmplementeerd: een continue scheduler, autonome schrijfservice met
+feitvalidatie, productie-Strapi-koppeling en automatische openbare publicatie.
+Geen garantie dat elke gebeurtenis of elk bericht van andere media wordt ontdekt.
+
+INSTALLATIE (in projectmap)
+python3 -m venv .venv
+.venv/bin/pip install -r requirements-intake.txt
+
+ACTUELE INNAME (default: laatste 7 dagen, datum van uitvoering)
+.venv/bin/python scripts/news_pipeline.py --adapters rss,vru,documents
+
+OFFICIELE BRONNEN
+.venv/bin/python scripts/news_pipeline.py --adapters koop,council,ndw --max-pages 30
+
+ARCHIEVEN (voorbeeld, pas periode aan)
+.venv/bin/python scripts/news_pipeline.py --adapters municipal,regional --start 2026-07-13 --end 2026-10-13 --max-pages 30
+Dit zijn begrensde crawls, geen bewijs van een volledig archief. Bewaar cursors en
+watermarks in productie; vergelijk aantallen en oudste/nieuwste opgehaalde datum.
+
+BRONONDERZOEK HERHALEN
+.venv/bin/python scripts/test_source_catalog.py
+.venv/bin/python scripts/connect_discovered_feeds.py
+De tweede opdracht test alleen. --connect voegt bewezen gedateerde feeds toe als
+signaalbron. Controleer geografische scope, redirects en feedinhoud: een HTTP 200
+kan ook een marketingpagina zijn. Commentfeeds worden uitgesloten.
+.venv/bin/python scripts/build_municipal_source_handoff.py
+.venv/bin/python scripts/build_processing_desk.py
+
+STRAPI
+.venv/bin/python scripts/import_strapi.py
+Default is dry-run. Zie scripts/import_strapi.py en strapi/ voor velden en
+omgevingsvariabelen. Geen geheimen in clientcode of dit manifest opnemen.
+De bestaande importer maakt concepten; geen autonome publicatiemotor.
+
+PRODUCTIEPLANNING (voorgesteld, nog niet ingesteld)
+RSS 15 minuten; officiële bronnen elk uur; archieven dagelijks;
+broncontracttest wekelijks. Respecteer de limieten van iedere bron.
+Pipeline heeft een proceslock. Voeg bij deployment timeouts, retries met
+exponentiële backoff, Retry-After, ETag/Last-Modified en alerts toe.
+Geen parallelle schrijvers op dezelfde JSON-bestanden; gebruik een databasequeue
+voor productie. Stop downstream-publicatie bij bronwijziging of parsefouten.
+
+AUTOMATISCH ZONDER HANDMATIGE REDACTIE
+1. Classificeer gebeurtenis en plaats op bewijs in de brontekst. Dekking van een
+   feed is alleen kandidaatlocatie. Utrecht stad is niet provincie Utrecht.
+2. Dedupliceer dezelfde gebeurtenis over bronnen heen; URL-deduplicatie bestaat
+   al, gebeurtenisclustering moet nog gebouwd worden.
+3. Schrijf uitsluitend eigen tekst uit traceerbare feiten, met originele bron,
+   bronpublicatiedatum, tijd van controle en een wijzigingshistorie.
+4. Scheid agendering/voorstel/besluit/uitvoering en melding/bevestigd incident.
+5. Controleer geldigheid van alerts en trek gesloten of verlopen alerts in.
+6. Machinegate: ontbrekende of tegenstrijdige feiten -> niet publiceren.
+   Bij gevoelige incidenten geen persoonsgegevens of onbevestigde aantijgingen
+   automatisch doorplaatsen. Een optionele redactie kan uitzonderingen oplossen.
+7. Bronfoto alleen bij aantoonbaar hergebruikrecht. Anders goedgekeurde eigen
+   beeldbank of neutrale fallback. Feed-enclosure verleent geen fotolicentie.
+8. Redactionele contactpersoon is geen bewijs van auteurschap of menselijke check.
+9. Test met replaydata en schaduwdraaien vóór productiepublicatie.
+
+GATEN MET PRIORITEIT
+- Werkende websites niet verwarren met werkende crawlers (zie bronmatrix).
+- Directe clubdekking: VTC Woerden/IJsselmeervogels en SportUtrecht zijn een begin;
+  nog geen complete set verenigingen per gemeente.
+- Vier raadsroutes buiten huidige OpenBesluitvorming-dekking verifiëren.
+- NDW exacte weg/rijrichting/gemeente en NS API-sleutel ontbreken.
+- Live PITO agenda en activiteiten koppelen aan Strapi met plaats en eventdatum.
+- KNMI operationele feedversie en vervaltijd testen vóór gebruik.
+- Lokale ondernemers, woningcorporaties, cultuurorganisaties en bewonersverhalen
+  verder uitbreiden met directe bronnen; media hebben ook eigen verslaggeving.
+
+METEN
+Log bron -> eerste ophaaltijd -> extractie -> tekst -> publicatie.
+Rapporteer per gemeente/onderwerp werkende bronnen, fouten, ontbrekende foto's,
+verlopen alerts, dubbele gebeurtenissen en publicatievertraging.
+Geen aantallen signalen presenteren als aantallen gepubliceerde nieuwsartikelen.

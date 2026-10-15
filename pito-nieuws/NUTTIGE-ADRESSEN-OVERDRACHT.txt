@@ -1,0 +1,16 @@
+PITO Nuttige adressen — onderzoek en basis, 14 oktober 2026
+
+26/26 officiële gemeentelijke contactroutes bereikbaar. 26/26 afvalroutes gevonden, inclusief handmatige inhoudelijke correctie Baarn, Houten en Woudenberg. 19 meldroutes automatisch gevonden; zeven gemeenten hebben nog geen afzonderlijk gecontroleerde meldroute. De contactroute blijft daar beschikbaar.
+
+De openbare pagina is een verwijsgids, geen complete import van individuele straatadressen, huisartsen, openingstijden of actuele afvalophaalmomenten. Die zijn nog niet gestructureerd opgehaald. Het bestaan van een HTML-pagina bevestigt geen API of toegestane bulkimport.
+
+Gemeente: officiële contactpagina als eigenaar van bezoekadres, telefoon en openingstijden. Afval: gemeentelijke pagina verwijst naar onder meer RMN, AfvalWijzer, ACV en ROVA. Ophaalmomenten vereisen postcode/huisnummer; geen gemeentebreed schema genereren. API-toegang en hergebruik per leverancier onderzoeken voordat Strapi inzameldagen importeert.
+
+Wijkagent: politie.nl/mijn-buurt, zoek op postcode/plaats. Namen en werkgebieden niet op basis van gemeente alleen toewijzen. Brandweer/veiligheid: VRU bedient alle 26 gemeenten; niet-spoednummer geverifieerd bij Brandweer Nederland. Noodsituaties: 112 en bron Rijksoverheid. Geen nieuwsoverzicht presenteren als live alarmdienst.
+
+Huisartsen: praktijkwebsite is de primaire bron. ZorgkaartNederland als vindroute, niet als vrij beschikbare bulkdatabase. Huisartsenpost via eigen huisarts; verzorgingsgebieden vallen niet noodzakelijk samen met gemeentegrenzen. Praktijkadres, telefoon, inschrijfstatus en openingstijden pas tonen na verificatie bij de praktijk. Geen medische triage of automatische toewijzing van een spoedpost.
+
+Data: data/local-addresses.json; gecontroleerde correcties in data/local-address-overrides.json.
+Hercontrole: python3 scripts/audit_local_addresses.py. Voert read-only controles uit. Nog geen scheduler of Strapi-import aangesloten. Houd gecontroleerde publicatiedata gescheiden van ruwe ontdekkingen; publiceer toekomstige wijzigingen pas na inhoudelijke vergelijking. Bewaar sourceUrl, checkedAt, HTTP-status, gemeente, serviceType, previousValue en reviewStatus. Een mislukte controle mag bestaande gecontroleerde gegevens niet stil verwijderen.
+
+Aanbevolen vervolg: individuele zorgpraktijken en wijkteams inventariseren per woonkern; gemeentelijke telefoonnummers/adressen exact extraheren en vergelijken; providercontracten/API's voor afval verifiëren; periodieke linkcontrole en wijzigingsmeldingen aansluiten in Strapi. Politie/brandweer/noodnummers blijven altijd herkenbaar apart van redactionele content.

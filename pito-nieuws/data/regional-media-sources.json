@@ -1,0 +1,1940 @@
+[
+  {
+    "name": "Eemland1",
+    "url": "https://www.eemland1.nl/",
+    "municipalities": [
+      "amersfoort",
+      "leusden",
+      "baarn",
+      "bunschoten",
+      "soest"
+    ],
+    "evidence": "https://www.eemland1.nl/nieuws/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:09.718728+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.eemland1.nl/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 25
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "lastIntake": {
+      "source": "local-c918b0c3d0",
+      "name": "Eemland1",
+      "feed": "https://www.eemland1.nl/feed/",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 25,
+      "added": 3,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "Omroep ZOUT",
+    "url": "https://www.omroepzout.nl/",
+    "municipalities": [
+      "de-bilt",
+      "bunnik",
+      "zeist",
+      "utrechtse-heuvelrug",
+      "wijk-bij-duurstede"
+    ],
+    "evidence": "https://slotstad.nl/over-slotstad",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:09.718983+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.omroepzout.nl/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 10
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "lastIntake": {
+      "source": "local-7a8fc062a5",
+      "name": "Omroep ZOUT",
+      "feed": "https://www.omroepzout.nl/feed/",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 10,
+      "added": 8,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "Omroep Lekstroom",
+    "url": "https://omroeplekstroom.nl/",
+    "municipalities": [
+      "houten",
+      "ijsselstein",
+      "lopik",
+      "nieuwegein"
+    ],
+    "evidence": "https://omroeplekstroom.nl/omroep-lekstroom-op-volle-kracht-vooruit/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:09.719084+00:00",
+    "feedChecks": [
+      {
+        "url": "https://omroeplekstroom.nl/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 50
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "lastIntake": {
+      "source": "local-248d0d4668",
+      "name": "Omroep Lekstroom",
+      "feed": "https://omroeplekstroom.nl/feed/",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 50,
+      "added": 4,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "RTV Midden Holland",
+    "url": "https://rtvmiddenholland.nl/",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "evidence": "https://rtvmiddenholland.nl/midlandfm/?rtvmh_page=4",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:09.719133+00:00",
+    "feedChecks": [
+      {
+        "url": "https://rtvmiddenholland.nl/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 40
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "lastIntake": {
+      "source": "local-48f102e077",
+      "name": "RTV Midden Holland",
+      "feed": "https://rtvmiddenholland.nl/feed/",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 40,
+      "added": 19,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "XON / 1 VALLEI",
+    "url": "https://xon.nu/",
+    "municipalities": [
+      "renswoude",
+      "rhenen",
+      "veenendaal",
+      "woudenberg"
+    ],
+    "evidence": "https://xon.nu/overons/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:09.723741+00:00",
+    "feedChecks": [
+      {
+        "url": "https://xon.nu/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 10
+      },
+      {
+        "url": "https://xon.nu/home/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 0
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "lastIntake": {
+      "source": "local-d6df2689a8",
+      "name": "XON / 1 VALLEI",
+      "feed": "https://xon.nu/feed/",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 10,
+      "added": 10,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "RTV Stichtse Vecht",
+    "url": "https://rtvstichtsevecht.nl/",
+    "municipalities": [
+      "stichtse-vecht"
+    ],
+    "evidence": "https://rtvstichtsevecht.nl/vacatures",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Nog niet gekoppeld",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:10.246945+00:00",
+    "feedChecks": [],
+    "homepageStatus": "Opgehaald",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "lastCrawl": {
+      "id": "region-ec89981e15",
+      "name": "RTV Stichtse Vecht",
+      "checkedAt": "2026-10-12T07:34:43.579991+00:00",
+      "pages": 0,
+      "dynamicPagination": false,
+      "discovered": 0,
+      "errors": [
+        "https://rtvstichtsevecht.nl/ HTTP 302"
+      ],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "status": "unresolved",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "RTV Ronde Venen",
+    "url": "https://rtvrondevenen.nl/",
+    "municipalities": [
+      "de-ronde-venen"
+    ],
+    "evidence": "https://rtvrondevenen.nl/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 18 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:11.351826+00:00",
+    "feedChecks": [],
+    "homepageStatus": "Opgehaald",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "lastCrawl": {
+      "id": "region-80437f9cba",
+      "name": "RTV Ronde Venen",
+      "checkedAt": "2026-10-12T07:34:44.097013+00:00",
+      "pages": 1,
+      "dynamicPagination": false,
+      "discovered": 18,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "de-ronde-venen"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "NH Gooi",
+    "url": "https://www.nhnieuws.nl/nhgooi",
+    "municipalities": [
+      "eemnes"
+    ],
+    "evidence": "https://www.nhnieuws.nl/nieuws/254346/over-nh-gooi",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Nog niet gekoppeld",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:11.729353+00:00",
+    "feedChecks": [],
+    "homepageStatus": "Opgehaald",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "lastCrawl": {
+      "id": "region-feb44178d3",
+      "name": "NH Gooi",
+      "checkedAt": "2026-10-12T07:34:44.775205+00:00",
+      "pages": 0,
+      "dynamicPagination": false,
+      "discovered": 0,
+      "errors": [
+        "https://www.nhnieuws.nl/nhgooi HTTP 307"
+      ],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "eemnes"
+      ],
+      "status": "unresolved",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "SRC",
+    "url": "https://src.fm/",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "evidence": "https://src.fm/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 17 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:11.805710+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "lastCrawl": {
+      "id": "region-6562579ea7",
+      "name": "SRC",
+      "checkedAt": "2026-10-12T07:34:45.107566+00:00",
+      "pages": 1,
+      "dynamicPagination": false,
+      "discovered": 17,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "DUIC",
+    "url": "https://www.duic.nl/",
+    "municipalities": [
+      "utrecht"
+    ],
+    "evidence": "https://www.duic.nl/contact",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 0 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:12.289039+00:00",
+    "feedChecks": [],
+    "homepageStatus": "Opgehaald",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "lastCrawl": {
+      "id": "region-265b7de6a7",
+      "name": "DUIC",
+      "checkedAt": "2026-10-12T07:34:46.212566+00:00",
+      "pages": 1,
+      "dynamicPagination": false,
+      "discovered": 0,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "utrecht"
+      ],
+      "status": "unresolved",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "RTV Utrecht",
+    "url": "https://www.rtvutrecht.nl/",
+    "municipalities": [
+      "*"
+    ],
+    "evidence": "https://www.rtvutrecht.nl/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "knownFeed": "https://www.rtvutrecht.nl/rss/nieuws.xml",
+    "checkedAt": "2026-10-13T09:00:12.373790+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.rtvutrecht.nl/rss/nieuws.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 50
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "lastIntake": {
+      "source": "rtv-utrecht",
+      "name": "RTV Utrecht",
+      "feed": "https://www.rtvutrecht.nl/rss/nieuws.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 50,
+      "added": 35,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "Woerdense Courant",
+    "url": "https://www.woerdensecourant.nl/",
+    "municipalities": [
+      "woerden"
+    ],
+    "evidence": "https://www.woerdensecourant.nl/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 39 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Metadata en links voor redactionele signalering; geen hergebruik van artikelen of beelden goedgekeurd",
+    "checkedAt": "2026-10-13T09:00:12.510289+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "webReaderCheck": {
+      "date": "2026-10-12",
+      "status": "Homepage, 112 en sport leesbaar via webreader; archief niet opgehaald",
+      "automatedIntake": false
+    },
+    "lastCrawl": {
+      "id": "region-abfb0368ef",
+      "name": "Woerdense Courant",
+      "checkedAt": "2026-10-12T07:34:46.896832+00:00",
+      "pages": 2,
+      "dynamicPagination": true,
+      "discovered": 39,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "woerden"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "indebuurt Woerden",
+    "url": "https://indebuurt.nl/woerden/",
+    "municipalities": [
+      "woerden"
+    ],
+    "knownFeed": "https://indebuurt.nl/woerden/rss.xml",
+    "checkedAt": "2026-10-13T09:00:12.688075+00:00",
+    "feedChecks": [
+      {
+        "url": "https://indebuurt.nl/woerden/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://indebuurt.nl/woerden/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-7c5d47cc08",
+      "name": "indebuurt Woerden",
+      "feed": "https://indebuurt.nl/woerden/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 3,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Amersfoort",
+    "url": "https://www.ad.nl/amersfoort/",
+    "municipalities": [
+      "amersfoort"
+    ],
+    "knownFeed": "https://www.ad.nl/amersfoort/rss.xml",
+    "checkedAt": "2026-10-13T09:00:12.820494+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/amersfoort/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/amersfoort/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-0349b16d77",
+      "name": "AD Amersfoort",
+      "feed": "https://www.ad.nl/amersfoort/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 23,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Baarn",
+    "url": "https://www.ad.nl/baarn/",
+    "municipalities": [
+      "baarn"
+    ],
+    "knownFeed": "https://www.ad.nl/baarn/rss.xml",
+    "checkedAt": "2026-10-13T09:00:12.973340+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/baarn/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/baarn/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-4de4a9a6d7",
+      "name": "AD Baarn",
+      "feed": "https://www.ad.nl/baarn/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 21,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Bunnik",
+    "url": "https://www.ad.nl/bunnik/",
+    "municipalities": [
+      "bunnik"
+    ],
+    "knownFeed": "https://www.ad.nl/bunnik/rss.xml",
+    "checkedAt": "2026-10-13T09:00:13.082377+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/bunnik/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/bunnik/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-1e40f79542",
+      "name": "AD Bunnik",
+      "feed": "https://www.ad.nl/bunnik/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 9,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Bunschoten",
+    "url": "https://www.ad.nl/bunschoten/",
+    "municipalities": [
+      "bunschoten"
+    ],
+    "knownFeed": "https://www.ad.nl/bunschoten/rss.xml",
+    "checkedAt": "2026-10-13T09:00:13.302988+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/bunschoten/rss.xml",
+        "status": "curl: (56) The requested URL returned error: 404\n"
+      },
+      {
+        "url": "https://www.ad.nl/bunschoten-spakenburg/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/bunschoten/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-3122a3f181",
+      "name": "AD Bunschoten",
+      "feed": "https://www.ad.nl/bunschoten-spakenburg/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 3,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD De Bilt",
+    "url": "https://www.ad.nl/de-bilt/",
+    "municipalities": [
+      "de-bilt"
+    ],
+    "knownFeed": "https://www.ad.nl/de-bilt/rss.xml",
+    "checkedAt": "2026-10-13T09:00:13.412558+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/de-bilt/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/de-bilt/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-07742549ac",
+      "name": "AD De Bilt",
+      "feed": "https://www.ad.nl/de-bilt/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 3,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD De Ronde Venen",
+    "url": "https://www.ad.nl/de-ronde-venen/",
+    "municipalities": [
+      "de-ronde-venen"
+    ],
+    "knownFeed": "https://www.ad.nl/de-ronde-venen/rss.xml",
+    "checkedAt": "2026-10-13T09:00:13.520456+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/de-ronde-venen/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/de-ronde-venen/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-7e5b830891",
+      "name": "AD De Ronde Venen",
+      "feed": "https://www.ad.nl/de-ronde-venen/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 13,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Eemnes",
+    "url": "https://www.ad.nl/eemnes/",
+    "municipalities": [
+      "eemnes"
+    ],
+    "knownFeed": "https://www.ad.nl/eemnes/rss.xml",
+    "checkedAt": "2026-10-13T09:00:13.802949+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/eemnes/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/eemnes/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-a2ddbfbc99",
+      "name": "AD Eemnes",
+      "feed": "https://www.ad.nl/eemnes/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 2,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Houten",
+    "url": "https://www.ad.nl/houten/",
+    "municipalities": [
+      "houten"
+    ],
+    "knownFeed": "https://www.ad.nl/houten/rss.xml",
+    "checkedAt": "2026-10-13T09:00:14.052980+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/houten/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/houten/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-d2a71b5d68",
+      "name": "AD Houten",
+      "feed": "https://www.ad.nl/houten/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 3,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD IJsselstein",
+    "url": "https://www.ad.nl/ijsselstein/",
+    "municipalities": [
+      "ijsselstein"
+    ],
+    "knownFeed": "https://www.ad.nl/ijsselstein/rss.xml",
+    "checkedAt": "2026-10-13T09:00:14.427878+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/ijsselstein/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/ijsselstein/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-b02174302b",
+      "name": "AD IJsselstein",
+      "feed": "https://www.ad.nl/ijsselstein/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 5,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Leusden",
+    "url": "https://www.ad.nl/leusden/",
+    "municipalities": [
+      "leusden"
+    ],
+    "knownFeed": "https://www.ad.nl/leusden/rss.xml",
+    "checkedAt": "2026-10-13T09:00:14.484426+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/leusden/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/leusden/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-8d7dfbf746",
+      "name": "AD Leusden",
+      "feed": "https://www.ad.nl/leusden/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 6,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Lopik",
+    "url": "https://www.ad.nl/lopik/",
+    "municipalities": [
+      "lopik"
+    ],
+    "knownFeed": "https://www.ad.nl/lopik/rss.xml",
+    "checkedAt": "2026-10-13T09:00:14.508938+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/lopik/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/lopik/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-9144d14ca1",
+      "name": "AD Lopik",
+      "feed": "https://www.ad.nl/lopik/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 5,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Montfoort",
+    "url": "https://www.ad.nl/montfoort/",
+    "municipalities": [
+      "montfoort"
+    ],
+    "knownFeed": "https://www.ad.nl/montfoort/rss.xml",
+    "checkedAt": "2026-10-13T09:00:14.825411+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/montfoort/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/montfoort/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-86998eda06",
+      "name": "AD Montfoort",
+      "feed": "https://www.ad.nl/montfoort/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 4,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Nieuwegein",
+    "url": "https://www.ad.nl/nieuwegein/",
+    "municipalities": [
+      "nieuwegein"
+    ],
+    "knownFeed": "https://www.ad.nl/nieuwegein/rss.xml",
+    "checkedAt": "2026-10-13T09:00:15.025917+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/nieuwegein/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/nieuwegein/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-c9a0b91220",
+      "name": "AD Nieuwegein",
+      "feed": "https://www.ad.nl/nieuwegein/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 5,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Oudewater",
+    "url": "https://www.ad.nl/oudewater/",
+    "municipalities": [
+      "oudewater"
+    ],
+    "knownFeed": "https://www.ad.nl/oudewater/rss.xml",
+    "checkedAt": "2026-10-13T09:00:15.315110+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/oudewater/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/oudewater/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-75f44490a7",
+      "name": "AD Oudewater",
+      "feed": "https://www.ad.nl/oudewater/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 9,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Renswoude",
+    "url": "https://www.ad.nl/renswoude/",
+    "municipalities": [
+      "renswoude"
+    ],
+    "knownFeed": "https://www.ad.nl/renswoude/rss.xml",
+    "checkedAt": "2026-10-13T09:00:15.460113+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/renswoude/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/renswoude/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-a6305f30ac",
+      "name": "AD Renswoude",
+      "feed": "https://www.ad.nl/renswoude/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 11,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Rhenen",
+    "url": "https://www.ad.nl/rhenen/",
+    "municipalities": [
+      "rhenen"
+    ],
+    "knownFeed": "https://www.ad.nl/rhenen/rss.xml",
+    "checkedAt": "2026-10-13T09:00:15.487108+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/rhenen/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/rhenen/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-fdc3fa0059",
+      "name": "AD Rhenen",
+      "feed": "https://www.ad.nl/rhenen/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 9,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Soest",
+    "url": "https://www.ad.nl/soest/",
+    "municipalities": [
+      "soest"
+    ],
+    "knownFeed": "https://www.ad.nl/soest/rss.xml",
+    "checkedAt": "2026-10-13T09:00:15.560808+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/soest/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/soest/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-022b5d8b8d",
+      "name": "AD Soest",
+      "feed": "https://www.ad.nl/soest/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 3,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Stichtse Vecht",
+    "url": "https://www.ad.nl/stichtse-vecht/",
+    "municipalities": [
+      "stichtse-vecht"
+    ],
+    "knownFeed": "https://www.ad.nl/stichtse-vecht/rss.xml",
+    "checkedAt": "2026-10-13T09:00:16.047558+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/stichtse-vecht/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/stichtse-vecht/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-144d0d9923",
+      "name": "AD Stichtse Vecht",
+      "feed": "https://www.ad.nl/stichtse-vecht/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 5,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Utrecht",
+    "url": "https://www.ad.nl/utrecht/",
+    "municipalities": [
+      "utrecht"
+    ],
+    "knownFeed": "https://www.ad.nl/utrecht/rss.xml",
+    "checkedAt": "2026-10-13T09:00:16.294383+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/utrecht/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/utrecht/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-ea2ae72854",
+      "name": "AD Utrecht",
+      "feed": "https://www.ad.nl/utrecht/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 3,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Utrechtse Heuvelrug",
+    "url": "https://www.ad.nl/utrechtse-heuvelrug/",
+    "municipalities": [
+      "utrechtse-heuvelrug"
+    ],
+    "knownFeed": "https://www.ad.nl/utrechtse-heuvelrug/rss.xml",
+    "checkedAt": "2026-10-13T09:00:16.354358+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/utrechtse-heuvelrug/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/utrechtse-heuvelrug/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-b76a2b66fb",
+      "name": "AD Utrechtse Heuvelrug",
+      "feed": "https://www.ad.nl/utrechtse-heuvelrug/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 2,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Veenendaal",
+    "url": "https://www.ad.nl/veenendaal/",
+    "municipalities": [
+      "veenendaal"
+    ],
+    "knownFeed": "https://www.ad.nl/veenendaal/rss.xml",
+    "checkedAt": "2026-10-13T09:00:16.582964+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/veenendaal/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/veenendaal/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-3cbd1b0a86",
+      "name": "AD Veenendaal",
+      "feed": "https://www.ad.nl/veenendaal/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 2,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Vijfheerenlanden",
+    "url": "https://www.ad.nl/vijfheerenlanden/",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "knownFeed": "https://www.ad.nl/vijfheerenlanden/rss.xml",
+    "checkedAt": "2026-10-13T09:00:16.621810+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/vijfheerenlanden/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/vijfheerenlanden/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-298fb56c77",
+      "name": "AD Vijfheerenlanden",
+      "feed": "https://www.ad.nl/vijfheerenlanden/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 10,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Wijk bij Duurstede",
+    "url": "https://www.ad.nl/wijk-bij-duurstede/",
+    "municipalities": [
+      "wijk-bij-duurstede"
+    ],
+    "knownFeed": "https://www.ad.nl/wijk-bij-duurstede/rss.xml",
+    "checkedAt": "2026-10-13T09:00:16.754162+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/wijk-bij-duurstede/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/wijk-bij-duurstede/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-d8035b7f2d",
+      "name": "AD Wijk bij Duurstede",
+      "feed": "https://www.ad.nl/wijk-bij-duurstede/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 5,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Woerden",
+    "url": "https://www.ad.nl/woerden/",
+    "municipalities": [
+      "woerden"
+    ],
+    "knownFeed": "https://www.ad.nl/woerden/rss.xml",
+    "checkedAt": "2026-10-13T09:00:17.224094+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/woerden/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/woerden/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-883f15133c",
+      "name": "AD Woerden",
+      "feed": "https://www.ad.nl/woerden/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 4,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Woudenberg",
+    "url": "https://www.ad.nl/woudenberg/",
+    "municipalities": [
+      "woudenberg"
+    ],
+    "knownFeed": "https://www.ad.nl/woudenberg/rss.xml",
+    "checkedAt": "2026-10-13T09:00:17.224518+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/woudenberg/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/woudenberg/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-abe73662d1",
+      "name": "AD Woudenberg",
+      "feed": "https://www.ad.nl/woudenberg/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 2,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "AD Zeist",
+    "url": "https://www.ad.nl/zeist/",
+    "municipalities": [
+      "zeist"
+    ],
+    "knownFeed": "https://www.ad.nl/zeist/rss.xml",
+    "checkedAt": "2026-10-13T09:00:17.537893+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.ad.nl/zeist/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://www.ad.nl/zeist/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-06021799e1",
+      "name": "AD Zeist",
+      "feed": "https://www.ad.nl/zeist/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 2,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "indebuurt Amersfoort",
+    "url": "https://indebuurt.nl/amersfoort/",
+    "municipalities": [
+      "amersfoort"
+    ],
+    "knownFeed": "https://indebuurt.nl/amersfoort/rss.xml",
+    "checkedAt": "2026-10-13T09:00:17.571276+00:00",
+    "feedChecks": [
+      {
+        "url": "https://indebuurt.nl/amersfoort/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://indebuurt.nl/amersfoort/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-fd23ba1133",
+      "name": "indebuurt Amersfoort",
+      "feed": "https://indebuurt.nl/amersfoort/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 2,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "indebuurt Utrecht",
+    "url": "https://indebuurt.nl/utrecht/",
+    "municipalities": [
+      "utrecht"
+    ],
+    "knownFeed": "https://indebuurt.nl/utrecht/rss.xml",
+    "checkedAt": "2026-10-13T09:00:17.831521+00:00",
+    "feedChecks": [
+      {
+        "url": "https://indebuurt.nl/utrecht/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://indebuurt.nl/utrecht/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-1340abf8fa",
+      "name": "indebuurt Utrecht",
+      "feed": "https://indebuurt.nl/utrecht/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 5,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "indebuurt Veenendaal",
+    "url": "https://indebuurt.nl/veenendaal/",
+    "municipalities": [
+      "veenendaal"
+    ],
+    "knownFeed": "https://indebuurt.nl/veenendaal/rss.xml",
+    "checkedAt": "2026-10-13T09:00:17.998767+00:00",
+    "feedChecks": [
+      {
+        "url": "https://indebuurt.nl/veenendaal/rss.xml",
+        "status": "XML-feed bereikbaar",
+        "items": 30
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Gemeente en feiten per signaal controleren; periodieke productierun nog activeren",
+    "evidence": "https://indebuurt.nl/veenendaal/",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "RSS aangesloten op privé-inbox; geen automatische publicatie",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastIntake": {
+      "source": "local-8340937b61",
+      "name": "indebuurt Veenendaal",
+      "feed": "https://indebuurt.nl/veenendaal/rss.xml",
+      "checkedAt": "2026-10-13T09:02:17.261717+00:00",
+      "fullArchive": false,
+      "autoPublish": false,
+      "status": "ok",
+      "received": 30,
+      "added": 1,
+      "skipped": 0
+    }
+  },
+  {
+    "name": "De Woudenberger",
+    "url": "https://www.dewoudenberger.nl",
+    "municipalities": [
+      "woudenberg"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/de-woudenberger",
+    "checkedAt": "2026-10-13T09:00:18.522671+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-ea39bfa10a",
+      "name": "De Woudenberger",
+      "checkedAt": "2026-10-12T07:34:48.943150+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "woudenberg"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Bunniks Nieuws",
+    "url": "https://www.bunniksnieuws.nl",
+    "municipalities": [
+      "bunnik"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/bunniks-nieuws",
+    "checkedAt": "2026-10-13T09:00:18.544752+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-700d76d325",
+      "name": "Bunniks Nieuws",
+      "checkedAt": "2026-10-12T07:34:51.231969+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "bunnik"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Wijks Nieuws",
+    "url": "https://www.wijksnieuws.nl",
+    "municipalities": [
+      "wijk-bij-duurstede"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/wijks-nieuws",
+    "checkedAt": "2026-10-13T09:00:18.612746+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-d31d40c8e6",
+      "name": "Wijks Nieuws",
+      "checkedAt": "2026-10-12T07:34:53.224484+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "wijk-bij-duurstede"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Houtens Nieuws",
+    "url": "https://www.houtensnieuws.nl",
+    "municipalities": [
+      "houten"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/houtens-nieuws",
+    "checkedAt": "2026-10-13T09:00:18.667399+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-190f4113cc",
+      "name": "Houtens Nieuws",
+      "checkedAt": "2026-10-12T07:34:55.334052+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "houten"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "De Nieuwsbode",
+    "url": "https://www.denieuwsbode.nl",
+    "municipalities": [
+      "zeist"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/de-nieuwsbode",
+    "checkedAt": "2026-10-13T09:00:18.671553+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-32a2d275c9",
+      "name": "De Nieuwsbode",
+      "checkedAt": "2026-10-12T07:34:57.675790+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "zeist"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Vierklank",
+    "url": "https://www.vierklank.nl",
+    "municipalities": [
+      "de-bilt"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/vierklank",
+    "checkedAt": "2026-10-13T09:00:18.715393+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-920f5c3412",
+      "name": "Vierklank",
+      "checkedAt": "2026-10-12T07:34:59.732189+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "de-bilt"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "De Stad Amersfoort",
+    "url": "https://www.destadamersfoort.nl",
+    "municipalities": [
+      "amersfoort"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/de-stad-amersfoort",
+    "checkedAt": "2026-10-13T09:00:18.723220+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 4 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-d4c86224c4",
+      "name": "De Stad Amersfoort",
+      "checkedAt": "2026-10-12T07:35:02.251055+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 4,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "amersfoort"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Leusder Krant",
+    "url": "https://www.leusderkrant.nl",
+    "municipalities": [
+      "leusden"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/leusder-krant",
+    "checkedAt": "2026-10-13T09:00:18.769689+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-c261f907c7",
+      "name": "Leusder Krant",
+      "checkedAt": "2026-10-12T07:35:04.244652+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "leusden"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Soester Courant",
+    "url": "https://www.soestercourant.nl",
+    "municipalities": [
+      "soest"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/soester-courant",
+    "checkedAt": "2026-10-13T09:00:18.824697+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-0e2d7a9037",
+      "name": "Soester Courant",
+      "checkedAt": "2026-10-12T07:35:06.212356+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "soest"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Baarnsche Courant",
+    "url": "https://www.baarnschecourant.nl",
+    "municipalities": [
+      "baarn"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/baarnsche-courant",
+    "checkedAt": "2026-10-13T09:00:18.831590+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 5 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-dba5350795",
+      "name": "Baarnsche Courant",
+      "checkedAt": "2026-10-12T07:35:08.210476+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 5,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "baarn"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Nieuwsblad De Kaap",
+    "url": "https://www.nieuwsbladdekaap.nl",
+    "municipalities": [
+      "utrechtse-heuvelrug"
+    ],
+    "evidence": "https://bdumedia.nl/nieuwsmerk/nieuwsblad-de-kaap",
+    "checkedAt": "2026-10-13T09:00:18.880814+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "discoveredOn": "2026-10-12",
+    "role": "journalistieke signalering",
+    "integration": "Website deels aangesloten: 6 nieuwslinks gevonden bij de laatste indexcontrole.",
+    "rights": "Alleen privé-signalering. Geen herpublicatielicentie voor tekst of beeld.",
+    "lastCrawl": {
+      "id": "region-db8a251b5a",
+      "name": "Nieuwsblad De Kaap",
+      "checkedAt": "2026-10-12T07:35:10.070537+00:00",
+      "pages": 2,
+      "dynamicPagination": false,
+      "discovered": 6,
+      "errors": [],
+      "fullArchive": false,
+      "autoPublish": false,
+      "window": [
+        "2026-07-12",
+        "2026-10-12"
+      ],
+      "municipalities": [
+        "utrechtse-heuvelrug"
+      ],
+      "status": "partial",
+      "hasMore": false
+    }
+  },
+  {
+    "name": "Zenderstreeknieuws",
+    "url": "https://www.zenderstreeknieuws.nl/",
+    "municipalities": [
+      "ijsselstein",
+      "lopik"
+    ],
+    "feedChecks": [],
+    "checkedAt": "2026-10-13",
+    "integration": "Bronroute gevonden; nog geen werkende inname bevestigd",
+    "next": "Artikelindex, toegang en paginering controleren; feed niet bevestigd.",
+    "evidence": "https://www.woerdensecourant.nl/archive"
+  },
+  {
+    "name": "Het Kontakt Vijfheerenlanden",
+    "url": "https://www.hetkontakt.nl/vijfheerenlanden/",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "feedChecks": [],
+    "checkedAt": "2026-10-13",
+    "integration": "Bronroute gevonden; nog geen werkende inname bevestigd",
+    "next": "Artikelindex, toegang en paginering controleren; feed niet bevestigd.",
+    "evidence": "https://www.woerdensecourant.nl/archive"
+  },
+  {
+    "name": "De Molenkruier",
+    "url": "https://www.molenkruier.nl/",
+    "municipalities": [
+      "nieuwegein"
+    ],
+    "feedChecks": [],
+    "checkedAt": "2026-10-13",
+    "integration": "Bronroute gevonden; nog geen werkende inname bevestigd",
+    "next": "Artikelindex, toegang en paginering controleren; feed niet bevestigd.",
+    "evidence": "https://www.woerdensecourant.nl/archive"
+  }
+]

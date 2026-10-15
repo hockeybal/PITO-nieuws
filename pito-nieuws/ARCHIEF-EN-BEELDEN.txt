@@ -1,0 +1,13 @@
+PITO — zichtbaar archief en stockbeelden, 10 oktober 2026
+
+De oude standaardselectie beperkte nieuws tot veertien dagen. Het archief zat achter een inklapbaar filter. Gemeenten met weinig recente berichten oogden daardoor leeg, ook wanneer oudere verhalen beschikbaar waren.
+
+Nu: maandbalk met aantallen; Alle berichten; Eerder in de eigen gemeente (maximaal zes, expliciete archiefdatering); vijf onderwerpsoverzichten met doorlinks; provinciaal nieuws uit andere gemeenten in een apart gelabeld blok. Onder artikelen: hetzelfde onderwerp, andere lokale verhalen en provinciale onderwerpselectie. Zoeken doorzoekt standaard het archief. De volledige archiefweergave toont twaalf kaarten per pagina met paginanummers en Oudere berichten bekijken. Het archief verwijdert geen eerdere artikelversies door de clusterontdubbeling voor de recente voorpagina.
+
+De gegevens bevatten 76 zichtbare nieuwsconcepten uit 10 april–10 oktober 2026. Alle 26 gemeenten hebben minstens één eigen artikel. Dit is GEEN volledig archief van al het nieuws uit zes maanden. Er zijn in deze vormgevingsronde geen extra nieuwsfeiten verzonnen of artikelen aangevuld om de telling hoger te maken. Per gemeente/maand is de feitelijke dekking opgeslagen in data/archive-coverage.json. Meer brononderzoek en menselijke eindredactie blijven nodig.
+
+Referentie: https://www.nhnieuws.nl/ — regioselectie, thema's, net binnen en meer-artikelen-navigatie bekeken. PITO gebruikt die navigatiepatronen binnen de eigen huisstijl; geen teksten of afbeeldingen overgenomen. 'Meest gelezen' ontbreekt bewust zolang daarvoor geen echte meetgegevens zijn.
+
+Beeldenopdracht: 31 afzonderlijke fotorealistische generaties: zes per hoofdrubriek plus één extra beeld voor windenergie. De hoofdrubrieken: politiek & bestuur, veiligheid, verkeer & OV, wonen & omgeving, voorzieningen. Dit zijn zes verschillende situaties per hoofdrubriek, niet zes varianten van elk subonderwerp. Bij gebruik gelden concrete onderwerptags; een busbeeld wordt niet automatisch aan ieder treinbericht gekoppeld. Generieke contextbeelden documenteren geen echte gebeurtenis of exacte gemeente. Herhaling wordt op asset-identiteit uitgesloten binnen de beeldkaarten van één pagina, inclusief het blok oudere berichten. Weetjes reserveren hun beeld vooraf.
+
+De originele bestanden blijven bewaard; projectbestanden en beschrijvingen staan in static/images en data/images.json. work/stock-manifest.json koppelt de afzonderlijke generaties aan hun bestanden. /nieuws/beeldbibliotheek biedt toegang per rubriek.

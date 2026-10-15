@@ -1,0 +1,114 @@
+[
+  {
+    "name": "KOOP · officiële publicaties",
+    "priority": "P1",
+    "state": "Gepagineerde inname werkt",
+    "purpose": "Vergunningen, verkeersbesluiten, inspraak en beleidswijzigingen.",
+    "next": "Alle publicaties van de 26 gemeentelijke afzenders over 11 april t/m 11 oktober 2026 opgehaald via publicatiedatum. Metadata zijn onderzoekssignalen; relevantie, besluitstatus en gevolgen nog beoordelen. Provincie en waterschappen als afzender nog toevoegen.",
+    "url": "https://www.koopoverheid.nl/actueel/nieuws/2025/06/02/nieuwe-handleiding-sru-2.0-v1.4-beschikbaar"
+  },
+  {
+    "name": "Gemeenteraden en Provinciale Staten",
+    "priority": "P1",
+    "state": "Gedeeltelijk gekoppeld",
+    "purpose": "Raadsvoorstellen, begrotingen, besluitenlijsten en moties.",
+    "next": "22 gemeenten melden actuele inname via OpenBesluitvorming. Voor vier gemeenten is rechtstreekse broncontrole nodig. Controleer altijd de besluitstatus.",
+    "url": "https://openbesluitvorming.nl/docs/api"
+  },
+  {
+    "name": "NS · treinen en werkzaamheden",
+    "priority": "P1",
+    "state": "Nieuwsfeed werkt",
+    "purpose": "Werk aan het spoor en verstoringen met aantoonbare gevolgen voor Utrechtse stations.",
+    "next": "Reisinformatie-API vereist een abonnementssleutel. Nieuwsfeed is beschikbaar; landelijk NS-nieuws wordt niet automatisch lokaal nieuws.",
+    "url": "https://apiportal.ns.nl/startersguide"
+  },
+  {
+    "name": "NDW · bereikbaarheid",
+    "priority": "P1",
+    "state": "Proefinname werkt",
+    "purpose": "Afsluitingen, werkzaamheden en hinder op relevante routes.",
+    "next": "DATEX II v3 wordt verwerkt tot controlekandidaten. Voeg gemeentelijke geometrie, wegnaam, rijrichting en afloop toe voordat openbare alerts mogelijk zijn.",
+    "url": "https://opendata.ndw.nu/"
+  },
+  {
+    "name": "KNMI · weerwaarschuwingen",
+    "priority": "P1",
+    "state": "Nog niet gekoppeld",
+    "purpose": "Waarschuwingen die de regio daadwerkelijk raken.",
+    "next": "Nieuwe waarschuwingsbestanden bevatten tot de aangekondigde overgang testdata. Maak de koppeling afhankelijk van operationele status, gebied en vervaltijd.",
+    "url": "https://developer.dataplatform.knmi.nl/deprecation-warnings"
+  },
+  {
+    "name": "Veiligheidsregio Utrecht",
+    "priority": "P1",
+    "state": "Incidentenarchief gekoppeld",
+    "purpose": "Grote incidenten, rookoverlast, crisisinformatie en afschaling.",
+    "next": "38 incidenten in de zesmaandsperiode gevonden. Metadata en status worden bijgewerkt; gemeente en inhoud nog beoordelen. Gesloten incidenten zijn geen actuele waarschuwing.",
+    "url": "https://vru.nl/"
+  },
+  {
+    "name": "Stedin · stroom en netcapaciteit",
+    "priority": "P1",
+    "state": "Bronroute gecontroleerd",
+    "purpose": "Grote storingen en gevolgen van een vol stroomnet.",
+    "next": "Open data is niet automatisch een storingsfeed. Publieke storingenkoppeling en voorwaarden moeten apart worden afgesproken; lokale impact per verzorgingsgebied.",
+    "url": "https://www.stedin.net/zakelijk/open-data"
+  },
+  {
+    "name": "Vitens · drinkwater",
+    "priority": "P1",
+    "state": "Bronroute gecontroleerd",
+    "purpose": "Waterstoringen en officiële kookadviezen in het leveringsgebied.",
+    "next": "Vitens verwijst naar waterstoring.nl. Geen gezondheidsalarm overnemen zonder gebied, actuele bevestiging en intrekking; API-rechten nog toetsen.",
+    "url": "https://www.vitens.nl/Storing-en-onderhoud"
+  },
+  {
+    "name": "Waterschappen · water en dijken",
+    "priority": "P2",
+    "state": "Nog niet gekoppeld",
+    "purpose": "Waterpeil, droogte, zwemwater, dijkwerk en lokale inspraak.",
+    "next": "HDSR, Vallei en Veluwe, Amstel Gooi en Vecht en Rivierenland per daadwerkelijk beheergebied koppelen. Een waterschapsgrens is geen gemeentegrens.",
+    "url": "https://www.hdsr.nl/actueel/"
+  },
+  {
+    "name": "Omgevingsdienst Utrecht",
+    "priority": "P2",
+    "state": "Bronroute gecontroleerd",
+    "purpose": "Milieu, vergunningen, handhaving en grote ontwikkelingen.",
+    "next": "ODRU en RUD zijn sinds 1 januari 2026 samengebracht in ODU. Bewaar voorgangerarchieven en gebruik ODU voor nieuwe signalen.",
+    "url": "https://www.odu.nl/nieuws/lees-hier-de-laatste-jaarverslagen-van-rud-en-odru/"
+  },
+  {
+    "name": "GGD regio Utrecht",
+    "priority": "P2",
+    "state": "Bronroute gecontroleerd",
+    "purpose": "Regionale gezondheid, leefomgeving en publieke voorzieningen.",
+    "next": "Alleen feitelijke publieksinformatie met regionale betekenis; adviezen niet veralgemenen buiten doelgroep of geldigheidsperiode.",
+    "url": "https://ggdru.nl/nieuws/"
+  },
+  {
+    "name": "Rechtspraak · Midden-Nederland",
+    "priority": "P2",
+    "state": "Open data onderzocht",
+    "purpose": "Uitspraken met duidelijke gevolgen voor bewoners of lokaal beleid.",
+    "next": "Eerst ECLI-index, daarna brondocument. De rechtbank bestrijkt meer dan provincie Utrecht; behoud pseudonimisering en onderscheid uitspraak, verdenking en beroep.",
+    "url": "https://www.rechtspraak.nl/uitspraken/open-data"
+  },
+  {
+    "name": "PITO · activiteiten en agenda",
+    "priority": "P1",
+    "state": "Aansluiting ontbreekt",
+    "purpose": "Eigen activiteiten per stad, met datum, plaats, organisator en beschikbaarheid.",
+    "next": "De bestaande PITO-bron blijft leidend. Sluit de gecontroleerde Strapi-export aan; evenementen krijgen één vaste detailpagina per uitvoering.",
+    "url": "/agenda/utrecht"
+  },
+  {
+    "name": "Regionale journalistiek en community",
+    "priority": "P2",
+    "state": "Redactionele signalering",
+    "purpose": "Blinde vlekken, bewonersinitiatieven, sport, cultuur en lokale gevolgen.",
+    "next": "Gebruik RTV Utrecht en lokale omroepen als signaal, zoek primaire bevestiging. Communitybijdragen blijven herkenbaar en gemodereerd. Geen gekopieerde artikelen of beelden.",
+    "url": "/nieuws/meedoen"
+  }
+]

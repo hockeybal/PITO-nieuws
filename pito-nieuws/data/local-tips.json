@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Steyn de Leeuwe in Het Klooster",
+    "date": "2026-10-14",
+    "time": "20:15",
+    "summary": "Cabaretvoorstelling Moonlight Motel in Woerden.",
+    "municipality": "woerden",
+    "sourceName": "Het Klooster",
+    "sourceUrl": "https://www.kloosterwoerden.nl/voorstellingen/",
+    "verifiedAt": "2026-10-11"
+  },
+  {
+    "title": "Historische rondleiding door Het Klooster",
+    "date": "2026-10-17",
+    "time": "11:00",
+    "summary": "Een rondleiding over de geschiedenis van het Woerdense theatergebouw.",
+    "municipality": "woerden",
+    "sourceName": "Het Klooster",
+    "sourceUrl": "https://www.kloosterwoerden.nl/voorstellingen/",
+    "verifiedAt": "2026-10-11"
+  },
+  {
+    "title": "Familievoorstelling Milky Way",
+    "date": "2026-10-17",
+    "time": "16:00",
+    "summary": "Freek Nieuwdorp speelt een familievoorstelling voor kinderen vanaf acht jaar.",
+    "municipality": "woerden",
+    "sourceName": "Het Klooster",
+    "sourceUrl": "https://www.kloosterwoerden.nl/voorstellingen/",
+    "verifiedAt": "2026-10-11"
+  }
+]

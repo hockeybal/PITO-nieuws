@@ -1,0 +1,4 @@
+"""Official service destinations; links rather than live status."""
+SERVICES=[('Weer','Verwachting en waarschuwingen · KNMI','https://www.knmi.nl/nederland-nu/weer/waarschuwingen/utrecht'),('Goedkoop tanken','Vergelijk stations bij ANWB','https://www.anwb.nl/mobiel/onderweg-app/goedkoop-tanken-met-de-anwb-onderweg-app'),('Trein & OV','Plan je reis en bekijk wijzigingen','https://www.ns.nl/reisplanner/'),('Op de weg','Werkzaamheden en bereikbaarheid','https://www.rijkswaterstaat.nl/wegen/wegbeheer/wegwerkzaamheden'),('In jouw buurt','Officiële plannen en besluiten','https://www.overheid.nl/berichten-over-uw-buurt')]
+def strip():
+ return '<section class="daily-services" aria-label="Praktische informatie"><span>Handig vandaag</span>'+''.join('<a href="'+url+'"><b>'+label+'</b><span>'+sub+'</span><i aria-hidden="true">›</i></a>' for label,sub,url in SERVICES)+'</section>'

@@ -1,0 +1,9 @@
+{
+  "station": "De Bilt",
+  "temperature": 18.3,
+  "condition": "licht bewolkt",
+  "measuredAt": "2026-10-15T13:00:00+02:00",
+  "source": "KNMI",
+  "sourceUrl": "https://www.knmi.nl/nederland-nu/weer/waarnemingen/",
+  "fetchedAt": "2026-10-15T11:16:50.551658+00:00"
+}

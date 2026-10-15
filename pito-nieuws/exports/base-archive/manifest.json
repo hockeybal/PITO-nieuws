@@ -1,0 +1,357 @@
+{
+  "preparedAt": "2026-10-14T06:52:26.593408+00:00",
+  "window": [
+    "2026-07-13",
+    "2026-10-13"
+  ],
+  "complete": false,
+  "articleCount": 1585,
+  "sourceLeadCount": 2928,
+  "sourceLeadCounts": {
+    "article_prepared": 1870,
+    "excluded": 421,
+    "source_unavailable": 575,
+    "not_article": 58,
+    "outside_window": 4
+  },
+  "municipalities": [
+    {
+      "slug": "amersfoort",
+      "name": "Amersfoort",
+      "articles": 134,
+      "datedSourceLeads": 255,
+      "undatedSourceLeads": 4,
+      "months": {
+        "2026-07": 4,
+        "2026-08": 12,
+        "2026-09": 45,
+        "2026-10": 73
+      }
+    },
+    {
+      "slug": "baarn",
+      "name": "Baarn",
+      "articles": 86,
+      "datedSourceLeads": 195,
+      "undatedSourceLeads": 3,
+      "months": {
+        "2026-07": 6,
+        "2026-08": 8,
+        "2026-09": 19,
+        "2026-10": 53
+      }
+    },
+    {
+      "slug": "bunnik",
+      "name": "Bunnik",
+      "articles": 57,
+      "datedSourceLeads": 171,
+      "undatedSourceLeads": 4,
+      "months": {
+        "2026-07": 4,
+        "2026-08": 8,
+        "2026-09": 14,
+        "2026-10": 31
+      }
+    },
+    {
+      "slug": "bunschoten",
+      "name": "Bunschoten",
+      "articles": 44,
+      "datedSourceLeads": 128,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 1,
+        "2026-08": 2,
+        "2026-09": 18,
+        "2026-10": 23
+      }
+    },
+    {
+      "slug": "de-bilt",
+      "name": "De Bilt",
+      "articles": 65,
+      "datedSourceLeads": 146,
+      "undatedSourceLeads": 5,
+      "months": {
+        "2026-07": 7,
+        "2026-08": 5,
+        "2026-09": 19,
+        "2026-10": 34
+      }
+    },
+    {
+      "slug": "de-ronde-venen",
+      "name": "De Ronde Venen",
+      "articles": 42,
+      "datedSourceLeads": 80,
+      "undatedSourceLeads": 7,
+      "months": {
+        "2026-07": 2,
+        "2026-08": 2,
+        "2026-09": 16,
+        "2026-10": 22
+      }
+    },
+    {
+      "slug": "eemnes",
+      "name": "Eemnes",
+      "articles": 14,
+      "datedSourceLeads": 60,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-08": 2,
+        "2026-09": 6,
+        "2026-10": 6
+      }
+    },
+    {
+      "slug": "houten",
+      "name": "Houten",
+      "articles": 113,
+      "datedSourceLeads": 232,
+      "undatedSourceLeads": 3,
+      "months": {
+        "2026-07": 11,
+        "2026-08": 15,
+        "2026-09": 25,
+        "2026-10": 62
+      }
+    },
+    {
+      "slug": "ijsselstein",
+      "name": "IJsselstein",
+      "articles": 49,
+      "datedSourceLeads": 169,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 5,
+        "2026-08": 3,
+        "2026-09": 11,
+        "2026-10": 30
+      }
+    },
+    {
+      "slug": "leusden",
+      "name": "Leusden",
+      "articles": 72,
+      "datedSourceLeads": 174,
+      "undatedSourceLeads": 14,
+      "months": {
+        "2026-07": 4,
+        "2026-08": 11,
+        "2026-09": 22,
+        "2026-10": 35
+      }
+    },
+    {
+      "slug": "lopik",
+      "name": "Lopik",
+      "articles": 40,
+      "datedSourceLeads": 168,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 5,
+        "2026-08": 2,
+        "2026-09": 9,
+        "2026-10": 24
+      }
+    },
+    {
+      "slug": "montfoort",
+      "name": "Montfoort",
+      "articles": 48,
+      "datedSourceLeads": 287,
+      "undatedSourceLeads": 1,
+      "months": {
+        "2026-07": 4,
+        "2026-08": 7,
+        "2026-09": 18,
+        "2026-10": 19
+      }
+    },
+    {
+      "slug": "nieuwegein",
+      "name": "Nieuwegein",
+      "articles": 82,
+      "datedSourceLeads": 171,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 4,
+        "2026-08": 11,
+        "2026-09": 11,
+        "2026-10": 56
+      }
+    },
+    {
+      "slug": "oudewater",
+      "name": "Oudewater",
+      "articles": 37,
+      "datedSourceLeads": 288,
+      "undatedSourceLeads": 1,
+      "months": {
+        "2026-07": 2,
+        "2026-08": 10,
+        "2026-09": 14,
+        "2026-10": 11
+      }
+    },
+    {
+      "slug": "renswoude",
+      "name": "Renswoude",
+      "articles": 27,
+      "datedSourceLeads": 119,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 2,
+        "2026-08": 7,
+        "2026-09": 5,
+        "2026-10": 13
+      }
+    },
+    {
+      "slug": "rhenen",
+      "name": "Rhenen",
+      "articles": 36,
+      "datedSourceLeads": 139,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 6,
+        "2026-08": 1,
+        "2026-09": 13,
+        "2026-10": 16
+      }
+    },
+    {
+      "slug": "soest",
+      "name": "Soest",
+      "articles": 99,
+      "datedSourceLeads": 181,
+      "undatedSourceLeads": 3,
+      "months": {
+        "2026-07": 4,
+        "2026-08": 11,
+        "2026-09": 26,
+        "2026-10": 58
+      }
+    },
+    {
+      "slug": "stichtse-vecht",
+      "name": "Stichtse Vecht",
+      "articles": 41,
+      "datedSourceLeads": 82,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 1,
+        "2026-08": 1,
+        "2026-09": 20,
+        "2026-10": 19
+      }
+    },
+    {
+      "slug": "utrecht",
+      "name": "Utrecht",
+      "articles": 197,
+      "datedSourceLeads": 214,
+      "undatedSourceLeads": 6,
+      "months": {
+        "2026-07": 6,
+        "2026-08": 23,
+        "2026-09": 54,
+        "2026-10": 114
+      }
+    },
+    {
+      "slug": "utrechtse-heuvelrug",
+      "name": "Utrechtse Heuvelrug",
+      "articles": 82,
+      "datedSourceLeads": 187,
+      "undatedSourceLeads": 4,
+      "months": {
+        "2026-07": 6,
+        "2026-08": 4,
+        "2026-09": 24,
+        "2026-10": 48
+      }
+    },
+    {
+      "slug": "veenendaal",
+      "name": "Veenendaal",
+      "articles": 44,
+      "datedSourceLeads": 149,
+      "undatedSourceLeads": 0,
+      "months": {
+        "2026-07": 5,
+        "2026-08": 2,
+        "2026-09": 14,
+        "2026-10": 23
+      }
+    },
+    {
+      "slug": "vijfheerenlanden",
+      "name": "Vijfheerenlanden",
+      "articles": 47,
+      "datedSourceLeads": 113,
+      "undatedSourceLeads": 12,
+      "months": {
+        "2026-07": 7,
+        "2026-08": 6,
+        "2026-09": 14,
+        "2026-10": 20
+      }
+    },
+    {
+      "slug": "wijk-bij-duurstede",
+      "name": "Wijk bij Duurstede",
+      "articles": 68,
+      "datedSourceLeads": 151,
+      "undatedSourceLeads": 4,
+      "months": {
+        "2026-07": 8,
+        "2026-08": 11,
+        "2026-09": 22,
+        "2026-10": 27
+      }
+    },
+    {
+      "slug": "woerden",
+      "name": "Woerden",
+      "articles": 177,
+      "datedSourceLeads": 489,
+      "undatedSourceLeads": 10,
+      "months": {
+        "2026-07": 8,
+        "2026-08": 18,
+        "2026-09": 66,
+        "2026-10": 85
+      }
+    },
+    {
+      "slug": "woudenberg",
+      "name": "Woudenberg",
+      "articles": 38,
+      "datedSourceLeads": 181,
+      "undatedSourceLeads": 2,
+      "months": {
+        "2026-07": 6,
+        "2026-08": 6,
+        "2026-09": 13,
+        "2026-10": 13
+      }
+    },
+    {
+      "slug": "zeist",
+      "name": "Zeist",
+      "articles": 90,
+      "datedSourceLeads": 188,
+      "undatedSourceLeads": 4,
+      "months": {
+        "2026-07": 5,
+        "2026-08": 8,
+        "2026-09": 25,
+        "2026-10": 52
+      }
+    }
+  ],
+  "note": "Lokale basis. Bronrecords zijn geen geschreven artikelen. Ontbrekende data en gemeentekoppelingen blijven open. Geen Strapi-import uitgevoerd."
+}

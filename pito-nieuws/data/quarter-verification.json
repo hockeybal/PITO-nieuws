@@ -1,0 +1,24 @@
+{
+  "window": [
+    "2026-07-11",
+    "2026-10-11"
+  ],
+  "newArticles": 268,
+  "quarterArticles": 330,
+  "monthCounts": {
+    "2026-07": 42,
+    "2026-08": 45,
+    "2026-09": 155,
+    "2026-10": 88
+  },
+  "articleRoutesChecked": 268,
+  "routeErrors": [],
+  "sourceDocuments": 545,
+  "sourceReadStatus": {
+    "read": 441,
+    "no_article_body": 9,
+    "error": 95
+  },
+  "fullArchive": false,
+  "liveExternalPublication": false
+}

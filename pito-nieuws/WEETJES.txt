@@ -1,0 +1,7 @@
+Weetje van de week — lokale preview
+Bronbestand: data/facts.json. Nieuwe gecontroleerde voorbeelden voor Utrecht en Woerden; bestaande PITO-verzameling nog niet gevonden of geïmporteerd.
+Velden: slug, municipality, title, summary, body, sourceName, sourceUrl, verifiedAt, reviewBy, status, imageKey, imageNote, highlight, highlightLabel.
+Alleen preview/approved met bron, gecontroleerde datum en nog geldige herbeoordelingsdatum zichtbaar. Gemeente exact filteren. Provincie roteert over alle beschikbare gemeenten. Vaste weekselectie vanaf maandag; huidige preview heeft vaste editiedatum 2026-10-10. Bij één item herhaalt het; nieuwe items toevoegen voor afwisseling.
+Blok staat na hoofdnieuws, vóór Verder lezen. Niet in RSS, impactscore, zoeken of archief. Geen andere gemeente als opvulling. Afbeelding wordt gereserveerd zodat deze niet dubbel op de pagina staat.
+Productie-Strapi voor weetjes nog niet aangesloten: eerst bestaande collectie/velden mappen; niet zelfstandig een tweede CMS-collectie aanmaken.
+Baarn: nieuwe AI-bewerkte header uit bestaande preview; geen ongewijzigde documentaire luchtfoto. Andere previewframes: focus ingesteld op herkenbaar gebouw i.p.v. standaard midden. Bronresolutie blijft beperkt; vervang door originele videoframes zodra beschikbaar.

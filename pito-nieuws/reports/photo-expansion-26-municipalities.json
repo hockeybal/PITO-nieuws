@@ -1,0 +1,1892 @@
+[
+  {
+    "municipality": "amersfoort",
+    "name": "Amersfoort",
+    "existingPhotoCandidates": 31,
+    "footballClubs": [
+      {
+        "club": "V.V.Z.A.",
+        "municipality": "amersfoort",
+        "source": "https://www.vvza.nl/",
+        "articleCount": 7,
+        "articleSlugs": [
+          "vvza-wint-competitieopening-tegen-achterveld-met-72",
+          "vvza-kijkt-terug-op-druk-amersfoorts-voetbalkampioenschap",
+          "vvza-benoemt-twee-formateurs-voor-nieuw-bestuur",
+          "vvza-wint-met-91-bij-hvc-en-houdt-maximale-score",
+          "vvza-verslaat-dosc-met-60",
+          "vvza-wint-regioderby-bij-vvz49-met-20",
+          "rico-van-elst-combineert-voetbal-bij-vvza-met-rol-als-clubkadercoach"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "CJVV",
+        "municipality": "amersfoort",
+        "source": "https://www.cjvv.nl/",
+        "articleCount": 2,
+        "articleSlugs": [
+          "jonathan-en-cjvv-delen-punten-in-zeist",
+          "cjvv-wint-met-twee-doelpunten-van-bas-wobbes-bij-parkhout"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "A.F.C. Quick 1890",
+        "municipality": "amersfoort",
+        "source": "https://www.afcquick1890.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "VV Hoogland",
+        "municipality": "amersfoort",
+        "source": "https://www.vvhoogland.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "baarn",
+    "name": "Baarn",
+    "existingPhotoCandidates": 20,
+    "footballClubs": [
+      {
+        "club": "TOV",
+        "municipality": "baarn",
+        "source": "https://www.tov-baarn.nl/",
+        "articleCount": 4,
+        "articleSlugs": [
+          "tov-en-weekdieren-f-c-foundation-gaan-samenwerken",
+          "tov-jo15-2-wint-topper-en-pakt-periodetitel",
+          "tov-geeft-voorsprong-weg-tegen-nieuwland-22",
+          "tov-veteranen-krijgen-nieuwe-shirts-van-lokale-sponsor"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "bunnik",
+    "name": "Bunnik",
+    "existingPhotoCandidates": 13,
+    "footballClubs": [
+      {
+        "club": "S.V. Aurora",
+        "municipality": "bunnik",
+        "source": "https://svaurora.nl/cms/",
+        "articleCount": 8,
+        "articleSlugs": [
+          "sv-aurora-begint-seizoen-met-vijf-meidenteams",
+          "walking-football-start-op-3-november-bij-aurora",
+          "aurora-hield-tenniskamp-met-davis-cup-thema-in-werkhoven",
+          "sv-aurora-vervangt-gasinstallatie-door-warmtepomp",
+          "nita-wint-met-30-bij-aurora-in-werkhoven",
+          "leden-aurora-stemmen-in-met-contributieverhoging",
+          "vier-trainers-zetten-keeperstraining-bij-aurora-voort",
+          "aurora-bereidt-ouders-voor-op-vlaggen-bij-jeugdwedstrijden"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "Bunnik 73",
+        "municipality": "bunnik",
+        "source": "https://www.bunnik73.nl/",
+        "articleCount": 3,
+        "articleSlugs": [
+          "bunnik-73-ontvangt-ruim-1-400-euro-uit-clubsupport",
+          "bunnik-73-zoekt-scheidsrechters-om-wedstrijden-door-te-laten-gaan",
+          "onder-14-2-van-fc-driebergen-boekt-derde-zege-op-rij"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "S.V. Odijk",
+        "municipality": "bunnik",
+        "source": "https://www.sv-odijk.nl/",
+        "articleCount": 1,
+        "articleSlugs": [
+          "ijfc-en-odijk-delen-punten-na-gelijkmaker-uit-strafschop"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "bunschoten",
+    "name": "Bunschoten",
+    "existingPhotoCandidates": 12,
+    "footballClubs": [
+      {
+        "club": "IJsselmeervogels",
+        "municipality": "bunschoten",
+        "source": "https://www.ijsselmeervogels.nl/",
+        "articleCount": 6,
+        "articleSlugs": [
+          "ijsselmeervogels-wint-spakenburg-verliest-en-eemdijk-speelt-gelijk",
+          "supportersavond-bij-ijsselmeervogels-op-22-oktober",
+          "ijsselmeervogels-en-gvvv-hervatten-gestaakt-duel-op-13-oktober",
+          "ijsselmeervogels-futsal-verliest-met-05-van-vvs46",
+          "ijsselmeervogels-aanvaller-robertha-speelt-vier-interlands-voor-aruba",
+          "voorzitter-koelewijn-wil-organisatie-ijsselmeervogels-versterken"
+        ],
+        "candidateImageKeys": [
+          "ijsselmeervogels-sportpark-2026"
+        ],
+        "status": "check_exact_subject",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "de-bilt",
+    "name": "De Bilt",
+    "existingPhotoCandidates": 36,
+    "footballClubs": [
+      {
+        "club": "FC De Bilt",
+        "municipality": "de-bilt",
+        "source": "https://www.fcdebilt.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "SVM",
+        "municipality": "de-bilt",
+        "source": "https://www.svmmaartensdijk.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "de-ronde-venen",
+    "name": "De Ronde Venen",
+    "existingPhotoCandidates": 20,
+    "footballClubs": [
+      {
+        "club": "FC Abcoude",
+        "municipality": "de-ronde-venen",
+        "source": "https://www.fcabcoude.nl",
+        "articleCount": 1,
+        "articleSlugs": [
+          "de-vinken-blijft-in-hoofdklasse-fc-abcoude-boekt-thuiszege"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "Hertha Vinkeveen",
+        "municipality": "de-ronde-venen",
+        "source": "https://hertha.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "SV Argon",
+        "municipality": "de-ronde-venen",
+        "source": "https://www.svargon.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "eemnes",
+    "name": "Eemnes",
+    "existingPhotoCandidates": 4,
+    "footballClubs": [
+      {
+        "club": "SV Eemnes",
+        "municipality": "eemnes",
+        "source": "https://www.sveemnes.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "houten",
+    "name": "Houten",
+    "existingPhotoCandidates": 20,
+    "footballClubs": [
+      {
+        "club": "SV Houten",
+        "municipality": "houten",
+        "source": "https://www.svhouten.nl/",
+        "articleCount": 2,
+        "articleSlugs": [
+          "houtense-clubs-troffen-elkaar-op-bekerprogramma",
+          "sv-houten-krijgt-eigen-supportersgroep-blue-white-army"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "FC Delta Sports '95",
+        "municipality": "houten",
+        "source": "https://www.deltasports.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. 't Goy",
+        "municipality": "houten",
+        "source": "https://www.vvtgoy.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "ijsselstein",
+    "name": "IJsselstein",
+    "existingPhotoCandidates": 25,
+    "footballClubs": [
+      {
+        "club": "IJFC",
+        "municipality": "ijsselstein",
+        "source": "https://www.ijfc.nl/",
+        "articleCount": 4,
+        "articleSlugs": [
+          "ijfc-vrouwen-winnen-met-2-0-van-saestum",
+          "ijfc-wint-bij-elinkwijk-door-late-treffer",
+          "ijfc-en-odijk-delen-punten-na-gelijkmaker-uit-strafschop",
+          "desto-wint-thuis-met-20-van-ijfc"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "VVIJ",
+        "municipality": "ijsselstein",
+        "source": "https://www.vvij.nl",
+        "articleCount": 1,
+        "articleSlugs": [
+          "vvij-wint-met-5-1-van-delta-sports-95"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "leusden",
+    "name": "Leusden",
+    "existingPhotoCandidates": 20,
+    "footballClubs": [
+      {
+        "club": "Roda 46",
+        "municipality": "leusden",
+        "source": "https://www.roda46.nl/",
+        "articleCount": 4,
+        "articleSlugs": [
+          "roda46-verliest-uitwedstrijd-tegen-zuidvogels",
+          "roda46-en-vrc-delen-punten-na-late-gelijkmaker",
+          "houten-en-roda46-komen-niet-tot-scoren",
+          "hooglanderveen-wint-bekerduel-bij-roda46-met-21"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "lopik",
+    "name": "Lopik",
+    "existingPhotoCandidates": 0,
+    "footballClubs": [
+      {
+        "club": "SV Lopik",
+        "municipality": "lopik",
+        "source": "https://www.svlopik.nl/",
+        "articleCount": 1,
+        "articleSlugs": [
+          "sv-lopik-wint-derby-tegen-cabauw-door-goal-van-pieter-bijman"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. Benschop",
+        "municipality": "lopik",
+        "source": "https://www.vvbenschop.nl",
+        "articleCount": 1,
+        "articleSlugs": [
+          "benschop-neemt-drie-punten-mee-uit-utrecht"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "montfoort",
+    "name": "Montfoort",
+    "existingPhotoCandidates": 2,
+    "footballClubs": [
+      {
+        "club": "Montfoort SV 19",
+        "municipality": "montfoort",
+        "source": "https://www.montfoortsv19.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "nieuwegein",
+    "name": "Nieuwegein",
+    "existingPhotoCandidates": 20,
+    "footballClubs": [
+      {
+        "club": "SV Parkhout",
+        "municipality": "nieuwegein",
+        "source": "https://www.svparkhout.nl",
+        "articleCount": 1,
+        "articleSlugs": [
+          "cjvv-wint-met-twee-doelpunten-van-bas-wobbes-bij-parkhout"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "JSV Nieuwegein",
+        "municipality": "nieuwegein",
+        "source": "https://www.jsv-nieuwegein.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "oudewater",
+    "name": "Oudewater",
+    "existingPhotoCandidates": 3,
+    "footballClubs": [
+      {
+        "club": "FC Oudewater",
+        "municipality": "oudewater",
+        "source": "https://www.fcoudewater.nl/",
+        "articleCount": 2,
+        "articleSlugs": [
+          "vva-achterberg-ontvangt-fc-oudewater-op-3-oktober",
+          "twee-rechtstreekse-degradatieplaatsen-in-klasse-van-fc-oudewater"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "renswoude",
+    "name": "Renswoude",
+    "existingPhotoCandidates": 14,
+    "footballClubs": [
+      {
+        "club": "VV Renswoude",
+        "municipality": "renswoude",
+        "source": "https://www.vvrenswoude.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "rhenen",
+    "name": "Rhenen",
+    "existingPhotoCandidates": 17,
+    "footballClubs": [
+      {
+        "club": "Oranje Wit Elst",
+        "municipality": "rhenen",
+        "source": "https://www.vvoranjewit.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "soest",
+    "name": "Soest",
+    "existingPhotoCandidates": 18,
+    "footballClubs": [
+      {
+        "club": "SO Soest",
+        "municipality": "soest",
+        "source": "https://www.so-soest.nl/",
+        "articleCount": 2,
+        "articleSlugs": [
+          "so-soest-11-1-pakt-titel-na-61-tegen-fc-de-bilt",
+          "twaalf-doelpunten-voor-t-vliegdorp-tegen-oranje-wit"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "stichtse-vecht",
+    "name": "Stichtse Vecht",
+    "existingPhotoCandidates": 32,
+    "footballClubs": [
+      {
+        "club": "FC Breukelen",
+        "municipality": "stichtse-vecht",
+        "source": "https://www.fcbreukelen.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "OSM'75",
+        "municipality": "stichtse-vecht",
+        "source": "https://www.osm75.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "S.V. De Vecht",
+        "municipality": "stichtse-vecht",
+        "source": "https://www.svdevecht.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. D.W.S.M.",
+        "municipality": "stichtse-vecht",
+        "source": "https://www.dwsm.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. Kockengen",
+        "municipality": "stichtse-vecht",
+        "source": "https://www.vvkockengen.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. Maarssen",
+        "municipality": "stichtse-vecht",
+        "source": "https://www.vvmaarssen.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "utrecht",
+    "name": "Utrecht",
+    "existingPhotoCandidates": 26,
+    "footballClubs": [
+      {
+        "club": "USV Elinkwijk",
+        "municipality": "utrecht",
+        "source": "https://www.elinkwijk.nl",
+        "articleCount": 7,
+        "articleSlugs": [
+          "ijfc-wint-bij-elinkwijk-door-late-treffer",
+          "beide-mo15-teams-van-elinkwijk-kampioen-in-eerste-fase",
+          "elinkwijk-herdenkt-jan-van-tamelen-bij-thuiswedstrijd",
+          "elinkwijk-boekt-eerste-competitiezege-bij-fairplay",
+          "elinkwijk-zamelt-geld-in-voor-doelen-en-jeugdmateriaal",
+          "elinkwijk-zet-samenwerking-met-fysiotherapiepraktijk-voort",
+          "elinkwijk-wint-bekerduel-met-arsenal-na-late-ommekeer"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "USV Hercules",
+        "municipality": "utrecht",
+        "source": "https://www.usvhercules.nl/",
+        "articleCount": 7,
+        "articleSlugs": [
+          "sportlust-46-houdt-hercules-op-00",
+          "hercules-verwacht-nieuw-kunstgrasveld-in-november-te-gebruiken",
+          "hercules-boekt-eerste-thuiszege-met-10-tegen-dvs-33",
+          "hercules-wint-uitwedstrijd-bij-hollandia-met-03",
+          "jeugdcompetitie-van-hercules-begint-met-22-teams",
+          "hercules-verliest-thuis-met-23-van-tec",
+          "hercules-zoekt-spelers-voor-nieuw-seniorenteam"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "C.O.V. DESTO",
+        "municipality": "utrecht",
+        "source": "https://desto-utrecht.nl/",
+        "articleCount": 5,
+        "articleSlugs": [
+          "fc-driebergen-en-desto-delen-punten-na-22",
+          "nieuw-azc-team-speelt-eerste-wedstrijd-tegen-desto-jeugd",
+          "edo-buigt-achterstand-om-en-wint-met-32-bij-desto",
+          "lotenactie-desto-passeert-grens-van-18-000-euro",
+          "desto-wint-thuis-met-20-van-ijfc"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "PVC",
+        "municipality": "utrecht",
+        "source": "https://www.pvcvoetbal.nl",
+        "articleCount": 1,
+        "articleSlugs": [
+          "svf-geeft-voorsprong-van-twee-doelpunten-weg-bij-pvc"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "PVCV",
+        "municipality": "utrecht",
+        "source": "https://www.pvcv.nl",
+        "articleCount": 1,
+        "articleSlugs": [
+          "nieuw-azc-team-speelt-eerste-wedstrijd-tegen-desto-jeugd"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "ASV D.V.S.U.",
+        "municipality": "utrecht",
+        "source": "https://www.dvsu.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "S.V. Kampong",
+        "municipality": "utrecht",
+        "source": "https://www.kampongvoetbal.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "S.V. Nieuw Utrecht",
+        "municipality": "utrecht",
+        "source": "https://www.svnieuwutrecht.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "SV Overvecht De Dreef",
+        "municipality": "utrecht",
+        "source": "https://www.svodedreef.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "UVV Voetbal",
+        "municipality": "utrecht",
+        "source": "https://www.uvv-voetbal.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. De Meern",
+        "municipality": "utrecht",
+        "source": "https://www.vvdemeern.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "VVJ",
+        "municipality": "utrecht",
+        "source": "https://www.vvjutrecht.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "Zwaluwen Utrecht'11",
+        "municipality": "utrecht",
+        "source": "https://www.zwaluwenutrecht1911.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "utrechtse-heuvelrug",
+    "name": "Utrechtse Heuvelrug",
+    "existingPhotoCandidates": 12,
+    "footballClubs": [
+      {
+        "club": "FC Driebergen",
+        "municipality": "utrechtse-heuvelrug",
+        "source": "https://www.fcdriebergen.nl",
+        "articleCount": 9,
+        "articleSlugs": [
+          "fc-driebergen-en-desto-delen-punten-na-22",
+          "fc-driebergen-zoekt-scheidsrechters-voor-jeugd-en-senioren",
+          "meiden-onder-17-van-fc-driebergen-verslaan-koploper-gvvv",
+          "zondag-2-van-fc-driebergen-boekt-eerste-competitiewinst",
+          "derde-team-fc-driebergen-wint-met-40-van-laren",
+          "twintig-jeugdtrainers-fc-driebergen-volgen-knvb-module",
+          "edo-wint-met-32-ondanks-comeback-fc-driebergen",
+          "onder-14-2-van-fc-driebergen-boekt-derde-zege-op-rij",
+          "fc-driebergen-o11-1-wint-derby-tegen-dev-doorn-met-113"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "DEV Doorn",
+        "municipality": "utrechtse-heuvelrug",
+        "source": "https://www.devdoorn.nl/",
+        "articleCount": 2,
+        "articleSlugs": [
+          "hds-wint-heuvelrugderby-tegen-dev-doorn-met-21",
+          "fc-driebergen-o11-1-wint-derby-tegen-dev-doorn-met-113"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. HDS",
+        "municipality": "utrechtse-heuvelrug",
+        "source": "https://www.vvhds.nl",
+        "articleCount": 1,
+        "articleSlugs": [
+          "hds-wint-heuvelrugderby-tegen-dev-doorn-met-21"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "DVSA",
+        "municipality": "utrechtse-heuvelrug",
+        "source": "https://www.dvsa.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "SVMM",
+        "municipality": "utrechtse-heuvelrug",
+        "source": "https://www.svmm.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "veenendaal",
+    "name": "Veenendaal",
+    "existingPhotoCandidates": 21,
+    "footballClubs": [
+      {
+        "club": "GVVV",
+        "municipality": "veenendaal",
+        "source": "https://www.gvvv.nl/",
+        "articleCount": 3,
+        "articleSlugs": [
+          "ijsselmeervogels-en-gvvv-hervatten-gestaakt-duel-op-13-oktober",
+          "meiden-onder-17-van-fc-driebergen-verslaan-koploper-gvvv",
+          "veenhof-scoort-vanaf-eigen-helft-bij-41-zege-van-gvvv"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "DOVO",
+        "municipality": "veenendaal",
+        "source": "https://www.dovo.nl/196/nieuws/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "De Merino's",
+        "municipality": "veenendaal",
+        "source": "https://www.demerinos.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. Veenendaal",
+        "municipality": "veenendaal",
+        "source": "https://www.vvveenendaal.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "vijfheerenlanden",
+    "name": "Vijfheerenlanden",
+    "existingPhotoCandidates": 5,
+    "footballClubs": [
+      {
+        "club": "Brederodes",
+        "municipality": "vijfheerenlanden",
+        "source": "https://www.brederodes.nl/",
+        "articleCount": 1,
+        "articleSlugs": [
+          "brederodes-wint-met-60-bij-svf-in-cothen"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "LRC Leerdam",
+        "municipality": "vijfheerenlanden",
+        "source": "https://www.vvlrc.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "Lekvogels",
+        "municipality": "vijfheerenlanden",
+        "source": "https://www.lekvogels.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "wijk-bij-duurstede",
+    "name": "Wijk bij Duurstede",
+    "existingPhotoCandidates": 18,
+    "footballClubs": [
+      {
+        "club": "S.V.F.",
+        "municipality": "wijk-bij-duurstede",
+        "source": "https://www.svfcothen.nl/",
+        "articleCount": 8,
+        "articleSlugs": [
+          "koninklijke-onderscheiding-voor-svf-vrijwilliger-jan-willem-van-rooijen",
+          "svf-neemt-opnieuw-deel-aan-beloften-regiocup",
+          "svf-geeft-voorsprong-van-twee-doelpunten-weg-bij-pvc",
+          "svf-ontvangt-ruim-2-480-euro-voor-trainingsmateriaal-jeugd",
+          "brederodes-wint-met-60-bij-svf-in-cothen",
+          "svf-kondigt-bestuurswisselingen-aan-voor-ledenvergadering",
+          "svf-2-wint-met-31-bij-cdw-4",
+          "svf-houdt-bij-jsv-een-21-voorsprong-vast"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "S.V.L.",
+        "municipality": "wijk-bij-duurstede",
+        "source": "https://www.svl-voetbal.nl/",
+        "articleCount": 3,
+        "articleSlugs": [
+          "svl-wint-in-blessuretijd-bij-woudenberg-met-21",
+          "svl-verslaat-vvog-en-boekt-derde-zege-op-rij",
+          "svl-neemt-digitaal-scorebord-in-gebruik"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "CDW",
+        "municipality": "wijk-bij-duurstede",
+        "source": "https://cdw.nl/",
+        "articleCount": 1,
+        "articleSlugs": [
+          "svf-2-wint-met-31-bij-cdw-4"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "woerden",
+    "name": "Woerden",
+    "existingPhotoCandidates": 22,
+    "footballClubs": [
+      {
+        "club": "V.V. Kamerik",
+        "municipality": "woerden",
+        "source": "https://www.vvkamerik.nl",
+        "articleCount": 4,
+        "articleSlugs": [
+          "inschrijving-voor-sjors-activiteiten-in-woerden-start-op-13-oktober",
+          "kamerik-en-wds-houden-elkaar-op-0-0",
+          "ltc-kamerik-kondigt-opening-nieuwe-padelbanen-aan",
+          "radioverslagen-aangekondigd-bij-oudewaterbreukelen-en-goudakamerik"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "SC Woerden",
+        "municipality": "woerden",
+        "source": "https://www.scwoerden.nl/",
+        "articleCount": 1,
+        "articleSlugs": [
+          "vep-en-sc-woerden-delen-punten-in-bekerderby"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "SCH 44",
+        "municipality": "woerden",
+        "source": "https://www.sch44.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "Sportlust 46",
+        "municipality": "woerden",
+        "source": "https://www.sportlust46.nl/",
+        "articleCount": 1,
+        "articleSlugs": [
+          "sportlust-46-houdt-hercules-op-00"
+        ],
+        "candidateImageKeys": [
+          "woerden-sportlust-clubgebouw-2022",
+          "sportlust-relief-2022"
+        ],
+        "status": "check_exact_subject",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "woudenberg",
+    "name": "Woudenberg",
+    "existingPhotoCandidates": 15,
+    "footballClubs": [
+      {
+        "club": "VV Woudenberg",
+        "municipality": "woudenberg",
+        "source": "https://www.vvwoudenberg.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  },
+  {
+    "municipality": "zeist",
+    "name": "Zeist",
+    "existingPhotoCandidates": 22,
+    "footballClubs": [
+      {
+        "club": "D.O.S.C.",
+        "municipality": "zeist",
+        "source": "https://www.dosc.nl",
+        "articleCount": 4,
+        "articleSlugs": [
+          "sv-baarn-verliest-seizoensopening-met-36-van-dosc",
+          "dartteam-lucky-feathers-van-dosc-promoveert-na-debuutseizoen",
+          "pauline-meyberg-nieuwe-voorzitter-gymnastiek-bij-dosc",
+          "vvza-verslaat-dosc-met-60"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "VV Jonathan",
+        "municipality": "zeist",
+        "source": "https://www.vvjonathan.nl/",
+        "articleCount": 4,
+        "articleSlugs": [
+          "jonathan-wint-bij-delta-sports-sv-zeist-gelijk-tegen-de-meern",
+          "jonathan-en-cjvv-delen-punten-in-zeist",
+          "jonathan-ontvangt-victoria-voor-districtsbeker",
+          "voetbaldag-voor-kinderen-bij-jonathan-op-20-oktober"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "Saestum",
+        "municipality": "zeist",
+        "source": "https://www.saestum.nl",
+        "articleCount": 2,
+        "articleSlugs": [
+          "ijfc-vrouwen-winnen-met-2-0-van-saestum",
+          "saestum-wint-ruim-ook-fzo-pakt-drie-punten"
+        ],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "S.V. Zeist",
+        "municipality": "zeist",
+        "source": "https://www.svzeist.nl",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      },
+      {
+        "club": "V.V. 't Vliegdorp",
+        "municipality": "zeist",
+        "source": "https://www.vliegdorp.nl/",
+        "articleCount": 0,
+        "articleSlugs": [],
+        "candidateImageKeys": [],
+        "status": "photo_needed",
+        "required": [
+          "Sportpark / clubgebouw vanaf 2022",
+          "Opnamedatum, maker en licentie",
+          "Wedstrijdfoto alleen aan exacte wedstrijd koppelen"
+        ],
+        "automaticPhotoReuse": false
+      }
+    ],
+    "requiredSubjects": [
+      "gemeentehuis en raadzaal",
+      "station / OV",
+      "centrum en winkels",
+      "woningbouw en straatbeeld",
+      "sportpark per voetbalclub",
+      "cultuur en evenementen",
+      "natuur en recreatie"
+    ],
+    "rules": [
+      "Opnamedatum vanaf 2022, niet uploaddatum",
+      "Naam locatie en gemeente vastleggen",
+      "Auteur, bron-URL, licentie en wijzigingen bewaren",
+      "Wedstrijdbeelden alleen bij exacte wedstrijd",
+      "Clubfoto nooit bij andere club inzetten"
+    ],
+    "complete": false
+  }
+]

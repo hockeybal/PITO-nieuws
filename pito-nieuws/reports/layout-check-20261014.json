@@ -1,0 +1,26 @@
+{
+  "page": "/nieuws/utrecht/woerden",
+  "checks": [
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "margin": 16,
+      "sectionWidth": 358
+    },
+    {
+      "width": 672,
+      "scrollWidth": 672,
+      "margin": 20,
+      "sectionWidth": 632
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "margin": 180,
+      "sectionWidth": 1080
+    }
+  ],
+  "result": "Geen horizontale pagina-overloop; rubrieken uitgelijnd. Controle betreft gemeentelijke homepage, niet iedere route.",
+  "photoSearch": "Lopik, Montfoort, Oudewater: geen nieuwe geschikte recente foto uit deze zoekronde; kaart uitgesloten.",
+  "checkedAt": "2026-10-13T22:30:42.604995+00:00"
+}

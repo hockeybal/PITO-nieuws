@@ -1,0 +1,29 @@
+PITO Nieuws — domein- en merkopzet
+
+PITO Nieuws
+Het nieuws van dichtbij.
+Onderdeel van PITO APP.
+Open PITO. Ontdek je buurt.
+
+Gedeelde code en inhoud, één centrale redactionele administratie.
+De bestaande PITO-appwebsite blijft de ingang voor de app, organisaties,
+collectieven en lokaal aanbod. De nieuwsidentiteit is lokaal toegevoegd
+boven de nieuws-, artikel- en agendapagina's.
+
+Aanbevolen productieopzet voor deze week:
+- pitonieuws.nl wordt het primaire nieuwsdomein.
+- Behoud bestaande nieuws- en agendapaden, zodat alle diepe links blijven werken.
+- Laat pito.app/nieuws/... permanent (301) verwijzen naar hetzelfde pad op
+  pitonieuws.nl. Alleen agenda-routes die daadwerkelijk verhuizen omleiden.
+- De menu-ingang Nieuws op pito.app verwijst naar pitonieuws.nl.
+- Link commerciële appfuncties expliciet terug naar pito.app.
+- Stel PITO_PUBLIC_URL in op https://pitonieuws.nl voor canonicals en metadata.
+- Configureer DNS, HTTPS en productiehosting apart; de huidige server
+  accepteert bewust alleen localhost en is geen productie-webserver.
+- Verwijder noindex pas voor redactioneel vrijgegeven openbare pagina's.
+  Houd redactie-, concept- en interne onderzoekspagina's afgeschermd.
+- Controleer sitemap, redirects, sociale previews, afbeeldingen en alle
+  gemeentelijke routes vóór indexatie; meld het domein aan in Search Console.
+
+Status: merkidentiteit lokaal verwerkt. Geen DNS-, hosting-, redirect- of
+productiepublicatie uitgevoerd. De lokale editie houdt noindex,nofollow.

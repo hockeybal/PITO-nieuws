@@ -1,0 +1,11 @@
+{
+  "baarn": {
+    "waste": "https://www.baarn.nl/afval-ophalen-of-wegbrengen"
+  },
+  "houten": {
+    "waste": "https://www.houten.nl/afval/afvalkalender"
+  },
+  "woudenberg": {
+    "waste": "https://www.woudenberg.nl/afval"
+  }
+}

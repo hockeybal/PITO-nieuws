@@ -1,0 +1,297 @@
+{
+  "runAt": "2026-10-13T14:04:40.200433+00:00",
+  "window": [
+    "2026-10-13",
+    "2026-10-13"
+  ],
+  "queryScope": "Alle officiële publicaties op publicatiedatum en gemeentelijke afzender; kleine individuele gevallen uitgefilterd, relevantie nog te beoordelen",
+  "fullArchive": false,
+  "sources": [
+    {
+      "municipality": "amersfoort",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 2,
+      "candidates": 2,
+      "skipped": 0,
+      "added": 2,
+      "hasMore": false,
+      "totalMatches": 2
+    },
+    {
+      "municipality": "baarn",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 4,
+      "candidates": 4,
+      "skipped": 0,
+      "added": 4,
+      "hasMore": false,
+      "totalMatches": 4
+    },
+    {
+      "municipality": "bunnik",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 1,
+      "candidates": 1,
+      "skipped": 0,
+      "added": 1,
+      "hasMore": false,
+      "totalMatches": 1
+    },
+    {
+      "municipality": "bunschoten",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "de-bilt",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 1,
+      "candidates": 0,
+      "skipped": 1,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 1
+    },
+    {
+      "municipality": "de-ronde-venen",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "eemnes",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "houten",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "ijsselstein",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 2,
+      "candidates": 2,
+      "skipped": 0,
+      "added": 2,
+      "hasMore": false,
+      "totalMatches": 2
+    },
+    {
+      "municipality": "leusden",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "lopik",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "montfoort",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "nieuwegein",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 13,
+      "candidates": 5,
+      "skipped": 8,
+      "added": 5,
+      "hasMore": false,
+      "totalMatches": 13
+    },
+    {
+      "municipality": "oudewater",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "renswoude",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "rhenen",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 2,
+      "candidates": 2,
+      "skipped": 0,
+      "added": 2,
+      "hasMore": false,
+      "totalMatches": 2
+    },
+    {
+      "municipality": "soest",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 11,
+      "candidates": 11,
+      "skipped": 0,
+      "added": 11,
+      "hasMore": false,
+      "totalMatches": 11
+    },
+    {
+      "municipality": "stichtse-vecht",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 7,
+      "candidates": 6,
+      "skipped": 1,
+      "added": 6,
+      "hasMore": false,
+      "totalMatches": 7
+    },
+    {
+      "municipality": "utrecht",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 23,
+      "candidates": 14,
+      "skipped": 9,
+      "added": 14,
+      "hasMore": false,
+      "totalMatches": 23
+    },
+    {
+      "municipality": "utrechtse-heuvelrug",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 1,
+      "candidates": 1,
+      "skipped": 0,
+      "added": 1,
+      "hasMore": false,
+      "totalMatches": 1
+    },
+    {
+      "municipality": "veenendaal",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 3,
+      "candidates": 3,
+      "skipped": 0,
+      "added": 3,
+      "hasMore": false,
+      "totalMatches": 3
+    },
+    {
+      "municipality": "vijfheerenlanden",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 4,
+      "candidates": 4,
+      "skipped": 0,
+      "added": 4,
+      "hasMore": false,
+      "totalMatches": 4
+    },
+    {
+      "municipality": "wijk-bij-duurstede",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 0,
+      "candidates": 0,
+      "skipped": 0,
+      "added": 0,
+      "hasMore": false,
+      "totalMatches": 0
+    },
+    {
+      "municipality": "woerden",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 2,
+      "candidates": 2,
+      "skipped": 0,
+      "added": 2,
+      "hasMore": false,
+      "totalMatches": 2
+    },
+    {
+      "municipality": "woudenberg",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 15,
+      "candidates": 13,
+      "skipped": 2,
+      "added": 13,
+      "hasMore": false,
+      "totalMatches": 15
+    },
+    {
+      "municipality": "zeist",
+      "status": "ok",
+      "pages": 1,
+      "fetched": 3,
+      "candidates": 3,
+      "skipped": 0,
+      "added": 3,
+      "hasMore": false,
+      "totalMatches": 3
+    }
+  ]
+}

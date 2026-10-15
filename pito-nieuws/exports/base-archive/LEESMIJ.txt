@@ -1,0 +1,10 @@
+PITO basisarchief — 13 juli t/m 13 oktober 2026
+
+articles.json bevat eigen lokale previewartikelen, inclusief bronnen en oorspronkelijke data.
+municipalities/ en months/ bevatten dezelfde artikelen geordend per gemeente en maand.
+source-leads.json bevat ontdekte bronrecords, NIET geschreven artikelen.
+coverage.csv en manifest.json tonen de dekking en ontbrekende onderdelen.
+Er is geen Strapi-import of externe publicatie uitgevoerd. reviewStatus blijft behouden.
+Dubbele bron-URLs zijn samengevoegd; meerdere bronnen kunnen nog dezelfde gebeurtenis behandelen.
+Ongedateerde bronnen zijn apart herkenbaar en tellen niet als gedateerd kwartaalnieuws.
+Dit is een gedeeltelijke basis, geen volledig provinciaal archief.

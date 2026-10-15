@@ -1,0 +1,266 @@
+PITO — dekking en uitrolgereedheid
+Controle: 2026-10-12T07:48:20.994706+00:00
+Geen gemeente is hiermee volledig verklaard. Aantallen zijn onderzoeksvoorraad, geen nieuwsproductie.
+Unieke indexkandidaten: 581
+Beeldvindplaatsen (rechten onbekend): 286
+Nieuwe publicaties door deze crawl: 0
+
+Amersfoort
+Media: Eemland1, RTV Utrecht, AD Amersfoort, indebuurt Amersfoort, De Stad Amersfoort
+Bronroutes: 17; kandidaten in brongebied: 29; bestaande artikelrecords inclusief concepten: 13
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Baarn
+Media: Eemland1, RTV Utrecht, AD Baarn, Baarnsche Courant
+Bronroutes: 25; kandidaten in brongebied: 30; bestaande artikelrecords inclusief concepten: 7
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Bunnik
+Media: Omroep ZOUT, RTV Utrecht, AD Bunnik, Bunniks Nieuws
+Bronroutes: 27; kandidaten in brongebied: 22; bestaande artikelrecords inclusief concepten: 11
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Bunschoten
+Media: Eemland1, RTV Utrecht, AD Bunschoten
+Bronroutes: 18; kandidaten in brongebied: 25; bestaande artikelrecords inclusief concepten: 19
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+De Bilt
+Media: Omroep ZOUT, RTV Utrecht, AD De Bilt, Vierklank
+Bronroutes: 49; kandidaten in brongebied: 22; bestaande artikelrecords inclusief concepten: 36
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+De Ronde Venen
+Media: RTV Ronde Venen, RTV Utrecht, AD De Ronde Venen
+Bronroutes: 26; kandidaten in brongebied: 29; bestaande artikelrecords inclusief concepten: 12
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Eemnes
+Media: NH Gooi, RTV Utrecht, AD Eemnes
+Bronroutes: 10; kandidaten in brongebied: 0; bestaande artikelrecords inclusief concepten: 12
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Houten
+Media: Omroep Lekstroom, RTV Utrecht, AD Houten, Houtens Nieuws
+Bronroutes: 78; kandidaten in brongebied: 34; bestaande artikelrecords inclusief concepten: 28
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+IJsselstein
+Media: Omroep Lekstroom, RTV Utrecht, AD IJsselstein
+Bronroutes: 21; kandidaten in brongebied: 29; bestaande artikelrecords inclusief concepten: 15
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Leusden
+Media: Eemland1, RTV Utrecht, AD Leusden, Leusder Krant
+Bronroutes: 13; kandidaten in brongebied: 30; bestaande artikelrecords inclusief concepten: 3
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Lopik
+Media: Omroep Lekstroom, RTV Utrecht, AD Lopik
+Bronroutes: 27; kandidaten in brongebied: 29; bestaande artikelrecords inclusief concepten: 10
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Montfoort
+Media: RTV Midden Holland, RTV Utrecht, AD Montfoort
+Bronroutes: 19; kandidaten in brongebied: 115; bestaande artikelrecords inclusief concepten: 17
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Nieuwegein
+Media: Omroep Lekstroom, RTV Utrecht, AD Nieuwegein
+Bronroutes: 13; kandidaten in brongebied: 29; bestaande artikelrecords inclusief concepten: 15
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Oudewater
+Media: RTV Midden Holland, RTV Utrecht, AD Oudewater
+Bronroutes: 14; kandidaten in brongebied: 115; bestaande artikelrecords inclusief concepten: 7
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Renswoude
+Media: XON / 1 VALLEI, RTV Utrecht, AD Renswoude
+Bronroutes: 18; kandidaten in brongebied: 55; bestaande artikelrecords inclusief concepten: 14
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Rhenen
+Media: XON / 1 VALLEI, RTV Utrecht, AD Rhenen
+Bronroutes: 34; kandidaten in brongebied: 55; bestaande artikelrecords inclusief concepten: 22
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Soest
+Media: Eemland1, RTV Utrecht, AD Soest, Soester Courant
+Bronroutes: 46; kandidaten in brongebied: 30; bestaande artikelrecords inclusief concepten: 17
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Stichtse Vecht
+Media: RTV Stichtse Vecht, RTV Utrecht, AD Stichtse Vecht
+Bronroutes: 36; kandidaten in brongebied: 0; bestaande artikelrecords inclusief concepten: 18
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Utrecht
+Media: DUIC, RTV Utrecht, AD Utrecht, indebuurt Utrecht
+Bronroutes: 17; kandidaten in brongebied: 29; bestaande artikelrecords inclusief concepten: 37
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Utrechtse Heuvelrug
+Media: Omroep ZOUT, RTV Utrecht, AD Utrechtse Heuvelrug, Nieuwsblad De Kaap
+Bronroutes: 12; kandidaten in brongebied: 23; bestaande artikelrecords inclusief concepten: 12
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Veenendaal
+Media: XON / 1 VALLEI, RTV Utrecht, AD Veenendaal, indebuurt Veenendaal
+Bronroutes: 23; kandidaten in brongebied: 55; bestaande artikelrecords inclusief concepten: 11
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Vijfheerenlanden
+Media: SRC, RTV Utrecht, AD Vijfheerenlanden
+Bronroutes: 15; kandidaten in brongebied: 23; bestaande artikelrecords inclusief concepten: 28
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Wijk bij Duurstede
+Media: Omroep ZOUT, RTV Utrecht, AD Wijk bij Duurstede, Wijks Nieuws
+Bronroutes: 31; kandidaten in brongebied: 22; bestaande artikelrecords inclusief concepten: 18
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Woerden
+Media: RTV Midden Holland, RTV Utrecht, Woerdense Courant, indebuurt Woerden, AD Woerden
+Bronroutes: 20; kandidaten in brongebied: 319; bestaande artikelrecords inclusief concepten: 16
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Woudenberg
+Media: XON / 1 VALLEI, RTV Utrecht, AD Woudenberg, De Woudenberger
+Bronroutes: 14; kandidaten in brongebied: 60; bestaande artikelrecords inclusief concepten: 8
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd
+
+Zeist
+Media: Omroep ZOUT, RTV Utrecht, AD Zeist, De Nieuwsbode
+Bronroutes: 35; kandidaten in brongebied: 22; bestaande artikelrecords inclusief concepten: 13
+Uitrol: nog niet gereed. Vergelijking met lokale edities: niet afgerond.
+- Brongebied is nog geen bevestigde plaats van het nieuws
+- Driemaandsarchief niet volledig ingelezen en beoordeeld
+- Artikelinhoud en beeldrechten per publicatie controleren
+- Lokale sport, ondernemers, woningprojecten en bewonersbronnen verder verdiepen
+- Productie-Strapi, geplande inname en storingsmonitoring niet geactiveerd

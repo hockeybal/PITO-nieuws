@@ -1,0 +1,288 @@
+/* PITO house campaign: fixed editorial width, independent display gutters. */
+.pito-news .app-campaign{display:flex;position:relative;isolation:isolate;align-items:center;width:100%;max-width:970px;min-height:250px;height:250px;margin:24px auto 32px;padding:24px 38px;background:#6AAAF9;color:#2C2C2C;overflow:hidden;border:0;border-radius:0;box-shadow:none;text-align:left;gap:0}
+.pito-news .app-campaign-copy{position:relative;z-index:2;width:65%}
+.pito-news .app-campaign small,.pito-video-display small{display:block;font:600 9px/1.4 Arial,sans-serif;letter-spacing:1.4px;margin:0 0 10px;color:#2C2C2C}
+.pito-news .app-campaign h2{font:800 36px/.99 Poppins,Arial,sans-serif;letter-spacing:-1.5px;margin:0 0 12px;color:#2C2C2C;border:0;padding:0}
+.pito-news .app-campaign p{font:400 15px/1.5 Poppins,Arial,sans-serif;margin:0 0 7px;color:#2C2C2C}
+.pito-news .app-campaign strong{font:600 13px/1.4 Poppins,Arial,sans-serif;color:#2C2C2C}
+.pito-store-links{display:flex;align-items:center;gap:10px;margin-top:10px}
+.pito-news .pito-store-links a{display:block;width:116px;height:36px;padding:0;background:transparent;box-shadow:none;border:0;border-radius:0;transform:none}
+.pito-store-links img{width:100%;height:100%;object-fit:contain}
+.pito-news .app-campaign-bird{position:absolute;right:13%;bottom:-33px;width:235px;height:280px;object-fit:contain;z-index:1;transition:transform .2s}
+.pito-news .app-campaign:hover .app-campaign-bird{transform:translateY(-5px)}
+.pito-news .app-campaign-logo{position:absolute;right:24px;top:25px;width:80px;height:40px;object-fit:contain}
+.pito-news .article-top-display{max-width:970px;margin:0 auto 32px;padding:0;border:0;background:transparent}
+.pito-news .article-top-display .app-campaign{margin:20px auto 0}
+.pito-news .article-app-display .app-campaign{height:250px;padding:22px}
+.pito-news .article-app-display .app-campaign-bird{right:0;width:190px;opacity:1}
+.pito-news .article-app-display .app-campaign-logo{display:none}
+.pito-news .article-app-display .app-campaign-copy{width:75%}
+.campaign-wings{display:none}
+.pito-video-display{background:#1050C2;color:white;padding:18px;box-sizing:border-box;display:flex;flex-direction:column;gap:14px;overflow:hidden;font-family:Poppins,Arial,sans-serif;text-align:left}
+.pito-video-display small{color:white;margin:0;font-size:9px}
+.pito-video-display h2{font:800 27px/1.08 Poppins,Arial,sans-serif;letter-spacing:-1px;color:white;margin:8px 0 0;padding:0;border:0}
+.campaign-film{position:relative;width:100%;aspect-ratio:9/16;background:#2C2C2C;border-radius:10px;overflow:hidden}
+.campaign-film video{display:block;width:100%;height:100%;object-fit:cover}
+.campaign-play{position:absolute;bottom:8px;right:8px;background:#fff;color:#2C2C2C;border:0;border-radius:20px;font:600 11px/1.4 Arial;padding:8px 12px;min-height:32px;cursor:pointer}
+.pito-video-display .campaign-download{display:block;text-align:center;background:white;color:#1050C2;border-radius:24px;padding:12px 8px;font:700 13px/1.4 Poppins,Arial,sans-serif;text-decoration:none}
+.pito-video-display>span{font-size:11px;text-align:center}
+.campaign-inline-video{max-width:300px;margin:0 auto 24px}
+.campaign-inline-video .campaign-film{max-height:310px;aspect-ratio:4/5}
+.pito-video-display a:hover{background:#6AAAF9;color:#2C2C2C}
+.pito-video-display :focus-visible,.app-campaign :focus-visible{outline:3px solid #FF5400;outline-offset:4px}
+@media(min-width:1640px){
+ body.campaign-edition .pito-news{max-width:1140px!important;width:1140px!important;margin-left:auto!important;margin-right:auto!important;padding-left:20px;padding-right:20px;background:#fff}
+ .campaign-wings{display:block}
+ .campaign-wing{position:fixed;top:172px;width:min(200px,calc((100vw - 1200px)/2));z-index:3;max-height:calc(100vh - 192px);overflow:auto;padding:16px}
+ .wing-oppas{right:calc(50% + 590px)}.wing-kat{left:calc(50% + 590px)}
+ .campaign-wing h2{font-size:25px}.campaign-wing .campaign-film{flex-shrink:0}
+}
+/* Editorial features: imagery, headings and link treatment share a clear baseline. */
+.pito-news .pito-tips{margin:40px 0;padding:24px;background:#F5F1ED;border:0;box-shadow:none}
+.pito-news .pito-tips .desk-heading{margin:0 0 20px;padding:0 0 14px;border-bottom:1px solid #d5d5d5;display:flex;justify-content:space-between;align-items:baseline}
+.pito-news .pito-tips .desk-heading h2{font:700 28px/1.15 Arial,sans-serif;margin:0;color:#2C2C2C}
+.pito-news .pito-tips .desk-heading span{font-size:13px}
+.pito-news .tips-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.pito-news .tips-row article{padding:0;background:transparent;border:0;box-shadow:none;min-width:0}
+.pito-news .tips-row .tip-photo{margin:0 0 12px;position:relative;aspect-ratio:16/9;height:auto;overflow:hidden}
+.pito-news .tips-row .tip-photo img{display:block;width:100%;height:100%;object-fit:cover}
+.pito-news .tips-row figcaption{position:absolute;bottom:0;right:0;font:10px/1.3 Arial;background:#fff;padding:3px 5px;max-width:100%}
+.pito-news .tips-row h3{font:700 22px/1.2 Arial,sans-serif;margin:0 0 10px;letter-spacing:-.4px}
+.pito-news .tips-row h3 a{color:#2C2C2C;text-decoration:none}
+.pito-news .tips-row h3 a:hover{text-decoration:underline}
+.pito-news .tip-category{font:600 11px/1.4 Arial;text-transform:uppercase;letter-spacing:1px;color:#1050C2}
+.pito-news .weekly-fact{display:grid;grid-template-columns:1.1fr 1fr;align-items:stretch;gap:0;padding:0;margin:40px 0;background:#F5F1ED;border:0;box-shadow:none;overflow:hidden}
+.pito-news .fact-copy{padding:30px}
+.pito-news .fact-copy .eyebrow{font-size:11px;margin:0 0 12px}
+.pito-news .fact-copy h2{font:600 14px/1.4 Arial,sans-serif;margin:0 0 10px}
+.pito-news .fact-copy h3{font:700 29px/1.1 Arial,sans-serif;margin:0 0 16px;letter-spacing:-.5px}
+.pito-news .fact-copy p{font:400 15px/1.55 Arial,sans-serif;margin:0 0 18px}
+.pito-news .fact-copy small{display:none}
+.pito-news .fact-read-link{display:inline-block;background:#1050C2;color:white!important;text-decoration:none;padding:12px 18px;border:0;min-height:0;font:600 13px/1.3 Arial}
+.pito-news .fact-photo{margin:0;position:relative;min-height:300px;height:100%}
+.pito-news .fact-photo img{width:100%;height:100%;position:absolute;inset:0;object-fit:cover}
+.pito-news .fact-photo figcaption{position:absolute;bottom:0;right:0;background:#fff;font:10px/1.4 Arial;padding:4px 6px;max-width:100%}
+.pito-news .fact-number{background:#1050C2;color:white;font:800 85px/1 Poppins,Arial;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:24px}
+.pito-news .fact-number span{font:400 15px/1.5 Arial;color:white;text-align:center;margin-top:16px}
+@media(max-width:700px){
+ .pito-news .app-campaign{height:255px;min-height:0;padding:20px;margin:16px auto 24px}
+ .pito-news .app-campaign-copy{width:80%}.pito-news .app-campaign h2{font-size:29px}.pito-news .app-campaign p{font-size:12px;max-width:180px}
+ .pito-news .app-campaign-bird{right:-38px;width:160px;bottom:0;height:190px}.pito-news .app-campaign-logo{width:56px;right:14px;top:14px}
+ .pito-store-links{gap:6px}.pito-news .pito-store-links a{width:99px;height:31px}
+ .pito-news .article-app-display .app-campaign-bird{right:-40px;width:150px}
+ .pito-news .pito-tips{padding:18px;margin:28px 0}.pito-news .pito-tips .desk-heading span{display:none}
+ .pito-news .tips-row{grid-template-columns:1fr;gap:20px}.pito-news .tips-row article{display:grid;grid-template-columns:110px 1fr;gap:0 14px}
+ .pito-news .tips-row .tip-photo{grid-row:1/3;aspect-ratio:1;height:110px;margin:0}.pito-news .tips-row h3{font-size:18px}.pito-news .tips-row figcaption{font-size:8px}
+ .pito-news .weekly-fact{grid-template-columns:1fr;margin:28px 0}.pito-news .fact-copy{padding:22px}.pito-news .fact-photo{min-height:220px}.pito-news .fact-copy h3{font-size:26px}
+ .pito-news .article-rail .campaign-inline-video{display:none}
+}
+@media(prefers-reduced-motion:reduce){.pito-news .app-campaign-bird{transition:none;transform:none!important}}
+.pito-news .app-campaign{max-width:970px!important;border:0!important;box-shadow:none!important}
+.pito-news .editorial-overview>.app-campaign{margin:24px auto!important}
+.pito-news .editorial-overview .desk-tools{margin:16px 0 24px!important;padding:0!important}
+.pito-news .weekly-fact{grid-template-columns:minmax(0,1fr) 260px!important;padding:0!important;gap:0!important;border-radius:0!important}
+.pito-news .weekly-fact .fact-number{width:auto!important;max-width:none!important;height:auto!important;min-height:240px!important;border-radius:0!important;font-size:72px!important;margin:0!important}
+.pito-news .weekly-fact .fact-copy{padding:30px!important}
+.pito-news .tips-row article{padding:0!important}
+@media(min-width:1640px){.campaign-wing{top:var(--pito-wing-top,356px);max-height:calc(100vh - var(--pito-wing-top,356px) - 20px)}}
+@media(max-width:700px){.pito-news .weekly-fact{grid-template-columns:1fr!important}.pito-news .weekly-fact .fact-number{min-height:150px!important}.pito-news .weekly-fact .fact-copy{padding:22px!important}}
+.pito-news .pito-house-ad.app-campaign{background:#6AAAF9!important}
+.pito-news .app-campaign-copy>p{display:block!important}
+@media(min-width:1640px){.article-rail>.campaign-inline-video{display:none}}
+.pito-news .weekly-fact:has(.fact-creative){grid-template-columns:minmax(0,1.1fr) minmax(0,1fr)!important;background:#F5F1ED}
+.pito-news .fact-creative{background:#6AAAF9;min-height:320px;height:100%;margin:0;overflow:hidden}
+.pito-news .fact-creative img{object-fit:cover;object-position:center}
+.pito-news .article-wrap>.fact-creative{aspect-ratio:3/2;max-height:460px;min-height:0;height:auto;position:relative;margin:24px 0}
+.pito-news .editorial-cover img{object-fit:cover;background:#1050C2}
+@media(max-width:700px){.pito-news .weekly-fact:has(.fact-creative){grid-template-columns:1fr!important}.pito-news .fact-creative{min-height:240px}}
+.pito-news .weekly-fact .fact-creative img,.pito-news .article-wrap>.fact-creative img{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;max-height:none!important;object-fit:contain!important;border-radius:0!important;margin:0!important}
+
+/* One connected PITO skin, in document flow. Core blue from our-brand-colors. */
+:root{--pito-campaign-blue:#0072FF;--pito-campaign-top:350px;--pito-campaign-column:min(1140px,calc(100vw - 320px))}
+.pito-news .pito-house-ad.app-campaign,.pito-video-display{background:var(--pito-campaign-blue)!important;color:white}
+.pito-news .app-campaign h2,.pito-news .app-campaign p,.pito-news .app-campaign strong,.pito-news .app-campaign small{color:white}
+@media(min-width:1100px){
+ body.campaign-edition{position:relative}
+ body.campaign-edition .pito-news{width:var(--pito-campaign-column)!important;max-width:1140px!important;margin-left:auto!important;margin-right:auto!important;padding-left:20px;padding-right:20px;background:white}
+ .campaign-wings{display:block;position:absolute;top:var(--pito-campaign-top);left:0;right:0;height:760px;pointer-events:none;z-index:1}
+ .campaign-wings::before{content:"";position:absolute;top:0;left:0;right:0;height:250px;background:var(--pito-campaign-blue)}
+ .campaign-wing{position:absolute;top:0!important;bottom:auto;width:calc((100% - var(--pito-campaign-column))/2);height:760px;max-height:none!important;overflow:hidden;padding:20px 12px;pointer-events:auto;justify-content:flex-end}
+ .wing-oppas{left:0;right:auto}.wing-kat{right:0;left:auto}
+ .campaign-wing h2{font-size:clamp(19px,1.6vw,27px);letter-spacing:-.6px}
+ .campaign-wing .campaign-film{aspect-ratio:9/16;width:100%;max-width:220px;height:auto;max-height:340px;align-self:center;flex-shrink:0}
+ .campaign-wing .campaign-download{font-size:12px;padding:10px 4px}
+ .campaign-wing>small{margin-bottom:auto}
+ .pito-news .editorial-overview>.app-campaign,.pito-news .article-top-display .app-campaign{max-width:none!important;width:100%;z-index:2}
+ .pito-news .article-rail .campaign-inline-video{display:none}
+ .pito-news .app-campaign-bird{right:4%}
+ .pito-news .app-campaign-copy{width:70%}
+}
+@media(min-width:1100px) and (max-width:1300px){
+ .pito-news .app-campaign{padding:24px}.pito-news .app-campaign h2{font-size:32px}
+ .pito-news .app-campaign-bird{width:200px;right:0}
+}
+/* Scale the complete side creative with the available advertising column. */
+@media(min-width:1100px){
+ .campaign-wing{container-type:inline-size;height:auto;min-height:760px;justify-content:flex-start;padding:24px clamp(12px,2vw,48px);gap:24px}
+ .campaign-wing>small{margin-bottom:0}
+ .campaign-wing h2{font-size:clamp(19px,10cqw,48px);line-height:1.04;margin:clamp(28px,12cqw,64px) 0 0;letter-spacing:-.8px}
+ .campaign-wing .campaign-film{width:100%;max-width:none;max-height:none;height:auto;aspect-ratio:4/5;border-radius:clamp(10px,5cqw,24px)}
+ .campaign-wing .campaign-download{font-size:clamp(12px,4cqw,18px);padding:12px 10px;margin:clamp(0px,5cqw,24px) 0 0}
+ .campaign-wing>span{font-size:clamp(11px,3.5cqw,16px);padding-bottom:20px}
+}
+
+/* Keep full scenes and aligned creative margins at every desktop size. */
+@media(min-width:1100px){
+ .campaign-wing{min-height:1100px;padding:24px clamp(12px,2vw,48px) 40px;gap:24px}
+ .campaign-wing h2{min-height:3.2em;margin-top:40px}
+ .campaign-wing .campaign-film{aspect-ratio:9/16;flex-shrink:0}
+ .campaign-wing .campaign-film video{object-fit:contain}
+ .campaign-wing .campaign-download{margin-top:8px}
+}
+.pito-news .weekly-fact:has(.fact-creative){display:block!important;position:relative;isolation:isolate;min-height:390px;background:#0072FF!important;color:white;overflow:hidden}
+.pito-news .weekly-fact:has(.fact-creative) .fact-copy{position:relative;z-index:2;width:62%;padding:40px!important;background:linear-gradient(90deg,#0072FF 78%,transparent)}
+.pito-news .weekly-fact:has(.fact-creative) .fact-copy :is(h2,h3,p){color:white!important}
+.pito-news .weekly-fact:has(.fact-creative) .fact-read-link{background:white;color:#1050C2!important}
+.pito-news .weekly-fact .fact-creative{position:absolute;inset:0;margin:0;width:100%;height:100%;background:transparent;min-height:0;z-index:1}
+.pito-news .weekly-fact .fact-creative img{width:65%!important;left:auto!important;right:-6%!important;object-position:right center!important}
+.pito-news .weekly-fact .fact-creative figcaption{background:transparent;color:white}
+.pito-news .article-wrap>.fact-creative{background:#0072FF}
+@media(max-width:700px){
+ .pito-news .weekly-fact:has(.fact-creative){min-height:540px}
+ .pito-news .weekly-fact:has(.fact-creative) .fact-copy{width:100%;padding:24px 24px 230px!important;background:none}
+ .pito-news .weekly-fact .fact-creative img{width:100%!important;height:250px!important;top:auto!important;bottom:0!important;right:-15%!important}
+}
+@media(min-width:1100px) and (max-width:1450px){.campaign-wing h2{height:5.2em;min-height:5.2em}}
+
+/* Separate campaigns with deliberate white breathing space. */
+@media(min-width:1100px){
+ .segmented-wings{display:grid;grid-template-columns:minmax(0,1fr) var(--pito-campaign-column) minmax(0,1fr);height:auto;align-items:start;overflow:hidden}
+ .campaign-column{position:relative;display:flex;flex-direction:column;gap:112px;min-width:0;pointer-events:auto;z-index:1}
+ .column-left{grid-column:1}.column-right{grid-column:3}
+ .campaign-column>.campaign-wing{position:relative;left:auto;right:auto;top:auto!important;width:100%;min-height:1000px;height:auto;border-radius:0 0 24px 24px}
+ .campaign-column .campaign-film{max-width:340px}
+ .rail-invitation{box-sizing:border-box;container-type:inline-size;display:flex;flex-direction:column;gap:22px;padding:30px clamp(12px,2vw,42px);background:#F5F1ED;color:#2C2C2C;border-radius:24px;overflow:hidden;font-family:Poppins,Arial,sans-serif}
+ .rail-invitation.invitation-primary{min-height:1000px;border-radius:0 0 24px 24px;background:#0072FF;color:white}
+ .rail-invitation small{font:600 9px/1.4 Arial;letter-spacing:1px}
+ .rail-invitation .invitation-kicker{font-size:clamp(10px,3.4cqw,13px);letter-spacing:1px;font-weight:700;margin:26px 0 0}
+ .rail-invitation h2{font-size:clamp(21px,10cqw,42px);line-height:1.08;letter-spacing:-.8px;margin:0;color:inherit}
+ .rail-invitation p{font-size:clamp(13px,4.3cqw,17px);line-height:1.5;margin:0}
+ .rail-invitation>a{display:block;background:white;border-radius:28px;padding:14px 12px;color:#1050C2;font-size:clamp(12px,4cqw,16px);font-weight:700;text-decoration:none;text-align:center}
+ .rail-invitation:not(.invitation-primary)>a{background:#1050C2;color:white}
+ .invitation-art{position:relative;min-height:270px;height:85cqw;max-height:370px;margin:10px -4px}
+ .invitation-art img{position:absolute;right:-15%;bottom:0;width:85%;height:90%;object-fit:contain}
+ .invitation-note,.invitation-reply{position:relative;z-index:1;background:white;color:#1050C2;border-radius:14px 14px 14px 2px;padding:14px;font-size:clamp(12px,4cqw,17px);font-weight:600;width:85%;box-shadow:0 8px 28px #00337a18}
+ .invitation-reply{margin:12px 0 0 10%;width:70%;background:#5DD8FF}
+ .invitation-aanbod{background:#EDE8DF}.invitation-agenda{background:#1050C2;color:white}
+ .invitation-agenda>a{background:white!important;color:#1050C2!important}
+ .rail-invitation a:hover{text-decoration:underline;transform:translateY(-2px)}
+}
+@media(min-width:1100px) and (max-width:1450px){
+ .rail-invitation{padding:24px 12px;gap:18px}.invitation-art{min-height:180px}.rail-invitation h2{font-size:22px}
+ .campaign-column>.campaign-wing,.rail-invitation.invitation-primary{min-height:850px}
+}
+@media(min-width:1100px){.invitation-art img{height:65%;width:78%;right:-12%}.invitation-art{min-height:310px}}
+@media(min-width:1100px) and (max-width:1450px){.invitation-art{min-height:230px}}
+
+/* Original PITO collective propositions, using the existing website imagery. */
+@media(min-width:1100px){
+ .proposition{container-type:inline-size;display:flex;flex-direction:column;background:#F5F1ED;color:#2C2C2C;overflow:hidden;border-radius:0 0 20px 20px;font-family:Poppins,Arial,sans-serif}
+ .proposition-copy{padding:30px clamp(14px,1.8vw,36px) 22px}
+ .proposition small{font:600 9px/1.4 Arial;letter-spacing:1px}
+ .proposition .proposition-label{font:700 clamp(10px,3.4cqw,13px)/1.4 Arial;letter-spacing:.8px;margin:38px 0 18px}
+ .proposition h2{font-size:clamp(23px,9cqw,44px);line-height:1.1;letter-spacing:-.8px;margin:0 0 22px;min-height:3.3em;color:inherit}
+ .proposition-copy>p:last-child{font:400 clamp(14px,4.5cqw,18px)/1.55 Arial;margin:0;min-height:6.2em}
+ .proposition-image{display:block;aspect-ratio:4/5;overflow:hidden;background:#EDE8DF}
+ .proposition-image img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .3s}
+ .proposition-image:hover img{transform:scale(1.025)}
+ .proposition-action{padding:26px clamp(14px,1.8vw,36px) 32px}
+ .proposition-action>a{display:flex;align-items:center;justify-content:space-between;gap:8px;background:#0072FF;color:white;padding:15px 16px;border-radius:9px;font:700 clamp(13px,4.4cqw,18px)/1.3 Arial;text-decoration:none;min-height:48px;box-sizing:border-box}
+ .proposition-action>a:hover{background:#1050C2}
+ .proposition-action>p{font:400 11px/1.6 Arial;text-align:center;margin:14px 0 0}
+ .column-left>.proposition:first-child,.column-right>.proposition:first-child{background:#0072FF;color:white}
+ .column-left>.proposition:first-child .proposition-action>a,.column-right>.proposition:first-child .proposition-action>a{background:white;color:#1050C2}
+ .column-left>.proposition:first-child .proposition-image,.column-right>.proposition:first-child .proposition-image{margin:0 16px;border-radius:12px}
+ .proposition-stichtingen,.proposition-bedrijven{border-radius:20px}
+ .proposition-stichtingen .proposition-label{color:#1050C2}
+ .campaign-column{gap:100px}
+ .campaign-column>.campaign-wing{border-radius:20px;min-height:0}
+}
+@media(min-width:1100px) and (max-width:1450px){
+ .proposition-copy{padding:24px 12px 18px}.proposition h2{font-size:22px;min-height:4.4em}.proposition .proposition-label{font-size:10px;margin-top:28px}
+ .proposition-copy>p:last-child{font-size:13px;min-height:9em}.proposition-action{padding:18px 12px 24px}.proposition-action>a{padding:12px 10px;font-size:13px}
+ .column-left>.proposition:first-child .proposition-image,.column-right>.proposition:first-child .proposition-image{margin:0 8px}
+}
+/* Distinct films on the left, concrete neighbourhood collectives on the right. */
+@media(min-width:1100px){
+ .campaign-column{gap:clamp(160px,15vw,260px)}
+ .campaign-column>.campaign-wing:first-child{border-radius:0 0 24px 24px}
+ .proposition .proposition-label{font-size:clamp(12px,4.6cqw,17px);line-height:1.3;letter-spacing:.3px;margin:26px 0 20px}
+ .proposition h2{min-height:0;font-size:clamp(22px,8.5cqw,38px)}
+ .proposition-copy>p:last-child{min-height:0}
+ .collective-benefits{list-style:none;padding:0;margin:22px 0 0;font:600 clamp(12px,4cqw,16px)/1.5 Arial}
+ .collective-benefits li{padding:10px 0;border-top:1px solid #ffffff50}
+ .collective-benefits li:before{content:'✓';margin-right:7px}
+ .proposition-thuisbatterij{background:#F5F1ED;border-radius:20px}
+ .proposition-thuisbatterij .collective-benefits li{border-color:#2C2C2C25}
+ .proposition-stichtingen .proposition-image,.proposition-bedrijven .proposition-image{aspect-ratio:4/3;background:white}
+ .proposition-stichtingen .proposition-image img,.proposition-bedrijven .proposition-image img{object-fit:contain}
+ .campaign-column .campaign-wing h2{height:auto;min-height:0;margin-top:24px}
+}
+/* Shared display rows: both sides start and finish at the same positions. */
+@media(min-width:1100px){
+ .segmented-wings{align-items:stretch;row-gap:180px}
+ .segmented-wings .campaign-column{display:contents}
+ .column-left>aside{grid-column:1}.column-right>aside{grid-column:3}
+ .campaign-column>aside:nth-child(1){grid-row:1}
+ .campaign-column>aside:nth-child(2){grid-row:2}
+ .campaign-column>aside:nth-child(3){grid-row:3}
+ .segmented-wings .campaign-column>aside{width:100%;height:100%;box-sizing:border-box;border-radius:18px;min-height:0}
+ .segmented-wings .campaign-column>aside:first-child{border-radius:0 0 18px 18px}
+ .segmented-wings .campaign-wing{padding:28px clamp(12px,1.8vw,30px);gap:22px;background:#0072FF}
+ .segmented-wings .campaign-wing h2{font-size:clamp(21px,8cqw,34px);line-height:1.12;letter-spacing:-.6px;margin:12px 0 0}
+ .segmented-wings .campaign-wing .campaign-film{max-width:none;aspect-ratio:9/16;border-radius:12px}
+ .segmented-wings .campaign-wing .campaign-download{margin-top:auto;border-radius:10px;padding:15px 10px}
+ .segmented-wings .campaign-wing>span{padding-bottom:0}
+ .segmented-wings .proposition-copy{padding:28px clamp(12px,1.8vw,30px) 20px}
+ .segmented-wings .proposition-label{margin:22px 0 16px;font-size:clamp(12px,4.3cqw,16px)}
+ .segmented-wings .proposition h2{font-size:clamp(21px,8cqw,34px);line-height:1.12;letter-spacing:-.6px;margin-bottom:18px}
+ .segmented-wings .proposition-copy>p{font-size:clamp(13px,4.6cqw,16px);line-height:1.5}
+ .segmented-wings .collective-benefits{margin-top:16px;font-size:clamp(12px,4cqw,14px)}
+ .segmented-wings .proposition-image{aspect-ratio:1/1;margin:0 12px!important;border-radius:12px;flex-shrink:0}
+ .segmented-wings .proposition-action{margin-top:auto;padding:24px clamp(12px,1.8vw,30px) 28px}
+ .segmented-wings .proposition-action>a{font-size:clamp(12px,4cqw,16px);border-radius:10px}
+ .segmented-wings .proposition-stichtingen .proposition-image,.segmented-wings .proposition-bedrijven .proposition-image{aspect-ratio:4/3;margin:0!important;border-radius:0;background:#F5F1ED}
+ .segmented-wings .proposition-thuisbatterij{background:#EDE8DF}
+}
+@media(min-width:1100px){.segmented-wings .campaign-column>aside{position:relative;z-index:1;pointer-events:auto}.segmented-wings .campaign-wing .campaign-film{margin-bottom:0}}
+@media(min-width:1100px) and (max-width:1500px){
+ .segmented-wings .campaign-wing,.segmented-wings .proposition-copy{padding:22px 12px;gap:18px}
+ .segmented-wings .campaign-wing h2,.segmented-wings .proposition h2{font-size:19px;overflow-wrap:anywhere;letter-spacing:-.4px}
+ .segmented-wings .proposition-label{font-size:11px;letter-spacing:0}
+ .segmented-wings .proposition-copy>p{font-size:12px}
+ .segmented-wings .collective-benefits{font-size:11px}
+ .segmented-wings .proposition-action{padding:20px 12px 24px}
+ .segmented-wings .proposition-action>a,.segmented-wings .campaign-download{font-size:12px;padding:12px 9px}
+ .segmented-wings .campaign-wing .campaign-film{width:100%}
+}
+
+/* Narrow desktop rails retain legible headlines and a direct CTA. */
+@media(min-width:1100px) and (max-width:1500px){
+ .segmented-wings .proposition h2{font-size:18px;line-height:1.2;letter-spacing:0;overflow-wrap:normal;hyphens:auto}
+ .segmented-wings .proposition-copy>p:not(.proposition-label){display:none}
+ .segmented-wings .collective-benefits{margin-top:12px;line-height:1.45}
+ .segmented-wings .collective-benefits li{padding:8px 0}
+ .segmented-wings .proposition-action{padding:16px 10px 20px}
+ .segmented-wings .proposition-action>a{padding:12px 8px;line-height:1.4}
+ .segmented-wings .campaign-wing h2{font-size:18px;line-height:1.2;letter-spacing:0}
+}
+
+/* Narrow editorial rails need a vertical creative, not a cropped leaderboard. */
+.pito-news .app-campaign.app-campaign-rail{display:block;height:auto;min-height:460px;padding:26px 22px 190px;max-width:340px;box-sizing:border-box}
+.pito-news .app-campaign-rail .app-campaign-copy{width:100%;max-width:none}
+.pito-news .app-campaign-rail h2{font-size:30px;line-height:1.08;letter-spacing:-.8px}
+.pito-news .app-campaign-rail p{max-width:none;font-size:13px}
+.pito-news .app-campaign-rail .pito-store-links{flex-wrap:wrap;gap:8px}
+.pito-news .app-campaign-rail .pito-store-links a{width:105px;height:34px}
+.pito-news .app-campaign-rail .app-campaign-bird{width:155px;height:185px;right:18px;bottom:0}
+.pito-news .app-campaign-rail .app-campaign-logo{width:75px;height:38px;left:22px;right:auto;top:auto;bottom:115px}

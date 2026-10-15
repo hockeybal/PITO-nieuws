@@ -1,0 +1,75 @@
+[
+  {
+    "id": "woerdense-courant",
+    "name": "Woerdense Courant",
+    "checkedAt": "2026-10-12T06:58:08.805650+00:00",
+    "pages": 11,
+    "dynamicPagination": true,
+    "discovered": 63,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "indebuurt-woerden",
+    "name": "indebuurt Woerden",
+    "checkedAt": "2026-10-12T06:58:28.727223+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://indebuurt.nl/woerden/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "rtv-midden-holland",
+    "name": "RTV Midden Holland",
+    "checkedAt": "2026-10-12T06:58:29.232328+00:00",
+    "pages": 18,
+    "dynamicPagination": false,
+    "discovered": 138,
+    "errors": [
+      "https://rtvmiddenholland.nl/midlandfm/?rtvmh_page=14 curl: (56) Recv failure: Connection reset by peer\n",
+      "https://rtvmiddenholland.nl/midlandfm/?rtvmh_page=17 curl: (28) Connection timed out after 20006 milliseconds\n"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "status": "partial",
+    "hasMore": true
+  },
+  {
+    "id": "gemeente-woerden",
+    "name": "Gemeente Woerden",
+    "checkedAt": "2026-10-12T06:59:35.555034+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 7,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "status": "partial",
+    "hasMore": false
+  }
+]

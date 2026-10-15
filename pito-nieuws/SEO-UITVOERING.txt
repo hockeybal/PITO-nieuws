@@ -1,0 +1,95 @@
+PITO SEO — lokale implementatie, 10 oktober 2026
+
+GEREED IN DE LOKALE UITBREIDING
+- /agenda/utrecht en /agenda/utrecht/{gemeente}
+- /agenda/utrecht/{gemeente}/vandaag, /morgen en /dit-weekend
+- Provinciale varianten van deze dagpagina's.
+- Oude ?weergave=agenda/vandaag-links verwijzen permanent (301) door.
+- Tabs en gemeenteselectie gebruiken vaste routes; iedere agenda heeft eigen titel, beschrijving, canonical en BreadcrumbList.
+- Nederlandse daggrens (Europe/Amsterdam). PITO_EDITION_DATE alleen voor reproduceerbare previews/tests.
+- Zondag toont dit weekend alleen nog zondag. Vandaag zonder aanbod verwijst naar komende lokale activiteiten.
+- Activiteitdetails via /activiteiten/{stabiele-occurrence-sleutel}, opgebouwd uit dezelfde goedgekeurde apprecords. Geen tweede agenda.
+- Event-gegevens alleen als startdatum, locatie en adres beschikbaar zijn. Geen verzonnen prijzen/tijden. Afgelastingen en afgelopen activiteiten zichtbaar.
+- Nieuws heeft publisher, canonical mainEntityOfPage en beeldgegevens. PITO-publicatiedatum komt uitsluitend uit webPublishedAt bij publicationStatus=published; nooit uit sourcePublishedAt.
+- Archiefpagina's hebben eigen canonicals per maand/paginanummer. Sorteervarianten delen hun canonical.
+- /nieuws/sitemap.xml bevat alleen expliciet gepubliceerde nieuwsartikelen en aangesloten appactiviteiten; geen lokale concepten of lege agenda's.
+- /nieuws/news-sitemap.xml bevat uitsluitend expliciet gepubliceerde artikelen van de laatste 48 uur (maximaal 1000).
+- Lokale HTML blijft noindex,nofollow. Er is niets online gepubliceerd.
+
+STRAPI / GEDEELD APP-CONTRACT
+De adapter bestaat, maar PITO_APP_CONTENT_URL is niet geconfigureerd. Er zijn dus nog geen echte live activiteiten geïmporteerd. Gebruik de bestaande apprecords via een server-side read-only endpoint; token uitsluitend in PITO_APP_CONTENT_TOKEN. Geen tokens in HTML.
+Verplicht: id, title, municipality (canonieke gemeentecode), status=published, show_on_web=true, https url, occurrences[].date.
+Aanvullend: description, locationName, address, organizer, priceText, occurrences[].id (stabiele editie-ID), startDate/endDate (ISO 8601 met tijdzone), cancelled. Webfoto's vereisen web_usage_approved, credit en https url.
+Behoud afgelopen occurrences in dit endpoint zodat bestaande detailadressen beschikbaar blijven. De adapter bewaart ze en selecteert actieve data per pagina. Zonder occurrence-ID wordt de datum/tijd als identiteit gebruikt: wijziging kan een nieuw adres geven. Gebruik in productie altijd een onveranderlijke occurrence-ID en een URL-register met redirects bij correcties.
+Huidige locatiecontract heeft één gemeente; meerdere locaties vereisen afzonderlijke occurrences met gemeentetoewijzing. Plaats/kern en gemeente moeten in de echte Strapi-mapping apart worden vastgelegd.
+Contractvoorbeeld: strapi/app-content-contract.example.json. Voorbeelden zijn uitsluitend testdata, worden niet gepubliceerd.
+
+NOG NODIG VOOR PRODUCTIE
+1. Bevestig daadwerkelijke Strapi-velden en sluit endpoint aan; test echte locaties, herhaling, annulering en fotoautorisatie.
+2. Integreer deze SSR-routes in de productiehost van pitonieuws.nl, behoud bestaande routes en leg redirects vast. Deze Python-server blijft loopback-only.
+3. Zet een publicatielaag met login, rollen en publicatiedatums vóór indexering. Preview/redactie blijven afgesloten. De huidige lokale approval publiceert niet.
+4. Productie-template krijgt index,follow uitsluitend op gepubliceerde, inhoudelijk bruikbare pagina's; lege/onvolledige pagina's blijven noindex. Verwijder de huidige previewbalk en vaste onderzoeksperiode alleen in de productieconfiguratie.
+5. Gebruik https://pitonieuws.nl als PITO_PUBLIC_URL voor PITO Nieuws; kies één canoniek domein voor nieuws dat ook via pito.app bereikbaar is. Voeg de twee sitemaps aan de bestaande sitemapindex toe; overschrijf geen bestaande robots.txt of sitemap.
+6. Search Console domeinverificatie, sitemaps indienen, Rich Results Test en URL-inspectie op nieuws + activiteit + agenda. Meet zoekvragen, doorklikken en appconversie per gemeente.
+7. Agendaresultaten mogen niet uitsluitend achter een app-installatie zitten. Webdetail toont bestaande informatie; organisatorlink blijft beschikbaar.
+8. Geen garantie op indexering of rankings. Weekend/kinderen/gratis landingspagina's pas uitbreiden bij eigen bruikbaar aanbod.
+
+Officiële documentatie
+https://developers.google.com/search/docs/appearance/structured-data/article
+https://developers.google.com/search/docs/appearance/structured-data/event
+https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap
+https://developers.google.com/crawling/docs/faceted-navigation
+
+
+AANVULLING — VINDBAARHEID PER GEMEENTE, 14 oktober 2026
+
+Gecontroleerde lokale toestand
+- De HTML-template bevat vast noindex,nofollow; terecht voor deze lokale preview.
+- De lokale sitemap bevat momenteel nul URL's. Van 1610 zichtbare artikelen voldoet geen record aan de gecombineerde sitemapvoorwaarden approved + published + webPublishedAt.
+- Dit is geen bewijs dat artikelen inhoudelijk zijn afgekeurd: lokale zichtbaarheid en productiepublicatie zijn verschillende toestanden.
+- Appinhoud staat op local_preview; de huidige agendadekking is Utrecht en Woerden, niet alle 26 gemeenten.
+- De huidige sitemap mist onder meer zelfstandige onderwerp-, adressen- en bekendmakingpagina's.
+
+Productie-eisen per gemeente
+1. Een permanente, rechtstreeks te openen gemeentepagina, met lokale nieuwsartikelen, activiteiten, agenda, sport, bekendmakingen en nuttige adressen voor zover daadwerkelijk beschikbaar.
+2. Gewone HTML-links naar alle 26 gemeentepagina's. Een keuzeknop, locatieprompt of opgeslagen voorkeur mag niet de enige toegang zijn. Een expliciete gemeente-URL blijft leidend en wordt niet naar een opgeslagen voorkeur doorgestuurd.
+3. Elke bruikbare pagina krijgt een eigen titel, omschrijving, canonical en passende deelafbeelding. Gemeente, plaats/kern en straat gescheiden opslaan; voorkom verkeerde geografische toewijzing.
+4. Alleen inhoudelijk nuttige gemeentelijke onderwerppagina's indexeren. Geen honderden lege combinaties van onderwerp, datum, zoekterm en filter maken. Zoeken en sorteervarianten apart behandelen; een canonical is geen vervanging voor een zorgvuldig indexeringsbeleid.
+5. Publicaties moeten feiten, omschrijving, status en relevante data tonen. Bewaar primaire bron en wijzigingen. Maak geen gemeentelijke kopieën van hetzelfde provinciale artikel: één canoniek artikel kan op meerdere lokale overzichten verschijnen.
+6. Neem alle gepubliceerde, indexeerbare inhoudstypen op in de sitemap, inclusief gemeentepagina's, agenda's met aanbod, activiteitdetails, nuttige adressen en inhoudelijke bekendmakingen. lastmod alleen wijzigen bij een werkelijke inhoudelijke wijziging.
+7. Gestructureerde gegevens laten overeenkomen met de zichtbare inhoud: NewsArticle voor echte nieuwsartikelen, Event voor afzonderlijke evenementen, BreadcrumbList voor navigatie en CollectionPage voor overzichten. Niet elke bekendmaking als nieuwsartikel of elk adres als eigen bedrijfsvestiging markeren.
+8. Eventdetails intern bereikbaar maken vanuit agenda's; organisatorlinks aanvullend behouden. Werk afgelasting, verplaatsing, beschikbaarheid en einddatum bij zonder onnodig de URL te veranderen.
+9. Mobiele laadtijd meten op echte templates met displays en video. Afmetingen reserveren, afbeeldingen passend comprimeren en onderaan pas laden; niet alle video's tegelijk downloaden.
+10. Google Search Console en Bing Webmaster Tools instellen; sitemap indienen en indexering, fouten, zoekvragen en verkeer per gemeente en inhoudstype volgen. Ontbrekend aanbod apart meten van technische indexeringsproblemen.
+
+AI-zoekdiensten
+- Google AI Overviews/AI Mode gebruiken de normale SEO-basis; geen speciaal AI-bestand of aparte schema nodig.
+- OpenAI OAI-SearchBot toestaan in productie als ChatGPT Search gewenst is; controleer ook hosting/CDN. GPTBot voor training is een afzonderlijke keuze.
+- Zichtbare, concrete lokale feiten, goede bronverwijzingen, actualiteit en zelfstandig leesbare pagina's zijn de basis; geen garantie op opname, rankings of AI-vermeldingen.
+
+Acceptatie vóór lancering
+- Voorkeursdomein HTTPS en redirects/canonicals consistent; geen localhost-URL's in productie.
+- Gepubliceerde pagina's HTTP 200 en indexeerbaar; previews/concepten blijven buiten de openbare index en sitemaps.
+- robots.txt, robots-metatags, HTTP X-Robots-Tag en hostingbeveiliging samen controleren.
+- Alle 26 gemeentepagina's via gewone links bereikbaar; ontbrekende inhoud eerlijk behandelen, niet vullen met generieke teksten.
+- Sitemap, structured data, mobiele navigatie en representatieve URL's per inhoudstype controleren.
+- Publicatieworkflow en echte publicatiedata eerst correct integreren: bestaande records niet blind published maken om de sitemap te vullen.
+
+Aanvullende officiële richtlijnen
+https://developers.google.com/search/docs/appearance/ai-features
+https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls
+https://developers.openai.com/api/docs/bots
+
+GEIMPLEMENTEERD — 14 oktober 2026
+- search_visibility.py is de gedeelde bron voor sitemap en robots-metatag.
+- Productiemodus vereist expliciet PITO_SITE_MODE=production plus HTTPS op pitonieuws.nl of www.pitonieuws.nl. Voorbeeld: seo-production.env.example. Preview blijft noindex,nofollow.
+- news.articles() sluit in productiemodus ongepubliceerde, ongeldige en toekomstige publicaties uit. Dit verandert geen records.
+- Sitemap uitgebreid met onderwerpselecties van gepubliceerde artikelen, gemeentelijke diensten, gemeentepagina's en bekendmakingen waarvoor de volledige brontekst beschikbaar is. Activiteiten blijven afhankelijk van aangesloten appdata; agenda vereist agendaHighlight=true.
+- Productiesimulatie: 1239 geschikte URL's, inclusief 26 gemeentelijke adrespagina's en 1156 inhoudelijke bekendmakingen. Geen conceptnieuws toegevoegd.
+- /nieuws/gemeenten bevat gewone HTML-links naar alle 26 gemeenten en hun lokale agenda, activiteiten, omgevingszaken en adressen. Footer verwijst naar dit overzicht.
+- WebSite heet PITO Nieuws; standaard WebPage-schema, gemeentelijke deelbeelden en lokale adresomschrijvingen toegevoegd.
+- Canonicals verwijderen beeldkeuze, sortering en tracking; gemeente/paginanummer blijven behouden. Zoek- en filterverzoeken krijgen ook X-Robots-Tag noindex,follow.
+- /robots.txt levert previewblokkade of productieregels met beide sitemaps. Bij integratie in bestaande productiehosting deze regels samenvoegen met het bestaande robotsbestand; niet blind overschrijven.
+- RSS gebruikt het ingestelde publieke domein.
+
+Nog bij deployment uitvoeren: publieke hosting en HTTPS, definitieve domeinredirects, echte publicatie/Strapi-koppeling, accountverificatie en sitemapindiening bij Search Console en Bing. Deze lokale server blijft uitsluitend loopback. Deze wijzigingen maken geen publieke website en schrijven geen artikelen automatisch op published.

@@ -1,0 +1,2639 @@
+[
+  {
+    "slug": "regio-gezamenlijk-stroomnet-aanvragen",
+    "title": "Vijftien Utrechtse gemeenten bundelen aanvragen voor het stroomnet",
+    "summary": "Woningbouw- en schoolprojecten krijgen één regionale volgordelijst. De gemeenten willen de aanvragen op 16 november gezamenlijk indienen.",
+    "body": "Sinds 1 oktober kunnen gemeenten eerder in het planproces stroomtransportcapaciteit aanvragen voor woningbouw en onderwijshuisvesting. Houten en veertien andere gemeenten stemmen de volgorde daarvoor regionaal af. De geplande start van de bouw bepaalt de rangorde; bij gelijke uitkomst volgt een loting tussen gemeenten.\n\nDe gezamenlijke aanpak voorkomt een race om het snelst aanvragen te verwerken. Ze maakt echter geen extra capaciteit op het net vrij. Volgens Houten verwacht Stedin vanaf 2027 meer duidelijkheid over de beschikbare ruimte.\n\nDe gemeenten willen de aanvragen op 16 november 2026 gezamenlijk indienen. De nieuwe regeling biedt ruimte om voor concrete woningbouw- en schoolprojecten maximaal tien jaar vooruit capaciteit aan te vragen.",
+    "impact": "De afspraak raakt de voorbereiding van nieuwe woningen en scholen. Een plek op de lijst is geen garantie voor een aansluiting of een bouwdatum.",
+    "category": "Wonen",
+    "municipalities": [
+      "houten",
+      "utrecht",
+      "stichtse-vecht",
+      "de-ronde-venen",
+      "woerden",
+      "oudewater",
+      "montfoort",
+      "ijsselstein",
+      "nieuwegein",
+      "bunnik",
+      "zeist",
+      "wijk-bij-duurstede",
+      "utrechtse-heuvelrug",
+      "soest",
+      "de-bilt"
+    ],
+    "sourceUrl": "https://www.houten.nl/nieuws/houten-en-regio-kiezen-voor-regionale-aanpak-aanvragen-netcapaciteit",
+    "sourceName": "Gemeente Houten",
+    "sourcePublishedAt": "2026-10-02",
+    "eventDate": "2026-11-16",
+    "dateNote": "Publicatie 2 oktober; regeling eerder aanvragen gestart 1 oktober; gezamenlijke indiening gepland 16 november. Alleen de vijftien expliciet genoemde gemeenten gekoppeld.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Primaire bron volledig geopend en tekst en datum gecontroleerd op 10 oktober 2026.",
+    "priority": 1,
+    "rights": "Eigen feitelijke samenvatting; geen overgenomen beeld of brontekst.",
+    "sensitive": false,
+    "ranking": {
+      "impact": 5,
+      "reach": 4,
+      "urgency": 2,
+      "duration": 5,
+      "actionability": 2,
+      "reason": "Voorlopige redactionele inschatting. De afspraak raakt de voorbereiding van nieuwe woningen en scholen. Een plek op de lijst is geen garantie voor een aansluiting of een bouwdatum.",
+      "cluster": "",
+      "activeUntil": "2026-10-24",
+      "audienceNeed": "explanation",
+      "audienceReason": "De afspraak raakt de voorbereiding van nieuwe woningen en scholen. Een plek op de lijst is geen garantie voor een aansluiting of een bouwdatum."
+    },
+    "imageKey": "leidsche-rijn-wonen",
+    "imageTopics": [
+      "energie"
+    ],
+    "editorialContact": "Sander Groenendijk",
+    "evidence": {
+      "latestVerificationFile": "work/archive-279-evidence.json"
+    }
+  },
+  {
+    "slug": "droogte-dijkinspecties-augustus",
+    "title": "Dijkinspecties na droogte: schade gevonden, lekkage bij Linschoten hersteld",
+    "summary": "Het waterschap meldde na extra inspecties dat de aangetroffen schade toen geen aanvullende maatregelen nodig maakte.",
+    "body": "HDSR onderzocht op 17, 18 en 19 augustus primaire en regionale keringen. Op verschillende plekken waren scheuren ontstaan. Het waterschap hield die locaties daarna in de gaten.\n\nBij de Montfoortse vaart in Linschoten werd een lekkage direct gerepareerd. De publicatie beschrijft de toestand van augustus en is geen actuele beoordeling van alle dijken.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.hdsr.nl/@243650/extra-dijkinspecties-afgerond-schades/",
+    "sourceName": "Hoogheemraadschap De Stichtse Rijnlanden",
+    "sourcePublishedAt": "2026-08-20",
+    "eventDate": "2026-08-19",
+    "dateNote": "Historisch bericht over inspecties van 17–19 augustus; geen actuele waarschuwing.",
+    "impact": "Droogte kan ook waterveiligheid raken. Actuele maatregelen moeten bij het waterschap worden gecontroleerd.",
+    "verifiedAt": "2026-10-10",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Historische bron gecontroleerd; eindredactie vereist voor externe publicatie.",
+    "priority": 2,
+    "rights": "Eigen feitelijke samenvatting; geen overgenomen brontekst of bronbeeld.",
+    "sensitive": false,
+    "provinceWide": false,
+    "ranking": {
+      "impact": 4,
+      "reach": 3,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige redactionele inschatting. Droogte kan ook waterveiligheid raken. Actuele maatregelen moeten bij het waterschap worden gecontroleerd.",
+      "cluster": "",
+      "activeUntil": null
+    },
+    "imageTopics": [
+      "water"
+    ],
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "montfoort-verhoogt-fonds-voor-startersleningen-met-een-miljoen",
+    "title": "Montfoort verhoogt fonds voor startersleningen met een miljoen",
+    "summary": "De gemeenteraad stemde op 6 juli in met extra budget, mede vanwege de verwachte vraag rond De Bleek.",
+    "body": "Volgens de gemeentelijke publicatie komt het totale budget daarmee op 1,5 miljoen euro. De gemeente verwachtte met de aanvulling ongeveer twintig extra starters te kunnen helpen.\n\nHet betreft leningen waarvoor voorwaarden en een budgetgrens gelden. Het besluit over het fonds is geen individuele toekenning; aanvragers moeten de actuele regeling raadplegen.",
+    "category": "Wonen",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Fonds_Starterslening_aangevuld_met_1_miljoen_euro",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-07-16",
+    "eventDate": null,
+    "dateNote": "Datum 2026-07-16 uit het gemeentelijke nieuwsarchief; op de detailpagina aangeduid als laatst gewijzigd. De oorspronkelijke eerste publicatie is niet afzonderlijk bevestigd.",
+    "verifiedAt": "2026-10-10",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud en datum gelezen; menselijke eindredactie nog nodig.",
+    "priority": 2,
+    "rights": "Eigen feitelijke samenvatting; geen brontekst of bronbeeld overgenomen.",
+    "sensitive": false,
+    "impact": "De gemeenteraad stemde op 6 juli in met extra budget, mede vanwege de verwachte vraag rond De Bleek.",
+    "ranking": {
+      "impact": 3,
+      "reach": 3,
+      "urgency": 0,
+      "duration": 4,
+      "actionability": 2,
+      "reason": "Lokale gevolgen: De gemeenteraad stemde op 6 juli in met extra budget, mede vanwege de verwachte vraag rond De Bleek.",
+      "cluster": "",
+      "activeUntil": null,
+      "audienceNeed": "service",
+      "audienceReason": "De gemeenteraad stemde op 6 juli in met extra budget, mede vanwege de verwachte vraag rond De Bleek."
+    },
+    "imageTopics": [
+      "wonen",
+      "woningbouw"
+    ],
+    "sourceDateType": "archiveDate",
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "hogere-bouwkosten-zetten-plannen-voor-de-vaart-onder-druk",
+    "title": "Hogere bouwkosten zetten plannen voor De Vaart onder druk",
+    "summary": "De vernieuwing van het dorpshuis in Linschoten werd volgens de gemeente minstens 1,2 miljoen euro duurder.",
+    "body": "Naast de stijging voor het dorpshuis waren kosten voor het plein, de sporthal en tijdelijke voorzieningen nog niet volledig duidelijk. De gemeente meldde dat de tegenvaller niet binnen de bestaande financiële kaders paste.\n\nDaarom zou worden onderzocht hoe het project aangepast verder kon. De publicatie kondigde een terugkoppeling in het najaar aan; een definitieve keuze blijkt hier nog niet uit.",
+    "category": "Bestuur",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Herontwikkeling_dorpshuis_De_Vaart_onder_de_loep_door_stijgende_kosten",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-07-16",
+    "eventDate": null,
+    "dateNote": "Datum 2026-07-16 uit het gemeentelijke nieuwsarchief; op de detailpagina aangeduid als laatst gewijzigd. De oorspronkelijke eerste publicatie is niet afzonderlijk bevestigd.",
+    "verifiedAt": "2026-10-10",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud en datum gelezen; menselijke eindredactie nog nodig.",
+    "priority": 2,
+    "rights": "Eigen feitelijke samenvatting; geen brontekst of bronbeeld overgenomen.",
+    "sensitive": false,
+    "impact": "De vernieuwing van het dorpshuis in Linschoten werd volgens de gemeente minstens 1,2 miljoen euro duurder.",
+    "ranking": {
+      "impact": 4,
+      "reach": 3,
+      "urgency": 0,
+      "duration": 4,
+      "actionability": 2,
+      "reason": "Lokale gevolgen: De vernieuwing van het dorpshuis in Linschoten werd volgens de gemeente minstens 1,2 miljoen euro duurder.",
+      "cluster": "",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "De vernieuwing van het dorpshuis in Linschoten werd volgens de gemeente minstens 1,2 miljoen euro duurder."
+    },
+    "imageTopics": [
+      "bestuur",
+      "gemeenteraad"
+    ],
+    "sourceDateType": "archiveDate",
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "montfoort-schuift-debat-over-windenergie-cattenbroek-op",
+    "title": "Montfoort schuift debat over windenergie Cattenbroek op",
+    "summary": "De gemeenteraad van Montfoort behandelt het toetsingskader voor windenergie bij Cattenbroek op 26 oktober. Op 5 oktober stemde de raad unaniem in met uitstel.",
+    "body": "De hoeveelheid reacties, vragen en aanvullende voorstellen speelde daarbij een rol. De extra vergadering staat gepland van 20.00 tot 23.00 uur in het Huis van Montfoort. Het uitstel geeft de raad tijd om aanvullende informatie mee te wegen.\n\nDe raad schuift de stemming over het plan voor twee windturbines door naar 26 oktober. Volgens RTV Midden Holland vroegen fracties meer tijd om ingewikkelde vragen van inwoners te behandelen. Wethouder Wim van Wikselaar steunde het uitstel. Er ligt daarmee nog geen definitief besluit over de komst van de turbines.",
+    "category": "Bestuur",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Gemeenteraad_Montfoort_behandelt_onderwerp_toetsingskader_windenergie_Cattenbroek_op_latere_datum",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-10-08",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "montfoort-schuift-debat-over-windenergie-cattenbroek-op",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/2902c3b3c89511c35fa39244.html",
+      "sourceTitle": "Gemeenteraad Montfoort behandelt onderwerp ‘toetsingskader windenergie Cattenbroek’ op latere datum",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Gemeenteraad_Montfoort_behandelt_onderwerp_toetsingskader_windenergie_Cattenbroek_op_latere_datum",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Gemeenteraad_Montfoort_behandelt_onderwerp_toetsingskader_windenergie_Cattenbroek_op_latere_datum",
+        "https://rtvmiddenholland.nl/nieuws/montfoort-stelt-besluit-over-komst-windmolens-uit-te-complex/"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk",
+    "additionalSources": [
+      {
+        "url": "https://rtvmiddenholland.nl/nieuws/montfoort-stelt-besluit-over-komst-windmolens-uit-te-complex/",
+        "name": "RTV Midden Holland",
+        "sourcePublishedAt": "2026-10-08",
+        "note": "Gelezen aanvullende bron bij bestaand onderwerp."
+      }
+    ]
+  },
+  {
+    "slug": "reacties-mogelijk-op-ontwerpplan-laan-van-overvliet",
+    "title": "Reacties mogelijk op ontwerpplan Laan van Overvliet",
+    "summary": "Het ontwerp voor wijziging van het omgevingsplan aan de Laan van Overvliet ligt tot en met 9 november ter inzage. Iedereen kan in die periode een zienswijze indienen.",
+    "body": "De stukken zijn digitaal en bij het Huis van Montfoort te bekijken. Schriftelijk of mondeling reageren is mogelijk volgens de gemeentelijke instructies. Het betreft een ontwerp en nog geen definitief vastgesteld plan.",
+    "category": "Wonen",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ontwerp_omgevingsplanwijziging_Laan_van_Overvliet_ter_inzage",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-10-07",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "wonen"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "reacties-mogelijk-op-ontwerpplan-laan-van-overvliet",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/abc3e21e3962e9ad84cb7963.html",
+      "sourceTitle": "Ontwerp-omgevingsplanwijziging Laan van Overvliet ter inzage",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ontwerp_omgevingsplanwijziging_Laan_van_Overvliet_ter_inzage",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ontwerp_omgevingsplanwijziging_Laan_van_Overvliet_ter_inzage"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "ook-reizigers-uit-montfoort-gevraagd-naar-parkeren-bij-station-woerden",
+    "title": "Ook reizigers uit Montfoort gevraagd naar parkeren bij station Woerden",
+    "summary": "Montfoort roept gebruikers van de P+R-terreinen bij station Woerden op hun ervaringen te delen. De enquête loopt tot en met 11 oktober en wordt gecombineerd met een parkeerdrukmeting.",
+    "body": "Het onderzoek kijkt naar wie de parkeerterreinen gebruikt, waarom en voor hoe lang. Woerden wil de uitkomsten betrekken bij plannen voor het stationsgebied. Er zijn nog geen onderzoeksresultaten gepubliceerd in deze aankondiging.",
+    "category": "Verkeer",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Parkeert_u_wel_eens_bij_station_Woerden",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-30",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "ook-reizigers-uit-montfoort-gevraagd-naar-parkeren-bij-station-woerden",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/81dc0676bb6d601760b0c0c1.html",
+      "sourceTitle": "Parkeert u wel eens bij station Woerden?",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Parkeert_u_wel_eens_bij_station_Woerden",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Parkeert_u_wel_eens_bij_station_Woerden"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "montfoort-verwijst-naar-officiele-textielcontainers",
+    "title": "Montfoort verwijst naar officiële textielcontainers",
+    "summary": "De gemeente Montfoort vraagt inwoners textiel in te leveren via de toegestane containers van ReShare en het Leger des Heils. Voor andere geplaatste containers heeft de gemeente naar eigen zeggen geen toestemming gegeven.",
+    "body": "Volgens de gemeente is bij die andere inzameling niet duidelijk waar het materiaal terechtkomt. De officiële inzamelaar gebruikt draagbare kleding opnieuw en laat ander textiel zoveel mogelijk verwerken. Locaties staan bij de afvalinformatie.",
+    "category": "Samenleving",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Maak_gebruik_van_offici_le_kledingcontainers",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-24",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "montfoort-verwijst-naar-officiele-textielcontainers",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/490187a712597c49fcf6a205.html",
+      "sourceTitle": "Maak gebruik van officiële kledingcontainers",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Maak_gebruik_van_offici_le_kledingcontainers",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Maak_gebruik_van_offici_le_kledingcontainers"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "onderzoek-duiker-heeswijkerpoort-vroeg-tijdelijke-omleiding",
+    "title": "Onderzoek duiker Heeswijkerpoort vroeg tijdelijke omleiding",
+    "summary": "Voor 5 en 6 oktober kondigde Montfoort onderzoek aan bij de duiker onder de Heeswijkerpoort. De aannemer zou proefsleuven graven om kabels en leidingen in kaart te brengen.",
+    "body": "Tijdens het werk was inrijden vanaf de provinciale weg mogelijk, maar uitrijden in die richting niet. De parkeerplaats was tijdelijk onbereikbaar. Het onderzoek was voorbereiding op herstel van de duiker, waar vermoedelijk zandverlies onder de weg optreedt.",
+    "category": "Verkeer",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Werkzaamheden_aan_duiker_Heeswijkerpoort",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-24",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "onderzoek-duiker-heeswijkerpoort-vroeg-tijdelijke-omleiding",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/8c805eff2b2826cd4b87ff33.html",
+      "sourceTitle": "Werkzaamheden aan duiker Heeswijkerpoort",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Werkzaamheden_aan_duiker_Heeswijkerpoort",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Werkzaamheden_aan_duiker_Heeswijkerpoort"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "montfoort-legde-ontwerp-hoogstraat-en-keizerstraat-voor",
+    "title": "Montfoort legde ontwerp Hoogstraat en Keizerstraat voor",
+    "summary": "Voor de herinrichting van Hoogstraat en Keizerstraat in Montfoort is een voorlopig ontwerp gemaakt. De gemeente kondigde voor 29 september een inloopavond aan in Sint Joseph.",
+    "body": "Reacties uit een eerdere bijeenkomst zijn waar mogelijk in het ontwerp verwerkt. De septemberavond bood gelegenheid om vragen en opmerkingen mee te geven. De bron beschrijft het participatiemoment en niet een definitief uitvoeringsbesluit.",
+    "category": "Verkeer",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Denk_mee_over_voorlopig_ontwerp_Hoogstraat_en_Keizerstraat",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-24",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "montfoort-legde-ontwerp-hoogstraat-en-keizerstraat-voor",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/23cfce10c076188b4a5fff9a.html",
+      "sourceTitle": "Denk mee over voorlopig ontwerp Hoogstraat en Keizerstraat",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Denk_mee_over_voorlopig_ontwerp_Hoogstraat_en_Keizerstraat",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Denk_mee_over_voorlopig_ontwerp_Hoogstraat_en_Keizerstraat"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "montfoort-verleent-deze-jaarwisseling-geen-vuurwerkontheffingen",
+    "title": "Montfoort verleent deze jaarwisseling geen vuurwerkontheffingen",
+    "summary": "Montfoort heeft besloten voor de komende jaarwisseling geen gemeentelijke vuurwerkontheffingen aan verenigingen of stichtingen te verlenen. De gemeente wijst op de benodigde voorbereiding en afspraken over veiligheid.",
+    "body": "Het komende jaar wil zij met raad, inwoners en betrokken organisaties verder kijken naar het beleid. De bron maakt onderscheid met professioneel georganiseerde shows waarvoor afzonderlijke vergunningen nodig zijn.",
+    "category": "Bestuur",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Landelijk_vuurwerkverbod",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-28",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "montfoort-verleent-deze-jaarwisseling-geen-vuurwerkontheffingen",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/9ce6925a9c10115ae193de91.html",
+      "sourceTitle": "Landelijk vuurwerkverbod",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Landelijk_vuurwerkverbod",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Landelijk_vuurwerkverbod"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "appels-en-peren-gratis-te-plukken-in-montfoort-en-linschoten",
+    "title": "Appels en peren gratis te plukken in Montfoort en Linschoten",
+    "summary": "Inwoners mogen fruit plukken in het stadspark van Montfoort en aan het Appellaantje in Linschoten. De gemeente wees in september op de beschikbare appels en peren.",
+    "body": "Volgens de aankondiging loopt het plukseizoen van begin september tot ver in oktober. Bij sommige bomen in het stadspark is via een QR-code meer te lezen over het ras. Beschikbaarheid hangt af van de oogst en wat al geplukt is.",
+    "category": "Samenleving",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Onbespoten_appels_en_peren_plukken_in_het_stadspark_of_Appellaantje",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-16",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "appels-en-peren-gratis-te-plukken-in-montfoort-en-linschoten",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/3b4e4ee4a7f375a5d9942301.html",
+      "sourceTitle": "Onbespoten appels en peren plukken in het stadspark of Appellaantje",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Onbespoten_appels_en_peren_plukken_in_het_stadspark_of_Appellaantje",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Onbespoten_appels_en_peren_plukken_in_het_stadspark_of_Appellaantje"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "plan-voor-120-woningen-in-linschoten-verder-uitgewerkt",
+    "title": "Plan voor 120 woningen in Linschoten verder uitgewerkt",
+    "summary": "Het plan voor 120 woningen op het voormalige terrein van houthandel De Goederen in Linschoten is verder uitgewerkt. De gemeente presenteerde in september het stedenbouwkundig plan en een ontwerpwijziging van het omgevingsplan.",
+    "body": "Voor 23 september was een informatieavond in ’t Kruispunt aangekondigd. De terinzagelegging is een volgende formele stap. De presentatie van het plan betekent nog niet dat de bouw mag starten.",
+    "category": "Wonen",
+    "municipalities": [
+      "montfoort"
+    ],
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ontwikkeling_120_woningen_Laan_van_Overvliet_komt_dichterbij",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-16",
+    "eventDate": null,
+    "dateNote": "Brondatum uit archive_listing. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "wonen"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "plan-voor-120-woningen-in-linschoten-verder-uitgewerkt",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/22ecf83b142d22d949b144f3.html",
+      "sourceTitle": "Ontwikkeling 120 woningen Laan van Overvliet komt dichterbij",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ontwikkeling_120_woningen_Laan_van_Overvliet_komt_dichterbij",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ontwikkeling_120_woningen_Laan_van_Overvliet_komt_dichterbij"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "montfoort-vraagt-inwoners-tijdig-na-te-denken-over-later-wonen",
+    "title": "Montfoort vraagt inwoners tijdig na te denken over later wonen",
+    "summary": "Montfoort wees inwoners op 7 oktober op de campagne Praat vandaag over morgen. Die moedigt mensen aan om eerder na te denken over hun woning en de hulp waarop zij later kunnen rekenen.",
+    "body": "De gemeente noemt onder meer de keuze tussen in de eigen woning blijven en verhuizen naar een plek die beter past bij een volgende levensfase. Ook contact met familie, vrienden en buren komt aan bod. Het gaat om het bespreken van wensen voordat een verandering noodzakelijk wordt.\n\nOnderdeel van de campagne is de Later-Check. Volgens de gemeentelijke toelichting duurt die ongeveer vijf minuten en komen wonen, actief blijven en het sociale netwerk aan bod. De uitkomst bevat informatie die aansluit op de gegeven antwoorden.\n\nDe gemeentelijke publicatie kondigt geen nieuw woningbouwproject of individuele voorziening aan. Het is een verwijzing naar een hulpmiddel om wensen en mogelijkheden voor later bespreekbaar te maken.",
+    "category": "Wonen",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Denk_vandaag_na_over_later",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-10-07",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum. De tekst maakt onderscheid tussen aankondigingen en bevestigde gebeurtenissen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Brontekst inhoudelijk gelezen; eigen tekst lokaal zichtbaar. Geen menselijke goedkeuring geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "wonen"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Lokale relevantie op basis van de geraadpleegde bron.",
+      "cluster": "montfoort-vraagt-inwoners-tijdig-na-te-denken-over-later-wonen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Volledige beschikbare brontekst gelezen; eigen tekst geschreven",
+      "evidenceFile": "work/quarter-sources/c4c8e27e3a3cd3342d8c8bbd-2b4a04bc8228.html",
+      "sourceTitle": "Denk vandaag na over later",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Denk_vandaag_na_over_later",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Denk_vandaag_na_over_later",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Denk_vandaag_na_over_later"
+      ]
+    },
+    "importBatch": "full-articles-2026-10-13",
+    "localPublishedAt": "2026-10-13T11:44:00.430606+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "zes-gemeenten-vragen-aanpassing-provinciale-ammoniakregels",
+    "title": "Zes gemeenten vragen aanpassing provinciale ammoniakregels",
+    "summary": "De Ronde Venen heeft samen met vijf andere gemeenten zorgen geuit over de voorgestelde provinciale omgevingsregels. RTV Ronde Venen meldt dat zij Provinciale Staten om aanpassingen hebben gevraagd.",
+    "body": "De gezamenlijke brief komt van De Ronde Venen, Oudewater, IJsselstein, Lopik, Montfoort en Stichtse Vecht. De gemeenten richten zich onder meer op een voorgestelde norm van maximaal 42 kilo ammoniakuitstoot per hectare.\n\nVolgens de berichtgeving vrezen zij hogere kosten voor agrarische bedrijven en willen zij meer duidelijkheid over de gevolgen en mogelijke compensatie. Daarnaast vragen zij aandacht voor de onderbouwing en uitvoeringslast van provinciale instructieregels.\n\nHet betreft bezwaren tegen een voorstel. Het bericht is geen vaststelling dat de norm al geldt. De omroep noemt 18 november als geplande datum voor behandeling door Provinciale Staten; de uiteindelijke besluitvorming moet blijken uit de provinciale stukken.",
+    "category": "Bestuur",
+    "municipalities": [
+      "de-ronde-venen",
+      "oudewater",
+      "ijsselstein",
+      "lopik",
+      "montfoort",
+      "stichtse-vecht"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvrondevenen.nl/2026/10/09/gemeente-vraagt-provincie-om-nieuwe-ammoniaknorm-aan-te-passen/",
+    "sourceName": "RTV Ronde Venen",
+    "sourcePublishedAt": "2026-10-09",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum. De tekst maakt onderscheid tussen aankondigingen en bevestigde gebeurtenissen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Brontekst inhoudelijk gelezen; eigen tekst lokaal zichtbaar. Geen menselijke goedkeuring geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Lokale relevantie op basis van de geraadpleegde bron.",
+      "cluster": "zes-gemeenten-vragen-aanpassing-provinciale-ammoniakregels",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Volledige beschikbare brontekst gelezen; eigen tekst geschreven",
+      "evidenceFile": "work/quarter-sources/478e9f86babb7846663fcceb-d0424deec1e1.html",
+      "sourceTitle": "Gemeente vraagt provincie om nieuwe ammoniaknorm aan te passen",
+      "paragraphSourceUrls": [
+        "https://rtvrondevenen.nl/2026/10/09/gemeente-vraagt-provincie-om-nieuwe-ammoniaknorm-aan-te-passen/",
+        "https://rtvrondevenen.nl/2026/10/09/gemeente-vraagt-provincie-om-nieuwe-ammoniaknorm-aan-te-passen/",
+        "https://rtvrondevenen.nl/2026/10/09/gemeente-vraagt-provincie-om-nieuwe-ammoniaknorm-aan-te-passen/"
+      ]
+    },
+    "importBatch": "full-articles-2026-10-13",
+    "localPublishedAt": "2026-10-13T11:44:00.430942+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "gemeenten-verwezen-inwoners-naar-vuurwerkinleverdag-in-utrecht",
+    "title": "Gemeenten verwezen inwoners naar vuurwerkinleverdag in Utrecht",
+    "summary": "Op 18 september was een inleverpunt aan de Tractieweg ingericht.",
+    "body": "IJsselstein, Houten en Montfoort brachten in september een gezamenlijke regionale mogelijkheid onder de aandacht om vuurwerk in te leveren. Het inleverpunt aan de Tractieweg 120 in Utrecht was op vrijdag 18 september geopend van 8.00 tot 13.00 uur.\n\nVolgens de gemeentelijke aankondigingen konden inwoners zonder afspraak langskomen. Een gespecialiseerd bedrijf nam het vuurwerk in voor afvoer. De gemeenten beschreven de actie als gratis en anoniem.\n\nOok voor inwoners van Amersfoort en Leusden verwees de landelijke campagne naar Utrecht. Nieuwsplein33 meldde op 9 september via de Leusderkrant dat beide gemeenten geen eigen locatie binnen deze campagne hadden. Gemeentelijke woordvoerders vertelden de omroep niet te zijn gevraagd om mee te doen. Amersfoort vermeldde het Utrechtse adres ook op zijn eigen website.\n\nDit bericht hoort bij de aangekondigde inleverdag in september. Die gelegenheid is inmiddels voorbij. Het is geen aanwijzing dat op deze locatie nu nog vuurwerk kan worden aangeboden; daarvoor moet een actuele officiële inleveractie beschikbaar zijn.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "ijsselstein",
+      "houten",
+      "montfoort",
+      "utrecht",
+      "amersfoort",
+      "leusden"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.ijsselstein.nl/lever-je-vuurwerk-in",
+    "sourceName": "Gemeente IJsselstein",
+    "sourcePublishedAt": "2026-09-08",
+    "eventDate": null,
+    "dateNote": "Eerste aankondiging 8 september; aangevuld met berichtgeving van 9 september. Inleverdag 18 september is verstreken.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd. Aanvulling Amersfoort/Leusden gecontroleerd; geen vervoeradvies of onbevestigde nieuwe inleverdag. Geen passende recente rechtengecontroleerde foto beschikbaar; neutraal beeldkader.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "vuurwerk-inleveren"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "gemeenten-verwezen-inwoners-naar-vuurwerkinleverdag-in-utrecht",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/be245dd906c6a8b4254e661e-3ad62619e719.html",
+      "sourceTitle": "Lever je vuurwerk in",
+      "paragraphSourceUrls": [
+        "https://www.ijsselstein.nl/lever-je-vuurwerk-in",
+        "https://www.ijsselstein.nl/lever-je-vuurwerk-in",
+        [
+          "https://www.leusderkrant.nl/112/misdaad/1307654/waarom-kan-je-geen-vuurwerk-inleveren-in-amersfoort-of-leusden-",
+          "https://www.amersfoort.nl/jaarwisseling"
+        ],
+        "https://www.ijsselstein.nl/lever-je-vuurwerk-in"
+      ],
+      "supplementaryEvidenceFiles": [
+        "work/quarter-sources/9b31e6e6b150ea05aa9be9b0-6cc629399bc7.html"
+      ]
+    },
+    "importBatch": "public-service-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:20:03.856329+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Vuurwerk_inleveren",
+        "name": "Vuurwerk inleveren"
+      },
+      {
+        "url": "https://www.houten.nl/nieuws/vuurwerk-bezitten-is-verboden-voorkom-een-boete-lever-het-in",
+        "name": "Vuurwerk bezitten is verboden. Voorkom een boete, lever het in"
+      },
+      {
+        "url": "https://rtvmiddenholland.nl/nieuws/heb-je-nog-verboden-vuurwerk-dan-kun-je-dat-nu-nog-inleveren/",
+        "name": "RTV Midden Holland",
+        "sourcePublishedAt": "2026-09-02",
+        "note": "Dezelfde inleveractie; gelezen en gekoppeld."
+      },
+      {
+        "name": "Leusderkrant / Nieuwsplein33",
+        "url": "https://www.leusderkrant.nl/112/misdaad/1307654/waarom-kan-je-geen-vuurwerk-inleveren-in-amersfoort-of-leusden-",
+        "publishedAt": "2026-09-09",
+        "checkedAt": "2026-10-13",
+        "note": "Lokale deelname aan dezelfde campagne; samengevoegd. Uitspraken over vervoer niet als advies overgenomen."
+      },
+      {
+        "name": "Gemeente Amersfoort",
+        "url": "https://www.amersfoort.nl/jaarwisseling",
+        "checkedAt": "2026-10-13",
+        "note": "Alleen onderdeel Landelijke inleverdagen gebruikt. Andere onderdelen van deze pagina gaan nog over 2025."
+      }
+    ]
+  },
+  {
+    "slug": "woerden-boven-provinciaal-gemiddelde-bij-geregistreerde-fietsongevallen",
+    "title": "Woerden boven provinciaal gemiddelde bij geregistreerde fietsongevallen",
+    "summary": "Een vergelijking over 2025 noemt 66 ongevallen in Woerden en elf in zowel Oudewater als Montfoort.",
+    "body": "Woerden telde in 2025 66 geregistreerde fietsongevallen, tegenover elf in Oudewater en elf in Montfoort. RTV Midden Holland meldde de cijfers in augustus, op basis van onderzoek van Independer met gegevens van Rijkswaterstaat.\n\nOmgerekend ging het in Woerden om 12,2 ongevallen per 10.000 inwoners. Oudewater kwam uit op 10,6 en Montfoort op 8,0. Het provinciale gemiddelde in de vergelijking bedroeg 9,6.\n\nDe cijfers laten verschillen in registraties zien, maar verklaren niet waarom die ontstaan. Vooral in kleinere gemeenten hebben enkele incidenten relatief veel invloed op het verhoudingscijfer. Het overzicht betreft 2025 en is geen actuele lijst van gevaarlijke locaties.",
+    "category": "Verkeer",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/woerden-relatief-hoog-met-fietsongevallen/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-08-26",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "woerden-boven-provinciaal-gemiddelde-bij-geregistreerde-fietsongevallen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/0602ad22084b7eb2113fb21a-9019c7d60866.html",
+      "sourceTitle": "Woerden relatief hoog met fietsongevallen",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/woerden-relatief-hoog-met-fietsongevallen/",
+        "https://rtvmiddenholland.nl/nieuws/woerden-relatief-hoog-met-fietsongevallen/",
+        "https://rtvmiddenholland.nl/nieuws/woerden-relatief-hoog-met-fietsongevallen/"
+      ]
+    },
+    "importBatch": "archive-depth-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:31:28.179866+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "koopprijzen-stijgen-in-woerden-oudewater-en-montfoort",
+    "title": "Koopprijzen stijgen in Woerden, Oudewater en Montfoort",
+    "summary": "De prijsontwikkeling in het tweede kwartaal verschilt per gemeente.",
+    "body": "De prijsindex voor bestaande koopwoningen lag in het tweede kwartaal van 2026 in alle drie de gemeenten hoger dan een jaar eerder. RTV Midden Holland berichtte hierover met verwijzing naar CBS en Kadaster.\n\nVoor Woerden werd een stijging van 6,2 procent genoemd, voor Montfoort 3,6 procent en voor Oudewater 10,7 procent. Het landelijke cijfer in dezelfde vergelijking was 4,2 procent.\n\nHet gaat om een prijsindex en niet om de vraagprijs van afzonderlijke te koop staande woningen. De kwartaalcijfers beschrijven de ontwikkeling op gemeentelijk niveau; verschillen tussen woningtypen en individuele huizen blijven daarin buiten beeld.",
+    "category": "Wonen",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/huizenprijzen-stijgen-in-regio-verschillen-groot/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-08-17",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "wonen"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "koopprijzen-stijgen-in-woerden-oudewater-en-montfoort",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/e0c61f4b7db2526d25f43f07-6ff831e1459b.html",
+      "sourceTitle": "Huizenprijzen stijgen in regio, verschillen groot",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/huizenprijzen-stijgen-in-regio-verschillen-groot/",
+        "https://rtvmiddenholland.nl/nieuws/huizenprijzen-stijgen-in-regio-verschillen-groot/",
+        "https://rtvmiddenholland.nl/nieuws/huizenprijzen-stijgen-in-regio-verschillen-groot/"
+      ]
+    },
+    "importBatch": "archive-depth-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:31:28.179873+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "oudewater-ligt-verder-van-voortgezet-onderwijs-dan-woerden-en-montfoort",
+    "title": "Oudewater ligt verder van voortgezet onderwijs dan Woerden en Montfoort",
+    "summary": "RTV Midden Holland vergelijkt afstanden tot scholen met CBS-cijfers.",
+    "body": "De afstand tot voortgezet onderwijs verschilt duidelijk tussen Woerden, Montfoort en Oudewater. Voor vmbo noemde RTV Midden Holland in augustus gemiddelde afstanden van respectievelijk 2,1, 2,0 en 8,0 kilometer, op basis van CBS-cijfers.\n\nVoor havo en vwo ging het om 2,5 kilometer in Woerden, 6,4 kilometer in Montfoort en 9,4 kilometer in Oudewater. Basisscholen lagen in de vergelijking dichterbij: gemiddeld 0,7, 0,8 en 1,1 kilometer over de weg.\n\nDe cijfers beschrijven de nabijheid van onderwijsvoorzieningen op gemeentelijk niveau. Ze zeggen niet welke school een individuele leerling bezoekt of welke route die leerling daadwerkelijk aflegt.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/afstand-tot-scholen-verschilt-sterk-in-de-regio/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-08-15",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "oudewater-ligt-verder-van-voortgezet-onderwijs-dan-woerden-en-montfoort",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/06c0900963665ea68e7c91c7-1303a276a572.html",
+      "sourceTitle": "Afstand tot scholen verschilt sterk in de regio",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/afstand-tot-scholen-verschilt-sterk-in-de-regio/",
+        "https://rtvmiddenholland.nl/nieuws/afstand-tot-scholen-verschilt-sterk-in-de-regio/",
+        "https://rtvmiddenholland.nl/nieuws/afstand-tot-scholen-verschilt-sterk-in-de-regio/"
+      ]
+    },
+    "importBatch": "archive-depth-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:31:28.179880+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "asfaltwerk-sluit-engherzandweg-in-linschoten-drie-dagen-af",
+    "title": "Asfaltwerk sluit Engherzandweg in Linschoten drie dagen af",
+    "summary": "De werkzaamheden zijn gepland van 12 tot en met 14 oktober.",
+    "body": "De Engherzandweg in Linschoten is van 12 tot en met 14 oktober afgesloten voor asfaltwerk. De werkzaamheden vinden dagelijks plaats tussen 6.30 en 17.00 uur, meldt Zenderstreeknieuws.\n\nVerkeersregelaars begeleiden de situatie. Bij calamiteiten kunnen hulpdiensten volgens de aankondiging wel door. Voertuigen mogen tijdens de werkzaamheden niet op de weg worden geparkeerd.\n\nNa het verwijderen van oude lagen wordt nieuw asfalt aangebracht. De gemeente vraagt bewoners ook huisdieren uit de buurt van het werk te houden, onder meer vanwege de aangebrachte lijmlaag. De genoemde afsluiting hoort bij deze geplande werkdagen; eventuele wijzigingen moeten bij de gemeente worden gecontroleerd.",
+    "category": "Verkeer",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.zenderstreeknieuws.nl/nieuws/nieuws/481386/engherzandweg-linschoten-drie-dagen-dicht-voor-asfaltwerk-houdt-huisdieren-op-afstand",
+    "sourceName": "Zenderstreeknieuws",
+    "sourcePublishedAt": "2026-10-12",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 3,
+      "reach": 2,
+      "urgency": 4,
+      "duration": 1,
+      "actionability": 4,
+      "reason": "Tijdelijke afsluiting van een lokale weg; urgentie vervalt na de geplande werkzaamheden.",
+      "cluster": "asfaltwerk-sluit-engherzandweg-in-linschoten-drie-dagen-af",
+      "activeUntil": "2026-10-14"
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/945d4296960de9d8ab2a98a7-8867ca4b5b9e.html",
+      "sourceTitle": "Engherzandweg Linschoten drie dagen dicht voor asfaltwerk: houdt huisdieren op afstand",
+      "paragraphSourceUrls": [
+        "https://www.zenderstreeknieuws.nl/nieuws/nieuws/481386/engherzandweg-linschoten-drie-dagen-dicht-voor-asfaltwerk-houdt-huisdieren-op-afstand",
+        "https://www.zenderstreeknieuws.nl/nieuws/nieuws/481386/engherzandweg-linschoten-drie-dagen-dicht-voor-asfaltwerk-houdt-huisdieren-op-afstand",
+        "https://www.zenderstreeknieuws.nl/nieuws/nieuws/481386/engherzandweg-linschoten-drie-dagen-dicht-voor-asfaltwerk-houdt-huisdieren-op-afstand"
+      ]
+    },
+    "importBatch": "continued-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:41:25.171908+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "west-utrechtse-gemeenten-vragen-aanpassing-van-provinciale-plannen",
+    "title": "West-Utrechtse gemeenten vragen aanpassing van provinciale plannen",
+    "summary": "Woerden stuurde een eigen reactie; het CDA vraagt waarom het college niet met zes buurgemeenten optrok.",
+    "body": "Zes gemeenten in het westen van Utrecht hebben Provinciale Staten gevraagd voorgestelde wijzigingen van de Omgevingsverordening aan te passen. Het gaat om Oudewater, Montfoort, Lopik, IJsselstein, De Ronde Venen en Stichtse Vecht, meldt RTV Midden Holland. Zij vinden de gevolgen voor het landelijk gebied onvoldoende onderzocht.\n\nDe gemeenten vragen onder meer heroverweging van de ammoniaknorm, minder nieuwe instructieregels en compensatie voor agrariërs. Woerden stuurde op 9 oktober een afzonderlijke brief. Ook daarin staan zorgen over boeren en uitvoeringskosten, maar volgens het bericht ontbreken enkele scherpere verzoeken uit de gezamenlijke reactie.\n\nHet Woerdense CDA heeft daar schriftelijke vragen over gesteld. De fractie wil weten waarom het college niet bij de andere gemeenten aansloot. Een antwoord wordt in dit bronbericht nog niet vermeld.",
+    "category": "Bestuur",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort",
+      "lopik",
+      "ijsselstein",
+      "de-ronde-venen",
+      "stichtse-vecht"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/zes-gemeenten-willen-aanpassing-provinciale-regels/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "west-utrechtse-gemeenten-vragen-aanpassing-van-provinciale-plannen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/73e5fdafea9d810efb0ea0e8-7f7144c81667.html",
+      "sourceTitle": "Woerden vaart eigen koers richting provincie",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/zes-gemeenten-willen-aanpassing-provinciale-regels/",
+        "https://rtvmiddenholland.nl/nieuws/zes-gemeenten-willen-aanpassing-provinciale-regels/",
+        "https://rtvmiddenholland.nl/nieuws/zes-gemeenten-willen-aanpassing-provinciale-regels/"
+      ]
+    },
+    "importBatch": "goal-archive-16-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T13:50:44.690389+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "woerdense-vrouw-beroofd-door-mensen-die-zich-voordeden-als-agenten",
+    "title": "Woerdense vrouw beroofd door mensen die zich voordeden als agenten",
+    "summary": "Met haar bankpas werd later geld opgenomen in Montfoort; de politie zocht getuigen.",
+    "body": "Een oudere vrouw uit Woerden is op vrijdag 2 oktober slachtoffer geworden van twee mensen die zich voordeden als politieagenten. Volgens een politiebericht waarover Zenderstreeknieuws schrijft, namen zij sieraden en een bankpas mee nadat zij haar woning op Defensie-eiland waren binnengekomen.\n\nLater die middag werd met de pas geld opgenomen bij een supermarkt aan de Boslaan in Montfoort. De vrouw kon via buren hulp inschakelen.\n\nDe politie vroeg getuigen van de bezoeken in Woerden en Montfoort zich te melden en zocht mogelijke camerabeelden. Het bronbericht van 3 oktober geeft geen latere stand van het onderzoek. Het vermeldt evenmin dat verdachten zijn aangehouden.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "woerden",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.zenderstreeknieuws.nl/112/112/480117/oudere-vrouw-89-uit-woerden-opgelicht-en-afgeperst-politie-zoekt-verdachten",
+    "sourceName": "Zenderstreeknieuws / politie",
+    "sourcePublishedAt": "2026-10-03",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "veiligheid"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "woerdense-vrouw-beroofd-door-mensen-die-zich-voordeden-als-agenten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/575af6827e6f77cc84d1c8da-e87dc19b4959.html",
+      "sourceTitle": "Oudere vrouw (89) uit Woerden opgelicht en afgeperst, politie zoekt verdachten",
+      "paragraphSourceUrls": [
+        "https://www.zenderstreeknieuws.nl/112/112/480117/oudere-vrouw-89-uit-woerden-opgelicht-en-afgeperst-politie-zoekt-verdachten",
+        "https://www.zenderstreeknieuws.nl/112/112/480117/oudere-vrouw-89-uit-woerden-opgelicht-en-afgeperst-politie-zoekt-verdachten",
+        "https://www.zenderstreeknieuws.nl/112/112/480117/oudere-vrouw-89-uit-woerden-opgelicht-en-afgeperst-politie-zoekt-verdachten"
+      ]
+    },
+    "importBatch": "goal-archive-21-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T13:59:36.565648+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.woerdensecourant.nl/112/112/480117/oudere-vrouw-89-uit-woerden-opgelicht-en-afgeperst-politie-zoekt-verdachten",
+        "name": "Woerdense Courant",
+        "sourcePublishedAt": "2026-10-03",
+        "note": "Zelfde gebeurtenis; bron gelezen en gekoppeld aan bestaande berichtgeving."
+      }
+    ]
+  },
+  {
+    "slug": "politie-zoekt-beelden-na-oplichting-aan-willeskop-in-montfoort",
+    "title": "Politie zoekt beelden na oplichting aan Willeskop in Montfoort",
+    "summary": "Een man die zich voordeed als agent haalde op 30 september waardevolle spullen op.",
+    "body": "De politie zoekt getuigen en camerabeelden na oplichting van een oudere bewoner aan de Willeskop in Montfoort. Op woensdag 30 september kwam rond 18.30 uur iemand aan de deur die zich als agent voordeed, meldt Zenderstreeknieuws.\n\nDaarvoor was het slachtoffer gebeld door een man die zei dat opgepakte inbrekers zijn woning op het oog hadden. De beller kondigde aan dat een collega in burger waardevolle spullen zou ophalen. Die spullen werden vervolgens meegenomen.\n\nDe politie vraagt om beelden uit de omgeving van de Willeskop rond het genoemde tijdstip. Ook andere informatie over het incident kan bij de politie worden gemeld. De bron bevat geen bericht over een aanhouding.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.zenderstreeknieuws.nl/112/112/480011/politie-zoekt-getuigen-na-babbeltruc-bij-91-jarige-man-uit-montfoort",
+    "sourceName": "Zenderstreeknieuws / politie",
+    "sourcePublishedAt": "2026-10-02",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "veiligheid"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "politie-zoekt-beelden-na-oplichting-aan-willeskop-in-montfoort",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/51f0cb8d01f53facd6769bcf-33cc738caed2.html",
+      "sourceTitle": "Politie zoekt getuigen na babbeltruc bij 91-jarige man uit Montfoort",
+      "paragraphSourceUrls": [
+        "https://www.zenderstreeknieuws.nl/112/112/480011/politie-zoekt-getuigen-na-babbeltruc-bij-91-jarige-man-uit-montfoort",
+        "https://www.zenderstreeknieuws.nl/112/112/480011/politie-zoekt-getuigen-na-babbeltruc-bij-91-jarige-man-uit-montfoort",
+        "https://www.zenderstreeknieuws.nl/112/112/480011/politie-zoekt-getuigen-na-babbeltruc-bij-91-jarige-man-uit-montfoort"
+      ]
+    },
+    "importBatch": "goal-archive-25-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T14:15:26.492940+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "auto-belandt-in-sloot-aan-hofdijk-in-montfoort",
+    "title": "Auto belandt in sloot aan Hofdijk in Montfoort",
+    "summary": "De inzittenden bleven volgens het eerste bericht ongedeerd.",
+    "body": "Een auto is maandagavond 21 september rond 20.00 uur in een sloot aan de Hofdijk in Montfoort terechtgekomen. Dat meldt Zenderstreeknieuws.\n\nDe auto kantelde tijdens een keermanoeuvre bij een inrit en kwam ondersteboven in het water te liggen. De inzittenden raakten volgens het bericht niet gewond. Een bergingsbedrijf werd opgeroepen om het voertuig uit het water te halen.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.zenderstreeknieuws.nl/112/112/477691/auto-te-water-op-hofdijk-montfoort",
+    "sourceName": "Zenderstreeknieuws",
+    "sourcePublishedAt": "2026-09-21",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "veiligheid"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "auto-belandt-in-sloot-aan-hofdijk-in-montfoort",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/2a8ca9265d51f770ffcaac36-3afbbcfe10da.html",
+      "sourceTitle": "Auto te water op Hofdijk Montfoort",
+      "paragraphSourceUrls": [
+        "https://www.zenderstreeknieuws.nl/112/112/477691/auto-te-water-op-hofdijk-montfoort",
+        "https://www.zenderstreeknieuws.nl/112/112/477691/auto-te-water-op-hofdijk-montfoort"
+      ]
+    },
+    "importBatch": "goal-archive-28-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T14:21:41.718014+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "linschoten-wint-met-2-1-van-siveo",
+    "title": "Linschoten wint met 2-1 van Siveo",
+    "summary": "De ploeg uit Zegveld kon een achterstand bij rust niet meer goedmaken.",
+    "body": "Siveo heeft zaterdag 26 september met 2-1 verloren bij Linschoten. De thuisploeg ging met een voorsprong van twee doelpunten de rust in, meldt de Woerdense Courant.\n\nNa rust bracht Stefan van der Leeden Siveo terug in de wedstrijd. Hij kopte een voorzet van Gertjan Brak binnen. De bezoekers uit Zegveld zetten daarna druk, maar Linschoten hield de voorsprong vast. Doelman Joep Ton voorkwam dat Siveo alsnog gelijkmaakte.",
+    "category": "Sport",
+    "municipalities": [
+      "woerden",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.woerdensecourant.nl/sport/sport/479339/siveo-verliest-bij-linschoten-2-1",
+    "sourceName": "Woerdense Courant",
+    "sourcePublishedAt": "2026-09-27",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "linschoten-wint-met-2-1-van-siveo",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/27e276ffca7412e57c3c4d1d-ab88f68b7ebb.html",
+      "sourceTitle": "Siveo verliest bij Linschoten: 2-1",
+      "paragraphSourceUrls": [
+        "https://www.woerdensecourant.nl/sport/sport/479339/siveo-verliest-bij-linschoten-2-1",
+        "https://www.woerdensecourant.nl/sport/sport/479339/siveo-verliest-bij-linschoten-2-1"
+      ]
+    },
+    "importBatch": "goal-archive-47-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T14:54:03.734664+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://rtvmiddenholland.nl/sport/siveo-verliest-na-sterke-tweede-helft/",
+        "name": "RTV Midden Holland",
+        "sourcePublishedAt": "2026-09-27",
+        "note": "Gelezen aanvullende bron over hetzelfde sportresultaat; geen dubbel artikel."
+      }
+    ]
+  },
+  {
+    "slug": "lokale-fnv-netwerken-besluiten-tot-fusie",
+    "title": "Lokale FNV-netwerken besluiten tot fusie",
+    "summary": "De samengevoegde afdelingen willen zich sterker richten op lokaal sociaal beleid in Utrecht Midden-West.",
+    "body": "Twee lokale FNV-afdelingen hebben op 22 september besloten te fuseren. Daarmee willen zij hun werk rond gemeentelijk en provinciaal beleid versterken, meldt RTV Midden Holland.\n\nDe netwerken hebben sociale regelingen in Lopik, Montfoort, IJsselstein, Woerden en Oudewater vergeleken en willen daarover met de colleges spreken. Ook huishoudelijke thuiszorg staat op hun agenda. Het bericht beschrijft de inzet van de vakbond; er wordt geen nieuw gemeentelijk besluit of wijziging van een regeling aangekondigd.",
+    "category": "Samenleving",
+    "municipalities": [
+      "lopik",
+      "montfoort",
+      "ijsselstein",
+      "woerden",
+      "oudewater"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/fusie-lokale-fnv-netwerken-utrecht-midden-west/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-09-23",
+    "eventDate": "2026-09-22",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "lokale-fnv-netwerken-besluiten-tot-fusie",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/0817a069afdcf5ed45aad831-ff497d50417b.html",
+      "sourceTitle": "Fusie lokale FNV-netwerken Utrecht Midden & West",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/fusie-lokale-fnv-netwerken-utrecht-midden-west/",
+        "https://rtvmiddenholland.nl/nieuws/fusie-lokale-fnv-netwerken-utrecht-midden-west/"
+      ]
+    },
+    "importBatch": "goal-archive-69-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:43:18.360677+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "biebfabriek-biedt-workshops-filmen-en-licht-in-herfstvakantie",
+    "title": "BiebFabriek biedt workshops filmen en licht in herfstvakantie",
+    "summary": "Kinderen van acht tot twaalf jaar kunnen meedoen in Oudewater, Woerden en Montfoort.",
+    "body": "De BiebFabriek organiseert in de herfstvakantie workshops voor kinderen van acht tot twaalf jaar. Op maandag 19 oktober kunnen zij in de bibliotheken van Oudewater en Woerden aan een eigen filmpje werken met een telefoon of tablet, onder begeleiding van filmmaker Daan.\n\nOp dinsdag 20 oktober staat in Montfoort een workshop over gekleurd licht en glow-in-the-dark op het programma. Volgens de aankondiging zijn de activiteiten gratis en is bibliotheeklidmaatschap niet nodig. Vooraf aanmelden via Bibliotheek Utrechtse Venen is wel vereist vanwege het beperkte aantal plaatsen.",
+    "category": "Samenleving",
+    "municipalities": [
+      "oudewater",
+      "woerden",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/ga-jij-je-eigen-film-maken-bij-de-biebfabriek-in-de-bibliotheek/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-09-23",
+    "eventDate": "2026-10-19",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "boeken"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "biebfabriek-biedt-workshops-filmen-en-licht-in-herfstvakantie",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/b1f8a9cd56d60b74d48c7f48-ec03ff21fc5d.html",
+      "sourceTitle": "Ga jij je eigen film maken bij de BiebFabriek in de Bibliotheek",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/ga-jij-je-eigen-film-maken-bij-de-biebfabriek-in-de-bibliotheek/",
+        "https://rtvmiddenholland.nl/nieuws/ga-jij-je-eigen-film-maken-bij-de-biebfabriek-in-de-bibliotheek/"
+      ]
+    },
+    "importBatch": "goal-archive-70-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:44:57.141331+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "truckrun-groene-hart-kondigt-route-vanuit-oudewater-aan",
+    "title": "Truckrun Groene Hart kondigt route vanuit Oudewater aan",
+    "summary": "Het vrachtwagenkonvooi stond voor 19 september gepland, met ook passages door Woerden, Kamerik en Montfoort.",
+    "body": "De Truckrun Groene Hart kondigde voor zaterdag 19 september een route van ongeveer zeventig kilometer aan. De start stond om 14.00 uur gepland op bedrijventerrein Tappersheul in Oudewater, meldt RTV Midden Holland.\n\nHet konvooi zou via verschillende plaatsen in het Groene Hart terugkeren naar Oudewater. Binnen Utrecht stonden onder meer Woerden, Kamerik, Linschoten en Montfoort op de route. Het evenement biedt mensen met een beperking, zieke kinderen en ouderen een rit als bijrijder in een vrachtwagen. Het bronbericht is de aankondiging van de tocht.",
+    "category": "Samenleving",
+    "municipalities": [
+      "oudewater",
+      "woerden",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/vrachtwagens-rijden-zaterdag-de-truckrun-groene-hart/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-09-18",
+    "eventDate": "2026-09-19",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "truckrun-groene-hart-kondigt-route-vanuit-oudewater-aan",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/4c13c98b97864bfbcd1c69c1-780cc7c207fe.html",
+      "sourceTitle": "Vrachtwagens rijden zaterdag de Truckrun Groene Hart",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/vrachtwagens-rijden-zaterdag-de-truckrun-groene-hart/",
+        "https://rtvmiddenholland.nl/nieuws/vrachtwagens-rijden-zaterdag-de-truckrun-groene-hart/"
+      ]
+    },
+    "importBatch": "goal-archive-75-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:54:53.015423+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "woerdense-paardenarts-meldt-westnijlbesmettingen-in-westen-provincie",
+    "title": "Woerdense paardenarts meldt westnijlbesmettingen in westen provincie",
+    "summary": "Dierenarts Vivianne van Leeuwen ziet besmette paarden rond onder meer Oudewater, Linschoten en Zegveld.",
+    "body": "Paardenarts Vivianne van Leeuwen uit Woerden behandelt paarden met het westnijlvirus in het westen van de provincie Utrecht. In een reportage van 17 september noemt zij Oudewater, Montfoort, Linschoten en Zegveld als plaatsen waar de ziekte speelt.\n\nRTV Midden Holland beschrijft ook een paard dat na een ernstige ziekteperiode aan het herstellen was. Het bericht bevat geen volledige telling van besmette dieren in de regio. De waarnemingen van de dierenarts geven daarmee een lokaal beeld van de situatie in september, geen actueel provinciaal totaal.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/ook-utrechtse-paarden-raken-besmet-met-westnijlvirus/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-09-17",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "paarden"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "woerdense-paardenarts-meldt-westnijlbesmettingen-in-westen-provincie",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/790bb626a9f751b16c220168-fe577d5e3ec4.html",
+      "sourceTitle": "Ook Utrechtse paarden raken besmet met westnijlvirus",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/ook-utrechtse-paarden-raken-besmet-met-westnijlvirus/",
+        "https://rtvmiddenholland.nl/nieuws/ook-utrechtse-paarden-raken-besmet-met-westnijlvirus/"
+      ]
+    },
+    "importBatch": "goal-archive-77-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:02:21.551087+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "nieuwe-bushalte-polanerbaan-gepland-voor-dienstregeling-december",
+    "title": "Nieuwe bushalte Polanerbaan gepland voor dienstregeling december",
+    "summary": "Bussen uit de richting Montfoort en Oudewater hoeven straks niet meer naar de noordzijde van station Woerden.",
+    "body": "Woerden legt een bushalte aan langs de busbaan Polanerbaan, ten noorden van restaurant Heinde. De werkzaamheden waren in de aankondiging van 16 september voorzien tot maandag 21 september. Ook het voetpad en de bocht naar de busbaan Houttuinlaan worden aangepast.\n\nDe halte zou pas bij de nieuwe dienstregeling in december in gebruik worden genomen. Dan gaan de buslijnen van en naar Montfoort en Oudewater er stoppen. Daarmee vervalt voor die bussen de rit naar de halte aan de centrumzijde van station Woerden. De gemeente verwacht daarmee vooral in de spits tijd te besparen.",
+    "category": "Verkeer",
+    "municipalities": [
+      "woerden",
+      "montfoort",
+      "oudewater"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/aanleg-nieuwe-bushalte-polanerbaan-woerden/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-09-16",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bushalte",
+      "bus"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "nieuwe-bushalte-polanerbaan-gepland-voor-dienstregeling-december",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/9bfde4b20e590b1c4e3214ab-b3c329390016.html",
+      "sourceTitle": "Aanleg nieuwe bushalte Polanerbaan Woerden",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/aanleg-nieuwe-bushalte-polanerbaan-woerden/",
+        "https://rtvmiddenholland.nl/nieuws/aanleg-nieuwe-bushalte-polanerbaan-woerden/"
+      ]
+    },
+    "importBatch": "goal-archive-80-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:08:11.249219+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "montfoort-lag-in-laagvlieggebied-tijdens-falcon-leap",
+    "title": "Montfoort lag in laagvlieggebied tijdens Falcon Leap",
+    "summary": "De militaire oefening was aangekondigd voor 7 tot en met 18 september.",
+    "body": "Inwoners van Montfoort konden tijdens de militaire oefening Falcon Leap vaker laag vliegende transporttoestellen zien en horen. De gemeente lag binnen het laagvlieggebied. De oefening was gepland van 7 tot en met 18 september.\n\nMilitairen uit verschillende landen oefenden het afzetten van vracht en parachutisten. De vluchten vertrokken voornamelijk vanaf Vliegbasis Eindhoven. Voor Montfoort werden mogelijke vluchten in de middag en avond aangekondigd, waarbij de tijden konden veranderen. Montfoort werd in het bericht als laagvlieggebied genoemd, niet als dropzone.",
+    "category": "Samenleving",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/militaire-luchtlandingsoefening-falcon-leap-2026/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-09-08",
+    "eventDate": "2026-09-07",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "luchtmacht",
+      "vliegtuig"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "montfoort-lag-in-laagvlieggebied-tijdens-falcon-leap",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/0d1888c31beeb176e7a8c0f8-f92dd7ed2c6f.html",
+      "sourceTitle": "Militaire luchtlandingsoefening Falcon Leap 2026",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/militaire-luchtlandingsoefening-falcon-leap-2026/",
+        "https://rtvmiddenholland.nl/nieuws/militaire-luchtlandingsoefening-falcon-leap-2026/"
+      ]
+    },
+    "importBatch": "goal-archive-82-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:11:07.199577+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "onder-oudste-inwoners-van-oudewater-relatief-meer-vrouwen",
+    "title": "Onder oudste inwoners van Oudewater relatief meer vrouwen",
+    "summary": "De verhouding tussen mannen en vrouwen verschilt per leeftijdsgroep en per gemeente.",
+    "body": "Onder inwoners van tachtig jaar en ouder telt Oudewater volgens een overzicht van RTV Midden Holland 64 mannen per honderd vrouwen. Voor Woerden noemt het overzicht 74 en voor Montfoort 92. Het bericht van 10 augustus baseert zich op CBS-bevolkingscijfers voor 1 januari 2026.\n\nBij twintigers liggen de verhoudingen andersom: het overzicht noemt 112 mannen per honderd vrouwen in Woerden, 117 in Montfoort en 106 in Oudewater. De cijfers beschrijven afzonderlijke leeftijdsgroepen en zeggen daarmee niet dat één van beide groepen in elke gemeente als geheel de meerderheid vormt.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "montfoort",
+      "oudewater"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/man-vrouwverhouding-verschuift-met-de-leeftijd/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-08-10",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "onder-oudste-inwoners-van-oudewater-relatief-meer-vrouwen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/a02568aa961e1e431c05c1bd-c20fce69f8b0.html",
+      "sourceTitle": "Man-vrouwverhouding verschuift met de leeftijd",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/man-vrouwverhouding-verschuift-met-de-leeftijd/",
+        "https://rtvmiddenholland.nl/nieuws/man-vrouwverhouding-verschuift-met-de-leeftijd/"
+      ]
+    },
+    "importBatch": "goal-archive-87-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:20:11.973341+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "meer-verhuizers-naar-woerden-oudewater-en-montfoort-dan-eruit-in-2025",
+    "title": "Meer verhuizers naar Woerden, Oudewater en Montfoort dan eruit in 2025",
+    "summary": "Het binnenlandse verhuissaldo was in alle drie gemeenten positief. Woerden had in absolute aantallen het grootste overschot.",
+    "body": "Woerden ontving in 2025 volgens door RTV Midden Holland aangehaalde CBS-cijfers 2.164 inwoners uit andere gemeenten. Daar stonden 1.957 vertrekkers tegenover. Het verschil bedraagt 207 inwoners.\n\nOok Oudewater en Montfoort hadden een positief binnenlands verhuissaldo. In Oudewater kwamen 487 mensen wonen en vertrokken er 336, een saldo van 151. Montfoort telde 504 aankomsten en 497 vertrekken, oftewel een saldo van zeven.\n\nDeze verschillen beschrijven uitsluitend verhuizingen tussen Nederlandse gemeenten. Het zijn geen groeipercentages van de totale bevolking. Geboorte, sterfte en verhuizingen over de landsgrens maken geen deel uit van deze berekening.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "montfoort",
+      "oudewater"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/regio-blijft-aantrekkelijk-voor-nieuwe-inwoners/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-08-04",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "woerden",
+      "woningen"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "meer-verhuizers-naar-woerden-oudewater-en-montfoort-dan-eruit-in-2025",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/2ce50aad94e413cd1539c323-7ca5061d4a24.html",
+      "sourceTitle": "Regio blijft aantrekkelijk voor nieuwe inwoners",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/regio-blijft-aantrekkelijk-voor-nieuwe-inwoners/",
+        "https://rtvmiddenholland.nl/nieuws/regio-blijft-aantrekkelijk-voor-nieuwe-inwoners/",
+        "https://rtvmiddenholland.nl/nieuws/regio-blijft-aantrekkelijk-voor-nieuwe-inwoners/"
+      ]
+    },
+    "importBatch": "goal-archive-88-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:24:42.354505+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "leerlingen-uit-kamerik-en-linschoten-brengen-kinderboek-uit",
+    "title": "Leerlingen uit Kamerik en Linschoten brengen kinderboek uit",
+    "summary": "Een gezamenlijk profielwerkstuk aan de Driestar in Gouda groeide uit tot een gepubliceerd kinderboek.",
+    "body": "Theunise, Mirthe en Ruth, afkomstig uit Kamerik, Linschoten en Bergambacht, hebben hun profielwerkstuk als kinderboek uitgebracht. De drie maakten het project aan de Driestar in Gouda en hebben inmiddels hun havodiploma behaald, meldt RTV Midden Holland.\n\nHet boek heet Pluis blijft liever thuis: een verhaal over verlatingsangst. Het verhaal op rijm draait om een konijn dat moeite heeft om van huis te gaan.\n\nDe makers verdeelden het werk: Theunise verzorgde de illustraties, Ruth richtte zich op het verhaal en Mirthe coördineerde de combinatie van tekst en beeld. Het boek verscheen uiteindelijk ook buiten de schoolopdracht. Voor het profielwerkstuk kregen zij afgerond een negen.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/van-profielwerkstuk-naar-echt-uitgebracht-kinderboek-zon-standaardverslag-is-niks-voor-ons/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-08-03",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "boeken",
+      "bibliotheek"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "leerlingen-uit-kamerik-en-linschoten-brengen-kinderboek-uit",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/b46c8c86e502b9e443aa6bec-10c1fe929d39.html",
+      "sourceTitle": "Van profielwerkstuk naar écht uitgebracht kinderboek: ‘Zo’n standaardverslag is niks voor ons’",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/van-profielwerkstuk-naar-echt-uitgebracht-kinderboek-zon-standaardverslag-is-niks-voor-ons/",
+        "https://rtvmiddenholland.nl/nieuws/van-profielwerkstuk-naar-echt-uitgebracht-kinderboek-zon-standaardverslag-is-niks-voor-ons/",
+        "https://rtvmiddenholland.nl/nieuws/van-profielwerkstuk-naar-echt-uitgebracht-kinderboek-zon-standaardverslag-is-niks-voor-ons/"
+      ]
+    },
+    "importBatch": "goal-archive-88-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:24:42.354554+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "grondeigenaren-willen-niet-meewerken-aan-windenergie-bij-linschoten-en-papekop",
+    "title": "Grondeigenaren willen niet meewerken aan windenergie bij Linschoten en Papekop",
+    "summary": "Volgens de Montfoortse wethouder Wim van Wikselaar hebben betrokken eigenaren hun weigering schriftelijk kenbaar gemaakt.",
+    "body": "Het bestuur van Landgoed Linschoten en een andere groep grondeigenaren willen niet meewerken aan de ontwikkeling van windenergie tussen Linschoten en Papekop. Dat heeft wethouder Wim van Wikselaar volgens RTV Midden Holland aan de gemeenteraad van Montfoort gemeld.\n\nDe opstelling van de eigenaren is volgens de wethouder schriftelijk vastgelegd. Het gaat om het gebied dat de provincie voor windenergie heeft aangewezen, tussen Montfoort en Oudewater.\n\nWat de weigering betekent voor het verdere proces was volgens Van Wikselaar nog niet duidelijk. De mededeling is daarmee geen besluit om het windenergieplan te beëindigen.",
+    "category": "Bestuur",
+    "municipalities": [
+      "montfoort",
+      "oudewater"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/grondeigenaren-werken-niet-mee-aan-windenergie/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-10-09",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "windenergie",
+      "windmolen",
+      "linschoten"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "grondeigenaren-willen-niet-meewerken-aan-windenergie-bij-linschoten-en-papekop",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/f10baf02b46a00870b277756-0462d8308986.html",
+      "sourceTitle": "Grondeigenaren werken niet mee aan windenergie",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/grondeigenaren-werken-niet-mee-aan-windenergie/",
+        "https://rtvmiddenholland.nl/nieuws/grondeigenaren-werken-niet-mee-aan-windenergie/",
+        "https://rtvmiddenholland.nl/nieuws/grondeigenaren-werken-niet-mee-aan-windenergie/"
+      ]
+    },
+    "importBatch": "goal-archive-89-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:27:26.816736+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "aandeel-inwoners-met-herkomst-buiten-nederland-stijgt-in-drie-gemeenten",
+    "title": "Aandeel inwoners met herkomst buiten Nederland stijgt in drie gemeenten",
+    "summary": "RTV Midden Holland vergelijkt CBS-cijfers voor Woerden, Montfoort en Oudewater tussen 2022 en 2026.",
+    "body": "In Woerden steeg het aandeel inwoners met een herkomstland buiten Nederland volgens door RTV Midden Holland aangehaalde CBS-cijfers van 17,4 procent in 2022 naar 20,1 procent in 2026. Het aantal ging van 9.176 naar 10.901.\n\nOok in Montfoort en Oudewater liep het aandeel op. Voor Montfoort noemt de omroep een stijging van 11,7 naar 13,6 procent; voor Oudewater van 10,0 naar 12,5 procent. Het gaat om veranderingen over vier jaar, niet alleen om verhuizingen in 2026.\n\nHerkomstland is een statistisch kenmerk dat bij in Nederland geboren inwoners mede wordt bepaald door het geboorteland van hun ouders. Deze cijfers beschrijven dus niet uitsluitend mensen die zelf naar Nederland zijn verhuisd en zeggen evenmin hoeveel inwoners onlangs in de gemeente zijn komen wonen.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "montfoort",
+      "oudewater"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/de-wereld-woont-steeds-vaker-om-de-hoek/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-10-05",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "woerden",
+      "straat"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "aandeel-inwoners-met-herkomst-buiten-nederland-stijgt-in-drie-gemeenten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/4d2e1e502af641d94627816c-f09e607fcd0e.html",
+      "sourceTitle": "De wereld woont steeds vaker om de hoek",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/de-wereld-woont-steeds-vaker-om-de-hoek/",
+        "https://rtvmiddenholland.nl/nieuws/de-wereld-woont-steeds-vaker-om-de-hoek/",
+        "https://www.cbs.nl/nl-nl/faq/culturele-diversiteit/operationalisering/welke-definitie-van-herkomstland-wordt-in-de-barometer-gehanteerd-"
+      ]
+    },
+    "importBatch": "goal-archive-92-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:35:01.964569+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.cbs.nl/nl-nl/faq/culturele-diversiteit/operationalisering/welke-definitie-van-herkomstland-wordt-in-de-barometer-gehanteerd-",
+        "name": "CBS — definitie herkomstland",
+        "note": "Primaire begripscontrole; gemeentelijke aantallen afkomstig uit de omroepbron."
+      }
+    ]
+  },
+  {
+    "slug": "vrouw-op-defensie-eiland-opgelicht-door-twee-nepagenten",
+    "title": "Vrouw op Defensie-Eiland opgelicht door twee nepagenten",
+    "summary": "Na het bezoek in Woerden werd met de bankpas van het slachtoffer geld opgenomen in Montfoort.",
+    "body": "Een 89-jarige vrouw is op vrijdag 2 oktober in haar woning op het Defensie-Eiland in Woerden opgelicht en afgeperst. Volgens de politie kwamen rond 16.15 uur een man en een vrouw binnen die zich als agenten voordeden.\n\nHet slachtoffer raakte sieraden en haar bankpas kwijt. Met die pas werd later, tussen 18.00 en 18.20 uur, geld opgenomen bij een supermarkt aan de Boslaan in Montfoort.\n\nDe politie publiceerde op 3 oktober een oproep voor getuigen en camerabeelden uit beide plaatsen. De oproep heeft zaaknummer PL09002026346764. De gelinkte politiepagina bevat de actuele stand van de oproep; dit archiefbericht bevestigt geen aanhouding.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "woerden",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/03-oudere-vrouw-afgeperst-politie-zoekt-getuigen",
+    "sourceName": "Politie",
+    "sourcePublishedAt": "2026-10-03",
+    "eventDate": "2026-10-02",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "politie"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "vrouw-op-defensie-eiland-opgelicht-door-twee-nepagenten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/b10e4b04c2bcfb88a509f46f-51bb8afe56ea.html",
+      "sourceTitle": "Nepagenten beroven 89-jarige vrouw in Woerden",
+      "paragraphSourceUrls": [
+        "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/03-oudere-vrouw-afgeperst-politie-zoekt-getuigen",
+        "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/03-oudere-vrouw-afgeperst-politie-zoekt-getuigen",
+        "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/03-oudere-vrouw-afgeperst-politie-zoekt-getuigen"
+      ],
+      "primarySourceCheckedAt": "2026-10-13"
+    },
+    "importBatch": "goal-archive-93-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:37:01.683602+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://rtvmiddenholland.nl/nieuws/nepagenten-beroven-89-jarige-vrouw-in-woerden/",
+        "name": "RTV Midden Holland",
+        "sourcePublishedAt": "2026-10-03",
+        "note": "Secundair bericht; feiten bevestigd bij politie."
+      }
+    ]
+  },
+  {
+    "slug": "montfoort-roept-inwoners-op-mee-te-doen-aan-stoptober",
+    "title": "Montfoort roept inwoners op mee te doen aan Stoptober",
+    "summary": "De gemeente verwees eind september naar de landelijke campagne.",
+    "body": "Montfoort heeft inwoners eind september gewezen op Stoptober. De campagne nodigt deelnemers uit om vanaf 1 oktober gedurende 28 dagen samen te stoppen met roken en vapen.\n\nIn de gemeentelijke oproep staan de bijbehorende app en steun van mensen uit de eigen omgeving centraal. Voor deelname en meer informatie verwijst Montfoort naar de landelijke Stoptober-website.\n\nDe gemeente noemt in deze publicatie geen afzonderlijke plaatselijke bijeenkomst of lokale deelnemersaantallen.",
+    "category": "Samenleving",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Stoptober_bijna_van_start",
+    "sourceName": "Gemeente Montfoort",
+    "sourcePublishedAt": "2026-09-30",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "montfoort-roept-inwoners-op-mee-te-doen-aan-stoptober",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/3ee39644e914251ba7c4b143-45e1fad97f26.html",
+      "sourceTitle": "Stoptober bijna van start",
+      "paragraphSourceUrls": [
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Stoptober_bijna_van_start",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Stoptober_bijna_van_start",
+        "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Stoptober_bijna_van_start"
+      ]
+    },
+    "importBatch": "goal-archive-97-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:08:36.824241+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "omroep-zout-kondigt-radioverslagen-van-drie-streekduels-aan",
+    "title": "Streekvoetbal: winst voor Montfoort en gelijkspel bij DOSC–Achterveld",
+    "summary": "Omroep Zout volgde op 10 oktober de streekduels. Montfoort won bij Zeist, DOSC en Achterveld deelden de punten en Vliegdorp–DVSA eindigde in 4–4.",
+    "body": "Omroep Zout kondigde voor zaterdag 10 oktober rechtstreeks radioverslag van drie amateurvoetbalwedstrijden aan. Montfoort SV ’19 won met 0–2 bij SV Zeist. DOSC en SV Achterveld speelden in Den Dolder met 1–1 gelijk. Bij ’t Vliegdorp tegen DVSA uit Amerongen vielen acht doelpunten: 4–4.\n\nDe omroep publiceerde ook de andere uitslagen uit de streek. FC De Bilt won met 1–4 bij FC Oudewater. HDS versloeg DEV Doorn met 2–1. Saestum won thuis met 5–1 van Odysseus ’91; Patria verloor met 2–3 van UVV. FZO won het uitduel met Eemboys met 0–2.\n\nReijer Roelofs en Bastiaan Gramser stonden aangekondigd als presentatoren vanuit de studio. De oorspronkelijke aankondiging verscheen op 9 oktober; de bron is daarna aangevuld met de uitslagen van zaterdag.",
+    "category": "Sport",
+    "municipalities": [
+      "zeist",
+      "montfoort",
+      "leusden",
+      "soest",
+      "utrechtse-heuvelrug",
+      "de-bilt",
+      "oudewater",
+      "utrecht",
+      "baarn"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.omroepzout.nl/omroep-zout-doet-live-verslag-van-voetbal-in-de-streek-zuidoost-utrecht/",
+    "sourceName": "Omroep Zout",
+    "sourcePublishedAt": "2026-10-09",
+    "eventDate": "2026-10-10",
+    "dateNote": "Bron oorspronkelijk gepubliceerd op 9 oktober, later aangevuld met uitslagen van 10 oktober; aanvulling gecontroleerd op 14 oktober.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "omroep-zout-kondigt-radioverslagen-van-drie-streekduels-aan",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/192c651e4e26a0a2d4421997-281299637438.html",
+      "sourceTitle": "Omroep Zout doet live verslag van voetbal in Zuidoost-Utrecht",
+      "paragraphSourceUrls": [
+        "https://www.omroepzout.nl/omroep-zout-doet-live-verslag-van-voetbal-in-de-streek-zuidoost-utrecht/",
+        "https://www.omroepzout.nl/omroep-zout-doet-live-verslag-van-voetbal-in-de-streek-zuidoost-utrecht/",
+        "https://www.omroepzout.nl/omroep-zout-doet-live-verslag-van-voetbal-in-de-streek-zuidoost-utrecht/"
+      ],
+      "latestVerificationFile": "work/archive-281-evidence.json",
+      "followupReviewFile": "work/archive-329-review.json"
+    },
+    "importBatch": "goal-archive-103-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:25:11.813391+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "voetbal-bal-2024"
+  },
+  {
+    "slug": "sv-zeist-verliest-thuis-met-02-van-montfoort19",
+    "title": "SV Zeist verliest thuis met 0–2 van Montfoort’19",
+    "summary": "Montfoort scoorde beide doelpunten voor rust; Zeist kwam daarna niet meer terug.",
+    "body": "SV Zeist heeft de thuiswedstrijd tegen Montfoort’19 op zaterdag 10 oktober met 0–2 verloren. De bezoekers namen in de eerste helft afstand. Voor beide ploegen bleef de score na rust ongewijzigd.\n\nMontfoort kwam na een kwartier op voorsprong en benutte kort voor de rust een strafschop. Zeist kreeg daarna kansen om de achterstand te verkleinen, maar trof onder meer de paal. Het wedstrijdverslag van De Nieuwsbode beschrijft een slotoffensief zonder doelpunt.\n\nVoorafgaand aan de wedstrijd hielden de teams een minuut stilte ter nagedachtenis aan clubgenoot Gijs Brink.",
+    "category": "Sport",
+    "municipalities": [
+      "zeist",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.denieuwsbode.nl/sport/voetbal/1318527/sv-zeist-tegen-sv-montfoort19-zeist-laat-dure-punten-liggen",
+    "sourceName": "De Nieuwsbode",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "sport"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "sv-zeist-verliest-thuis-met-02-van-montfoort19",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/27decfbd1583bb7d467229e1-9e01f03e762a.html",
+      "sourceTitle": "SV Zeist tegen SV Montfoort’19: Zeist laat dure punten liggen",
+      "paragraphSourceUrls": [
+        "https://www.denieuwsbode.nl/sport/voetbal/1318527/sv-zeist-tegen-sv-montfoort19-zeist-laat-dure-punten-liggen",
+        "https://www.denieuwsbode.nl/sport/voetbal/1318527/sv-zeist-tegen-sv-montfoort19-zeist-laat-dure-punten-liggen",
+        "https://www.denieuwsbode.nl/sport/voetbal/1318527/sv-zeist-tegen-sv-montfoort19-zeist-laat-dure-punten-liggen"
+      ]
+    },
+    "importBatch": "goal-archive-121-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:13:45.248966+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "voetbal-bal-2024",
+    "imageContextLabel": "Foto ter illustratie",
+    "imageReviewNote": "Recente gelicentieerde contextfoto; geen afbeelding van betrokken personen, locaties of gebeurtenis."
+  },
+  {
+    "slug": "rtv-midden-holland-wil-lokale-edities-behouden-binnen-streekomroep",
+    "title": "RTV Midden-Holland wil lokale edities behouden binnen streekomroep",
+    "summary": "Directeur Jeroen Cnossen licht in een interview de plannen voor de regionale omroep toe.",
+    "body": "RTV Midden-Holland wil binnen een grotere streekomroep afzonderlijke gemeentelijke edities blijven aanbieden. Dat vertelt directeur en hoofdredacteur Jeroen Cnossen in een interview dat de omroep op 12 oktober publiceerde.\n\nVolgens de toegelichte plannen gaan onder meer de lokale omroepen van Woerden en Oudewater in 2028 in de organisatie op. Montfoort wordt genoemd als onderdeel van het verzorgingsgebied, terwijl de lokale omroep daar volgens het interview zelfstandig verder wil.\n\nCnossen noemt het volgen van gemeenteraden een belangrijke taak en wil inwoners via website, radio, televisie en sociale media bereiken. Het bericht beschrijft de plannen en ambities van de omroep; het is geen vaststelling dat alle genoemde samenwerkingen al zijn afgerond.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/interview-over-steekomroep-midden-holland-met-jeroen-cnossen-video/",
+    "sourceName": "RTV Midden-Holland",
+    "sourcePublishedAt": "2026-10-12",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "participatie"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "rtv-midden-holland-wil-lokale-edities-behouden-binnen-streekomroep",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/b557cb843f49e142e7073bc6-814cb18b90f5.html",
+      "sourceTitle": "Interview over Steekomroep Midden-Holland met Jeroen Cnossen (Video)",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/interview-over-steekomroep-midden-holland-met-jeroen-cnossen-video/",
+        "https://rtvmiddenholland.nl/nieuws/interview-over-steekomroep-midden-holland-met-jeroen-cnossen-video/",
+        "https://rtvmiddenholland.nl/nieuws/interview-over-steekomroep-midden-holland-met-jeroen-cnossen-video/"
+      ]
+    },
+    "importBatch": "goal-archive-130-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:28:50.608174+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "microfoon-hand-2026",
+    "imageContextLabel": "Foto ter illustratie",
+    "imageReviewNote": "Recente gelicentieerde contextfoto, geen opname van de beschreven gebeurtenis."
+  },
+  {
+    "slug": "bestelbus-raakt-van-m-a-reinaldaweg-bij-linschoten",
+    "title": "Bestelbus raakt van M.A. Reinaldaweg bij Linschoten",
+    "summary": "De bestuurder is na het ongeval aangehouden op verdenking van rijden onder invloed, meldt Zenderstreeknieuws.",
+    "body": "Een bestelbus is in de nacht van zaterdag op zondag bij Linschoten van de M.A. Reinaldaweg geraakt. Volgens Zenderstreeknieuws gebeurde dat rond 01.30 uur in een bocht, terwijl de bestuurder vanuit Montfoort richting Linschoten reed. Het voertuig kwam bij een greppel terecht.\n\nAmbulancepersoneel controleerde de bestuurder, die volgens het bericht geen verwondingen had. Na een alcohol- en drugstest hield de politie hem aan op verdenking van rijden onder invloed. Het bericht meldt dat verder onderzoek op het politiebureau plaatsvond; een definitieve uitkomst wordt niet genoemd.\n\nEen bergingsbedrijf heeft het beschadigde voertuig meegenomen.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.zenderstreeknieuws.nl/112/112/481133/bestelbusje-belandt-in-greppel-bij-linschoten",
+    "sourceName": "Zenderstreeknieuws",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "politie"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bestelbus-raakt-van-m-a-reinaldaweg-bij-linschoten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/78952fd797a19d77dd12126f-889a995ab3ed.html",
+      "sourceTitle": "Bestelbusje belandt in greppel bij Linschoten",
+      "paragraphSourceUrls": [
+        "https://www.zenderstreeknieuws.nl/112/112/481133/bestelbusje-belandt-in-greppel-bij-linschoten",
+        "https://www.zenderstreeknieuws.nl/112/112/481133/bestelbusje-belandt-in-greppel-bij-linschoten",
+        "https://www.zenderstreeknieuws.nl/112/112/481133/bestelbusje-belandt-in-greppel-bij-linschoten"
+      ]
+    },
+    "importBatch": "goal-archive-131-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:34:47.636592+00:00",
+    "publicationScope": "local_preview",
+    "imageContextLabel": "Foto ter illustratie",
+    "imageKey": "politie-auto-2024",
+    "imageReviewNote": "Recente politie-illustratie; geen foto van dit incident."
+  },
+  {
+    "slug": "woerden-montfoort-en-oudewater-tellen-meer-inwoners-dan-een-jaar-eerder",
+    "title": "Woerden, Montfoort en Oudewater tellen meer inwoners dan een jaar eerder",
+    "summary": "CBS-cijfers laten groei zien in alle drie de gemeenten. Oudewater groeit naar verhouding het sterkst.",
+    "body": "Woerden, Montfoort en Oudewater hadden op 1 januari 2026 alle drie meer inwoners dan een jaar eerder. Dat blijkt uit een vergelijking van de gemeentecijfers in de CBS-tabellen Kerncijfers wijken en buurten over 2025 en 2026.\n\nWoerden groeide van 53.976 naar 54.199 inwoners, een toename van 223. Oudewater ging van 10.355 naar 10.513 inwoners en kreeg er daarmee 158 bij. Montfoort telde 13.795 inwoners, tegenover 13.772 een jaar eerder: een groei van 23 inwoners.\n\nWoerden heeft van deze drie gemeenten de grootste absolute toename. Naar verhouding groeide Oudewater het sterkst: ongeveer 1,5 procent. Voor Woerden bedraagt de groei circa 0,4 procent en voor Montfoort circa 0,2 procent. De percentages zijn berekend uit de gemeentelijke inwoneraantallen van het CBS.\n\nDe tellingen gaan over inwoners die op 1 januari in de bevolkingsregistratie stonden. Ze beschrijven dus geen verandering gedurende de zomer. Het CBS markeert de gemeente-indeling voor deze drie gemeenten als ongewijzigd ten opzichte van het voorgaande jaar. Uit deze vergelijking alleen valt niet af te leiden welk deel van de groei door verhuizingen, geboorten of sterfte is ontstaan.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "montfoort",
+      "oudewater"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/groeiverschil-tussen-woerden-montfoort-en-oudewater/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-07-27",
+    "eventDate": null,
+    "dateNote": "Aanleiding: RTV-publicatie 27 juli 2026; cijfers achteraf gecontroleerd in CBS-tabellen beschikbaar op 13 oktober. Peildatums inwoneraantallen: 1 januari 2025 en 1 januari 2026.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "locatiearchief",
+      "woerden"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "woerden-montfoort-en-oudewater-tellen-meer-inwoners-dan-een-jaar-eerder",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Volledige mediabron gelezen; CBS OData gemeentecijfers en vergelijkbaarheidsindicator gecontroleerd. Groei zelf berekend.",
+      "evidenceFile": "work/quarter-sources/b2dd0c6f3293d6c035149bc5-b5ffe0e73c77.html",
+      "sourceTitle": null,
+      "paragraphSourceUrls": [
+        [
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86165NED",
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86358NED"
+        ],
+        [
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86165NED",
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86358NED"
+        ],
+        [
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86165NED",
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86358NED"
+        ],
+        [
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86165NED",
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86358NED"
+        ]
+      ],
+      "primaryEvidenceFiles": [
+        "work/cbs-86358-local-population.json",
+        "work/cbs-86165-local-population.json"
+      ]
+    },
+    "importBatch": "goal-archive-157-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T20:25:47.636628+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "name": "CBS – Kerncijfers wijken en buurten 2025",
+        "url": "https://www.cbs.nl/nl-nl/cijfers/detail/86165NED",
+        "checkedAt": "2026-10-13"
+      },
+      {
+        "name": "CBS – Kerncijfers wijken en buurten 2026",
+        "url": "https://www.cbs.nl/nl-nl/cijfers/detail/86358NED",
+        "checkedAt": "2026-10-13"
+      }
+    ],
+    "imageReviewNotes": "Bestaande gelicentieerde foto visueel gecontroleerd: Bonaventurakerk, gracht en bebouwing in Woerden. Passend stadsbeeld bij bevolkingscijfers, geen foto van een nieuwbouwproject.",
+    "imageKey": "archive-photo-133365442",
+    "imageContextLabel": "Woerden in 2022; archieffoto ter illustratie."
+  },
+  {
+    "slug": "driekwart-van-inwoners-de-copen-ervaart-verkeersoverlast",
+    "title": "Driekwart van inwoners De Copen ervaart verkeersoverlast",
+    "summary": "CBS-cijfers over 2025 gelden voor het politiegebied met vijf gemeenten.",
+    "body": "Ruim driekwart van de inwoners van politiegebied De Copen ervoer in 2025 verkeersoverlast in de woonbuurt. Volgens de Veiligheidsmonitor van het CBS ging het om 41,0 procent met een beetje overlast en 34,8 procent met veel overlast: samen 75,8 procent.\n\nDe Copen omvat Woerden, IJsselstein, Lopik, Oudewater en Montfoort. De percentages gelden voor dat gebied als geheel en mogen niet worden gelezen als afzonderlijke uitkomsten voor elk van die gemeenten. Het onderzoek gaat over inwoners van 15 jaar en ouder.\n\nTe hard rijden werd door 59,2 procent als bron van enige overlast genoemd. Daarbinnen meldde 18,5 procent veel overlast. Landelijk ervoer 72,8 procent enige verkeersoverlast, tegenover de 75,8 procent in De Copen.\n\nHet CBS publiceerde de regionale tabel op 25 september; RTV Midden Holland besteedde er op 29 september aandacht aan. De cijfers beschrijven de ervaringen van bewoners in een steekproefonderzoek, geen aantallen verkeersincidenten of boetes. Het gaat om meetjaar 2025, niet om een meting van september 2026.",
+    "category": "Verkeer",
+    "municipalities": [
+      "woerden",
+      "ijsselstein",
+      "lopik",
+      "oudewater",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/verkeersoverlast-grootste-probleem/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-09-29",
+    "eventDate": null,
+    "dateNote": "Nieuwsbron 29 september 2026; CBS-publicatie 25 september 2026 over meetjaar 2025.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "driekwart-van-inwoners-de-copen-ervaart-verkeersoverlast",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/1db6271b7c82ef4ba00803e3-bfe1cd20d158.html",
+      "sourceTitle": null,
+      "paragraphSourceUrls": [
+        "https://www.cbs.nl/nl-nl/cijfers/detail/86345NED",
+        [
+          "https://rtvmiddenholland.nl/nieuws/verkeersoverlast-grootste-probleem/",
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86345NED"
+        ],
+        "https://www.cbs.nl/nl-nl/cijfers/detail/86345NED",
+        [
+          "https://www.cbs.nl/nl-nl/cijfers/detail/86345NED",
+          "https://rtvmiddenholland.nl/nieuws/verkeersoverlast-grootste-probleem/"
+        ]
+      ],
+      "dataFiles": [
+        "work/cbs-86345-copen.json",
+        "work/cbs-86345-DataProperties.json",
+        "work/cbs-86345-RegioS.json"
+      ]
+    },
+    "importBatch": "goal-archive-162-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T20:36:59.512509+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "name": "CBS — Leefbaarheid en overlast in woonbuurt; regio",
+        "url": "https://www.cbs.nl/nl-nl/cijfers/detail/86345NED",
+        "publishedAt": "2026-09-25",
+        "checkedAt": "2026-10-13",
+        "note": "Tabel 86345NED; De Copen BT0189, meetjaar 2025, waarde MW00000."
+      }
+    ],
+    "imageKey": "archive-photo-133365442",
+    "imageContext": "Woerden in 2022. Foto ter illustratie van een van de gemeenten in De Copen; geen vastgestelde overlastlocatie."
+  },
+  {
+    "slug": "montfoorts-kunstenaarscollectief-kondigde-atelierweekend-binnenwereld-aan",
+    "title": "Montfoorts kunstenaarscollectief kondigde atelierweekend Binnenwereld aan",
+    "summary": "Open ateliers en een gezamenlijke expositie stonden gepland voor 10 en 11 oktober.",
+    "body": "Het Montfoorts Kunstenaars Collectief kondigde voor 10 en 11 oktober een open atelierweekend aan rond de tentoonstelling Binnenwereld. In de Hans Kuntzzaal zou werk van de aangesloten kunstenaars samenkomen; daarnaast konden bezoekers de werkruimten bekijken.\n\nVolgens de aankondiging waren de ateliers beide dagen van 12.00 tot 17.00 uur toegankelijk. Het collectief werkt aan het Klaverpad in Montfoort. Er zijn meer dan twintig kunstenaars actief, onder wie schilders en beeldhouwers. Zowel beroepskunstenaars als amateurkunstenaars maken er gebruik van de ateliers.\n\nRTV Midden Holland meldde op 2 oktober dat burgemeester Aukje Treep de expositie zou openen. Dit archiefbericht is gebaseerd op die vooraf gepubliceerde aankondiging. Het genoemde weekend is inmiddels voorbij; er is hier geen verslag van de daadwerkelijke opening of bezoekersaantallen aan toegevoegd.",
+    "category": "Samenleving",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/expositie-binnenwereld-bij-montfoorts-kunstenaars-collectief/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-10-02",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd. Geen geverifieerd rechtenvrij beeld van de expositie beschikbaar; geen bronfoto overgenomen.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "kunst-atelier"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "montfoorts-kunstenaarscollectief-kondigde-atelierweekend-binnenwereld-aan",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/goal-archive-163-binnenwereld.html",
+      "sourceTitle": null,
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/expositie-binnenwereld-bij-montfoorts-kunstenaars-collectief/",
+        "https://rtvmiddenholland.nl/nieuws/expositie-binnenwereld-bij-montfoorts-kunstenaars-collectief/",
+        "https://rtvmiddenholland.nl/nieuws/expositie-binnenwereld-bij-montfoorts-kunstenaars-collectief/"
+      ]
+    },
+    "importBatch": "goal-archive-163-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T20:38:32.986957+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "oudere-man-in-montfoort-opgelicht-door-nepagent",
+    "title": "Oudere man in Montfoort opgelicht door nepagent",
+    "summary": "De politie vroeg beelden uit de omgeving van de Willeskop na een bezoek op 30 september.",
+    "body": "Een 91-jarige inwoner van Montfoort is op woensdagavond 30 september waardevolle spullen kwijtgeraakt aan iemand die zich als politieagent voordeed. De politie meldde de oplichting op 1 oktober.\n\nDe man was rond 18.15 uur gebeld met het verhaal dat inbrekers het op zijn woning hadden gemunt. Vervolgens zou een agent in burger langskomen om bezittingen op te halen. Rond 18.30 uur verscheen iemand bij de woning aan de Willeskop en nam de spullen mee.\n\nDe politie vroeg om camerabeelden uit de omgeving rond dat tijdstip en andere informatie voor het onderzoek. Het bericht noemt geen aanhouding en specificeert de waarde van de verdwenen spullen niet. De officiële oproep heeft zaaknummer PL09002026344068.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/man-91-slachtoffer-van-nepagent-in-montfoort",
+    "sourceName": "Politie",
+    "sourcePublishedAt": "2026-10-01",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "veiligheid"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "oudere-man-in-montfoort-opgelicht-door-nepagent",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/goal-archive-175-evidence-6.txt",
+      "sourceTitle": null,
+      "paragraphSourceUrls": [
+        "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/man-91-slachtoffer-van-nepagent-in-montfoort",
+        "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/man-91-slachtoffer-van-nepagent-in-montfoort",
+        "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/man-91-slachtoffer-van-nepagent-in-montfoort"
+      ]
+    },
+    "importBatch": "goal-archive-175-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T21:01:08.799769+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "politie-auto-2024",
+    "imageContext": "Archiefbeeld van hulpdiensten uit 2024; geen foto van het beschreven incident."
+  },
+  {
+    "slug": "oproep-om-tijdens-vakantie-contact-met-oudere-buurtgenoten-te-houden",
+    "title": "Oproep om tijdens vakantie contact met oudere buurtgenoten te houden",
+    "summary": "Vakanties en zomerpauzes kunnen vaste ontmoetingen laten wegvallen. Een zorgorganisatie vraagt aandacht voor ouderen in de buurt.",
+    "body": "Thuiszorgorganisatie Zuster Jansen vraagt aandacht voor ouderen die tijdens de zomervakantie minder mensen ontmoeten. RTV Midden Holland besteedde op 13 juli aandacht aan die oproep voor Woerden, Oudewater en Montfoort.\n\nVolgens de zorgorganisatie kunnen verschillende contacten tegelijkertijd wegvallen: familie en buren zijn op vakantie en verenigingen hebben soms een zomerpauze. De organisatie adviseert naasten vooraf af te spreken wie contact houdt. Dat kan bijvoorbeeld met een bezoek, telefoontje of gezamenlijke wandeling.\n\nDe cijferanalyse waarnaar de berichtgeving verwijst, gebruikt de Gezondheidsmonitor uit 2024 en bevolkingsgegevens van 1 januari 2025. Het gaat dus niet om een meting van eenzaamheid tijdens de zomer van 2026. De gemeentelijke percentages zijn hier niet overgenomen, omdat de onderliggende lokale tabel niet volledig kon worden gecontroleerd.\n\nZuster Jansen wijst daarnaast op buurthuizen en ouderenverenigingen als mogelijke plekken om contact te zoeken. De oproep is om ook tijdens vakanties aandacht te houden voor mensen in de eigen omgeving.",
+    "category": "Samenleving",
+    "municipalities": [
+      "woerden",
+      "oudewater",
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://rtvmiddenholland.nl/nieuws/zomer-zorgt-voor-eenzame-ouderen-in-de-regio/",
+    "sourceName": "RTV Midden Holland",
+    "sourcePublishedAt": "2026-07-13",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "koffie",
+      "buurthuis"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "oproep-om-tijdens-vakantie-contact-met-oudere-buurtgenoten-te-houden",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/goal-archive-201-evidence.txt",
+      "sourceTitle": "Zomer zorgt voor eenzame ouderen in de regio",
+      "paragraphSourceUrls": [
+        "https://rtvmiddenholland.nl/nieuws/zomer-zorgt-voor-eenzame-ouderen-in-de-regio/",
+        "https://rtvmiddenholland.nl/nieuws/zomer-zorgt-voor-eenzame-ouderen-in-de-regio/",
+        "https://rtvmiddenholland.nl/nieuws/zomer-zorgt-voor-eenzame-ouderen-in-de-regio/",
+        "https://rtvmiddenholland.nl/nieuws/zomer-zorgt-voor-eenzame-ouderen-in-de-regio/"
+      ]
+    },
+    "importBatch": "goal-archive-201-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T21:46:07.906086+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "koffie-kop-2023",
+    "imageContextLabel": "Foto ter illustratie: koffie als moment van ontmoeting.",
+    "additionalSources": [
+      {
+        "name": "Zuster Jansen",
+        "url": "https://www.zusterjansen.nl/blog/helft-nederlandse-ouderen-is-eenzaam/",
+        "publishedAt": "2026-06-23",
+        "checkedAt": "2026-10-13",
+        "note": "Oorspronkelijke oproep en onderzoeksmethode; oudere achtergrondbron bij bericht van 13 juli.",
+        "evidenceFile": "work/goal-archive-201-evidence.txt"
+      }
+    ]
+  },
+  {
+    "slug": "drie-afstanden-linschotenloop-op-eerste-inschrijfdag-uitverkocht",
+    "title": "Drie afstanden Linschotenloop op eerste inschrijfdag uitverkocht",
+    "summary": "De halve marathon, 10 kilometer en 5 kilometer van de Linschotenloop waren op 1 oktober al vol. De loop vindt plaats op 19 december 2026.",
+    "body": "De inschrijving voor de Linschotenloop opende op 1 oktober om middernacht. Rond acht uur waren alle startplaatsen voor de halve marathon vergeven. Later die dag bereikten ook de 10 en 5 kilometer hun deelnemerslimiet, meldt de organisatie in een bericht van 4 oktober.\n\nOp dat moment waren er nog plaatsen voor de jeugdonderdelen en de wandelroutes. De Puppyrun is één kilometer lang en bedoeld voor kinderen tot en met zes jaar. De Kidsrun gaat over twee kilometer voor kinderen tot en met dertien jaar.\n\nVoor wie alsnog een hardloopstartbewijs zoekt, verwijst de organisatie naar haar officiële doorverkoopplatform. De deelnemerslimieten blijven gehandhaafd vanwege veiligheid en beschikbare faciliteiten.",
+    "category": "Sport",
+    "municipalities": [
+      "montfoort"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.linschotenloop.com/2026/10/04/linschotenloop-2026-in-recordtempo-vol/",
+    "sourceName": "Stichting Linschotenloop",
+    "sourcePublishedAt": "2026-10-04",
+    "eventDate": "2026-12-19",
+    "dateNote": "Organisatiebericht van 4 oktober; inschrijving op 1 oktober; evenement op 19 december. Beschikbaarheid jeugdonderdelen geldt bij bronpublicatie.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "atletiek"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "drie-afstanden-linschotenloop-op-eerste-inschrijfdag-uitverkocht",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/archive-283-evidence.json",
+      "sourceTitle": "Linschotenloop 2026 in recordtempo vol",
+      "paragraphSourceUrls": [
+        "https://www.linschotenloop.com/2026/10/04/linschotenloop-2026-in-recordtempo-vol/",
+        "https://www.linschotenloop.com/2026/10/04/linschotenloop-2026-in-recordtempo-vol/",
+        "https://www.linschotenloop.com/2026/10/04/linschotenloop-2026-in-recordtempo-vol/"
+      ]
+    },
+    "importBatch": "goal-archive-283-completion-2026-10-13",
+    "localPublishedAt": "2026-10-14T00:51:54.131912+00:00",
+    "publicationScope": "local_preview",
+    "imagePolicy": "real_only",
+    "imageReviewNote": "Nog geen goedgekeurde recente hardloopfoto beschikbaar; neutraal beeldformaat totdat passend beeld is gecontroleerd."
+  }
+]

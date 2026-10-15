@@ -1,0 +1,30 @@
+{
+  "_note": "CONTRACTFIXTURE, geen echte publicatie. Normaliseer bestaande apprecords; maak geen dubbele activiteiten.",
+  "data": {
+    "activities": [
+      {
+        "id": "BESTAAND_APP_RECORD_ID",
+        "title": "Contractvoorbeeld",
+        "description": "Bestaande omschrijving uit de PITO-app.",
+        "municipality": "woerden",
+        "status": "published",
+        "show_on_web": true,
+        "url": "https://pito.app/EXACTE_BESTAANDE_ACTIVITEIT_ROUTE",
+        "occurrences": [
+          {
+            "date": "2026-10-11",
+            "times_text": "14.00–16.00",
+            "id": "STABIELE_OCCURRENCE_ID",
+            "startDate": "2026-10-11T14:00:00+02:00",
+            "endDate": "2026-10-11T16:00:00+02:00",
+            "cancelled": false
+          }
+        ],
+        "locationName": "VOORBEELDLOCATIE",
+        "address": "VOORBEELDADRES, Woerden",
+        "organizer": "VOORBEELDORGANISATOR",
+        "priceText": "Alleen invullen met bevestigde prijs"
+      }
+    ]
+  }
+}

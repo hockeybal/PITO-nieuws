@@ -1,0 +1,8 @@
+PITO campaign QA — 13 October 2026
+Target: supplied RTL/KPN placement screenshot, translated to PITO brand; existing PITO header and municipality hero retained.
+Verified at 1920x1080 and 390x844: 970x250 desktop app banner; side displays aligned to banner top and outside reading column; no horizontal overflow; side displays hidden on mobile. Three editorial tips have consistent image dimensions. Weekly fact uses compact typography and a separate fact panel.
+Video: muted playback, pause button state verified, assets loaded readyState 4; reduced-motion and hidden-document pause handling implemented. No advertising network or tracking added.
+Assets reused from PITO_Contentstudio_2026-10-01 and PITO_AD2_R16_AFSPEELVERSIE. Browser banner uses live text and existing transparent bird (1145px wide), not a newly generated 4K master. Display clips encoded for small on-page playback.
+Comparison: advertisement hierarchy and banner aspect ratio match reference. PITO navigation/hero and narrower side creatives are intentional adaptations; not a pixel-exact whole-site RTL clone.
+Screenshots: pito-campaign-desktop.png; campaign-features-mobile.png.
+Remaining: optional 4K master artwork for export; no claim of native 4K source.

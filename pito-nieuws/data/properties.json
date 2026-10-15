@@ -1,0 +1,53 @@
+[
+  {
+    "address": "Amsterdamlaan 49",
+    "place": "Woerden",
+    "price": 575000,
+    "area": 126,
+    "rooms": 5,
+    "type": "Woonhuis",
+    "sourceName": "Woerden Makelaardij",
+    "sourceUrl": "https://www.woerdenmakelaardij.nl/property/amsterdamlaan-49-woerden-13125",
+    "evidence": "Detailpagina en aanbodoverzicht",
+    "municipality": "woerden",
+    "checkedAt": "2026-10-11",
+    "firstListedAt": null,
+    "photo": null,
+    "status": "Aangeboden volgens geraadpleegde bron",
+    "reviewStatus": "preview"
+  },
+  {
+    "address": "Het Erf 31",
+    "place": "Zegveld",
+    "price": 689000,
+    "area": 172,
+    "rooms": 7,
+    "type": null,
+    "sourceName": "Woerden Makelaardij",
+    "sourceUrl": "https://www.woerdenmakelaardij.nl/property/het-erf-31-zegveld-14199",
+    "evidence": "Aanbodoverzicht; detailpagina niet opnieuw bereikbaar",
+    "municipality": "woerden",
+    "checkedAt": "2026-10-11",
+    "firstListedAt": null,
+    "photo": null,
+    "status": "Aangeboden volgens geraadpleegde bron",
+    "reviewStatus": "preview"
+  },
+  {
+    "address": "Linschoterweg 37",
+    "place": "Woerden",
+    "price": 775000,
+    "area": 145,
+    "rooms": 6,
+    "type": null,
+    "sourceName": "LiNDA Makelaardij",
+    "sourceUrl": "https://www.lindamakelaardij.nl/property/linschoterweg-37-woerden-571",
+    "evidence": "Aanbodoverzicht; detailpagina niet opnieuw bereikbaar",
+    "municipality": "woerden",
+    "checkedAt": "2026-10-11",
+    "firstListedAt": null,
+    "photo": null,
+    "status": "Aangeboden volgens geraadpleegde bron",
+    "reviewStatus": "preview"
+  }
+]

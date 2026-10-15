@@ -1,0 +1,411 @@
+[
+  {
+    "url": "https://www.sportamersfoort.nl/alle-leden/",
+    "name": "Amersfoortse Sportfederatie – leden",
+    "municipalities": [
+      "amersfoort"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:31.751646+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [
+      "https://www.sportamersfoort.nl/feed/",
+      "https://www.sportamersfoort.nl/comments/feed/"
+    ],
+    "discoveredRoutes": [
+      {
+        "url": "https://www.sportamersfoort.nl/",
+        "name": "Nieuws",
+        "external": false
+      },
+      {
+        "url": "https://www.sportamersfoort.nl/nieuwsbrieven-asf/",
+        "name": "Nieuwsbrieven",
+        "external": false
+      },
+      {
+        "url": "https://www.sportamersfoort.nl/agenda/",
+        "name": "Agenda",
+        "external": false
+      },
+      {
+        "url": "https://www.sportamersfoort.nl/leden/zwemvereniging-hoogland-2/",
+        "name": "Zwemvereniging Hoogland",
+        "external": false
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportamersfoort.nl/alle-leden/",
+    "contentType": "text/html; charset=UTF-8",
+    "title": "Leden - Amersfoortse Sportfederatie"
+  },
+  {
+    "url": "https://www.baarn.nl/sporten-in-baarn",
+    "name": "Sporten in Baarn",
+    "municipalities": [
+      "baarn"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:31.751885+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [],
+    "discoveredRoutes": [
+      {
+        "url": "https://www.baarn.nl/cultuur-sport-en-recreatie",
+        "name": "Cultuur, sport en recreatie",
+        "external": false
+      },
+      {
+        "url": "https://www.baarn.nl/nieuws",
+        "name": "Nieuws",
+        "external": false
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.baarn.nl/sporten-in-baarn",
+    "contentType": "text/html; charset=utf-8",
+    "title": "Sporten in Baarn | Gemeente Baarn"
+  },
+  {
+    "url": "https://www.bunnik.nl/sport-recreatie-en-cultuur",
+    "name": "Bunnik sport en cultuur",
+    "municipalities": [
+      "bunnik"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:31.754844+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [],
+    "discoveredRoutes": [
+      {
+        "url": "https://www.bunnik.nl/sport-recreatie-en-cultuur",
+        "name": "Sport, recreatie en cultuur",
+        "external": false
+      },
+      {
+        "url": "https://www.bunnik.nl/nieuwsbrieven",
+        "name": "Nieuwsbrieven",
+        "external": false
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.bunnik.nl/sport-recreatie-en-cultuur",
+    "contentType": "text/html; charset=utf-8",
+    "title": "Sport, recreatie en cultuur"
+  },
+  {
+    "url": "https://www.sportinbunschoten.nl/bunschoten/",
+    "name": "Sport in Bunschoten",
+    "municipalities": [
+      "bunschoten"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:31.756388+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [
+      "https://www.sportinbunschoten.nl/feed/",
+      "https://www.sportinbunschoten.nl/comments/feed/"
+    ],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportinbunschoten.nl/bunschoten/",
+    "contentType": "text/html; charset=UTF-8",
+    "title": "Bunschoten - Sport in Bunschoten"
+  },
+  {
+    "url": "https://www.derondevenen.nl/Wonen_en_leven/Vrije_tijd_sport_en_cultuur/Sport",
+    "name": "Sport De Ronde Venen",
+    "municipalities": [
+      "de-ronde-venen"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:32.345701+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [],
+    "discoveredRoutes": [
+      {
+        "url": "https://www.derondevenen.nl/Wonen_en_leven/Vrije_tijd_sport_en_cultuur",
+        "name": "Vrije tijd, sport en cultuur",
+        "external": false
+      },
+      {
+        "url": "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel/Nieuws/Nieuws:aFkv6zXWTOajiENj2fJtHA",
+        "name": "Nieuws",
+        "external": false
+      },
+      {
+        "url": "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel/Nieuwsbrief_gemeente_De_Ronde_Venen",
+        "name": "Nieuwsbrief",
+        "external": false
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.derondevenen.nl/Wonen_en_leven/Vrije_tijd_sport_en_cultuur/Sport",
+    "contentType": "text/html;charset=UTF-8",
+    "title": "Sport - Gemeente De Ronde Venen"
+  },
+  {
+    "url": "https://www.sportidnieuwegein.nl/wie-zijn-wij/",
+    "name": "SportID Nieuwegein",
+    "municipalities": [
+      "nieuwegein"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:32.387003+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [
+      "https://www.sportidnieuwegein.nl/feed/",
+      "https://www.sportidnieuwegein.nl/comments/feed/"
+    ],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportidnieuwegein.nl/wie-zijn-wij/",
+    "contentType": "text/html; charset=UTF-8",
+    "title": "Wie zijn wij?"
+  },
+  {
+    "url": "https://www.sportutrecht.nl/topsportverenigingen/",
+    "name": "SportUtrecht – clubs",
+    "municipalities": [
+      "utrecht"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:32.961753+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [
+      "https://www.sportutrecht.nl/feed/",
+      "https://www.sportutrecht.nl/comments/feed/"
+    ],
+    "discoveredRoutes": [
+      {
+        "url": "https://www.sportutrecht.nl/nieuws/?filter=true&category=vitaal-sportlandschap",
+        "name": "Nieuws",
+        "external": false
+      },
+      {
+        "url": "https://www.sportutrecht.nl/sportclubadviseurs/",
+        "name": "Sportclubadviseurs",
+        "external": false
+      },
+      {
+        "url": "https://www.sportutrecht.nl/topsport-en-talent/topsportverenigingen/",
+        "name": "Topsportverenigingen",
+        "external": false
+      },
+      {
+        "url": "https://www.sportutrecht.nl/informatie-voor-sportclubs/",
+        "name": "Informatie voor sportclubs",
+        "external": false
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportutrecht.nl/topsportverenigingen/",
+    "contentType": "text/html; charset=UTF-8",
+    "title": "(Top)sportverenigingen - SportUtrecht"
+  },
+  {
+    "url": "https://sportiefzeist.nl/",
+    "name": "Sportief Zeist",
+    "municipalities": [
+      "zeist"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:22:33.131793+00:00",
+    "crawlTest": "robots_unresolved",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200
+  },
+  {
+    "url": "https://cultuurhuiswoudenberg.nl/agenda/",
+    "name": "Cultuurhuis Woudenberg",
+    "municipalities": [
+      "woudenberg"
+    ],
+    "topics": [
+      "Agenda & cultuur"
+    ],
+    "checkedAt": "2026-10-13T11:22:33.186552+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [
+      "https://cultuurhuiswoudenberg.nl/feed/",
+      "https://cultuurhuiswoudenberg.nl/comments/feed/"
+    ],
+    "discoveredRoutes": [
+      {
+        "url": "https://cultuurhuiswoudenberg.nl/",
+        "name": "Cultuurhuis Woudenberg",
+        "external": false
+      },
+      {
+        "url": "https://cultuurhuiswoudenberg.nl/agenda/",
+        "name": "Agenda",
+        "external": false
+      },
+      {
+        "url": "https://cultuurhuiswoudenberg.nl/bibliotheek-woudenberg/",
+        "name": "Bibliotheek Woudenberg",
+        "external": false
+      },
+      {
+        "url": "https://cultuurhuiswoudenberg.nl/kunst-en-cultuur-woudenberg/",
+        "name": "Kunst en Cultuur Woudenberg",
+        "external": false
+      },
+      {
+        "url": "https://cultuurhuiswoudenberg.nl/stichting-cultuurhuis-woudenberg/",
+        "name": "Stichting Cultuurhuis Woudenberg",
+        "external": false
+      },
+      {
+        "url": "https://cultuurhuiswoudenberg.nl/vrijwilligers/",
+        "name": "Vrijwilligers",
+        "external": false
+      },
+      {
+        "url": "https://cultuurhuiswoudenberg.nl/vrijwilliger-worden/",
+        "name": "Vrijwilliger worden",
+        "external": false
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://cultuurhuiswoudenberg.nl/agenda/",
+    "contentType": "text/html; charset=UTF-8",
+    "title": "Agenda – Cultuurhuis Woudenberg"
+  },
+  {
+    "url": "https://cultuurinbaarn.nl/",
+    "name": "Cultuur in Baarn",
+    "municipalities": [
+      "baarn"
+    ],
+    "topics": [
+      "Agenda & cultuur"
+    ],
+    "checkedAt": "2026-10-13T11:22:33.298423+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [
+      "https://www.cultuurinbaarn.nl/feed/",
+      "https://www.cultuurinbaarn.nl/comments/feed/"
+    ],
+    "discoveredRoutes": [
+      {
+        "url": "https://www.cultuurinbaarn.nl/voor-inwoners/jeugdfonds-sport-en-cultuur/",
+        "name": "Jeugdfonds Sport en Cultuur",
+        "external": false
+      },
+      {
+        "url": "https://www.cultuurinbaarn.nl/agenda/",
+        "name": "Agenda",
+        "external": false
+      },
+      {
+        "url": "https://www.cultuurinbaarn.nl/cultuurcafe/",
+        "name": "Cultuurcafé",
+        "external": false
+      },
+      {
+        "url": "https://www.cultuurinbaarn.nl/contact/#cultuurcoach",
+        "name": "Cultuurcoach",
+        "external": false
+      },
+      {
+        "url": "https://www.cultuurinbaarn.nl/actueel/",
+        "name": "Nieuws",
+        "external": false
+      },
+      {
+        "url": "https://www.cultuurinbaarn.nl/actueel/het-laatste-nieuws/",
+        "name": "Bekijk nieuwsberichten",
+        "external": false
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.cultuurinbaarn.nl/",
+    "contentType": "text/html; charset=UTF-8",
+    "title": "Cultuur in Baarn – Ontdek en beleef"
+  },
+  {
+    "url": "https://cultuurinrhenen.nl/",
+    "name": "Cultuur in Rhenen",
+    "municipalities": [
+      "rhenen"
+    ],
+    "topics": [
+      "Agenda & cultuur"
+    ],
+    "checkedAt": "2026-10-13T11:22:34.177658+00:00",
+    "crawlTest": "page_accessible",
+    "feedCandidates": [
+      "https://cultuurinrhenen.nl/feed/",
+      "https://cultuurinrhenen.nl/comments/feed/"
+    ],
+    "discoveredRoutes": [
+      {
+        "url": "https://cultuurinrhenen.nl/cultuuragenda/",
+        "name": "Bekijk agenda",
+        "external": false
+      },
+      {
+        "url": "https://cultuurinrhenen.nl/cultuur-aanbod/",
+        "name": "Cultuuraanbod",
+        "external": false
+      },
+      {
+        "url": "https://cultuurinrhenen.nl/cultuur-educatie/",
+        "name": "Cultuureducatie",
+        "external": false
+      },
+      {
+        "url": "https://www.instagram.com/cultuurinrhenen/",
+        "name": "cultuurinrhenen CultuurInRhenen is een initiatief van het Cultuurplatform Rhenen 🟨🟩🟦🟥🟪",
+        "external": true
+      },
+      {
+        "url": "https://www.instagram.com/p/DOdkhHYEV2U/",
+        "name": "#Cultuur: Stimuleren, Faciliteren, Aanmoedigen, Ve",
+        "external": true
+      }
+    ],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://cultuurinrhenen.nl/",
+    "contentType": "text/html; charset=UTF-8",
+    "title": "Cultuur in Rhenen – Cultuurplatform Rhenen"
+  }
+]

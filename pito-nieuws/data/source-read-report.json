@@ -1,0 +1,15 @@
+{
+  "runAt": "2026-10-13T11:59:06.782193+00:00",
+  "window": [
+    "2026-07-13",
+    "2026-10-13"
+  ],
+  "selected": 2499,
+  "remainingCandidates": 0,
+  "statuses": {
+    "no_article_body": 742,
+    "error": 131,
+    "read": 1626
+  },
+  "autoPublish": false
+}

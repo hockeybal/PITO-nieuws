@@ -1,0 +1,159 @@
+{
+  "searchedAt": "2026-10-10",
+  "scope": "Publicly indexed repository search; not an exhaustive systematic review",
+  "policyVersion": "local-needs-2026-10-v1",
+  "sources": [
+    {
+      "id": "cvdm-2022",
+      "institutionAndYear": "Commissariaat voor de Media · 2022 (aanvullend, niet universitair)",
+      "title": "Lauf & Brennecke — De staat van de lokale nieuws- en informatievoorziening: het burgerperspectief",
+      "method": "Landelijk onderzoek onder 10.343 inwoners van 16 jaar en ouder; samenvatting en tabel 4.3 (p. 24) geraadpleegd.",
+      "finding": "De grootste onderwerpbelangstelling betrof veiligheid/justitie, natuur/milieu, zorg/welzijn, bouw/infrastructuur/verkeer en economie. Ook buurt- en wijkinformatie is relevant voor minder intensieve nieuwsvolgers.",
+      "limitations": "Zelfgerapporteerde belangstelling in 2022, geen klikmeting en geen actuele Utrechtse voorkeurgewichten. Aanvullende landelijke context; niet als recent universitair onderzoek gepresenteerd. Origineel rapport geraadpleegd via een PDF-kopie op een externe site.",
+      "sourceUrl": "https://constable.blog/wp-content/uploads/Rapport-De-staat-van-de-lokale-informatievoorziening-2022.pdf",
+      "publicationUrl": "https://www.cvdm.nl/nieuws/jaarverslag-2022-media-in-beweging/"
+    },
+    {
+      "id": "hu-2026",
+      "institutionAndYear": "Hogeschool Utrecht · 2026",
+      "title": "De Haan & Van den Broek — The Informed Citizen in Local Communities",
+      "method": "15 focusgroepen in acht Nederlandse gemeenten; deelnemers deelden vooraf gebruikte informatiebronnen.",
+      "finding": "Inwoners zoeken praktische informatie, herkenning en verklarende context. Dit onderbouwt informatiebehoeften naast traditionele nieuwsrubrieken.",
+      "limitations": "Kwalitatief onderzoek; geen representatieve Utrechtse percentages of bewezen onderwerpgewichten. Gelezen: institutioneel abstract en toelichting van de auteur van 21 september 2026. HU is een hogeschool, niet Universiteit Utrecht.",
+      "sourceUrl": "https://www.journalismlab.nl/een-publieksgerichte-studie-naar-hoe-inwoners-lokale-journalistiek-ervaren-en-waarderen/",
+      "publicationUrl": "https://doi.org/10.1080/21670811.2026.2730312"
+    },
+    {
+      "id": "vu-2021",
+      "institutionAndYear": "Vrije Universiteit Amsterdam · 2021",
+      "title": "Boesman, Costera Meijer & Kuipers — We Would Never Have Made That Story",
+      "method": "Interviews met 13 journalisten bij drie Nederlandse lokale redacties.",
+      "finding": "Publieksvragen brengen onder meer oplossingsgerichte verhalen, natuur en lokale geschiedenis naar voren. Bewonersvragen verdienen een eigen redactionele ingang.",
+      "limitations": "Indirecte waarneming via journalisten en deelnemende publieken; geen bevolkingspeiling. Oudere aanvulling op de recente studies. Gelezen: repository-abstract.",
+      "sourceUrl": "https://research.vu.nl/en/publications/we-would-never-have-made-that-story-how-public-powered-stories-ch/",
+      "publicationUrl": "https://doi.org/10.1007/978-3-030-45046-5_8"
+    },
+    {
+      "id": "leiden-2025",
+      "institutionAndYear": "Universiteit Leiden · online 2024 / jaargang 2025",
+      "title": "De Koning, Dodds & Vandendaele — Quantifying Community Interest",
+      "method": "13 interviews: tien redacteuren en drie managers bij vier uitgevers in Zuid-Holland; dataverzameling april–mei 2023.",
+      "finding": "Statistieken kunnen helpen, maar brengen ook afhankelijkheid van platformen en meetinstrumenten mee. Gebruik kliks niet als volledige definitie van lokale waarde.",
+      "limitations": "Onderzoek naar redacties, geen representatieve ranglijst van behoeften van inwoners. Uitgeversabstract en geïndexeerde tekst gelezen; volledige tekst niet rechtstreeks toegankelijk. Methode geverifieerd via geïndexeerde uitgeverstekst.",
+      "sourceUrl": "https://www.tandfonline.com/doi/abs/10.1080/1461670X.2024.2412206",
+      "publicationUrl": "https://doi.org/10.1080/1461670X.2024.2412206"
+    },
+    {
+      "id": "maastricht-2024",
+      "institutionAndYear": "Maastricht / TU Eindhoven · 2024",
+      "title": "Tintarev, Knijnenburg & Willemsen — Measuring the benefit of increased transparency and control in news recommendation",
+      "method": "Wetenschappelijk overzicht en onderzoeksagenda voor uitleg en controle bij aanbevelingen.",
+      "finding": "Maak de reden voor selectie zichtbaar en laat bezoekers zelf een andere volgorde kiezen.",
+      "limitations": "Geen lokale voorkeurenmeting. Het artikel benadrukt juist dat onderzoek in echte gebruikssituaties tekortschiet. Gelezen: institutioneel abstract; publicatiedatum 1 april 2024.",
+      "sourceUrl": "https://cris.maastrichtuniversity.nl/en/publications/measuring-the-benefit-of-increased-transparency-and-control-in-ne/",
+      "publicationUrl": "https://doi.org/10.1002/aaai.12171"
+    },
+    {
+      "id": "hah-2024",
+      "institutionAndYear": "UvA / Radboud / Erasmus · 2024",
+      "title": "Damstra, Beutler & De Smit — Gratis maar van grote waarde",
+      "method": "Inhoudsanalyse van Nederlandse huis-aan-huisbladen; gepubliceerd 1 december 2024.",
+      "finding": "Community-inhoud is onderdeel van de lokale nieuwsvoorziening. Aanbodonderzoek is nuttig als context voor onze communitysectie.",
+      "limitations": "Een inhoudsanalyse meet wat media aanbieden, niet wat inwoners willen. Daarom geen voorkeurbonus uit deze studie. Gelezen: uitgeversabstract.",
+      "sourceUrl": "https://www.aup-online.com/content/journals/10.5117/TCW2024.4.002.DAMS",
+      "publicationUrl": "https://doi.org/10.5117/TCW2024.4.002.DAMS"
+    },
+    {
+      "id": "twente-2024",
+      "institutionAndYear": "Universiteit Twente · afstudeeronderzoek 2024",
+      "title": "I.M. Salonurmi — Our Main Tools are (Still) Our Brains",
+      "method": "13 interviews met lokale journalisten of redacteuren uit Nederland en Finland.",
+      "finding": "Relevante praktijkcontext voor AI-ondersteuning en menselijke eindredactie.",
+      "limitations": "Meet AI-adoptie bij professionals, geen voorkeuren van inwoners. Telt mee in de scriptieverkenning, niet als bewijs voor onderwerpvoorkeur. Gelezen: repository-abstract.",
+      "sourceUrl": "https://essay.utwente.nl/essays/100453",
+      "publicationUrl": "https://essay.utwente.nl/essays/100453"
+    }
+  ],
+  "coverage": [
+    {
+      "institution": "Universiteit van Amsterdam",
+      "searchDomains": "dare.uva.nl; uvascripties.nl",
+      "result": "Gezamenlijk artikel huis-aan-huisbladen (2024); aanbodonderzoek, geen voorkeurenmeting."
+    },
+    {
+      "institution": "Vrije Universiteit Amsterdam",
+      "searchDomains": "research.vu.nl",
+      "result": "Publieksgedreven lokale verhalen (2021); oudere studie uit 2010 en DNR 2021 als achtergrond gesignaleerd."
+    },
+    {
+      "institution": "Universiteit Utrecht",
+      "searchDomains": "research-portal.uu.nl; studenttheses.uu.nl",
+      "result": "Geen recente directe lokale behoeftenmeting bevestigd in deze zoekronde."
+    },
+    {
+      "institution": "Universiteit Leiden",
+      "searchDomains": "scholarlypublications.universiteitleiden.nl; studenttheses.universiteitleiden.nl",
+      "result": "Hyperlokale publieksstatistieken (2024/2025), uitgeversrecord geverifieerd. Gerelateerde masterscriptie gesignaleerd; niet apart als onafhankelijk bewijs geteld."
+    },
+    {
+      "institution": "Rijksuniversiteit Groningen",
+      "searchDomains": "research.rug.nl",
+      "result": "Werk over lokale journalistiek en gemeenschappen gesignaleerd; geen directe Nederlandse voorkeurenranglijst bevestigd."
+    },
+    {
+      "institution": "Radboud Universiteit",
+      "searchDomains": "repository.ubn.ru.nl; theses.ubn.ru.nl",
+      "result": "Gezamenlijk artikel huis-aan-huisbladen (2024). Scriptiehit over leerlingen niet gebruikt: titel/datering onvoldoende bevestigd."
+    },
+    {
+      "institution": "Erasmus Universiteit Rotterdam",
+      "searchDomains": "repub.eur.nl; thesis.eur.nl",
+      "result": "Gezamenlijk artikel huis-aan-huisbladen (2024); geen afzonderlijke recente lokale voorkeurenmeting bevestigd."
+    },
+    {
+      "institution": "Tilburg University",
+      "searchDomains": "research.tilburguniversity.edu; arno.uvt.nl",
+      "result": "Technisch aanbevelingsonderzoek (2024) gesignaleerd; geen directe lokale publieksbehoeftenmeting bevestigd."
+    },
+    {
+      "institution": "Universiteit Maastricht",
+      "searchDomains": "cris.maastrichtuniversity.nl",
+      "result": "Transparantie en controle bij nieuwsaanbevelingen (2024), indirect relevant."
+    },
+    {
+      "institution": "Universiteit Twente",
+      "searchDomains": "essay.utwente.nl",
+      "result": "Afstudeeronderzoek AI in lokale redacties (2024); geen inwonersvoorkeurenmeting."
+    },
+    {
+      "institution": "TU Delft",
+      "searchDomains": "repository.tudelft.nl",
+      "result": "PerSpect-aanbevelingsonderzoek (2026) gesignaleerd; technische evaluatie, geen Nederlandse lokale voorkeurenmeting."
+    },
+    {
+      "institution": "TU Eindhoven",
+      "searchDomains": "research.tue.nl; pure.tue.nl",
+      "result": "Medeauteurschap/archief van transparantieonderzoek (2024); niet dubbel geteld."
+    },
+    {
+      "institution": "Wageningen University & Research",
+      "searchDomains": "research.wur.nl",
+      "result": "Geen recente directe Nederlandse lokale behoeftenmeting bevestigd."
+    },
+    {
+      "institution": "Open Universiteit",
+      "searchDomains": "research.ou.nl",
+      "result": "Geen recente directe lokale behoeftenmeting bevestigd."
+    },
+    {
+      "institution": "Aanvullende gespecialiseerde instellingen",
+      "searchDomains": "UvH; PThU; Theologische Universiteit Apeldoorn; Theologische Universiteit Utrecht; Nyenrode",
+      "result": "Aanvullende gecombineerde webzoekvragen; geen passende directe studie bevestigd. Minder diep onderzocht dan de veertien bovenstaande instellingen."
+    },
+    {
+      "institution": "Hogeschool Utrecht (aanvullend)",
+      "searchDomains": "internationalhu.com/research; journalismlab.nl",
+      "result": "Sterk passend praktijkgericht publieksonderzoek uit 2026; expliciet toegevoegd buiten de universitaire groep."
+    }
+  ]
+}

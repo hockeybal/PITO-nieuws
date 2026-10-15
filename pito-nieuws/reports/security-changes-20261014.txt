@@ -1,0 +1,62 @@
+PITO Nieuws — beveiligingswijzigingen, 14 oktober 2026
+
+Baseline
+De exacte lokale kopie van het door Codex Security gegenereerde, verzegelde
+rapport staat in security-baseline-20261014.md. Scan-ID:
+ffca81c1-0864-41a4-b5b4-e39c32499def.
+Dit rapport beschrijft de ontvangen broncode vóór de beveiligingswijzigingen.
+Het bevat één bevestigde bevinding: een ontdekte gemeenteraadlink kon na de
+bronverwerkingsstappen JavaScript uitvoeren in de lokale redactieomgeving.
+Ernst: laag, wegens de lokale preview, vereiste invloed op een externe bron,
+handmatige bronverwerking en een klik door de redacteur.
+Er is geen hoog of kritiek risico aangetoond binnen de onderzochte preview.
+De dekking is gedeeltelijk: 103 unieke runtime-, collector-, configuratie- en
+documentbestanden zijn volledig gelezen; niet alle grote datasets, beelden,
+gegenereerde documenten en historische tests zijn afzonderlijk geaudit.
+Tokenverbruik van de scan kon door de scanhost niet worden gemeten.
+
+Herstelde bronketen
+- Ontdekte feed-, gemeenteraad- en portallinks moeten geldige HTTPS-links zijn,
+  met hostnaam en zonder gebruikersnaam/wachtwoord of besturingstekens.
+- Ongeldige bestaande councilCheckedUrl/councilFinalUrl-waarden worden verwijderd
+  bij de gemeenteraadcontrole; de inventaris weigert onveilige bronlinks.
+- De bronrapportgenerator toont onveilige URLs als gewone tekst. HTML-escaping
+  blijft ook voor toegelaten URLs en labels behouden.
+- De bestaande gegenereerde bronrapporten zijn onderzocht op uitvoerbare
+  linkprotocollen. De volledige datasets zijn niet opnieuw opgebouwd.
+
+Collector-hardening
+scripts/source_security.py biedt een dependency-vrije download- en XML-grens.
+RSS-inname, gemeentelijke documentdownloads, bronontdekking/gemeenteraadcontrole
+en de media-bronaudit gebruiken de veilige HTTPS-downloader.
+Alle DNS-antwoorden moeten publieke IP-adressen zijn. De TCP-verbinding wordt
+op een gecontroleerd numeriek adres vastgezet; TLS blijft de oorspronkelijke
+hostnaam en de normale CA-certificaatketen controleren. Omgevingsproxies worden
+niet gebruikt. Iedere redirect wordt opnieuw gecontroleerd en is begrensd.
+Inhoudsgrootte en TCP/TLS/header/body-tijd zijn begrensd; timeout sluit de socket.
+De systeemresolver heeft zijn eigen DNS-timeout. Een te laat DNS-antwoord leidt
+tot weigering vóór verbinden. Geen live downloads uitgevoerd voor deze fixes.
+Andere historische collectors zijn hiermee niet automatisch allemaal omgezet.
+
+XML-inname
+RSS, KOOP/SRU, DATEX en de mediafeedcontrole gebruiken een gedeelde XML-parser.
+Alleen UTF-8/ASCII is toegelaten; UTF-16/32, NULs, DTDs en entity-declaraties
+worden vóór parsing geweigerd. De bestaande byte- en gzip-limieten blijven gelden.
+Dit sluit de encoding-bypass van de oude ASCII-bytefilter. Er was geen
+onbegrensde entity-expansie of uitlezen van lokale bestanden aangetoond.
+
+Verificatie
+39 offline helpertests: IP/DNS-afwijzing, TLS-hostnaamcontrole, daadwerkelijke
+IP-pinning, redirectgrenzen, bytes/tijdlimieten, HTTPResponse-afsluiting en XML.
+38 gerichte bestaande en nieuwe tests: HTML-escaping, RSS-, SRU-/DATEX-,
+bronlezer-, gemeentelijke-inname- en bronketengedrag. Alle 77 tests slagen.
+Nieuwe bronketenregressies gebruiken tijdelijke gegevens en gemockte downloads;
+ze wijzigen geen echte artikelen, inzendingen of bronbestanden.
+10 gewijzigde collectorbestanden zijn ook syntactisch gecontroleerd.
+
+Livegang
+Dit blijft een lokale Python-preview. Het rapport en de tests zijn geen
+productiegoedkeuring. De echte Laravel/Vue/Strapi-app en hosting moeten vóór
+livegang gecontroleerd worden op accounts/rollen, publicatiestatus, privédata,
+HTTPS, back-ups en herstel. De lokale redactie-identiteit is geen productie-login.
+De parenttaak hardent afzonderlijk de HTTP-server en controleert de lokale UI.

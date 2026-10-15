@@ -1,0 +1,6 @@
+14 oktober 2026 — aanvullende visuele controle
+Mobiel 390px: provincie, agenda Woerden vandaag, wonen Woerden, omgevingszaken en artikel parkeren Woerden gecontroleerd. Geen horizontale paginaoverflow, geen gebroken volledig geladen afbeeldingen. Lazy images buiten beeld niet als volledig gecontroleerd beschouwd.
+Tablet 768px: provincieheader had samengedrukte gemeentenaam; flexverdeling hersteld, woorden blijven leesbaar. Visueel opnieuw gecontroleerd.
+Desktop 1440px: provinciepagina zonder horizontale paginaoverflow.
+9 lokale archieffoto's toegevoegd met exacte locatie, opnamejaar en licentie uit bestaande Commons-bronmetadata. Controleblad local-review-next.jpg. Geen nieuwe gebruiksrechten voor clubfoto's bevestigd.
+Weer en tanken blijven bronlinks; live gegevensintegratie niet actief.

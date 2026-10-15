@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "utrecht-12500-fietsen-onder-het-stationsplein",
+    "municipality": "utrecht",
+    "title": "Onder het Stationsplein is plek voor 12.500 fietsen",
+    "summary": "Boven het plein loop je richting de trein. Daaronder ligt een kleine wereld voor fietsers: een stalling met ruimte voor 12.500 fietsen.",
+    "body": "Bij Utrecht Centraal hoort niet alleen een groot spoorwegstation. Onder het Stationsplein ligt ook een enorme fietsenstalling. De gemeente beschrijft een capaciteit van 12.500 fietsen.\n\nDe stalling verbindt twee dagelijkse reizen: de fietsrit door de stad en de treinreis verder weg. Daardoor is het plein niet alleen een plek om over te steken, maar ook een overstappunt tussen twee vervoermiddelen.\n\nHet is een bijzonder stukje Utrecht dat vanaf straatniveau nauwelijks zijn volledige omvang laat zien. Voor actuele toegang, tarieven en stallingsregels kun je de gemeentelijke informatie en de exploitant raadplegen.",
+    "sourceName": "Gemeente Utrecht",
+    "sourceUrl": "https://www.utrecht.nl/city-of-utrecht/mobility/cycling/bicycle-parking/bicycle-parking-stationsplein/bicycle-parking-stationsplein-utrecht-largest-in-the-world",
+    "highlight": "12.500",
+    "highlightLabel": "plekken voor fietsen",
+    "imageKey": "utrecht-fietsenstalling",
+    "imageNote": "Archiefbeeld Stationspleinstalling (2019)",
+    "status": "preview",
+    "verifiedAt": "2026-10-10",
+    "reviewBy": "2027-04-10",
+    "origin": "Nieuw brongecontroleerd voorbeeld voor de lokale preview; geen import van bestaande PITO-weetjes."
+  },
+  {
+    "slug": "woerden-romeins-schip-onder-het-centrum",
+    "municipality": "woerden",
+    "title": "Een parkeergarage bracht een Romeins schip aan het licht",
+    "summary": "Bij de bouw van parkeergarage Castellum werd in 2003 een Romeins vrachtschip gevonden: de Woerden 7.",
+    "body": "Een bouwplaats kan onverwacht een venster op het verleden openen. In Woerden gebeurde dat in 2003 bij de aanleg van parkeergarage Castellum. Daar kwam een Romeins vrachtschip tevoorschijn, bekend als de Woerden 7.\n\nDe vondst past bij het Romeinse verleden van de stad. Water was een belangrijke route voor het vervoeren van goederen. De scheepsresten maken die geschiedenis tastbaar: het gaat niet alleen om een verdwenen fort, maar ook om het verkeer en het werk dat daarbij hoorde.\n\nBeleef Woerden beschrijft de vondst als onderdeel van het verhaal over Romeinse scheepvaart. Zo blijkt onder een alledaagse plek om je auto te parkeren een heel andere laag van de stad te liggen.",
+    "sourceName": "Beleef Woerden",
+    "sourceUrl": "https://www.beleefwoerden.com/nl/wat-te-zien/romeinse-limes/castellum-laurium/scheepvaart",
+    "highlight": "2003",
+    "highlightLabel": "een vondst onder de stad",
+    "imageKey": "archive-photo-133365442",
+    "status": "preview",
+    "verifiedAt": "2026-10-10",
+    "reviewBy": "2027-04-10",
+    "origin": "Nieuw brongecontroleerd voorbeeld voor de lokale preview; geen import van bestaande PITO-weetjes.",
+    "imageNote": "Woerden · archieffoto 2022, niet de opgraving"
+  }
+]

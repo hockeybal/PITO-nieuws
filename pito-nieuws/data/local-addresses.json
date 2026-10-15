@@ -1,0 +1,822 @@
+[
+  {
+    "municipality": "amersfoort",
+    "name": "Amersfoort",
+    "homepage": "https://www.amersfoort.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.amersfoort.nl/contact",
+        "label": "contactpagina",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.amersfoort.nl/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "report": {
+        "url": "https://www.amersfoort.nl/melding-openbare-ruimte",
+        "label": "Melding openbare ruimte",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "baarn",
+    "name": "Baarn",
+    "homepage": "https://www.baarn.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.baarn.nl/contact",
+        "label": "Alle contactmogelijkheden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.baarn.nl/afval-ophalen-of-wegbrengen",
+        "label": "Afvalinformatie",
+        "status": "verified",
+        "verification": "Official municipal page read via web on 2026-10-14",
+        "calendarCandidates": []
+      },
+      "report": {
+        "status": "not_found",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "bunnik",
+    "name": "Bunnik",
+    "homepage": "https://www.bunnik.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.bunnik.nl/contact-en-openingstijden",
+        "label": "Contact en openingstijden\n                                \n                             \n                             \n                                Neem contact op met de gemeente",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.bunnik.nl/wonen-en-leefomgeving/afval",
+        "label": "Afval\n                                \n                             \n                             \n                                Afvalkalender, kliko's, recyclingstation en meer",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.bunnik.nl/wonen-en-leefomgeving/afval/afvalkalender",
+            "label": "Afvalkalender"
+          },
+          {
+            "url": "https://21burgerportaal.mendixcloud.com/p/rmn/landing/",
+            "label": "Naar de afvalkalender\n     \n     (Verwijst naar een externe website)"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.bunnik.nl/wonen-en-leefomgeving/melding-openbare-ruimte",
+        "label": "Melding openbare ruimte\n                                \n                             \n                             \n                                Meld kapotte spullen, overlast of andere zaken",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "bunschoten",
+    "name": "Bunschoten",
+    "homepage": "https://www.bunschoten.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.bunschoten.nl/openingstijden",
+        "label": "Contact en openingstijden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.bunschoten.nl/afval-en-milieu",
+        "label": "Afval en milieu",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "report": {
+        "url": "https://www.bunschoten.nl/melding",
+        "label": "Melding openbare ruimte",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "de-bilt",
+    "name": "De Bilt",
+    "homepage": "https://www.debilt.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.debilt.nl/contact-en-openingstijden",
+        "label": "Contact en openingstijden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.debilt.nl/afval-en-groen/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.debilt.nl/afval-en-groen/afval/afval-of-grofvuil-laten-ophalen",
+            "label": "Afval of grofvuil laten ophalen\n                                \n                             \n                             \n                                Afvalkalender, grofvuil, elektrische apparaten en oud ijzer"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.debilt.nl/een-melding-doen",
+        "label": "Ik wil iets melden",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "de-ronde-venen",
+    "name": "De Ronde Venen",
+    "homepage": "https://www.derondevenen.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.derondevenen.nl/Configuratie/Contact_of_bezoeken",
+        "label": "Alle openingstijden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.derondevenen.nl/Wonen_en_leven/Afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.derondevenen.nl/Wonen_en_leven/Afval/Afvalkalender",
+            "label": "Afvalkalender"
+          },
+          {
+            "url": "https://www.derondevenen.nl/Wonen_en_leven/Afval/Afvalkalender",
+            "label": "Afvalkalender"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.derondevenen.nl/Wonen_en_leven/Iets_melden_klacht_indienen_of_bezwaar_maken",
+        "label": "Iets melden, vragen, klacht indienen of bezwaar maken",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "eemnes",
+    "name": "Eemnes",
+    "homepage": "https://www.eemnes.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.eemnes.nl/contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.eemnes.nl/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.eemnes.nl/afvalkalender",
+            "label": "Afvalkalender"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.eemnes.nl/melding-doen",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "houten",
+    "name": "Houten",
+    "homepage": "https://www.houten.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.houten.nl/gemeentelijke-organisatie/contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.houten.nl/afval/afvalkalender",
+        "label": "Afvalinformatie",
+        "status": "verified",
+        "verification": "Official municipal page read via web on 2026-10-14",
+        "calendarCandidates": []
+      },
+      "report": {
+        "status": "not_found",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "ijsselstein",
+    "name": "IJsselstein",
+    "homepage": "https://www.ijsselstein.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.ijsselstein.nl/contact-en-openingstijden",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.ijsselstein.nl/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "report": {
+        "url": "https://www.ijsselstein.nl/melding-klacht-of-bezwaar",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "leusden",
+    "name": "Leusden",
+    "homepage": "https://www.leusden.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.leusden.nl/contact",
+        "label": "Openingstijden milieustraat",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.leusden.nl/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.leusden.nl/afval/afvalkalender-mijn-afvalwijzer",
+            "label": "Afvalkalender (Mijn Afvalwijzer)"
+          }
+        ]
+      },
+      "report": {
+        "status": "not_found",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "lopik",
+    "name": "Lopik",
+    "homepage": "https://www.lopik.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.lopik.nl/contact-en-openingstijden",
+        "label": "Contact & openingstijden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.lopik.nl/afval-grofvuil",
+        "label": "Grofvuil",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "report": {
+        "url": "https://www.lopik.nl/melding-doen",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "montfoort",
+    "name": "Montfoort",
+    "homepage": "https://www.montfoort.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.montfoort.nl/Contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.montfoort.nl/Alle_onderwerpen/Afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.montfoort.nl/Alle_onderwerpen/Afval/Afvalkalender",
+            "label": "Afvalkalender"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.montfoort.nl/Contact/Melding_doen",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "nieuwegein",
+    "name": "Nieuwegein",
+    "homepage": "https://www.nieuwegein.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.nieuwegein.nl/contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.nieuwegein.nl/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.nieuwegein.nl/afval/afvalkalender",
+            "label": "Afvalkalender"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.nieuwegein.nl/mor",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "oudewater",
+    "name": "Oudewater",
+    "homepage": "https://www.oudewater.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.oudewater.nl/Contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.oudewater.nl/Afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.oudewater.nl/Afval/Afvalkalender",
+            "label": "Afvalkalender"
+          },
+          {
+            "url": "https://www.oudewater.nl/Afval/Afval_app",
+            "label": "Afval-app"
+          },
+          {
+            "url": "https://www.oudewater.nl/Afval/Afvalkalender",
+            "label": "Afvalkalender"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.oudewater.nl/Melding_doen",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "renswoude",
+    "name": "Renswoude",
+    "homepage": "https://www.renswoude.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.renswoude.nl/contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.renswoude.nl/afvalinzameling",
+        "label": "afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "http://www.acv-afvalkalender.nl/",
+            "label": "Ga naar de afvalkalender"
+          }
+        ]
+      },
+      "report": {
+        "status": "not_found",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "rhenen",
+    "name": "Rhenen",
+    "homepage": "https://www.rhenen.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.rhenen.nl/info-over-de-gemeente/service-en-contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.rhenen.nl/aanvragen-en-regelen/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.rhenen.nl/aanvragen-en-regelen/afval/ophaaldagen",
+            "label": "Ophaaldagen"
+          },
+          {
+            "url": "https://www.rhenen.nl/aanvragen-en-regelen/afval/ophaaldagen",
+            "label": "Ophaaldagen"
+          },
+          {
+            "url": "https://www.mijnafvalwijzer.nl/",
+            "label": "Naar de website van Afvalwijzer\n     \n     (Verwijst naar een externe website)"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.rhenen.nl/praat-en-doe-mee/meldingen-overlast-openbare-ruimte-en-vragen",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "soest",
+    "name": "Soest",
+    "homepage": "https://www.soest.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.soest.nl/contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.soest.nl/in-de-gemeente-soest/afvalkalender",
+        "label": "Afvalkalender",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.soest.nl/in-de-gemeente-soest/afvalkalender",
+            "label": "Afvalkalender"
+          },
+          {
+            "url": "https://21burgerportaal.mendixcloud.com/p/rmn/landing/",
+            "label": "RMN afvalkalender\n     \n     (Verwijst naar een externe website)"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.soest.nl/wat-wilt-u-melden",
+        "label": "Melding openbare ruimte",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "stichtse-vecht",
+    "name": "Stichtse Vecht",
+    "homepage": "https://www.stichtsevecht.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.stichtsevecht.nl/contact-en-openingstijden",
+        "label": "Contact en openingstijden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.stichtsevecht.nl/afval",
+        "label": "Afval\n                                \n                             \n                             \n                                Bekijk de afvalkalender of vraag een kliko aan",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.stichtsevecht.nl/afval/afvalkalender",
+            "label": "Bekijk hoe je de app kan downloaden"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.stichtsevecht.nl/wonen-en-leefomgeving/melding-doen/melding-openbare-ruimte",
+        "label": "Melding doen openbare ruimte\n                                \n                             \n                             \n                                Maak een melding via FIXI",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "utrecht",
+    "name": "Utrecht",
+    "homepage": "https://www.utrecht.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.utrecht.nl/contact/",
+        "label": "Meer contactinformatie",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.utrecht.nl/wonen-en-leven/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "report": {
+        "status": "not_found",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "utrechtse-heuvelrug",
+    "name": "Utrechtse Heuvelrug",
+    "homepage": "https://www.heuvelrug.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.heuvelrug.nl/contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.heuvelrug.nl/alles-over-afval",
+        "label": "Afval, Milieustraat",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.heuvelrug.nl/afvalapp-en-afvalkalender",
+            "label": "Afvalkalender en afvalapp"
+          }
+        ]
+      },
+      "report": {
+        "status": "not_found",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "veenendaal",
+    "name": "Veenendaal",
+    "homepage": "https://www.veenendaal.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.veenendaal.nl/info-over-de-gemeente/over-de-gemeente/contact-en-openingstijden",
+        "label": "Contact en openingstijden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.veenendaal.nl/wonen-en-leefomgeving/afval-en-riolering",
+        "label": "Afval en riolering",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "report": {
+        "url": "https://www.veenendaal.nl/wonen-en-leefomgeving/melding-doen",
+        "label": "Melding doen\n                                \n                             \n                             \n                                Meld kapotte spullen, overlast of andere zaken",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "vijfheerenlanden",
+    "name": "Vijfheerenlanden",
+    "homepage": "https://www.vijfheerenlanden.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.vijfheerenlanden.nl/contact-en-openingstijden",
+        "label": "Meer contactgegevens en openingstijden",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.vijfheerenlanden.nl/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.vijfheerenlanden.nl/afvalinzameling",
+            "label": "Afvalinzameling \n                                 Aanbieden van huisafval, afvalkalender en milieustraten"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.vijfheerenlanden.nl/melding-doen",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "wijk-bij-duurstede",
+    "name": "Wijk bij Duurstede",
+    "homepage": "https://www.wijkbijduurstede.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.wijkbijduurstede.nl/contact-en-service",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.wijkbijduurstede.nl/afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.wijkbijduurstede.nl/afval/afvalwijzer",
+            "label": "AfvalWijzer"
+          },
+          {
+            "url": "https://www.wijkbijduurstede.nl/afval/afvalwijzer",
+            "label": "AfvalWijzer"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.wijkbijduurstede.nl/meldingen-en-verzoeken",
+        "label": "Melding openbare ruimte/handhaving doorgeven",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "woerden",
+    "name": "Woerden",
+    "homepage": "https://www.woerden.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.woerden.nl/Contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.woerden.nl/Afval",
+        "label": "Afval",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.woerden.nl/Afval/Afvalkalender",
+            "label": "Afvalkalender"
+          },
+          {
+            "url": "https://www.woerden.nl/Afval/Afval_app",
+            "label": "Afval-app"
+          },
+          {
+            "url": "https://www.woerden.nl/Afval/Afvalkalender",
+            "label": "Afvalkalender"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.woerden.nl/Melding_doen",
+        "label": "Melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "woudenberg",
+    "name": "Woudenberg",
+    "homepage": "https://www.woudenberg.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.woudenberg.nl/service-en-contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.woudenberg.nl/afval",
+        "label": "Afvalinformatie",
+        "status": "verified",
+        "verification": "Official municipal page read via web on 2026-10-14",
+        "calendarCandidates": []
+      },
+      "report": {
+        "status": "not_found",
+        "calendarCandidates": []
+      }
+    }
+  },
+  {
+    "municipality": "zeist",
+    "name": "Zeist",
+    "homepage": "https://www.zeist.nl/",
+    "checkedAt": "2026-10-14",
+    "homepageReachable": true,
+    "services": {
+      "municipality": {
+        "url": "https://www.zeist.nl/contact",
+        "label": "Contact",
+        "status": "verified",
+        "calendarCandidates": []
+      },
+      "waste": {
+        "url": "https://www.zeist.nl/afval/afvalkalender",
+        "label": "Afvalkalender",
+        "status": "verified",
+        "calendarCandidates": [
+          {
+            "url": "https://www.zeist.nl/afval/afvalkalender",
+            "label": "Afvalkalender en RMN-afvalapp"
+          },
+          {
+            "url": "https://21burgerportaal.mendixcloud.com/p/rmn/landing/",
+            "label": "Afvalkalender\n     \n     (Verwijst naar een externe website)"
+          }
+        ]
+      },
+      "report": {
+        "url": "https://www.zeist.nl/veiligheid/een-melding-doen",
+        "label": "Een melding doen",
+        "status": "verified",
+        "calendarCandidates": []
+      }
+    }
+  }
+]

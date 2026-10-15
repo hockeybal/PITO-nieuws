@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-14",
+  "method": "Live in-app browser DOM measurement of all municipality landing pages at 390 and 1440 pixels",
+  "checks": [
+    {
+      "municipality": "amersfoort",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "baarn",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "bunnik",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "bunschoten",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "de-bilt",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "de-ronde-venen",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "eemnes",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "houten",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "ijsselstein",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "leusden",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "lopik",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "montfoort",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "nieuwegein",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "oudewater",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "renswoude",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "rhenen",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "soest",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "stichtse-vecht",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "utrecht",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "utrechtse-heuvelrug",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "veenendaal",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "vijfheerenlanden",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "wijk-bij-duurstede",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "woerden",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "woudenberg",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "zeist",
+      "viewport": 390,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "amersfoort",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "baarn",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "bunnik",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "bunschoten",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "de-bilt",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "de-ronde-venen",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "eemnes",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "houten",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "ijsselstein",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "leusden",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "lopik",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "montfoort",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "nieuwegein",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "oudewater",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "renswoude",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "rhenen",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "soest",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "stichtse-vecht",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "utrecht",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "utrechtse-heuvelrug",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "veenendaal",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "vijfheerenlanden",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "wijk-bij-duurstede",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "woerden",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "woudenberg",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    },
+    {
+      "municipality": "zeist",
+      "viewport": 1440,
+      "horizontalPageOverflow": false,
+      "topicReadingEdgesConsistent": true
+    }
+  ],
+  "limits": "Measures horizontal page overflow and topic section reading edges; not a claim of pixel-perfect review of every article, advert or open filter state."
+}

@@ -1,0 +1,78 @@
+{
+  "desktop": [
+    {
+      "route": "/nieuws/utrecht/woerden",
+      "largestNewsImage": 419,
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "route": "/nieuws/utrecht/woerden/wonen",
+      "largestNewsImage": 251,
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "route": "/nieuws/utrecht/woerden/onderwerp/wonen-omgeving",
+      "largestNewsImage": 360,
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "route": "/agenda/utrecht/woerden/vandaag",
+      "largestNewsImage": 0,
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "route": "/nieuws/utrecht/artikel/woerden-onderzoekt-gebruik-van-parkeerterreinen-bij-station",
+      "largestNewsImage": 428,
+      "overflow": false,
+      "width": 1280
+    },
+    {
+      "route": "/",
+      "largestNewsImage": 0,
+      "overflow": false,
+      "width": 1280
+    }
+  ],
+  "mobile": [
+    {
+      "route": "/",
+      "largestNewsImage": 0,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "/nieuws/utrecht",
+      "largestNewsImage": 280,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "/nieuws/utrecht/woerden/wonen",
+      "largestNewsImage": 201,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "/nieuws/utrecht/woerden/onderwerp/wonen-omgeving",
+      "largestNewsImage": 280,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "/agenda/utrecht/woerden/vandaag",
+      "largestNewsImage": 0,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "route": "/nieuws/utrecht/artikel/woerden-onderzoekt-gebruik-van-parkeerterreinen-bij-station",
+      "largestNewsImage": 201,
+      "overflow": false,
+      "width": 390
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  [
+    "baarn",
+    3884,
+    2820,
+    "downloaded"
+  ],
+  [
+    "bunnik",
+    2048,
+    1536,
+    "downloaded"
+  ],
+  [
+    "ijsselstein",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "leusden",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "nieuwegein",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "renswoude",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "soest",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "utrechtse-heuvelrug",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "veenendaal",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "wijk-bij-duurstede",
+    "HTTP Error 429: Too many requests (f061ab2)"
+  ],
+  [
+    "woudenberg",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "zeist",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "woerden",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "montfoort",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "bunschoten",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "de-bilt",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "eemnes",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "houten",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "lopik",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "oudewater",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "stichtse-vecht",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "utrecht",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  [
+    "vijfheerenlanden",
+    "HTTP Error 429: Too Many Requests"
+  ]
+]

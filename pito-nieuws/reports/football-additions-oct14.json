@@ -1,0 +1,54 @@
+[
+  {
+    "name": "SV Spakenburg",
+    "aliases": [
+      "Spakenburg"
+    ],
+    "url": "https://spakenburg.com/",
+    "municipality": "bunschoten",
+    "discoverySource": "https://spakenburg.com/contact/",
+    "sport": "voetbal",
+    "checkedAt": "2026-10-14T03:14:49.941214+00:00",
+    "feedChecks": [
+      {
+        "url": "https://spakenburg.com/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 10
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Feedadapter toevoegen en geografie controleren",
+    "status": "website_verified",
+    "publicationEnabled": false,
+    "rights": "Signaleringsbron; geen toestemming voor overname van foto’s of teksten vastgesteld.",
+    "scope": "Eigen clubnieuws, wedstrijdverslagen, programma en afgelastingen.",
+    "feedStatus": "feed_verified_not_connected",
+    "feed": "https://spakenburg.com/feed/"
+  },
+  {
+    "name": "VV Hooglanderveen",
+    "aliases": [
+      "Hooglanderveen"
+    ],
+    "url": "https://www.vvhooglanderveen.nl/",
+    "municipality": "amersfoort",
+    "discoverySource": "https://www.vvhooglanderveen.nl/bestuur",
+    "sport": "voetbal",
+    "checkedAt": "2026-10-14T03:14:50.405210+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.vvhooglanderveen.nl/home/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 1
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Feedadapter toevoegen en geografie controleren",
+    "status": "website_verified",
+    "publicationEnabled": false,
+    "rights": "Signaleringsbron; geen toestemming voor overname van foto’s of teksten vastgesteld.",
+    "scope": "Eigen clubnieuws, wedstrijdverslagen, programma en afgelastingen.",
+    "feedStatus": "feed_verified_not_connected",
+    "feed": "https://www.vvhooglanderveen.nl/home/feed/"
+  }
+]

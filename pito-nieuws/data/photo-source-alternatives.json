@@ -1,0 +1,6 @@
+[
+ {"name":"Wikimedia Commons","url":"https://commons.wikimedia.org/","status":"metadata_and_photo_intake","rights":"Per bestand gecontroleerde CC BY, CC BY-SA of CC0; geen blanket clearance","captureDateMinimum":"2022-01-01","limitation":"HTTP 429; Retry-After 600 gerespecteerd"},
+ {"name":"Utrecht Beeldbank","url":"https://utrechtbeeldbank.nl/","status":"not_licensed_for_current_commercial_scope","evidence":"https://utrechtbeeldbank.nl/","rights":"Homepage beperkt gebruik tot niet-commerciële doeleinden","action":"Geen foto's overgenomen"},
+ {"name":"Bibliotheek Utrecht perscollectie","url":"https://bub.bibliotheekutrecht.nl/nl/pages/pers","status":"login_required_for_collection","rights":"Perspagina vraagt fotograaf en Bibliotheek Utrecht te vermelden; individuele datumcontrole blijft nodig","action":"Perspagina onderzocht; collectie vraagt inloggen. Geen foto's overgenomen"},
+ {"name":"RCE Beeldbank","url":"https://beeldbank.cultureelerfgoed.nl/","status":"potential_source_date_filter_unresolved","evidence":"https://beeldbank.cultureelerfgoed.nl/rechten","rights":"RCE-eigen foto's volgens bron CC BY-SA 4.0 of vermelde 3.0; derdenrechten afzonderlijk","action":"Zoekresultaten gecontroleerd. Zoekterm 2024 kan ook een adres 20-24 treffen; geen resultaten zonder bewezen opnamedatum geïmporteerd"}
+]

@@ -1,0 +1,41 @@
+VASTE PROJECTAFSPRAKEN — bevestigd door gebruiker op 12 oktober 2026
+
+Doel: een volwaardig lokaal nieuwsplatform binnen de bestaande PITO-website,
+voor alle 26 gemeenten in Utrecht. Nieuwsaanvoer, eigen artikelen en beeld
+moeten brede lokale dekking bieden. De relevante lokale edities van indebuurt,
+AD, RTV Utrecht en lokale kranten zijn vergelijkingsmateriaal voor gemiste
+onderwerpen; niet een verzameling om letterlijk over te nemen.
+
+NIET KLAAR wanneer alleen feeds, kandidaatlinks of veel concepten bestaan.
+Gereedheid vereist actuele, gecontroleerde berichtgeving per gemeente,
+geen onverklaarde gaten in belangrijke onderwerpen, betrouwbare updates,
+werkende Strapi-aanvoer en gecontroleerde tekst- en beeldrechten.
+
+Op nieuwshomepages: hoofdnieuws en themarubrieken, Vandaag te doen,
+Agenda deze week, gemeenteagenda, lokale vacatures/aanbod en PITO-promoties.
+Agenda en activiteiten komen uit dezelfde PITO-bron en filteren per gemeente.
+Google voorkeursbronknop voor pito.app behouden; beschikbaarheid bij Google
+nog afzonderlijk bevestigen. Geen indexering van de lokale conceptomgeving.
+
+Bronvermelding alleen is geen toestemming. Schrijf zelfstandig op basis van
+gecontroleerde feiten, niet door artikelzinnen één op één te parafraseren.
+Bronlink, bronpublicatie, gebeurtenisdatum, eigen publicatiedatum en
+controle/revisiedatum gescheiden opslaan. Geen bronpublicatie als fictieve
+PITO-publicatiedatum. Geen onbeoordeelde beschuldigingen of signalementen.
+
+Foto's: voorkeur eigen PITO-beelden, aantoonbare toestemming of geschikte
+licentie. Maker, bron, licentie/bewijs, datum en bewerkingen vastleggen.
+Geen automatische foto-overname op basis van RSS, og:image of broncredit.
+Gebruiker wil echte foto's vanaf 2022; onbekende opnamedatum eerst controleren.
+Context- en archiefbeeld niet presenteren als foto van de beschreven gebeurtenis.
+Geen herhaling van dezelfde afbeelding binnen dezelfde nieuwspagina.
+
+UITROL
+Alle 26 gemeenten volgens dezelfde bron- en kwaliteitscriteria behandelen.
+Geen live publicatie van onvolledige of ongecontroleerde artikelen.
+Rapporteer feitelijke dekking en openstaande stappen, niet alleen aantallen.
+Dit document is projectgeheugen; het is geen bewijs van voltooide uitvoering.
+
+Beeldrelevantie 12 oktober: onderwerp gaat vóór variatie. Voetbal is geen buitenfitness; geen generiek buurtbeeld als automatische opvulling. Bij specifieke locaties alleen een gecontroleerde locatieopname of herkenbaar aangeduide onderwerpillustratie. Beeldhiaten: reports/beeldhiaten.json.
+
+12 oktober vervolg: echte relevante foto’s hebben voorkeur boven generieke AI. Sportlust clubbericht alleen gemeentelijke homepage (Woerden), geen provinciale opening. Actualiteit vóór afwisseling in rangschikking. Hergebruikvoorwaarden Sportlust gecontroleerd: geen vrije herpublicatie; fotogalerijlink in plaats van AI-beeld. Runstatus alle bestaande adapters: data/pipeline-report.json; 40/40 RSS bereikbaar.

@@ -1,0 +1,2689 @@
+{
+  "checkedAt": "2026-10-13T11:14:51.432059+00:00",
+  "feedRun": "2026-10-13T10:40:25.265476+00:00",
+  "feedCount": 69,
+  "feedStatuses": {
+    "ok": 69
+  },
+  "newSignals": 28,
+  "articleStatuses": {
+    "draft": 6,
+    "preview": 392
+  },
+  "rtvSample": [
+    {
+      "title": "Na ophef over slacht varkens past kinderboerderij informatiebordjes aan",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103101/na-ophef-over-slacht-varkens-past-kinderboerderij-informatiebordjes-aan",
+      "inbox": true,
+      "document": true,
+      "article": true,
+      "reason": "Artikelrecord aanwezig; redactionele status afzonderlijk controleren"
+    },
+    {
+      "title": "Vanmiddag tweede zitting in schokkende zaak rond in brand gestoken Paul",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103277/zaak-rond-in-brand-gestoken-paul-69-gaat-vandaag-verder-in-de-rechtbank",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Gewapende man nam medicijnen mee uit gezondheidscentrum Amersfoort",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103366/gewapende-man-nam-medicijnen-mee-uit-gezondheidscentrum-amersfoort",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Statiegeldoverlast kost Utrecht 1,3 miljoen euro per jaar",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103225/statiegeldoverlast-kost-utrecht-1-3-miljoen-euro-per-jaar",
+      "inbox": true,
+      "document": true,
+      "article": true,
+      "reason": "Artikelrecord aanwezig; redactionele status afzonderlijk controleren"
+    },
+    {
+      "title": "Morgen staking in ov: dit betekent het voor jou",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103003/morgen-staking-in-ov-dit-betekent-het-voor-jou",
+      "inbox": true,
+      "document": true,
+      "article": true,
+      "reason": "Artikelrecord aanwezig; redactionele status afzonderlijk controleren"
+    },
+    {
+      "title": "Leidsche Rijn voegt zich bij wijken met zeer lage vaccinatiegraad: 'We maken ons zorgen'",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103214/leidsche-rijn-voegt-zich-bij-wijken-met-zeer-lage-vaccinatiegraad-we-maken-ons-zorgen",
+      "inbox": true,
+      "document": true,
+      "article": true,
+      "reason": "Artikelrecord aanwezig; redactionele status afzonderlijk controleren"
+    },
+    {
+      "title": "In Marokko verdwenen Ouadoud zit mogelijk in regio Utrecht",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103223/in-marokko-verdwenen-ouadoud-zit-mogelijk-in-regio-utrecht",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "112-nieuws: Politie zoekt vrouw na oplichting via sms | Jongens melden zich na drankdiefstal",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103213/112-nieuws-politie-zoekt-vrouw-na-oplichting-via-sms-jongens-melden-zich-na-drankdiefstal",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Eind lijkt in zicht voor Amersfoorts windplan: 'Groot besluit voor de stad'",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102862/eind-lijkt-in-zicht-voor-amersfoorts-windplan-groot-besluit-voor-de-stad",
+      "inbox": true,
+      "document": true,
+      "article": true,
+      "reason": "Artikelrecord aanwezig; redactionele status afzonderlijk controleren"
+    },
+    {
+      "title": "Sport Kort week 42: De Ligt staat na 11 maanden voor rentree | Van de Zandschulp stunt in Shanghai",
+      "url": "https://www.rtvutrecht.nl/sport/4102861/sport-kort-week-42-de-ligt-staat-na-11-maanden-voor-rentree-van-de-zandschulp-stunt-in-shanghai",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "Chris de Graaf analist voor FC Twente: 'Maar wil geen job over de rug van anderen'",
+      "url": "https://www.rtvutrecht.nl/sport/4103074/chris-de-graaf-analist-voor-fc-twente-maar-wil-geen-job-over-de-rug-van-anderen",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "Max (19) hangt met zijn fotoreeks in het Rijksmuseum: 'Echt bizar'",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103040/max-19-hangt-met-zijn-fotoreeks-in-het-rijksmuseum-echt-bizar",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Vakbond over misstanden bij verzorgingshuis Tamarinde: ‘Sluit afdelingen’",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103044/vakbond-over-misstanden-bij-verzorgingshuis-tamarinde-sluit-afdelingen",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Sterrenrestaurant Karel 5 haalt nieuwe 'chef de cuisine' in huis",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102975/sterrenrestaurant-karel-5-haalt-nieuwe-chef-de-cuisine-in-huis",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Nu landelijk verbod dichtbij is, zien gemeenten kans om fatbike te weren",
+      "url": "https://www.rtvutrecht.nl/nieuws/4098633/nu-landelijk-verbod-dichtbij-is-zien-gemeenten-kans-om-fatbike-te-weren",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Bewoners van verzorgingshuis Tamarinde zitten in de kou met dikke luiers en vet haar",
+      "url": "https://www.rtvutrecht.nl/nieuws/4101185/bewoners-van-verzorgingshuis-tamarinde-zitten-in-de-kou-met-dikke-luiers-en-vet-haar",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Sterrenkijker legt bijzonder natuurfenomeen vast vanuit Wijk bij Duurstede: 'Ik had het niet verwacht'",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102584/sterrenkijker-legt-bijzonder-natuurfenomeen-vast-vanuit-wijk-bij-duurstede-ik-had-het-niet-verwacht",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Marians dochter is vermoord, nu vertelt ze haar verhaal",
+      "url": "https://www.rtvutrecht.nl/nieuws/4101187/marians-dochter-is-vermoord-nu-vertelt-ze-haar-verhaal",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Utrecht volgens Puck Pieterse: 'Negen van de tien keer is het rondje Amerongen'",
+      "url": "https://www.rtvutrecht.nl/nieuws/4101134/utrecht-volgens-puck-pieterse-negen-van-de-tien-keer-is-het-rondje-amerongen",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Stookseizoen weer van start, maar hoe schadelijk is houtrook eigenlijk?",
+      "url": "https://www.rtvutrecht.nl/nieuws/4101149/stookseizoen-weer-van-start-maar-hoe-schadelijk-is-houtrook-eigenlijk",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Rini (72) brengt al bijna 20 jaar al zijn zaterdagen vrijwillig door in het hospice in IJsselstein",
+      "url": "https://www.rtvutrecht.nl/nieuws/4101653/rini-72-brengt-al-bijna-20-jaar-al-zijn-zaterdagen-vrijwillig-door-in-het-hospice-in-ijsselstein",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Jongens melden zich na kraken drankautomaat",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103200/jongens-melden-zich-na-kraken-drankautomaat",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Politie toont beelden van vrouw in Utrechtse supermarkt na 'smishing'",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103195/politie-toont-beelden-van-vrouw-in-utrechtse-supermarkt-na-smishing",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Ronkende bussen, ouderavonden, parkeerproblemen: buurt ervaart overlast van school",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102884/ronkende-bussen-ouderavonden-parkeerproblemen-buurt-ervaart-overlast-van-school",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Gewonde na botsing tussen auto en fietser",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103136/fietser-gewond-na-botsing-met-auto-veenendaal",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Verkeerscontrole in Utrecht: 11 auto’s in beslag genomen",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103129/verkeerscontrole-in-utrecht-11-autos-in-beslag-genomen",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Tientallen tips over ongeluk omgekomen spookrijder A2",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102854/tientallen-tips-over-ongeluk-omgekomen-spookrijder-a2",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Botsing Kanaleneiland: bestuurder vlucht weg",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103073/botsing-kanaleneiland-bestuurder-vlucht-weg",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Fietsers botsen in Utrechtse binnenstad",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103047/fietsers-botsen-in-utrechtse-binnenstad",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "2 kilo paddenstoelen meegenomen uit het bos: handhavers grijpen in",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102988/2-kilo-paddenstoelen-meegenomen-uit-het-bos-handhavers-grijpen-in",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Meerdere inbraken in één nacht in Amersfoort",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102946/meerdere-inbraken-in-een-nacht-in-amersfoort",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Afscheid nemen van Samen Veilig is niet zo makkelijk, zeggen deze deskundigen",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103145/afscheid-nemen-van-samen-veilig-is-niet-zo-makkelijk-zeggen-deze-deskundigen",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Albert Heijn-storing raakt Utrechters: 'Geen boodschappen voor kinderopvang'",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103140/albert-heijn-storing-raakt-utrechters-geen-boodschappen-voor-kinderopvang",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Op eigen pootjes: pandajong Lang Yue verruilt Rhenen voor China",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103091/op-eigen-pootjes-pandajong-lang-yue-verruilt-rhenen-voor-china",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Politie nog altijd op zoek naar man die met wapen gezondheidscentrum binnenviel",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102956/politie-nog-altijd-op-zoek-naar-man-die-met-wapen-gezondheidscentrum-binnenviel",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Vragen over verhuizing Fivoor, raad wil duidelijkheid",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102945/vragen-over-verhuizing-fivoor-raad-wil-duidelijkheid",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Gegevens honderden Utrechters mogelijk op straat na hack",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103032/gegevens-honderden-utrechters-mogelijk-op-straat-na-hack",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "112-nieuws: Botsing in Utrecht | Bestuurder vlucht weg na botsing",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102811/112-nieuws-botsing-in-utrecht-bestuurder-vlucht-weg-na-botsing",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Man die politiehond neerstak tijdens jaarwisseling wilde door politie doodgeschoten worden",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103106/man-die-politiehond-neerstak-tijdens-jaarwisseling-wilde-door-politie-doodgeschoten-worden",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Pessel & Boonen zien het anders: '4-3-3? We zijn toch niet blind!'",
+      "url": "https://www.rtvutrecht.nl/sport/4103066/pessel-en-boonen-zien-het-anders-4-3-3-we-zijn-toch-niet-blind",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "Verdachte van uit auto gooien zwaargewonde vrouw op A12 onderzocht in psychiatrische kliniek",
+      "url": "https://www.rtvutrecht.nl/nieuws/4101599/verdachte-van-uit-auto-gooien-zwaargewonde-vrouw-op-a12-onderzocht-in-psychiatrische-kliniek",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Spoorsector Nederland toont impact van zelfdoding op het spoor met korte film",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102886/spoorsector-nederland-toont-impact-van-zelfdoding-op-het-spoor-met-korte-film",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "OM wil tbs en alcoholverbod voor verdachte van serie aanrandingen",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102948/om-wil-tbs-en-alcoholverbod-voor-verdachte-van-serie-aanrandingen",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Man uit Rhenen gewond bij dodelijk verkeersongeluk op N233",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102875/man-uit-rhenen-gewond-bij-dodelijk-verkeersongeluk-op-n233",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Duizenden woningen in Amersfoort voorlopig niet op stroomnet",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102809/duizenden-woningen-in-amersfoort-voorlopig-niet-op-stroomnet",
+      "inbox": true,
+      "document": true,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "IT-incident raakt klanten van Albert Heijn, Etos en Gall & Gall: wat betekent dit voor jou?",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102834/it-incident-raakt-klanten-van-albert-heijn-etos-en-gall-en-gall-wat-betekent-dit-voor-jou",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    },
+    {
+      "title": "Reserves FC Utrecht verliezen oefenduel bij ADO",
+      "url": "https://www.rtvutrecht.nl/sport/4103053/reserves-fc-utrecht-verliezen-oefenduel-bij-ado",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "Benauwde zege koploper Kampong, Hoogland verder in degradatiezorgen",
+      "url": "https://www.rtvutrecht.nl/sport/4102736/benauwde-zege-koploper-kampong-hoogland-verder-in-degradatiezorgen",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "Podcast MatchTalk: 'Het was niet goed, maar het belangrijkste zijn de 3 punten'",
+      "url": "https://www.rtvutrecht.nl/sport/4102696/podcast-matchtalk-het-was-niet-goed-maar-het-belangrijkste-zijn-de-3-punten",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "Sport Kort week 41: Belangrijke eerste zege mannen SCHC | VV Utrecht begint met zege",
+      "url": "https://www.rtvutrecht.nl/sport/4098720/sport-kort-week-41-belangrijke-eerste-zege-mannen-schc-vv-utrecht-begint-met-zege",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "FC Utrecht-trainer Correia tevreden over strijdlust: 'Spanning moest ons dichter bij elkaar brengen'",
+      "url": "https://www.rtvutrecht.nl/sport/4102698/fc-utrecht-trainer-correia-tevreden-over-strijdlust-spanning-moest-ons-dichter-bij-elkaar-brengen",
+      "inbox": false,
+      "document": false,
+      "article": false,
+      "reason": "Niet in verzamelde inboxen; feedbereik, sportrubriek of archief onderzoeken"
+    },
+    {
+      "title": "Drukke ochtend voor bergers en Wegenwacht: 14 banden lek in één straat",
+      "url": "https://www.rtvutrecht.nl/nieuws/4102611/drukke-ochtend-voor-bergers-en-wegenwacht-14-banden-lek-in-een-straat",
+      "inbox": true,
+      "document": false,
+      "article": false,
+      "reason": "Signaal aanwezig; nog geen gekoppeld artikel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Politie Utrecht",
+      "url": "https://rss.politie.nl/rss/nb/provincies/utrecht.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 10,
+      "oldest": "2026-09-21",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Gemeente Utrecht",
+      "url": "https://www.utrecht.nl/wonen-en-leven/parkeren/invoeren-betaald-parkeren/zuilen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Woerden",
+      "url": "https://www.woerden.nl/rss.jsp?objectid=a7b99c7a-2bc1-4333-aeb8-6b0c6a9e1b20",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 4,
+      "oldest": "2026-09-12",
+      "newest": "2026-10-07"
+    },
+    {
+      "name": "Provincie Utrecht",
+      "url": "https://www.provincie-utrecht.nl/actueel",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "U-reka / gemeenteraad Utrecht",
+      "url": "https://ureka.utrecht.nl/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Open Raadsinformatie",
+      "url": "https://openraadsinformatie.nl/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Officiële bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/10/veldweg-en-zouwendijk-weer-open-dit-is-echt-millimeterwerk",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "NDW",
+      "url": "https://opendata.ndw.nu/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Veiligheidsregio Utrecht",
+      "url": "https://vru.nl/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "De Molenkruier",
+      "url": "https://www.molenkruier.nl/nieuws",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Rhenen",
+      "url": "https://www.rhenen.nl/info-over-de-gemeente/nieuws/hoe-ziet-u-de-toekomst-van-het-stationsgebied-rhenen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Baarn",
+      "url": "https://www.baarn.nl/oordeelsvorming-in-de-raadscommissie-op-woensdag-14-oktober",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Politie",
+      "url": "https://www.politie.nl/nieuws/2026/oktober/9/inval-in-woning-in-utrecht-na-vermoedens-illegaal-gokken.html",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Veiligheidsregio Utrecht",
+      "url": "https://vru.nl/incidenten/grote-brand-in-garage-in-harmelen/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Veiligheidsregio Utrecht",
+      "url": "https://vru.nl/nieuws/rtv-utrecht-en-veiligheidsregio-utrecht-vernieuwen-afspraken-over-calamiteitenzender/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Woerden",
+      "url": "https://www.woerden.nl/Nieuws/Geen_vuurwerkontheffingen_tijdens_aankomende_jaarwisseling",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Politie",
+      "url": "https://www.politie.nl/nieuws/2026/oktober/10/03-aanhoudingen-na-oproep-tot-rellen-in-griftpark.html",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Amersfoort",
+      "url": "https://www.amersfoort.nl/meerjarenbegroting-2027-2030",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Nieuwegein",
+      "url": "https://www.nieuwegein.nl/nieuws/begroting-2027",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Nieuwegein",
+      "url": "https://www.nieuwegein.nl/nieuws/verkennende-fase-merwedelijn-afgerond",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Soest",
+      "url": "https://www.soest.nl/actueel/soest-investeert-in-wonen-zorg-en-leefbaarheid-en-kiest-voor-realistische-begroting",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Woerden",
+      "url": "https://www.woerden.nl/Nieuws/Gemeente_Woerden_investeert_in_wonen_leefbaarheid_en_veiligheid",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Houten",
+      "url": "https://www.houten.nl/nieuws/houten-en-regio-kiezen-voor-regionale-aanpak-aanvragen-netcapaciteit",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Houten",
+      "url": "https://www.houten.nl/nieuws/gemeente-en-rmn-bereiden-nieuwe-afvalinzameling-voor-1",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Stichtse Vecht",
+      "url": "https://www.stichtsevecht.nl/nieuws/vanaf-2027-zamelt-cyclus-het-afval-in-download-alvast-de-nieuwe-afval-app",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Stichtse Vecht",
+      "url": "https://www.stichtsevecht.nl/nieuws/stichtse-vecht-bereidt-zich-voor-op-eerste-jaarwisseling-met-landelijk-vuurwerkverbod",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "NS",
+      "url": "https://nieuws.ns.nl/werkzaamheden-tussen-amersfoort-apeldoorn-en-putten",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "NS",
+      "url": "https://nieuws.ns.nl/9-maanden-geen-treinen-tussen-alphen-ad-rijn-en-bodegraven-extra-maatregelen-voor-betere-reis/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "OmgevingsAlert",
+      "url": "https://www.omgevingsalert.nl/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Regiotram Utrecht / provincie Utrecht",
+      "url": "https://regiotramutrecht.provincie-utrecht.nl/nieuws/13-20-en-28-april-aangepaste-dienstregeling-rondom-utrecht-centraal",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/21/aansluitstop-stroomnet-flevopolder-gelderland-utrecht-grotendeels-voorkomen-door-stevige-maatregelen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Houten",
+      "url": "https://www.houten.nl/houten-bouwt/bouwprojecten/bouwprojecten-houten/in-cmk-bouwen-we-met-elkaar-aan-nieuwe-woonbuurten/gemeente-houten-woonin-en-altera-starten-gezamenlijke-uitwerking-ontwikkeling-het-rond",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Nieuwegein",
+      "url": "https://www.nieuwegein.nl/nieuws/woningbouwkaart-laat-zien-waar-nieuwegein-bouwt-aan-nieuwe-woningen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/05/a12-groot-onderhoud-tussen-utrecht-en-veenendaal-in-2026",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente De Bilt",
+      "url": "https://www.debilt.nl/nieuwsoverzicht/raad-stemt-in-met-31-woningen-aan-de-copijnlaan-in-groenekan",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Hoogheemraadschap De Stichtse Rijnlanden",
+      "url": "https://www.hdsr.nl/actueel/nieuws/@231260/onttrekkingsverbod-oppervlaktewater/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Amersfoort",
+      "url": "https://www.amersfoort.nl/meer-subsidie-voor-inwoners-die-hun-woning-willen-isoleren",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Amersfoort",
+      "url": "https://www.amersfoort.nl/taskforce-presenteert-aanpak-wachttijden-jeugdhulp",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Zeist",
+      "url": "https://www.zeist.nl/nieuws-en-actualiteiten/natuurbrandrisico-omhoog-naar-fase-2",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Provincie Utrecht / Officiële bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/prb-2026-12303.html",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Provincie Utrecht / Regiotram",
+      "url": "https://regiotramutrecht.provincie-utrecht.nl/nieuws/nieuwe-ov-plannen-voor-2027-stapsgewijs-naar-betrouwbaar-openbaar-vervoer",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Hoogheemraadschap De Stichtse Rijnlanden",
+      "url": "https://www.hdsr.nl/@243650/extra-dijkinspecties-afgerond-schades/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/09/a2-werkzaamheden-op-schema-vanaf-27-september-2026-nieuwe-verkeerssituatie",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/09/project-a27-a12-ring-utrecht-stopgezet",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/08/rijkswaterstaat-vernieuwt-p-r-soesterberg-vanaf-10-augustus-2026",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/07/a12-1e-fase-groot-onderhoud-grotendeels-afgerond-vanaf-14-augustus-2026-4-weekenden-dicht",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/07/a27-afsluitingen-in-juli-2026",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Rijkswaterstaat",
+      "url": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/08/amsterdam-rijnkanaal-nachtelijke-stremming-grotere-schepen-vanaf-1-september-2026-door-personeelstekort",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Woerden",
+      "url": "https://www.woerden.nl/Nieuws/Kom_naar_de_opening_van_de_doorfietsroute_F12",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Provincie Utrecht / Regiotram",
+      "url": "https://regiotramutrecht.provincie-utrecht.nl/nieuws/reizigers-krijgen-twee-maanden-50-procent-korting-bij-u-ov",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Hoogheemraadschap De Stichtse Rijnlanden",
+      "url": "https://www.hdsr.nl/@235362/stand-zaken-droogte-extra-wateraanvoer/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Soest",
+      "url": "https://www.soest.nl/bestuur-en-organisatie/besluiten-college/openbare-besluitenlijst-22-september",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Bunschoten",
+      "url": "https://www.bunschoten.nl/volgorde-aanvragen-stroomaansluiting",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Bunschoten",
+      "url": "https://www.bunschoten.nl/dolf-huijgen-benoemd-als-wethouder",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Leusden",
+      "url": "https://www.leusden.nl/koopovereenkomst-getekend-voor-bouw-18-beneden-en-bovenwoningen-op-locatie-voormalige-school-de-klimrakker",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Leusden",
+      "url": "https://www.leusden.nl/college-leusden-wil-windenergie-langs-a28-onderzoeken-om-buitengebied-te-ontzien",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Leusden",
+      "url": "https://www.leusden.nl/herinrichting-leusbroekerweg-geeft-fietser-meer-ruimte",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Renswoude",
+      "url": "https://www.renswoude.nl/tijdelijke-bouwstop-beekweide-ii-nog-niet-voorbij",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Renswoude",
+      "url": "https://www.renswoude.nl/de-bouw-in-beekweide-ii-mag-weer-beginnen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Renswoude",
+      "url": "https://www.renswoude.nl/denk-mee-over-veiligheid-in-renswoude",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Woudenberg",
+      "url": "https://www.woudenberg.nl/nieuwsoverzicht/begroting-2027-2030-solide-basis-om-op-te-bouwen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Woudenberg",
+      "url": "https://www.woudenberg.nl/nieuwsoverzicht/ondersteuning-voor-senioren-in-woudenberg-die-passende-woonstap-willen-maken",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Woudenberg",
+      "url": "https://www.woudenberg.nl/nieuwsoverzicht/verdachte-aangehouden-brand-gemeentehuis-woudenberg",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Lopik",
+      "url": "https://www.lopik.nl/pre-mantelzorgwoning-nu-mogelijk-in-de-gemeente-lopik",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Lopik",
+      "url": "https://www.lopik.nl/werkzaamheden-n210-3-oktober-tot-6-november-afgesloten",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Oudewater",
+      "url": "https://www.oudewater.nl/Nieuws/Start_dijkverbetering_Gekanaliseerde_Hollandsche_IJssel_GHIJ_tussen_Hekendorp_en_Oudewater",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Oudewater",
+      "url": "https://www.oudewater.nl/Nieuws/Aangepaste_bediening_Wilhelmina_van_Pruisenbrug",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Eemnes",
+      "url": "https://www.eemnes.nl/eemnes-stelt-nieuwe-regeling-vast-voor-meer-betaalbare-woningen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Eemnes",
+      "url": "https://www.eemnes.nl/nieuw-college-voor-eemnes",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Baarn",
+      "url": "https://www.baarn.nl/gemeente-baarn-helpt-starters-met-een-starterslening",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Baarn",
+      "url": "https://www.baarn.nl/raad-op-pad-denk-mee-over-de-toekomst-van-de-brink",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Rhenen",
+      "url": "https://www.rhenen.nl/info-over-de-gemeente/nieuws/coalitieakkoord-gepresenteerd-en-nieuwe-wethouders-geinstalleerd",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Rhenen",
+      "url": "https://www.rhenen.nl/info-over-de-gemeente/nieuws/criminaliteit-in-rhenen-afgelopen-halfjaar-gedaald",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente IJsselstein",
+      "url": "https://www.ijsselstein.nl/ldij-en-vvd-bereiken-akkoord-voor-ijsselstein",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente IJsselstein",
+      "url": "https://www.ijsselstein.nl/ijsselstein-biedt-noodopvang-vluchtelingen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente De Ronde Venen",
+      "url": "https://www.derondevenen.nl/Bestuur_en_organisatie/Actueel/Nieuws/Herinrichting_Bonkestekersweg_en_Reigerstraat_start_op_1_juni",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Montfoort",
+      "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Archeologiedag_De_Bleek_groot_succes",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Montfoort",
+      "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Ondertekening_samenwerkingsovereenkomst_voor_40_modulaire_woningen",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Montfoort",
+      "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Fonds_Starterslening_aangevuld_met_1_miljoen_euro",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Montfoort",
+      "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Herontwikkeling_dorpshuis_De_Vaart_onder_de_loep_door_stijgende_kosten",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Montfoort",
+      "url": "https://www.montfoort.nl/Alle_onderwerpen/Nieuws/Nieuwsarchief/Nieuwsberichten_2026/Participatietraject_windenergie_Cattenbroek_afgerond",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Veenendaal",
+      "url": "https://www.veenendaal.nl/nieuws/voorruitblik-op-de-politieke-agenda-van-oktober",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Veenendaal",
+      "url": "https://www.veenendaal.nl/nieuws/asfaltonderhoud-n233-tussen-rhenen-en-veenendaal",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Veenendaal",
+      "url": "https://www.veenendaal.nl/nieuws/buslijn-87-blijft-via-de-rondweg-oost-rijden",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente De Bilt",
+      "url": "https://www.debilt.nl/nieuwsoverzicht/veiligheidsanalyse-voor-mogelijke-komst-van-opvanglocatie-asielzoekers",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente De Bilt",
+      "url": "https://www.debilt.nl/nieuwsoverzicht/werkzaamheden-nieuwe-weteringseweg-n234-in-mei",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Gemeente Amersfoort",
+      "url": "https://www.amersfoort.nl/feed/rss/nieuws",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 14,
+      "oldest": "2026-09-09",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Gemeente Vijfheerenlanden",
+      "url": "https://www.vijfheerenlanden.nl/feeds/1/laatste-nieuws-gemeente-vijfheerenlanden.rss",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 20,
+      "oldest": "2026-08-28",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Provincie Utrecht",
+      "url": "https://www.provincie-utrecht.nl/actueel/nieuwsberichten/rss",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 38,
+      "oldest": "2026-08-25",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "NS nieuws",
+      "url": "https://nieuws.ns.nl/feed/nl",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 25,
+      "oldest": "2026-08-26",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "Politie Amersfoort",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/amersfoort.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 10,
+      "oldest": "2026-08-15",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Politie Baarn",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/baarn.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Bunnik",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/bunnik.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Bunschoten",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/bunschoten.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 2,
+      "oldest": "2026-08-08",
+      "newest": "2026-09-02"
+    },
+    {
+      "name": "Politie De Bilt",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/de-bilt.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie De Ronde Venen",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/de-ronde-venen.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 7,
+      "oldest": "2026-07-22",
+      "newest": "2026-09-29"
+    },
+    {
+      "name": "Politie Eemnes",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/eemnes.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Houten",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/houten.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 1,
+      "oldest": "2026-09-04",
+      "newest": "2026-09-04"
+    },
+    {
+      "name": "Politie IJsselstein",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/ijsselstein.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Leusden",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/leusden.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 2,
+      "oldest": "2026-07-21",
+      "newest": "2026-09-09"
+    },
+    {
+      "name": "Politie Lopik",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/lopik.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 1,
+      "oldest": "2026-07-27",
+      "newest": "2026-07-27"
+    },
+    {
+      "name": "Politie Montfoort",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/montfoort.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 1,
+      "oldest": "2026-10-01",
+      "newest": "2026-10-01"
+    },
+    {
+      "name": "Politie Nieuwegein",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/nieuwegein.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 1,
+      "oldest": "2026-07-17",
+      "newest": "2026-07-17"
+    },
+    {
+      "name": "Politie Oudewater",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/oudewater.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 3,
+      "oldest": "2026-08-19",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Politie Renswoude",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/renswoude.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Rhenen",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/rhenen.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 1,
+      "oldest": "2026-10-01",
+      "newest": "2026-10-01"
+    },
+    {
+      "name": "Politie Soest",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/soest.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 2,
+      "oldest": "2026-07-16",
+      "newest": "2026-09-01"
+    },
+    {
+      "name": "Politie Stichtse Vecht",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/stichtse-vecht.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Utrecht",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/utrecht.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-07-31",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Politie Utrechtse Heuvelrug",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/utrechtse-heuvelrug.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 5,
+      "oldest": "2026-08-24",
+      "newest": "2026-10-02"
+    },
+    {
+      "name": "Politie Veenendaal",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/veenendaal.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 5,
+      "oldest": "2026-07-28",
+      "newest": "2026-10-09"
+    },
+    {
+      "name": "Politie Vijfheerenlanden",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/vijfheerenlanden.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Wijk bij Duurstede",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/wijk-bij-duurstede.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 2,
+      "oldest": "2026-09-10",
+      "newest": "2026-09-30"
+    },
+    {
+      "name": "Politie Woerden",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/woerden.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 6,
+      "oldest": "2026-09-09",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Politie Woudenberg",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/woudenberg.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 0,
+      "oldest": null,
+      "newest": null
+    },
+    {
+      "name": "Politie Zeist",
+      "url": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/zeist.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 2,
+      "oldest": "2026-09-21",
+      "newest": "2026-09-23"
+    },
+    {
+      "name": "RTV Utrecht",
+      "url": "https://www.rtvutrecht.nl/rss/nieuws.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 50,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "Gemeente Utrecht",
+      "url": "https://www.utrecht.nl/nieuws/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 20,
+      "oldest": "2026-07-16",
+      "newest": "2026-10-11"
+    },
+    {
+      "name": "Eemland1",
+      "url": "https://www.eemland1.nl/feed/",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 25,
+      "oldest": "2026-10-06",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "Omroep ZOUT",
+      "url": "https://www.omroepzout.nl/feed/",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 10,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "Omroep Lekstroom",
+      "url": "https://omroeplekstroom.nl/feed/",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 50,
+      "oldest": "2026-10-04",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "RTV Midden Holland",
+      "url": "https://rtvmiddenholland.nl/feed/",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 40,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "XON / 1 VALLEI",
+      "url": "https://xon.nu/feed/",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 10,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "indebuurt Woerden",
+      "url": "https://indebuurt.nl/woerden/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-09-29",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Amersfoort",
+      "url": "https://www.ad.nl/amersfoort/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Baarn",
+      "url": "https://www.ad.nl/baarn/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Bunnik",
+      "url": "https://www.ad.nl/bunnik/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Bunschoten",
+      "url": "https://www.ad.nl/bunschoten-spakenburg/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD De Bilt",
+      "url": "https://www.ad.nl/de-bilt/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD De Ronde Venen",
+      "url": "https://www.ad.nl/de-ronde-venen/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-10",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Eemnes",
+      "url": "https://www.ad.nl/eemnes/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Houten",
+      "url": "https://www.ad.nl/houten/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD IJsselstein",
+      "url": "https://www.ad.nl/ijsselstein/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Leusden",
+      "url": "https://www.ad.nl/leusden/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Lopik",
+      "url": "https://www.ad.nl/lopik/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Montfoort",
+      "url": "https://www.ad.nl/montfoort/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-09",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Nieuwegein",
+      "url": "https://www.ad.nl/nieuwegein/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Oudewater",
+      "url": "https://www.ad.nl/oudewater/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Renswoude",
+      "url": "https://www.ad.nl/renswoude/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Rhenen",
+      "url": "https://www.ad.nl/rhenen/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Soest",
+      "url": "https://www.ad.nl/soest/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Stichtse Vecht",
+      "url": "https://www.ad.nl/stichtse-vecht/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Utrecht",
+      "url": "https://www.ad.nl/utrecht/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Utrechtse Heuvelrug",
+      "url": "https://www.ad.nl/utrechtse-heuvelrug/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Veenendaal",
+      "url": "https://www.ad.nl/veenendaal/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-11",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Vijfheerenlanden",
+      "url": "https://www.ad.nl/vijfheerenlanden/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Wijk bij Duurstede",
+      "url": "https://www.ad.nl/wijk-bij-duurstede/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-09",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Woerden",
+      "url": "https://www.ad.nl/woerden/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Woudenberg",
+      "url": "https://www.ad.nl/woudenberg/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "AD Zeist",
+      "url": "https://www.ad.nl/zeist/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-12",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "indebuurt Amersfoort",
+      "url": "https://indebuurt.nl/amersfoort/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-09-26",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "indebuurt Utrecht",
+      "url": "https://indebuurt.nl/utrecht/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-10-05",
+      "newest": "2026-10-13"
+    },
+    {
+      "name": "indebuurt Veenendaal",
+      "url": "https://indebuurt.nl/veenendaal/rss.xml",
+      "kind": "feed",
+      "status": "ok",
+      "checkedAt": "2026-10-13T10:40:25.265476+00:00",
+      "items": 30,
+      "oldest": "2026-09-18",
+      "newest": "2026-10-12"
+    },
+    {
+      "name": "NU.nl",
+      "url": "https://www.nu.nl/",
+      "kind": "bronroute",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "VTC Woerden",
+      "url": "https://vtcwoerden.nl/feed/",
+      "kind": "feed",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "IJsselmeervogels",
+      "url": "https://www.ijsselmeervogels.nl/?format=feed&type=rss",
+      "kind": "feed",
+      "status": "niet in deze feedrun getest",
+      "checkedAt": "",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Eemland1",
+      "url": "https://www.eemland1.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:09.718728+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Omroep ZOUT",
+      "url": "https://www.omroepzout.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:09.718983+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Omroep Lekstroom",
+      "url": "https://omroeplekstroom.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:09.719084+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "RTV Midden Holland",
+      "url": "https://rtvmiddenholland.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:09.719133+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "XON / 1 VALLEI",
+      "url": "https://xon.nu/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:09.723741+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "RTV Stichtse Vecht",
+      "url": "https://rtvstichtsevecht.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:10.246945+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "RTV Ronde Venen",
+      "url": "https://rtvrondevenen.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:11.351826+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "NH Gooi",
+      "url": "https://www.nhnieuws.nl/nhgooi",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:11.729353+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "SRC",
+      "url": "https://src.fm/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:11.805710+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "DUIC",
+      "url": "https://www.duic.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:12.289039+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "RTV Utrecht",
+      "url": "https://www.rtvutrecht.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:12.373790+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Woerdense Courant",
+      "url": "https://www.woerdensecourant.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:12.510289+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "indebuurt Woerden",
+      "url": "https://indebuurt.nl/woerden/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:12.688075+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Amersfoort",
+      "url": "https://www.ad.nl/amersfoort/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:12.820494+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Baarn",
+      "url": "https://www.ad.nl/baarn/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:12.973340+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Bunnik",
+      "url": "https://www.ad.nl/bunnik/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:13.082377+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Bunschoten",
+      "url": "https://www.ad.nl/bunschoten/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:13.302988+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD De Bilt",
+      "url": "https://www.ad.nl/de-bilt/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:13.412558+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD De Ronde Venen",
+      "url": "https://www.ad.nl/de-ronde-venen/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:13.520456+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Eemnes",
+      "url": "https://www.ad.nl/eemnes/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:13.802949+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Houten",
+      "url": "https://www.ad.nl/houten/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:14.052980+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD IJsselstein",
+      "url": "https://www.ad.nl/ijsselstein/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:14.427878+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Leusden",
+      "url": "https://www.ad.nl/leusden/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:14.484426+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Lopik",
+      "url": "https://www.ad.nl/lopik/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:14.508938+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Montfoort",
+      "url": "https://www.ad.nl/montfoort/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:14.825411+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Nieuwegein",
+      "url": "https://www.ad.nl/nieuwegein/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:15.025917+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Oudewater",
+      "url": "https://www.ad.nl/oudewater/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:15.315110+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Renswoude",
+      "url": "https://www.ad.nl/renswoude/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:15.460113+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Rhenen",
+      "url": "https://www.ad.nl/rhenen/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:15.487108+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Soest",
+      "url": "https://www.ad.nl/soest/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:15.560808+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Stichtse Vecht",
+      "url": "https://www.ad.nl/stichtse-vecht/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:16.047558+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Utrecht",
+      "url": "https://www.ad.nl/utrecht/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:16.294383+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Utrechtse Heuvelrug",
+      "url": "https://www.ad.nl/utrechtse-heuvelrug/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:16.354358+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Veenendaal",
+      "url": "https://www.ad.nl/veenendaal/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:16.582964+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Vijfheerenlanden",
+      "url": "https://www.ad.nl/vijfheerenlanden/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:16.621810+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Wijk bij Duurstede",
+      "url": "https://www.ad.nl/wijk-bij-duurstede/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:16.754162+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Woerden",
+      "url": "https://www.ad.nl/woerden/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:17.224094+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Woudenberg",
+      "url": "https://www.ad.nl/woudenberg/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:17.224518+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "AD Zeist",
+      "url": "https://www.ad.nl/zeist/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:17.537893+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "indebuurt Amersfoort",
+      "url": "https://indebuurt.nl/amersfoort/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:17.571276+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "indebuurt Utrecht",
+      "url": "https://indebuurt.nl/utrecht/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:17.831521+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "indebuurt Veenendaal",
+      "url": "https://indebuurt.nl/veenendaal/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:17.998767+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "De Woudenberger",
+      "url": "https://www.dewoudenberger.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.522671+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Bunniks Nieuws",
+      "url": "https://www.bunniksnieuws.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.544752+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Wijks Nieuws",
+      "url": "https://www.wijksnieuws.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.612746+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Houtens Nieuws",
+      "url": "https://www.houtensnieuws.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.667399+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "De Nieuwsbode",
+      "url": "https://www.denieuwsbode.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.671553+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Vierklank",
+      "url": "https://www.vierklank.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.715393+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "De Stad Amersfoort",
+      "url": "https://www.destadamersfoort.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.723220+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Leusder Krant",
+      "url": "https://www.leusderkrant.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.769689+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Soester Courant",
+      "url": "https://www.soestercourant.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.824697+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Baarnsche Courant",
+      "url": "https://www.baarnschecourant.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.831590+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Nieuwsblad De Kaap",
+      "url": "https://www.nieuwsbladdekaap.nl",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13T09:00:18.880814+00:00",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Zenderstreeknieuws",
+      "url": "https://www.zenderstreeknieuws.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Het Kontakt Vijfheerenlanden",
+      "url": "https://www.hetkontakt.nl/vijfheerenlanden/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "De Molenkruier",
+      "url": "https://www.molenkruier.nl/",
+      "kind": "website",
+      "status": "geïnventariseerd; geen bewijs van compleet archief",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Utrecht: raadsbrieven over vaccinatie",
+      "url": "https://www.rtvutrecht.nl/nieuws/4103214/leidsche-rijn-voegt-zich-bij-wijken-met-zeer-lage-vaccinatiegraad-we-maken-ons-zorgen",
+      "kind": "aanvulling",
+      "status": "Raadsroute bekend; volledige briefinname en nieuwste document niet bevestigd",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Amersfoort: raad + Stedin",
+      "url": "https://www.stedin.net/over-stedin/wat-doet-stedin/projecten-in-uw-regio/elektriciteitsstation-amersfoort-bovenduist",
+      "kind": "aanvulling",
+      "status": "Stedin als bronfamilie bekend; projectpagina niet structureel aangesloten",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Utrechts Landschap: natuurverbinding De Bilt",
+      "url": "https://www.utrechtslandschap.nl/nieuws/utrechts-landschap-versterkt-natuurverbinding-in-de-bilt",
+      "kind": "aanvulling",
+      "status": "Primaire artikelpagina geverifieerd; structurele koppeling nog nodig",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Stadsmuseum Woerden",
+      "url": "https://www.stadsmuseumwoerden.nl/",
+      "kind": "aanvulling",
+      "status": "Eigen pagina gecontroleerd; geen structurele nieuwsadapter bevestigd",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "IJsbaan Woerden / curlingorganisatie",
+      "url": "https://www.ijsbaanwoerden.nl/",
+      "kind": "aanvulling",
+      "status": "Directe bronlink aangetroffen; inhoudelijke controle nog nodig",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Woerden: schriftelijke vragen over Dorpsstraat",
+      "url": "https://www.woerdensecourant.nl/nieuws/nieuws/480920/cda-wil-maatregelen-tegen-hardrijders-in-dorpsstraat-harmelen",
+      "kind": "aanvulling",
+      "status": "Bronsoort bevestigd; originele vragen nog opzoeken",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "112: fotografen en eigen waarneming",
+      "url": "https://www.woerdensecourant.nl/112/112/481204/man-gewond-na-botsing-fatbike-en-auto-op-rembrandtlaan",
+      "kind": "aanvulling",
+      "status": "Artikel gecontroleerd; primaire openbare politiepublicatie niet vastgesteld",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Eemland1: interviews en lokale tips",
+      "url": "https://www.eemland1.nl/",
+      "kind": "aanvulling",
+      "status": "Feed werkt; eigen gesprekken zijn geen zelfstandige openbare persfeed",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Zenderstreeknieuws",
+      "url": "https://www.zenderstreeknieuws.nl/",
+      "kind": "aanvulling",
+      "status": "Nieuw opgenomen als te koppelen website; feed niet bevestigd",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Het Kontakt Vijfheerenlanden",
+      "url": "https://www.hetkontakt.nl/vijfheerenlanden/archive",
+      "kind": "aanvulling",
+      "status": "Nieuw opgenomen; artikelindex en feed nog onderzoeken",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "De Molenkruier",
+      "url": "https://www.molenkruier.nl/",
+      "kind": "aanvulling",
+      "status": "Nieuwe bronroute via uitgever bevestigd; actuele technische koppeling nog niet getest",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    },
+    {
+      "name": "Woerdense Courant: digitaal krantenarchief",
+      "url": "https://www.woerdensecourant.nl/archive",
+      "kind": "aanvulling",
+      "status": "Archieftype gecontroleerd; edities niet integraal gelezen",
+      "checkedAt": "2026-10-13",
+      "items": "",
+      "oldest": "",
+      "newest": ""
+    }
+  ],
+  "limitations": [
+    "Voorpaginasteekproef, geen volledige publicatietelling.",
+    "Exacte bronlinks en RTV-artikel-ID’s; een onafhankelijk geschreven bericht over dezelfde gebeurtenis kan alsnog bestaan.",
+    "Niet alle geïnventariseerde media-archieven zijn volledig gelezen.",
+    "Geen automatisch publicerende redactie; geen volledige driemaandsdekking aangetoond."
+  ]
+}

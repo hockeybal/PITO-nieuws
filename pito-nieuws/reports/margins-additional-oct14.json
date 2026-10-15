@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "routes": [
+    "/nieuws/praktisch",
+    "/nieuws/utrecht/omgevingszaken",
+    "/nieuws/utrecht/woerden/wonen",
+    "/nieuws/utrecht/woerden/onderwerp/sport"
+  ],
+  "widths": [
+    390,
+    768,
+    1440
+  ],
+  "checks": 12,
+  "horizontalOverflow": false,
+  "brokenLoadedImages": 0,
+  "scope": "Rendered page width and loaded images; not all lazy-loaded images. Sport desktop screenshot reviewed.",
+  "additionalImages": [
+    "local-review-115614674",
+    "local-review-115614675",
+    "local-review-115614676",
+    "local-review-116446231",
+    "local-review-146036941"
+  ]
+}

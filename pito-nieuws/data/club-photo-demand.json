@@ -1,0 +1,1812 @@
+[
+  {
+    "club": "Sportlust 46",
+    "municipality": "woerden",
+    "sourceUrl": "https://www.sportlust46.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false,
+    "photoCollectionUrl": "https://www.sportlust46.nl/247/foto/?from=0&type=1",
+    "photoResearchNote": "Officieel fotoarchief met seizoenen 2023/2024 en 2024/2025 gevonden. Nog geen hergebruiklicentie vastgesteld; niet als vrij beeld geïmporteerd.",
+    "photoResearchDate": "2026-10-14",
+    "availableImageKeys": [
+      "woerden-sportlust-clubgebouw-2022",
+      "sportlust-relief-2022"
+    ]
+  },
+  {
+    "club": "VTC Woerden",
+    "municipality": "woerden",
+    "sourceUrl": "https://vtcwoerden.nl/",
+    "sport": "volleybal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "IJsselmeervogels",
+    "municipality": "bunschoten",
+    "sourceUrl": "https://www.ijsselmeervogels.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false,
+    "availableImageKeys": [
+      "ijsselmeervogels-sportpark-2026"
+    ]
+  },
+  {
+    "club": "CJVV",
+    "municipality": "amersfoort",
+    "sourceUrl": "https://www.cjvv.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "TOV",
+    "municipality": "baarn",
+    "sourceUrl": "https://www.tov-baarn.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Bunnik 73",
+    "municipality": "bunnik",
+    "sourceUrl": "https://www.bunnik73.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "FC De Bilt",
+    "municipality": "de-bilt",
+    "sourceUrl": "https://www.fcdebilt.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SV Argon",
+    "municipality": "de-ronde-venen",
+    "sourceUrl": "https://www.svargon.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SV Eemnes",
+    "municipality": "eemnes",
+    "sourceUrl": "https://www.sveemnes.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SV Houten",
+    "municipality": "houten",
+    "sourceUrl": "https://www.svhouten.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "IJFC",
+    "municipality": "ijsselstein",
+    "sourceUrl": "https://www.ijfc.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Roda 46",
+    "municipality": "leusden",
+    "sourceUrl": "https://www.roda46.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SV Lopik",
+    "municipality": "lopik",
+    "sourceUrl": "https://www.svlopik.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Montfoort SV 19",
+    "municipality": "montfoort",
+    "sourceUrl": "https://www.montfoortsv19.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "JSV Nieuwegein",
+    "municipality": "nieuwegein",
+    "sourceUrl": "https://www.jsv-nieuwegein.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "FC Oudewater",
+    "municipality": "oudewater",
+    "sourceUrl": "https://www.fcoudewater.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Oranje Wit Elst",
+    "municipality": "rhenen",
+    "sourceUrl": "https://www.vvoranjewit.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SO Soest",
+    "municipality": "soest",
+    "sourceUrl": "https://www.so-soest.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "FC Breukelen",
+    "municipality": "stichtse-vecht",
+    "sourceUrl": "https://www.fcbreukelen.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "USV Hercules",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.usvhercules.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "DEV Doorn",
+    "municipality": "utrechtse-heuvelrug",
+    "sourceUrl": "https://www.devdoorn.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "GVVV",
+    "municipality": "veenendaal",
+    "sourceUrl": "https://www.gvvv.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Brederodes",
+    "municipality": "vijfheerenlanden",
+    "sourceUrl": "https://www.brederodes.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "CDW",
+    "municipality": "wijk-bij-duurstede",
+    "sourceUrl": "https://cdw.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SCH 44",
+    "municipality": "woerden",
+    "sourceUrl": "https://www.sch44.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "VV Woudenberg",
+    "municipality": "woudenberg",
+    "sourceUrl": "https://www.vvwoudenberg.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "VV Jonathan",
+    "municipality": "zeist",
+    "sourceUrl": "https://www.vvjonathan.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "VV Renswoude",
+    "municipality": "renswoude",
+    "sourceUrl": "https://www.vvrenswoude.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SC Woerden",
+    "municipality": "woerden",
+    "sourceUrl": "https://www.scwoerden.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "VV Hoogland",
+    "municipality": "amersfoort",
+    "sourceUrl": "https://www.vvhoogland.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "DOVO",
+    "municipality": "veenendaal",
+    "sourceUrl": "https://www.dovo.nl/196/nieuws/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "FC Abcoude",
+    "municipality": "de-ronde-venen",
+    "sourceUrl": "https://www.fcabcoude.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V. Aurora",
+    "municipality": "bunnik",
+    "sourceUrl": "https://svaurora.nl/cms/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. Benschop",
+    "municipality": "lopik",
+    "sourceUrl": "https://www.vvbenschop.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. De Meern",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.vvdemeern.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "De Merino's",
+    "municipality": "veenendaal",
+    "sourceUrl": "https://www.demerinos.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SV Overvecht De Dreef",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.svodedreef.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "FC Delta Sports '95",
+    "municipality": "houten",
+    "sourceUrl": "https://www.deltasports.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "C.O.V. DESTO",
+    "municipality": "utrecht",
+    "sourceUrl": "https://desto-utrecht.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "D.O.S.C.",
+    "municipality": "zeist",
+    "sourceUrl": "https://www.dosc.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "FC Driebergen",
+    "municipality": "utrechtse-heuvelrug",
+    "sourceUrl": "https://www.fcdriebergen.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "DVSA",
+    "municipality": "utrechtse-heuvelrug",
+    "sourceUrl": "https://www.dvsa.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "ASV D.V.S.U.",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.dvsu.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. D.W.S.M.",
+    "municipality": "stichtse-vecht",
+    "sourceUrl": "https://www.dwsm.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "USV Elinkwijk",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.elinkwijk.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. 't Goy",
+    "municipality": "houten",
+    "sourceUrl": "https://www.vvtgoy.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. HDS",
+    "municipality": "utrechtse-heuvelrug",
+    "sourceUrl": "https://www.vvhds.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Hertha Vinkeveen",
+    "municipality": "de-ronde-venen",
+    "sourceUrl": "https://hertha.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. Kamerik",
+    "municipality": "woerden",
+    "sourceUrl": "https://www.vvkamerik.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V. Kampong",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.kampongvoetbal.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. Kockengen",
+    "municipality": "stichtse-vecht",
+    "sourceUrl": "https://www.vvkockengen.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Lekvogels",
+    "municipality": "vijfheerenlanden",
+    "sourceUrl": "https://www.lekvogels.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "LRC Leerdam",
+    "municipality": "vijfheerenlanden",
+    "sourceUrl": "https://www.vvlrc.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. Maarssen",
+    "municipality": "stichtse-vecht",
+    "sourceUrl": "https://www.vvmaarssen.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V. Nieuw Utrecht",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.svnieuwutrecht.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V. Odijk",
+    "municipality": "bunnik",
+    "sourceUrl": "https://www.sv-odijk.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "OSM'75",
+    "municipality": "stichtse-vecht",
+    "sourceUrl": "https://www.osm75.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SV Parkhout",
+    "municipality": "nieuwegein",
+    "sourceUrl": "https://www.svparkhout.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "PVC",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.pvcvoetbal.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "PVCV",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.pvcv.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "A.F.C. Quick 1890",
+    "municipality": "amersfoort",
+    "sourceUrl": "https://www.afcquick1890.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Saestum",
+    "municipality": "zeist",
+    "sourceUrl": "https://www.saestum.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V.F.",
+    "municipality": "wijk-bij-duurstede",
+    "sourceUrl": "https://www.svfcothen.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V.L.",
+    "municipality": "wijk-bij-duurstede",
+    "sourceUrl": "https://www.svl-voetbal.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SVM",
+    "municipality": "de-bilt",
+    "sourceUrl": "https://www.svmmaartensdijk.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "SVMM",
+    "municipality": "utrechtse-heuvelrug",
+    "sourceUrl": "https://www.svmm.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "UVV Voetbal",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.uvv-voetbal.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V. De Vecht",
+    "municipality": "stichtse-vecht",
+    "sourceUrl": "https://www.svdevecht.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. Veenendaal",
+    "municipality": "veenendaal",
+    "sourceUrl": "https://www.vvveenendaal.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V. 't Vliegdorp",
+    "municipality": "zeist",
+    "sourceUrl": "https://www.vliegdorp.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "VVIJ",
+    "municipality": "ijsselstein",
+    "sourceUrl": "https://www.vvij.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "VVJ",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.vvjutrecht.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "V.V.Z.A.",
+    "municipality": "amersfoort",
+    "sourceUrl": "https://www.vvza.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "S.V. Zeist",
+    "municipality": "zeist",
+    "sourceUrl": "https://www.svzeist.nl",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  },
+  {
+    "club": "Zwaluwen Utrecht'11",
+    "municipality": "utrecht",
+    "sourceUrl": "https://www.zwaluwenutrecht1911.nl/",
+    "sport": "voetbal",
+    "requiredViews": [
+      "Sportpark of accommodatie — herkenbare entree",
+      "Veld of baan — zonder wedstrijdclaim",
+      "Clubgebouw — herkenbare clubidentiteit"
+    ],
+    "minimumCaptureYear": 2022,
+    "requiredMetadata": [
+      "maker",
+      "bronpagina",
+      "licentie en bewijs",
+      "opnamedatum",
+      "club",
+      "sportpark",
+      "gemeente",
+      "alt-tekst"
+    ],
+    "status": "photo_rights_and_subject_review_required",
+    "allowGenericMatchPhoto": false
+  }
+]

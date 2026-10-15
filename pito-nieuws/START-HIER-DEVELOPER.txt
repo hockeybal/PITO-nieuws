@@ -1,0 +1,85 @@
+PITO NIEUWS — CENTRALE DEVELOPEROVERDRACHT
+Stand: 14 oktober 2026. Dit document is leidend voor de huidige overdracht.
+Oudere documenten beschrijven tussenstanden; hun aantallen en domeinkeuze kunnen achterhaald zijn.
+
+DOEL
+PITO Nieuws: het lokale platform voor alle 26 gemeenten in Utrecht, met nieuws, Vandaag te doen, agenda, amateursport, omgevingszaken en nuttige adressen. Eigen nieuwswebsite op pitonieuws.nl; PITO APP en wijkcollectieven verwijzen naar pito.app. Houd één canonieke nieuwsversie aan.
+
+KORTE ACTIELIJST VOOR DE DEVELOPER
+1. Port de server-rendered routes, templates en data naar de productieapp; deze Python-server is uitsluitend een lokale preview.
+2. Sluit echte Strapi-publicaties en appactiviteiten aan; map gemeente, datum, rechten en publicatiestatus expliciet. Agenda en activiteiten zijn verschillende selecties binnen dezelfde bron.
+3. Draai broninname als beheerde jobs met logging, retries, deduplicatie en waarschuwingen; een bronlijst is geen werkende live koppeling.
+4. Controleer inhoud en beeldrechten voor publicatie. Verifieer dekking per gemeente; aantallen zijn geen volledigheidsbewijs.
+5. Activeer domein, HTTPS, canonicals, indexering en sitemaps pas op productie. Verifieer Search Console/Bing en dien sitemaps in.
+6. Test Safari/iPhone/Android, zoek- en gemeentekeuze, video's, prestaties en toegankelijkheid. Beveilig beheer en API's; noindex is geen toegangsbeveiliging.
+
+ZELFSTANDIGE PREVIEW STARTEN
+Benodigd: Python 3.9 of hoger. Geen pip-packages nodig voor de runtime.
+Neem de volledige map pito-nieuws mee, inclusief static/, data/ en portable-assets/.
+Vanuit die map:
+  PITO_STANDALONE=1 python3 -B server.py
+Open http://127.0.0.1:4198/nieuws/utrecht
+Voor een andere lokale poort:
+  PITO_STANDALONE=1 PORT=4200 python3 -B server.py
+De server blijft op 127.0.0.1. Niet publiek exposen.
+portable_handler.py verzorgt de nieuws-preview zonder oorspronkelijke projectmappen. portable-assets/ bevat basis-CSS, benodigde lettertypen en bestaande promotiebeelden. PITO-productpagina's blijven externe links naar pito.app.
+Zonder standalone gebruikt de bestaande lokale machine nog de geïntegreerde preview uit base.json wanneer die bestaat. De overige historische onderzoeks-/generatiescripts kunnen aanvullende lokale of externe afhankelijkheden hebben; dat is niet hetzelfde als de zelfstandig startbare nieuws-preview.
+Geen build nodig. De hoofdapp in productie gebruikt Laravel/Vue/Vite; deze preview is geen vervanging daarvan.
+
+BELANGRIJKSTE BESTANDEN
+server.py: routes, lokale beheeracties en HTTP-afhandeling.
+news.py: nieuwsselectie, lijsten, artikelweergave en gedeelde HTML-layout.
+masthead.py, starter.py, static/news-footer.html: header, gemeentekeuze en footer.
+agenda_views.py, homepage_agenda.py, app_content.py: activiteiten en agenda.
+environment_notices.py, official_content.py: officiële publicaties, concrete omschrijving en status.
+useful_addresses.py: lokale afval-/contactinformatie en bronlinks.
+media_library.py, club_identity.py: beeldkeuze, rechtenvelden en clubidentiteit.
+search_visibility.py, seo.py: publicatie-/indexeringsbeleid, sitemaps en structured data.
+static/news.js: delen/kopiëren en klikbare kaarten.
+strapi/schema.json, strapi/import-plan.json: bestaand nieuwsschema en importvoorstel; toetsen aan actuele Strapi-versie.
+strapi/app-content-contract.example.json: contract voor gedeelde appactiviteiten.
+scripts/news_pipeline.py: handmatig/run-once aanvoercoördinator, geen publicatiejob.
+
+HUIDIGE DATA EN GRENZEN
+- 1610 lokaal zichtbare artikelen; op dit moment voldoet geen daarvan aan alle productievoorwaarden approved + published + geldige webPublishedAt.
+- Productiemodus filtert concepten weg. Zet niet blind alle records op published.
+- Productiesimulatie van SEO: 1239 geschikte URL's, waaronder 1156 bekendmakingen met opgeslagen officiële brontekst, 26 gemeentelijke adressenpagina's en alle 26 gemeentepagina's.
+- De appdataset is local_preview; huidige activiteitendekking betreft Utrecht en Woerden. Geen volledige live agenda voor alle 26 gemeenten.
+- Officiële bekendmakingen: de meest recente verrijking slaagde voor 1103 van 1129 aanvragen; 26 downloads mislukten. Totaal 1156 opgeslagen publicatieteksten. Metadata zonder brontekst blijft buiten de productiesitemap.
+- Nuttige adressen: lokale afvalinformatie en gemeentetelefoon voor alle 26; niet iedere huisartsenpraktijk of wijkagent staat als volledig individueel adresrecord opgeslagen.
+- Niet alle foto's zijn eigen PITO-beelden; bron, licentie, context en gebruikstoestemming behouden.
+- Bestaande selectie bevat vaste onderzoeks-/archiefdatums in sommige modules. Controleer onder meer news.py, environment_notices.py en datafilters voordat een voortlopende editie wordt ingevoerd. PITO_EDITION_DATE alleen voor tests/preview.
+
+STRAPI EN AANVOER
+Gebruik PITO_APP_CONTENT_URL en PITO_APP_CONTENT_TOKEN uitsluitend server-side. Bewaar tokens buiten repository en browser. Adaptercontract: stabiele item-/occurrence-ID, gemeente, publicatiestatus, show_on_web, datum/tijd met tijdzone, locatie/adres, beschrijving, organisator en goedgekeurde foto. agendaHighlight=true selecteert agendapunten; gewone activiteiten mogen daar niet vanzelf als agenda verschijnen.
+Voor nieuws: houd bronpublicatie, gebeurtenisdatum, controle/revisie en eigen webPublishedAt gescheiden. Opslaan/goedkeuren in de lokale redactie is geen openbare publicatie. Zorg voor rollen, transacties, auditlog, herstel, versiebeheer en intrekken. Geen onbeveiligde lokale redactie- of onderzoeksroutes meenemen naar productie.
+Pipeline: scripts/news_pipeline.py --help geeft de beschikbare adapters en parameters. Plan draaien met overlap, idempotente verwerking, een slot tegen dubbele runs, begrensde retries en waarschuwingen bij langdurige fouten. Houd bronuitval en ontbrekende gemeentelijke dekking zichtbaar. Gebruik primaire feiten; herpublicatierechten zijn niet af te leiden uit bereikbaarheid.
+
+SEO EN DELEN
+Zie SEO-UITVOERING.txt en seo-production.env.example.
+Productiemodus vereist PITO_SITE_MODE=production en HTTPS op pitonieuws.nl (of www); kies definitief één host en redirect de andere. robots.txt moet bij integratie worden samengevoegd met bestaande hostingregels. Controleer CDN/WAF, HTTP X-Robots-Tag en paginametadata samen.
+Favicon en Apple-touch-icon gebruiken het vogelhuis uit het officiële PITO-logo. Safari kan eerder gecachte iconen nog tonen; het besturingssysteem bepaalt de deelweergave. Open Graph deelt de artikelfoto waar beschikbaar; het website-icoon toont de PITO-identiteit. De lokale 127.0.0.1-link is buiten deze computer niet bruikbaar. Gebruik productie-URL's voor externe deeltests.
+Google/Bing-accounts zijn niet gekoppeld en sitemaps niet extern ingediend. Geen rankings of AI-vermeldingen gegarandeerd.
+
+ACCEPTATIE VOOR LANCERING
+- Alle 26 gemeentekeuzes werken, inclusief terugnavigatie en behoud van expliciete URL. Test provincie, Woerden en gemeente zonder agenda-aanbod.
+- Nieuwsartikel, activiteit, agenda, vergunning en adressenpagina leveren juiste gemeentelijke inhoud; geen lege filters die naar een andere weergave springen.
+- Geen conceptnieuws op productie; intrekken verwijdert openbare inhoud en sitemapvermelding.
+- Bronfoto's laden, correcte alttekst/rechten; geen verkeerde club/locatie als invulling.
+- Bekendmaking toont omschrijving, bron en werkelijke status; aanvraag grijs, verleend groen, geweigerd rood. Geen verleend-status afleiden uit proceduretekst.
+- Mobiel 360/390/768 en desktop: geen horizontale overloop, menu sluit, toetsenbord/focus werkt, video's spelen zonder steeds opnieuw te beginnen. Autoplay kan door browser/energiebesparing beperkt zijn.
+- Test laadtijd met echte beeld- en videobelasting; optimaliseer beelden/CDN/cache en respecteer verminderde beweging.
+- Publieke URL's HTTPS, canonicals zonder localhost; sitemap-URL's bereikbaar, zinvol en indexeerbaar. Geen concepten/zoekresultaten in sitemap.
+- Deeltest op echte iPhone/Safari en WhatsApp met publiek bereikbare artikel-URL. Controleer PITO-icoon, titel, artikelfoto en teruglink.
+- Formulieren, correcties, privacy/cookies, contact- en juridische teksten door verantwoordelijke laten afronden.
+- Back-ups, monitoring en herstelprocedure daadwerkelijk getest.
+
+GETEST IN DE LOKALE OMGEVING
+SEO- en publicatieregels: 14 tests; nuttige adressen: 2; besluitstatus: 5. Aanvullend lokale HTTP-productiesimulatie voor gemeentepagina, adrespagina, bekendmaking, canonical, sitemap, zoekuitsluiting en robots.
+Deze tests bewijzen niet dat alle historische content, alle browsers of de toekomstige Strapi-installatie volledig gecontroleerd zijn.
+
+OVERDRACHTSCONTROLE AANVULLING
+Zelfstandige modus getest met 7 SEO/routetests en 2 overdrachtstests. Nieuwsroute, basis-CSS, promotiebeeld, Poppins-lettertype, PNG-iconen en artikelmetadata slagen. Uitvoeren vanuit deze map:
+  PITO_STANDALONE=1 python3 -B -m unittest discover -s tests -p 'test_handoff.py' -q
+  PITO_STANDALONE=1 python3 -B -m unittest discover -s tests -p 'test_seo.py' -q
+Neem de gehele map mee; alleen het overdrachtsdocument bevat niet de sitebestanden.

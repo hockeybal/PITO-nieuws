@@ -1,0 +1,54 @@
+[
+  {
+    "terms": [
+      "kasteel de haar"
+    ],
+    "municipality": "utrecht",
+    "file": "agenda-venue-kasteel-de-haar.jpg",
+    "alt": "Locatiebeeld: kasteel de haar",
+    "author": "APK",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_De_Haar.jpg",
+    "capturedAt": "2023-09-17 14:56:31"
+  },
+  {
+    "terms": [
+      "jacobikerk"
+    ],
+    "municipality": "utrecht",
+    "file": "agenda-venue-jacobikerk.jpg",
+    "alt": "Locatiebeeld: jacobikerk",
+    "author": "Wikiwal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Utrecht_Jacobikerk_Orgel.jpg",
+    "capturedAt": "2026-01-20"
+  },
+  {
+    "terms": [
+      "werkspoorkathedraal"
+    ],
+    "municipality": "utrecht",
+    "file": "agenda-venue-werkspoorkathedraal.jpg",
+    "alt": "Locatiebeeld: werkspoorkathedraal",
+    "author": "AarClaij",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Utrechtse_Werkspoorkathedraal.jpg",
+    "capturedAt": "2020-06-20"
+  },
+  {
+    "terms": [
+      "domplein"
+    ],
+    "municipality": "utrecht",
+    "file": "agenda-venue-domplein.jpg",
+    "alt": "Locatiebeeld: domplein",
+    "author": "Hosteldeals",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Domplein-01.JPG",
+    "capturedAt": "2015-07-26 11:48:59"
+  }
+]

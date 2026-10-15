@@ -1,0 +1,61 @@
+{
+  "reason": "Uitgeversmarketing is geen lokaal nieuws; redirect naar kmp.nl",
+  "signals": [
+    {
+      "imageCandidates": [],
+      "municipalityCandidates": [
+        "ijsselstein",
+        "lopik",
+        "montfoort",
+        "nieuwegein",
+        "vijfheerenlanden",
+        "woerden"
+      ],
+      "id": "66d0b04892ab439983b9",
+      "sourceTitle": "De kracht van huis-aan-huiskranten blijft groot in 2026",
+      "sourceUrl": "https://www.kmp.nl/de-kracht-van-huis-aan-huiskranten-blijft-groot-in-2026/",
+      "sourcePublishedAt": "2026-09-24",
+      "sourceId": "discovered-fbb6012b9943",
+      "status": "needs_review",
+      "municipalities": [],
+      "sourceMunicipality": "",
+      "sourceTimestamp": "2026-09-24T13:01:52+00:00",
+      "fingerprint": "9a50492f05d48b094bb2",
+      "note": "Geografie en primaire feiten nog door redactie controleren.",
+      "sourceIds": [
+        "discovered-fbb6012b9943"
+      ],
+      "sourceMunicipalities": [],
+      "firstSeenAt": "2026-10-13T11:23:25.674649+00:00",
+      "lastSeenAt": "2026-10-13T11:23:25.674649+00:00"
+    },
+    {
+      "imageCandidates": [],
+      "municipalityCandidates": [
+        "ijsselstein",
+        "lopik",
+        "montfoort",
+        "nieuwegein",
+        "vijfheerenlanden",
+        "woerden"
+      ],
+      "id": "f086fb3a05a40c7a8559",
+      "sourceTitle": "Google of ChatGPT? Hoe online zoeken razendsnel verandert",
+      "sourceUrl": "https://www.kmp.nl/google-of-chatgpt-hoe-online-zoeken-razendsnel-verandert/",
+      "sourcePublishedAt": "2026-07-23",
+      "sourceId": "discovered-fbb6012b9943",
+      "status": "needs_review",
+      "municipalities": [],
+      "sourceMunicipality": "",
+      "sourceTimestamp": "2026-07-23T11:38:54+00:00",
+      "fingerprint": "25e26bf8ef5c50f0a501",
+      "note": "Geografie en primaire feiten nog door redactie controleren.",
+      "sourceIds": [
+        "discovered-fbb6012b9943"
+      ],
+      "sourceMunicipalities": [],
+      "firstSeenAt": "2026-10-13T11:23:25.674649+00:00",
+      "lastSeenAt": "2026-10-13T11:23:25.674649+00:00"
+    }
+  ]
+}

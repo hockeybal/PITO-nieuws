@@ -1,0 +1,12 @@
+PITO Nieuws — volledige developer-overdracht, 14 oktober 2026
+
+Pak de ZIP volledig uit. Begin bij pito-nieuws/START-HIER-DEVELOPER.txt.
+
+Start vanuit de map pito-nieuws:
+PITO_STANDALONE=1 python3 -B server.py
+
+Open http://127.0.0.1:4198/nieuws/utrecht
+
+Inclusief websitecode, static beelden/video, lokale data, portable-assets, tests, scripts, Strapi-contracten, rapporten en instructies.
+Niet inbegrepen: tijdelijke werkbestanden, caches en losse historische screenshots uit de hoofdmap. De productie-app van PITO zelf is geen onderdeel van deze nieuws-preview. Historische onderzoeks-/generatiescripts kunnen aanvullende afhankelijkheden hebben; zie overdracht.
+Er zijn geen productiecredentials inbegrepen.

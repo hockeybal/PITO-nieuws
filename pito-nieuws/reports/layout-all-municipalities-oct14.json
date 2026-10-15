@@ -1,0 +1,314 @@
+[
+  {
+    "city": "amersfoort",
+    "heading": "Nieuws uitAmersfoort",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "baarn",
+    "heading": "Nieuws uitBaarn",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "bunnik",
+    "heading": "Nieuws uitBunnik",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "bunschoten",
+    "heading": "Nieuws uitBunschoten",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "de-bilt",
+    "heading": "Nieuws uitDe Bilt",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "de-ronde-venen",
+    "heading": "Nieuws uitDe Ronde Venen",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "eemnes",
+    "heading": "Nieuws uitEemnes",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "houten",
+    "heading": "Nieuws uitHouten",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "ijsselstein",
+    "heading": "Nieuws uitIJsselstein",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "leusden",
+    "heading": "Nieuws uitLeusden",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "lopik",
+    "heading": "Nieuws uitLopik",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "montfoort",
+    "heading": "Nieuws uitMontfoort",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "nieuwegein",
+    "heading": "Nieuws uitNieuwegein",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "oudewater",
+    "heading": "Nieuws uitOudewater",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "renswoude",
+    "heading": "Nieuws uitRenswoude",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "rhenen",
+    "heading": "Nieuws uitRhenen",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "soest",
+    "heading": "Nieuws uitSoest",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "stichtse-vecht",
+    "heading": "Nieuws uitStichtse Vecht",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "utrecht",
+    "heading": "Nieuws uitUtrecht",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "utrechtse-heuvelrug",
+    "heading": "Nieuws uitUtrechtse Heuvelrug",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "veenendaal",
+    "heading": "Nieuws uitVeenendaal",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "vijfheerenlanden",
+    "heading": "Nieuws uitVijfheerenlanden",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "wijk-bij-duurstede",
+    "heading": "Nieuws uitWijk bij Duurstede",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "woerden",
+    "heading": "Nieuws uitWoerden",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "woudenberg",
+    "heading": "Nieuws uitWoudenberg",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  {
+    "city": "zeist",
+    "heading": "Nieuws uitZeist",
+    "overflow": 0,
+    "scrollWidth": 390,
+    "width": 390,
+    "desktop": {
+      "overflow": 0,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  }
+]

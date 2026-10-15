@@ -1,0 +1,616 @@
+[
+  {
+    "url": "https://www.amersfoort.nl/feed/rss/nieuws",
+    "name": "Nieuwsarchief Amersfoort",
+    "municipalities": [
+      "amersfoort"
+    ],
+    "topics": [
+      "Gemeentenieuws",
+      "Verkeer & werkzaamheden"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.eemland1.nl/feed/",
+    "name": "Eemland1",
+    "municipalities": [
+      "baarn",
+      "bunschoten",
+      "soest"
+    ],
+    "topics": [
+      "Lokale media"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.kmp.nl/feed/",
+    "name": "Zenderstreeknieuws",
+    "municipalities": [
+      "ijsselstein",
+      "lopik",
+      "montfoort",
+      "nieuwegein",
+      "vijfheerenlanden",
+      "woerden"
+    ],
+    "topics": [
+      "Lokale media"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://welzijnrivierstroom.nl/feed/",
+    "name": "Vrijwilligers vacaturebank (Verwijst naar een externe website)",
+    "municipalities": [
+      "rhenen"
+    ],
+    "topics": [
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://sportinsoest.nl/rss",
+    "name": "Sport in Soest (Verwijst naar een externe website)",
+    "municipalities": [
+      "soest"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:23:02.958833+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://sportinsoest.nl/rss",
+    "contentType": "text/xml",
+    "received": 0,
+    "skipped": 1283,
+    "status": "no_dated_items_in_window"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/1/laatste-nieuws-gemeente-vijfheerenlanden.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/2/laatste-evenementen-gemeente-vijfheerenlanden.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "checkedAt": "2026-10-13T11:23:03.889408+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.vijfheerenlanden.nl/feeds/2/laatste-evenementen-gemeente-vijfheerenlanden.rss",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 0,
+    "skipped": 20,
+    "status": "no_dated_items_in_window"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/3/lexmond.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/6/ameide.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/9/meerkerk.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/12/everdingen.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/15/hagestein.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/18/hei-en-boeicop.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/21/hoef-en-haag.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/24/kedichem.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/27/leerbroek.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/30/leerdam.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/33/nieuwland.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/36/oosterwijk.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/39/schoonrewoerd.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/42/tienhoven-aan-de-lek.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/45/vianen.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.vijfheerenlanden.nl/feeds/48/zijderveld.rss",
+    "name": "Nieuwsarchief Vijfheerenlanden",
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "topics": [
+      "Bestuur & besluiten",
+      "Gemeentenieuws",
+      "Ondernemers",
+      "Verkeer & werkzaamheden",
+      "Wonen & bouwplannen",
+      "Zorg & buurtinitiatieven"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://www.omroepzout.nl/feed/",
+    "name": "Omroep ZOUT",
+    "municipalities": [
+      "bunnik",
+      "de-bilt",
+      "utrechtse-heuvelrug",
+      "wijk-bij-duurstede",
+      "zeist"
+    ],
+    "topics": [
+      "Lokale media"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://omroeplekstroom.nl/feed/",
+    "name": "Omroep Lekstroom",
+    "municipalities": [
+      "houten",
+      "ijsselstein",
+      "lopik",
+      "nieuwegein"
+    ],
+    "topics": [
+      "Lokale media"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://rtvmiddenholland.nl/feed/",
+    "name": "RTV Midden Holland",
+    "municipalities": [
+      "montfoort",
+      "oudewater",
+      "woerden"
+    ],
+    "topics": [
+      "Lokale media"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://xon.nu/feed/",
+    "name": "XON / 1 VALLEI",
+    "municipalities": [
+      "renswoude",
+      "rhenen",
+      "veenendaal",
+      "woudenberg"
+    ],
+    "topics": [
+      "Lokale media"
+    ],
+    "status": "already_configured"
+  },
+  {
+    "url": "https://xon.nu/home/feed/",
+    "name": "XON / 1 VALLEI",
+    "municipalities": [
+      "renswoude",
+      "rhenen",
+      "veenendaal",
+      "woudenberg"
+    ],
+    "topics": [
+      "Lokale media"
+    ],
+    "checkedAt": "2026-10-13T11:23:04.744535+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://xon.nu/home/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 0,
+    "skipped": 0,
+    "status": "no_dated_items_in_window"
+  },
+  {
+    "url": "https://www.sportamersfoort.nl/feed/",
+    "name": "Amersfoortse Sportfederatie – leden",
+    "municipalities": [
+      "amersfoort"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:23:06.821658+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportamersfoort.nl/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 0,
+    "skipped": 10,
+    "status": "no_dated_items_in_window"
+  },
+  {
+    "url": "https://www.sportinbunschoten.nl/feed/",
+    "name": "Sport in Bunschoten",
+    "municipalities": [
+      "bunschoten"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:23:08.736684+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportinbunschoten.nl/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 0,
+    "skipped": 10,
+    "status": "no_dated_items_in_window"
+  },
+  {
+    "url": "https://www.sportidnieuwegein.nl/feed/",
+    "name": "SportID Nieuwegein",
+    "municipalities": [
+      "nieuwegein"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:23:11.011948+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportidnieuwegein.nl/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 0,
+    "skipped": 0,
+    "status": "no_dated_items_in_window"
+  },
+  {
+    "url": "https://www.sportutrecht.nl/feed/",
+    "name": "SportUtrecht – clubs",
+    "municipalities": [
+      "utrecht"
+    ],
+    "topics": [
+      "Sport & verenigingen"
+    ],
+    "checkedAt": "2026-10-13T11:23:11.964223+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.sportutrecht.nl/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 7,
+    "skipped": 3,
+    "status": "connected",
+    "articleHosts": [
+      "www.sportutrecht.nl"
+    ]
+  },
+  {
+    "url": "https://cultuurhuiswoudenberg.nl/feed/",
+    "name": "Cultuurhuis Woudenberg",
+    "municipalities": [
+      "woudenberg"
+    ],
+    "topics": [
+      "Agenda & cultuur"
+    ],
+    "checkedAt": "2026-10-13T11:23:16.209785+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://cultuurhuiswoudenberg.nl/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 0,
+    "skipped": 1,
+    "status": "no_dated_items_in_window"
+  },
+  {
+    "url": "https://www.cultuurinbaarn.nl/feed/",
+    "name": "Cultuur in Baarn",
+    "municipalities": [
+      "baarn"
+    ],
+    "topics": [
+      "Agenda & cultuur"
+    ],
+    "checkedAt": "2026-10-13T11:23:19.757014+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://www.cultuurinbaarn.nl/feed/",
+    "contentType": "application/rss+xml; charset=UTF-8",
+    "received": 6,
+    "skipped": 0,
+    "status": "connected",
+    "articleHosts": [
+      "www.cultuurinbaarn.nl"
+    ]
+  },
+  {
+    "url": "https://cultuurinrhenen.nl/feed/",
+    "name": "Cultuur in Rhenen",
+    "municipalities": [
+      "rhenen"
+    ],
+    "topics": [
+      "Agenda & cultuur"
+    ],
+    "checkedAt": "2026-10-13T11:23:23.104681+00:00",
+    "crawlTest": "reachable_non_html",
+    "feedCandidates": [],
+    "discoveredRoutes": [],
+    "robotsHttp": 200,
+    "robotsStatus": "allowed",
+    "http": 200,
+    "finalUrl": "https://cultuurinrhenen.nl/feed/",
+    "contentType": "text/xml;charset=UTF-8",
+    "received": 0,
+    "skipped": 0,
+    "status": "no_dated_items_in_window"
+  }
+]

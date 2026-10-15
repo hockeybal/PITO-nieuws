@@ -1,0 +1,58 @@
+[
+  {
+    "id": "plan",
+    "name": "PLAN Woerden",
+    "place": "Nieuw-Middelland",
+    "phase": "Verkoop gestart",
+    "summary": "Nieuwbouw met 134 woningen. De ontwikkelaar meldde op 30 juli 2026 dat de vergunning onherroepelijk is. De bouwstart in het vierde kwartaal is een prognose.",
+    "action": "De eerste inschrijfronde sloot op 9 maart. Bekijk resterende beschikbaarheid bij de aanbieder.",
+    "deadline": "2026-03-09",
+    "sourceName": "PLAN Woerden",
+    "sourceUrl": "https://www.planwoerden.nl/",
+    "municipality": "woerden",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview"
+  },
+  {
+    "id": "snellerpoort",
+    "name": "Snellerpoort",
+    "place": "Woerden",
+    "phase": "Gebiedsontwikkeling",
+    "summary": "Een nieuwe stadswijk met circa 900 woningen, verdeeld over verschillende projecten. Planning en verkoop verschillen per deelproject.",
+    "action": "Bekijk de afzonderlijke projecten en hun eigen inschrijfvoorwaarden.",
+    "deadline": null,
+    "sourceName": "Projectwebsite Snellerpoort",
+    "sourceUrl": "https://snellerpoort.nl/",
+    "municipality": "woerden",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview"
+  },
+  {
+    "id": "molenvliet",
+    "name": "Molenvliet aardgasvrij",
+    "place": "Molenvliet",
+    "phase": "Onderzoek",
+    "summary": "De gemeente vergelijkt een warmtenet met individuele warmtepompen. Het advies aan het gemeentebestuur staat voor eind 2026 gepland; de warmteoplossing is nog niet besloten.",
+    "action": "De reactieronde over scenario’s is gesloten. Lees de onderzoeken en eerdere reacties.",
+    "deadline": null,
+    "sourceName": "Gemeente Woerden",
+    "sourceUrl": "https://www.woerden.nl/Klimaat/Verkenning_Molenvliet_aardgasvrij",
+    "municipality": "woerden",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview"
+  },
+  {
+    "id": "zegveld",
+    "name": "Nieuwe woonvorm in Zegveld",
+    "place": "Zegveld",
+    "phase": "Plannen in uitwerking",
+    "summary": "Na het definitieve sloopbesluit onderzoeken Cazas Wonen en lokale partijen een woonomgeving met ontmoeting, zorg en ondersteuning. De precieze invulling wordt verder uitgewerkt.",
+    "action": "Nog geen gecontroleerde inschrijfdatum beschikbaar. Volg de verdere uitwerking bij Cazas Wonen.",
+    "deadline": null,
+    "sourceName": "Cazas Wonen",
+    "sourceUrl": "https://cazaswonen.nl/over-ons/actueel/laatste-nieuws/nieuwe-woonvorm-zegveld-stap-dichterbij/",
+    "municipality": "woerden",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview"
+  }
+]

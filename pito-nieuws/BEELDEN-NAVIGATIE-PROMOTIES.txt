@@ -1,0 +1,11 @@
+Uitgevoerd 10 oktober 2026
+
+Alle 26 gemeenten hebben een eigen locatiebeeld. Negen ontbrekende beelden aangevuld en elf viewer-screenshots vervangen; vier eerder bewerkte PITO-beelden en de foto's van Woerden/Montfoort behouden. Geen generieke Amersfoort-fallback meer op bestaande gemeentepagina's.
+Twintig nieuwe gemeentefoto's uit Wikimedia Commons, met controle van licentie, maker en bronbeschrijving. Bronmetadata in data/municipality-images.json; raadpleeg /nieuws/beeldverantwoording voor afbeeldingen, makers en originele bronlinks. Bestanden worden niet als actuele nieuwsfoto's voorgesteld. Geen nieuwe fictieve luchtfoto's gegenereerd. De bestaande bewerkte PITO-beelden blijven als decoratieve AI-bewerking verantwoord.
+Foto's die geen panorama zijn, worden op desktop op hun eigen verhouding weergegeven met een blauwe overgang. Zo blijven gebouwen zichtbaar. Mobiele uitsnedes en lange gemeentetitels aangepast.
+
+Artikelpagina's: zichtbare lokale navigatie, links naar alle gemeentelijke berichten, onderwerp, gemeenteagenda en vandaag te doen. Extra kolom met eerdere berichten uit de gemeente. Navigatie blijft tijdens scrollen beschikbaar.
+
+Twee eigen PITO-campagnes: een hoge app-promotie voor de zijkolom en een brede 'Wat ga jij vandaag doen?'-campagne. Maximaal twee blokken per nieuws/artikelpagina, één brede campagne op agenda- en communitypagina's. Nieuwsbrede campagne staat tussen de actuele selectie en de oudere berichten. Op mobiel stromen zijkolommen onder het artikel. Alle campagnes zijn gelabeld 'Advertentie · PITO' en verwijzen naar de bestaande downloadpagina. Geen externe advertentienetwerken of tracking toegevoegd.
+
+De oorspronkelijke homepage blijft behouden. Strapi-agenda nog niet aangesloten en volledig zesmaandenarchief nog niet gevuld; deze wijziging verandert dat niet. Zie OPEN-PUNTEN-PITO.txt.

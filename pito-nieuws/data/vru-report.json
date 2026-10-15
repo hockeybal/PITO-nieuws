@@ -1,0 +1,12 @@
+{
+  "runAt": "2026-10-12T07:18:22.471365+00:00",
+  "window": [
+    "2026-07-12",
+    "2026-10-12"
+  ],
+  "pages": 4,
+  "added": 0,
+  "status": "ok",
+  "completeWithinWindow": true,
+  "signalsInWindow": 14
+}

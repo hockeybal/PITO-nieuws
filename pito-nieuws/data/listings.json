@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "activity",
+    "title": "Culture Run Woerden",
+    "municipality": "woerden",
+    "date": "2026-10-11",
+    "label": "11 oktober · Binnenstad Woerden",
+    "summary": "De gemeentelijke agenda vermeldt de Culture Run door de stad op zondag 11 oktober. Bekijk de bron voor de laatste informatie.",
+    "sourceName": "Gemeente Woerden",
+    "url": "https://www.woerden.nl/Voorzieningen/Vrije_tijd/Evenementen/2026/Oktober/Culture_Run_Woerden"
+  },
+  {
+    "kind": "activity",
+    "title": "Avond vol Energie",
+    "municipality": "utrecht",
+    "date": "2026-10-27",
+    "label": "27 oktober · 19.00–21.30 · Provinciehuis",
+    "summary": "Een avond voor bewonersinitiatieven en geïnteresseerden in de energietransitie, met gesprekken en deelsessies.",
+    "sourceName": "Provincie Utrecht",
+    "url": "https://www.provincie-utrecht.nl/actueel/agenda/avond-vol-energie-0"
+  },
+  {
+    "kind": "job",
+    "title": "Omgevingsmanager bij Rijkswaterstaat",
+    "municipality": "utrecht",
+    "date": "2026-10-12",
+    "label": "32–36 uur · Wo · Reageren vóór 12 oktober",
+    "summary": "Werk mee aan onderhoudsprojecten in Midden-Nederland. Salarisindicatie € 4.818–€ 7.094 bruto per maand bij een volledige werkweek. De vacature kan eerder sluiten.",
+    "sourceName": "Rijkswaterstaat",
+    "url": "https://werkenbij.rijkswaterstaat.nl/vacatures/omgevingsmanager/1334642"
+  }
+]

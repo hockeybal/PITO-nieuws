@@ -1,0 +1,346 @@
+[
+  {
+    "id": "region-ec89981e15",
+    "name": "RTV Stichtse Vecht",
+    "checkedAt": "2026-10-12T07:34:43.579991+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://rtvstichtsevecht.nl/ HTTP 302"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "stichtse-vecht"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-80437f9cba",
+    "name": "RTV Ronde Venen",
+    "checkedAt": "2026-10-12T07:34:44.097013+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 18,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "de-ronde-venen"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-feb44178d3",
+    "name": "NH Gooi",
+    "checkedAt": "2026-10-12T07:34:44.775205+00:00",
+    "pages": 0,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [
+      "https://www.nhnieuws.nl/nhgooi HTTP 307"
+    ],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "eemnes"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-6562579ea7",
+    "name": "SRC",
+    "checkedAt": "2026-10-12T07:34:45.107566+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 17,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "vijfheerenlanden"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-265b7de6a7",
+    "name": "DUIC",
+    "checkedAt": "2026-10-12T07:34:46.212566+00:00",
+    "pages": 1,
+    "dynamicPagination": false,
+    "discovered": 0,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "utrecht"
+    ],
+    "status": "unresolved",
+    "hasMore": false
+  },
+  {
+    "id": "region-abfb0368ef",
+    "name": "Woerdense Courant",
+    "checkedAt": "2026-10-12T07:34:46.896832+00:00",
+    "pages": 2,
+    "dynamicPagination": true,
+    "discovered": 39,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "woerden"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-ea39bfa10a",
+    "name": "De Woudenberger",
+    "checkedAt": "2026-10-12T07:34:48.943150+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "woudenberg"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-700d76d325",
+    "name": "Bunniks Nieuws",
+    "checkedAt": "2026-10-12T07:34:51.231969+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "bunnik"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-d31d40c8e6",
+    "name": "Wijks Nieuws",
+    "checkedAt": "2026-10-12T07:34:53.224484+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "wijk-bij-duurstede"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-190f4113cc",
+    "name": "Houtens Nieuws",
+    "checkedAt": "2026-10-12T07:34:55.334052+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "houten"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-32a2d275c9",
+    "name": "De Nieuwsbode",
+    "checkedAt": "2026-10-12T07:34:57.675790+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "zeist"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-920f5c3412",
+    "name": "Vierklank",
+    "checkedAt": "2026-10-12T07:34:59.732189+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "de-bilt"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-d4c86224c4",
+    "name": "De Stad Amersfoort",
+    "checkedAt": "2026-10-12T07:35:02.251055+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 4,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "amersfoort"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-c261f907c7",
+    "name": "Leusder Krant",
+    "checkedAt": "2026-10-12T07:35:04.244652+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "leusden"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-0e2d7a9037",
+    "name": "Soester Courant",
+    "checkedAt": "2026-10-12T07:35:06.212356+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "soest"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-dba5350795",
+    "name": "Baarnsche Courant",
+    "checkedAt": "2026-10-12T07:35:08.210476+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 5,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "baarn"
+    ],
+    "status": "partial",
+    "hasMore": false
+  },
+  {
+    "id": "region-db8a251b5a",
+    "name": "Nieuwsblad De Kaap",
+    "checkedAt": "2026-10-12T07:35:10.070537+00:00",
+    "pages": 2,
+    "dynamicPagination": false,
+    "discovered": 6,
+    "errors": [],
+    "fullArchive": false,
+    "autoPublish": false,
+    "window": [
+      "2026-07-12",
+      "2026-10-12"
+    ],
+    "municipalities": [
+      "utrechtse-heuvelrug"
+    ],
+    "status": "partial",
+    "hasMore": false
+  }
+]

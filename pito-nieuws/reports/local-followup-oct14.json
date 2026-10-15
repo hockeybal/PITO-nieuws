@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-14",
+  "pages": [
+    "/nieuws/utrecht/woerden",
+    "/nieuws/utrecht/woerden/onderwerp/sport",
+    "/agenda/utrecht/woerden/vandaag"
+  ],
+  "widths": [
+    390,
+    768,
+    1440
+  ],
+  "checks": 9,
+  "horizontalOverflow": false,
+  "brokenLoadedImages": 0,
+  "fix": "Verticale app-advertentie: voldoende hoogte en eigen indeling, tekst niet afgesneden.",
+  "additionalPhotos": [
+    "local-review-149364166",
+    "local-review-148273043",
+    "local-review-129739993",
+    "local-review-146251603",
+    "local-review-149271464",
+    "local-review-138612964",
+    "local-review-149638593",
+    "local-review-131568182"
+  ],
+  "footballClubs": 78,
+  "newFeedSignals": 10,
+  "notComplete": "Lopik mist nog een goedgekeurde recente lokale foto; clubfotorechten niet compleet; geen live weer of tankprijsdata."
+}

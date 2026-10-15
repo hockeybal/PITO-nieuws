@@ -1,0 +1,1941 @@
+{
+  "checkedAt": "2026-10-12T09:32:50.342484+00:00",
+  "scope": "53 geregistreerde regionale pagina’s, geen volledige marktinventaris",
+  "sources": [
+    {
+      "name": "Eemland1",
+      "url": "https://www.eemland1.nl/",
+      "municipalities": [
+        "amersfoort",
+        "leusden",
+        "baarn",
+        "bunschoten",
+        "soest"
+      ],
+      "checkedAt": "2026-10-12T09:30:20.389191+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.eemland1.nl/",
+        "https://www.eemland1.nl/nieuws/wethouder-aan-tafel-begroting-2027-baarn/"
+      ],
+      "archiveLinks": [
+        "https://www.eemland1.nl/nieuws/wethouder-aan-tafel-begroting-2027-baarn/"
+      ],
+      "categories": [
+        {
+          "label": "Roerige week in de Soester politiek",
+          "url": "https://www.eemland1.nl/nieuws/roerige-week-in-de-soester-politiek/"
+        }
+      ],
+      "headlines": [],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Omroep ZOUT",
+      "url": "https://www.omroepzout.nl/",
+      "municipalities": [
+        "de-bilt",
+        "bunnik",
+        "zeist",
+        "utrechtse-heuvelrug",
+        "wijk-bij-duurstede"
+      ],
+      "checkedAt": "2026-10-12T09:30:25.090786+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.omroepzout.nl/",
+        "https://www.omroepzout.nl/archief-tv/"
+      ],
+      "archiveLinks": [
+        "https://www.omroepzout.nl/archief-tv/"
+      ],
+      "categories": [
+        {
+          "label": "Archief TV",
+          "url": "https://www.omroepzout.nl/archief-tv/"
+        }
+      ],
+      "headlines": [],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Omroep Lekstroom",
+      "url": "https://omroeplekstroom.nl/",
+      "municipalities": [
+        "houten",
+        "ijsselstein",
+        "lopik",
+        "nieuwegein"
+      ],
+      "checkedAt": "2026-10-12T09:30:29.833762+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://omroeplekstroom.nl/"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "Onze dossiers",
+          "url": "https://omroeplekstroom.nl/dossiers/"
+        },
+        {
+          "label": "Sport op zaterdag",
+          "url": "https://omroeplekstroom.nl/sport-op-zaterdag/"
+        }
+      ],
+      "headlines": [],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "RTV Midden Holland",
+      "url": "https://rtvmiddenholland.nl/",
+      "municipalities": [
+        "woerden",
+        "oudewater",
+        "montfoort"
+      ],
+      "checkedAt": "2026-10-12T09:30:33.748975+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://rtvmiddenholland.nl/",
+        "https://rtvmiddenholland.nl/?rtvmh_page=2",
+        "https://rtvmiddenholland.nl/?rtvmh_page=3",
+        "https://rtvmiddenholland.nl/?rtvmh_page=4",
+        "https://rtvmiddenholland.nl/?rtvmh_page=5"
+      ],
+      "archiveLinks": [
+        "https://rtvmiddenholland.nl/?rtvmh_page=2",
+        "https://rtvmiddenholland.nl/?rtvmh_page=3",
+        "https://rtvmiddenholland.nl/?rtvmh_page=4",
+        "https://rtvmiddenholland.nl/?rtvmh_page=5",
+        "https://rtvmiddenholland.nl/?rtvmh_page=6"
+      ],
+      "categories": [
+        {
+          "label": "Sport",
+          "url": "https://rtvmiddenholland.nl/voorpagina/rtvm-sport/"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Warme stroopwafels, bekroonde kaas en regen op de streekmarkt in Schoonhoven (foto’s, video)",
+          "url": "https://rtvmiddenholland.nl/nieuws/warme-stroopwafels-bekroonde-kaas-en-regen-op-de-streekmarkt-in-schoonhoven-fotos-video/"
+        },
+        {
+          "title": "Woerden doet mee aan Nacht van de Nacht",
+          "url": "https://rtvmiddenholland.nl/nieuws/woerden-doet-mee-aan-nacht-van-de-nacht/"
+        },
+        {
+          "title": "Visie toegankelijkheid verdwijnt van tafel",
+          "url": "https://rtvmiddenholland.nl/nieuws/visie-toegankelijkheid-komt-er-niet/"
+        },
+        {
+          "title": "Woerden mist lokale cijfers over leesvaardigheid",
+          "url": "https://rtvmiddenholland.nl/nieuws/woerden-mist-lokale-cijfers-over-leesvaardigheid/"
+        },
+        {
+          "title": "Oudewater geeft geen vuurwerkontheffingen",
+          "url": "https://rtvmiddenholland.nl/nieuws/oudewater-geeft-geen-vuurwerkontheffingen/"
+        },
+        {
+          "title": "Jarige Job vraagt aandacht voor kinderarmoede",
+          "url": "https://rtvmiddenholland.nl/nieuws/jarige-job-vraagt-aandacht-voor-kinderarmoede/"
+        },
+        {
+          "title": "November wordt Maand van de Mantelzorger",
+          "url": "https://rtvmiddenholland.nl/nieuws/november-wordt-maand-van-de-mantelzorger/"
+        },
+        {
+          "title": "Rekenkameronderzoek en toekomst van winkelgebieden centraal in commissie Samenleving en Bestuur",
+          "url": "https://rtvmiddenholland.nl/nieuws/rekenkameronderzoek-en-toekomst-van-winkelgebieden-centraal-in-commissie-samenleving-en-bestuur/"
+        },
+        {
+          "title": "Woerdense cultuurmaker – Annemiek Visser",
+          "url": "https://rtvmiddenholland.nl/nieuws/woerdense-cultuurmaker-annemiek-visser/"
+        },
+        {
+          "title": "Politiek debat over omgevingsvisie, taalgebruik en woningnood (met audio)",
+          "url": "https://rtvmiddenholland.nl/nieuws/politiek-debat-over-omgevingsvisie-taalgebruik-en-woningnood-met-audio/"
+        },
+        {
+          "title": "Haastrecht blijft foutloos, Bergambacht klimt naar derde plaats",
+          "url": "https://rtvmiddenholland.nl/sport/haastrecht-blijft-foutloos-bergambacht-klimt-naar-derde-plaats/"
+        },
+        {
+          "title": "Cultuurcafé presenteert makers uit regio Woerden",
+          "url": "https://rtvmiddenholland.nl/nieuws/cultuurcafe-presenteert-makers-uit-regio-woerden/"
+        },
+        {
+          "title": "RFC Gouda houdt Spakenburg op gelijke hoogte in titanenstrijd",
+          "url": "https://rtvmiddenholland.nl/sport/rfc-gouda-houdt-spakenburg-op-gelijke-hoogte-in-titanenstrijd/"
+        },
+        {
+          "title": "Woerden vaart eigen koers richting provincie",
+          "url": "https://rtvmiddenholland.nl/nieuws/zes-gemeenten-willen-aanpassing-provinciale-regels/"
+        },
+        {
+          "title": "Rohda’76 doet goede zaken",
+          "url": "https://rtvmiddenholland.nl/sport/rohda76-doet-goede-zaken-2/"
+        },
+        {
+          "title": "Steunouders gezocht én vraagouders welkom!",
+          "url": "https://rtvmiddenholland.nl/nieuws/steunouders-gezocht-en-vraagouders-welkom/"
+        },
+        {
+          "title": "Ook tegen Lekkerkerk geen driepunter voor RVC’33",
+          "url": "https://rtvmiddenholland.nl/sport/ook-tegen-lekkerkerk-geen-driepunter-voor-rvc33/"
+        },
+        {
+          "title": "Gezond en Veilig ouder worden.",
+          "url": "https://rtvmiddenholland.nl/nieuws/gezond-en-veilig-ouder-worden/"
+        },
+        {
+          "title": "Opvoeden en Opgroeien!",
+          "url": "https://rtvmiddenholland.nl/nieuws/opvoeden-en-opgroeien/"
+        },
+        {
+          "title": "“Historie van Waddinxveen”",
+          "url": "https://rtvmiddenholland.nl/nieuws/historie-van-waddinxveen-4/"
+        },
+        {
+          "title": "Verdachte mishandeling Woerden aangehouden",
+          "url": "https://rtvmiddenholland.nl/nieuws/verdachte-mishandeling-woerden-aangehouden/"
+        },
+        {
+          "title": "Sportuitslagen BR6 zaterdag 10 oktober",
+          "url": "https://rtvmiddenholland.nl/sport/sportuitslagen-br6-zaterdag-10-oktober/"
+        },
+        {
+          "title": "Woerdense Natuuratlas: Landgoed Bredius in beeld",
+          "url": "https://rtvmiddenholland.nl/nieuws/woerdense-natuuratlas-landgoed-bredius-in-beeld/"
+        },
+        {
+          "title": "Koepelcoöperatie Energiek Midden-Holland pakt grootschalige energieprojecten op",
+          "url": "https://rtvmiddenholland.nl/nieuws/hoe-gaat-het-met-de-energiecooperaties/"
+        },
+        {
+          "title": "Vitaal Festival Schoonhoven: werken aan een gezonde toekomst (audio + video)",
+          "url": "https://rtvmiddenholland.nl/nieuws/vitaal-festival-schoonhoven-werken-aan-een-gezonde-toekomst-audio-video/"
+        },
+        {
+          "title": "Hoogheemraadschap trekt miljoenen uit voor aanpak rivierkreeften en betere waterkwaliteit (audio)",
+          "url": "https://rtvmiddenholland.nl/nieuws/hoogheemraadschap-trekt-miljoenen-uit-voor-aanpak-rivierkreeften-en-betere-waterkwaliteit/"
+        },
+        {
+          "title": "Popronde Woerden met 50 optredens op 21 locaties",
+          "url": "https://rtvmiddenholland.nl/nieuws/popronde-woerden-met-50-optredens-op-21-locaties/"
+        },
+        {
+          "title": "Grote schuurbrand aan de Reijerscop Harmelen",
+          "url": "https://rtvmiddenholland.nl/nieuws/grote-schuurbrand-aan-de-reijerscop-harmelen/"
+        },
+        {
+          "title": "Provinciale Staten bespreken zoekgebieden voor windenergie",
+          "url": "https://rtvmiddenholland.nl/nieuws/provinciale-staten-bespreken-zoekgebieden-voor-windenergie/"
+        },
+        {
+          "title": "Gasten en onderwerpen zaterdag 10 oktober 2026",
+          "url": "https://rtvmiddenholland.nl/nieuws/gasten-en-onderwerpen-zaterdag-10-oktober-2026/"
+        },
+        {
+          "title": "Kaasmeesters buigen zich over 37 boerenkazen uit de Krimpenerwaard (video)",
+          "url": "https://rtvmiddenholland.nl/nieuws/kaasmeesters-buigen-zich-over-37-boerenkazen-uit-de-krimpenerwaard-video/"
+        },
+        {
+          "title": "Zaterdag 10 oktober in Krimpenerwaard Sport",
+          "url": "https://rtvmiddenholland.nl/sport/zaterdag-10-oktober-in-krimpenerwaard-sport/"
+        },
+        {
+          "title": "Gouda wil geen laadkabels over de stoep naar elektrische auto’s",
+          "url": "https://rtvmiddenholland.nl/nieuws/gouda-wil-geen-laadkabels-over-de-stoep-naar-elektrische-autos/"
+        },
+        {
+          "title": "Spoorwegmuseum toont geschiedenis van de OV-fiets",
+          "url": "https://rtvmiddenholland.nl/nieuws/spoorwegmuseum-toont-geschiedenis-van-de-ov-fiets/"
+        },
+        {
+          "title": "Grondeigenaren werken niet mee aan windenergie",
+          "url": "https://rtvmiddenholland.nl/nieuws/grondeigenaren-werken-niet-mee-aan-windenergie/"
+        },
+        {
+          "title": "Woensdag staakt het bus- en trampersoneel streekvervoer",
+          "url": "https://rtvmiddenholland.nl/nieuws/woensdag-staakt-het-bus-en-trampersoneel-streekvervoer/"
+        },
+        {
+          "title": "Gratis tweede 3-gangenmenu bij restaurants in Woerden",
+          "url": "https://rtvmiddenholland.nl/nieuws/gratis-tweede-3-gangenmenu-bij-restaurants-in-woerden/"
+        },
+        {
+          "title": "Lidl Woerden wegens verbouwing tijdelijk gesloten",
+          "url": "https://rtvmiddenholland.nl/nieuws/lidl-woerden-wegens-verbouwing-tijdelijk-gesloten/"
+        },
+        {
+          "title": "Sportprogramma en sportaanbod BR6 radio voor 10 oktober",
+          "url": "https://rtvmiddenholland.nl/sport/sportprogramma-en-sportaanbod-br6-radio-voor-10-oktober/"
+        },
+        {
+          "title": "Werkplekken genoeg in culturele instellingen in Gouda, maar gebruik en bekendheid kan beter",
+          "url": "https://rtvmiddenholland.nl/nieuws/werkplekken-genoeg-in-culturele-instellingen-in-gouda-maar-gebruik-en-bekendheid-kan-beter/"
+        },
+        {
+          "title": "CDA wil duidelijkheid aanpak snelheid Dorpsstraat Harmelen",
+          "url": "https://rtvmiddenholland.nl/nieuws/cda-wil-duidelijkheid-aanpak-snelheid-dorpsstraat-harmelen/"
+        },
+        {
+          "title": "Nieuwe winkel IKEA opent in Gouda: “Groter dan ik dacht”",
+          "url": "https://rtvmiddenholland.nl/nieuws/nieuwe-winkel-ikea-opent-in-gouda-groter-dan-ik-dacht/"
+        },
+        {
+          "title": "Taakstraf voor Utrechter voor ongeluk waarbij zijn vriend overleed",
+          "url": "https://rtvmiddenholland.nl/nieuws/taakstraf-voor-utrechter-voor-ongeluk-waarbij-zijn-vriend-overleed/"
+        },
+        {
+          "title": "Etentje Vrijwilligers Thuishuis Woerden en jubileum Lotte Ruyten",
+          "url": "https://rtvmiddenholland.nl/nieuws/etentje-vrijwilligers-thuishuis-woerden-en-jubileum-lotte-ruyten/"
+        },
+        {
+          "title": "Nieuw seizoen ‘Sjors, ontdek je talent!’ in Woerden",
+          "url": "https://rtvmiddenholland.nl/nieuws/nieuw-seizoen-sjors-ontdek-je-talent-in-woerden/"
+        },
+        {
+          "title": "Cultuurverenigingen bespreken digitale ontwikkelingen tijdens eerste Cultuurcafé",
+          "url": "https://rtvmiddenholland.nl/nieuws/cultuurverenigingen-bespreken-digitale-ontwikkelingen-tijdens-eerste-cultuurcafe/"
+        },
+        {
+          "title": "Burgemeester niet van plan samenscholingsverbod te verlengen: ‘We moeten ook weer terug naar het normaal’",
+          "url": "https://rtvmiddenholland.nl/nieuws/burgemeester-niet-van-plan-samenscholingsverbod-te-verlengen-we-moeten-ook-weer-terug-naar-het-normaal/"
+        },
+        {
+          "title": "Vrouw uit auto geknipt na aanrijding",
+          "url": "https://rtvmiddenholland.nl/nieuws/vrouw-uit-auto-geknipt-na-aanrijding/"
+        },
+        {
+          "title": "Waterschap trekt extra geld uit voor waterkwaliteit en bestrijding rivierkreeften",
+          "url": "https://rtvmiddenholland.nl/nieuws/waterschap-trekt-extra-geld-uit-voor-waterkwaliteit-en-bestrijding-rivierkreeften/"
+        },
+        {
+          "title": "Montfoort stelt besluit over komst windmolens uit: ‘Te complex’",
+          "url": "https://rtvmiddenholland.nl/nieuws/montfoort-stelt-besluit-over-komst-windmolens-uit-te-complex/"
+        },
+        {
+          "title": "Fracties spreken zich uit over LHBTIQA+-acceptatie na besmeuren regenboogpad",
+          "url": "https://rtvmiddenholland.nl/nieuws/fracties-spreken-zich-uit-over-lhbtiqa-acceptatie-na-besmeuren-regenboogpad/"
+        },
+        {
+          "title": "Kinderen ontbijten samen met de burgemeesters",
+          "url": "https://rtvmiddenholland.nl/nieuws/kinderen-ontbijten-samen-met-de-burgemeesters/"
+        },
+        {
+          "title": "Amadeushuis Waddinxveen feestelijk geopend",
+          "url": "https://rtvmiddenholland.nl/nieuws/amadeushuis-waddinxveen-feestelijk-geopend/"
+        },
+        {
+          "title": "Actieweek Stichting Dagbesteding brengt 2.633,75 euro op voor Hospice Krimpenerwaard",
+          "url": "https://rtvmiddenholland.nl/nieuws/actieweek-stichting-dagbesteding-brengt-2-63375-euro-op-voor-hospice-krimpenerwaard/"
+        },
+        {
+          "title": "Pilot arbeidsmigrantenhuisvesting niet realistisch",
+          "url": "https://rtvmiddenholland.nl/nieuws/pilot-arbeidsmigrantenhuisvesting-niet-realistisch/"
+        },
+        {
+          "title": "PRIDE PROUD PRIMA toont indringende regenboogexpositie in Woerden",
+          "url": "https://rtvmiddenholland.nl/nieuws/pride-proud-prima-toont-indringende-regenboogexpositie-in-woerden/"
+        },
+        {
+          "title": "Dief neemt alle sieraden van 90-jarige vrouw uit Bodegraven mee",
+          "url": "https://rtvmiddenholland.nl/nieuws/dief-neemt-alle-sieraden-van-90-jarige-vrouw-uit-bodegraven-mee/"
+        },
+        {
+          "title": "Terrein rond verbouwde brandweergarage Zegveld verzakt in hoog tempo",
+          "url": "https://rtvmiddenholland.nl/nieuws/terrein-rond-verbouwde-brandweergarage-zegveld-verzakt-in-hoog-tempo/"
+        },
+        {
+          "title": "Een bank van mozaïek siert de dijk bij Lekkerkerk",
+          "url": "https://rtvmiddenholland.nl/nieuws/een-bank-van-mozaiek-siert-de-dijk-bij-lekkerkerk/"
+        },
+        {
+          "title": "Gemeente Woerden plaatst bladkorven voor herfstbladeren",
+          "url": "https://rtvmiddenholland.nl/nieuws/gemeente-woerden-plaatst-bladkorven-voor-herfstbladeren/"
+        },
+        {
+          "title": "Bewonersavond binnenstad over sociale veiligheid en weerbaarheid",
+          "url": "https://rtvmiddenholland.nl/nieuws/bewonersavond-binnenstad-over-sociale-veiligheid-en-weerbaarheid/"
+        },
+        {
+          "title": "Tweedehands kledingbeurs voor volwassenen in Zegveld",
+          "url": "https://rtvmiddenholland.nl/nieuws/tweedehands-kledingbeurs-voor-volwassenen-in-zegveld/"
+        },
+        {
+          "title": "Cancelled: “Wandelgangen”",
+          "url": "https://rtvmiddenholland.nl/nieuws/cancelled-wandelgangen/"
+        },
+        {
+          "title": "Alzheimer Café regio Woerden jubileert met een speciaal programma",
+          "url": "https://rtvmiddenholland.nl/nieuws/alzheimer-cafe-regio-woerden-jubileert-met-een-speciaal-programma/"
+        },
+        {
+          "title": "Stadshart Woerden houdt Koetjes en Kalfjes parade",
+          "url": "https://rtvmiddenholland.nl/nieuws/stadshart-woerden-houdt-koetjes-en-kalfjes-parade/"
+        },
+        {
+          "title": "Scouting kiest de Buurt Take Away als hoofddoel Goededoelenboom",
+          "url": "https://rtvmiddenholland.nl/nieuws/scouting-kiest-de-buurt-take-away-als-hoofddoel-goededoelenboom/"
+        },
+        {
+          "title": "Rijnkade Bodegraven krijgt  historische uitstraling met aandacht voor 2.000 jaar geschiedenis",
+          "url": "https://rtvmiddenholland.nl/nieuws/rijnkade-bodegraven-krijgt-historische-uitstraling-met-aandacht-voor-2-000-jaar-geschiedenis/"
+        },
+        {
+          "title": "MoveBase nu ook in Nieuwerbrug!",
+          "url": "https://rtvmiddenholland.nl/sport/movebase-nu-ook-in-nieuwerbrug/"
+        },
+        {
+          "title": "Laura fietst 500 kilometer in 24 uur voor de Nierstichting",
+          "url": "https://rtvmiddenholland.nl/nieuws/laura-fietst-500-kilometer-in-24-uur-voor-de-nierstichting/"
+        },
+        {
+          "title": "Sinterklaasintocht loopt gevaar door tekort geld en vrijwilligers",
+          "url": "https://rtvmiddenholland.nl/nieuws/sinterklaasintocht-loopt-gevaar-door-tekort-geld-en-vrijwilligers/"
+        },
+        {
+          "title": "Geen ontheffing vuurwerkverbod in Woerden",
+          "url": "https://rtvmiddenholland.nl/nieuws/geen-ontheffing-vuurwerkverbod-in-woerden/"
+        },
+        {
+          "title": "Klassement BR6-Topscorers Award 2026-2027 (3)",
+          "url": "https://rtvmiddenholland.nl/sport/klassement-br6-topscorers-award-2026-2027-3/"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "XON / 1 VALLEI",
+      "url": "https://xon.nu/",
+      "municipalities": [
+        "renswoude",
+        "rhenen",
+        "veenendaal",
+        "woudenberg"
+      ],
+      "checkedAt": "2026-10-12T09:30:47.625937+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://xon.nu/"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "Dossier Wolf",
+          "url": "https://xon.nu/tag/wolf"
+        },
+        {
+          "label": "DOSSIER WOLF",
+          "url": "https://xon.nu/tag/wolf/"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Vier accu’s in brand in bestelbus op de A30 bij Lunteren",
+          "url": "https://xon.nu/nieuws/vier-accus-in-brand-in-bestelbus-op-de-a30-bij-lunteren/"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "RTV Stichtse Vecht",
+      "url": "https://rtvstichtsevecht.nl/",
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "checkedAt": "2026-10-12T09:30:51.715701+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "RTV Ronde Venen",
+      "url": "https://rtvrondevenen.nl/",
+      "municipalities": [
+        "de-ronde-venen"
+      ],
+      "checkedAt": "2026-10-12T09:30:54.161428+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://rtvrondevenen.nl/"
+      ],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [
+        {
+          "title": "Fietsers op de rijbaan en dertig kilometer per uur op Padmosweg in Wilnis",
+          "url": "https://rtvrondevenen.nl/2026/10/08/fietsers-op-de-rijbaan-en-dertig-kilometer-per-uur-op-padmosweg-in-wilnis/"
+        },
+        {
+          "title": "Nieuw onderkomen voor Voedselbank voelt als volwaardige supermarkt",
+          "url": "https://rtvrondevenen.nl/2026/10/07/nieuw-onderkomen-voor-voedselbank-voelt-als-volwaardige-supermarkt/"
+        },
+        {
+          "title": "Deze week in Nieuwsronde 32",
+          "url": "https://rtvrondevenen.nl/2026/10/07/deze-week-in-nieuwsronde-32-3/"
+        },
+        {
+          "title": "Tussen Twaalf en Twee",
+          "url": "https://rtvrondevenen.nl/programma/tussen-twaalf-en-twee"
+        },
+        {
+          "title": "(Aankomend) reporters / interviewers",
+          "url": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/reporters/"
+        },
+        {
+          "title": "Filmen voor Nieuwsronde",
+          "url": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/cameravrijwilliger/"
+        },
+        {
+          "title": "Video editors voor Nieuwsronde",
+          "url": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/video-editors/"
+        },
+        {
+          "title": "Word lid van het PBO!",
+          "url": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/pbo-leden/"
+        },
+        {
+          "title": "Redactielid Nieuwsronde",
+          "url": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/redactieleden-nieuws/"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "NH Gooi",
+      "url": "https://www.nhnieuws.nl/nhgooi",
+      "municipalities": [
+        "eemnes"
+      ],
+      "checkedAt": "2026-10-12T09:30:56.964176+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 307"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "SRC",
+      "url": "https://src.fm/",
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "checkedAt": "2026-10-12T09:30:59.271421+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://src.fm/"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "Regiosport",
+          "url": "https://src.fm/regiosport"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Opnieuw brand bij Cruyff Court Tiel: het lijkt een kat-en-muisspel",
+          "url": "https://src.fm/regionieuws/62133/opnieuw-brand-bij-cruyff-court-tiel-het-lijkt-een-kat-en-muisspel"
+        },
+        {
+          "title": "Scooterrijder naar ziekenhuis na botsing met geparkeerde auto",
+          "url": "https://src.fm/regionieuws/62132/scooterrijder-naar-ziekenhuis-na-botsing-met-geparkeerde-auto"
+        },
+        {
+          "title": "Kampioensfeest bij Tiel’72: drie teams in de prijzen",
+          "url": "https://src.fm/regionieuws/62131/kampioensfeest-bij-tiel-72-drie-teams-in-de-prijzen"
+        },
+        {
+          "title": "Brandweer bevrijdt kitten onder auto",
+          "url": "https://src.fm/regionieuws/62128/brandweer-bevrijdt-kitten-onder-auto"
+        },
+        {
+          "title": "SRC TV Magazine | Als terug naar normaal geen optie meer is",
+          "url": "https://src.fm/regionieuws/62074/src-tv-magazine-als-terug-naar-normaal-geen-optie-meer-is"
+        },
+        {
+          "title": "Man overleden na ongeval op Graaf Reinaldweg in Herwijnen",
+          "url": "https://src.fm/regionieuws/62123/man-overleden-na-ongeval-op-graaf-reinaldweg-in-herwijnen"
+        },
+        {
+          "title": "SRC Weekend: ‘Ik heb honger om kinderen een toekomst te geven’",
+          "url": "https://src.fm/regionieuws/61880/src-weekend-ik-heb-honger-om-kinderen-een-toekomst-te-geven"
+        },
+        {
+          "title": "Bas en Teus zijn overlast verbouwing gemeentehuis spuugzat",
+          "url": "https://src.fm/regionieuws/62127/bas-en-teus-zijn-overlast-verbouwing-gemeentehuis-spuugzat"
+        },
+        {
+          "title": "Zitbank bij Cruyff Court Tiel twee keer op één avond in brand",
+          "url": "https://src.fm/regionieuws/62121/zitbank-bij-cruyff-court-tiel-twee-keer-op-een-avond-in-brand"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "DUIC",
+      "url": "https://www.duic.nl/",
+      "municipalities": [
+        "utrecht"
+      ],
+      "checkedAt": "2026-10-12T09:31:02.223492+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.duic.nl/"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "Horeca",
+          "url": "https://www.duic.nl/horeca"
+        },
+        {
+          "label": "Politiek",
+          "url": "https://www.duic.nl/politiek"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.duic.nl/sport"
+        },
+        {
+          "label": "Cultuur",
+          "url": "https://www.duic.nl/cultuur"
+        },
+        {
+          "label": "Economie",
+          "url": "https://www.duic.nl/economie"
+        },
+        {
+          "label": "Ondernemen",
+          "url": "https://www.duic.nl/ondernemen"
+        },
+        {
+          "label": "Uitgaan",
+          "url": "https://www.duic.nl/uitgaan"
+        },
+        {
+          "label": "Wonen",
+          "url": "https://www.duic.nl/wonen"
+        },
+        {
+          "label": "Dossiers",
+          "url": "https://www.duic.nl/dossiers"
+        },
+        {
+          "label": "MEER CULTUUR >",
+          "url": "https://www.duic.nl/algemeen"
+        }
+      ],
+      "headlines": [],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "RTV Utrecht",
+      "url": "https://www.rtvutrecht.nl/",
+      "municipalities": [
+        "*"
+      ],
+      "checkedAt": "2026-10-12T09:31:04.753211+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.rtvutrecht.nl/"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "Sport",
+          "url": "https://www.rtvutrecht.nl/sport"
+        },
+        {
+          "label": "Meer sportnieuws",
+          "url": "https://www.rtvutrecht.nl/sport"
+        },
+        {
+          "label": "Verkeer",
+          "url": "https://www.rtvutrecht.nl/verkeer"
+        },
+        {
+          "label": "Een Berg Sport",
+          "url": "https://www.rtvutrecht.nl/tv/programma/een-berg-sport/RTVU_1665430"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Nu landelijk verbod dichtbij is, zien gemeenten kans om fatbike te weren",
+          "url": "https://www.rtvutrecht.nl/nieuws/4098633/nu-landelijk-verbod-dichtbij-is-zien-gemeenten-kans-om-fatbike-te-weren"
+        },
+        {
+          "title": "Man uit Rhenen gewond bij dodelijk verkeersongeluk op N233",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102875/man-uit-rhenen-gewond-bij-dodelijk-verkeersongeluk-op-n233"
+        },
+        {
+          "title": "Duizenden woningen in Amersfoort voorlopig niet op stroomnet",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102809/duizenden-woningen-in-amersfoort-voorlopig-niet-op-stroomnet"
+        },
+        {
+          "title": "IT-incident raakt klanten van Albert Heijn, Etos en Gall & Gall: wat betekent dit voor jou?",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102834/it-incident-raakt-klanten-van-albert-heijn-etos-en-gall-en-gall-wat-betekent-dit-voor-jou"
+        },
+        {
+          "title": "Regenboogvlag van huis in Ameide getrokken: 'Heel erg'",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102837/regenboogvlag-van-huis-in-ameide-getrokken-heel-erg"
+        },
+        {
+          "title": "Waterschap is tonnen kwijt door droogte: 'Zware omstandigheden'",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102829/waterschap-is-tonnen-kwijt-door-droogte-zware-omstandigheden"
+        },
+        {
+          "title": "Bewoners van verzorgingshuis Tamarinde zitten in de kou met dikke luiers en vet haar",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101185/bewoners-van-verzorgingshuis-tamarinde-zitten-in-de-kou-met-dikke-luiers-en-vet-haar"
+        },
+        {
+          "title": "Verhuizing hondenclub loopt vertraging op na afwijzen vergunning",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102257/verhuizing-hondenclub-loopt-vertraging-op-na-afwijzen-vergunning"
+        },
+        {
+          "title": "Utrechtse Skaeve Huse krijgen nieuwe locatie",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102741/utrechtse-skaeve-huse-krijgen-nieuwe-locatie"
+        },
+        {
+          "title": "Sport Kort week 42: Veenhof nieuwe koploper in topscorerslijst | 40 plaatsen winst voor tennisster Du Pree",
+          "url": "https://www.rtvutrecht.nl/sport/4102861/sport-kort-week-42-veenhof-nieuwe-koploper-in-topscorerslijst-40-plaatsen-winst-voor-tennisster-du-pree"
+        },
+        {
+          "title": "112-nieuws: Nepagenten slaan slag rondom Maarssen | Vermoedelijk explosie in Amersfoort",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102811/112-nieuws-nepagenten-slaan-slag-rondom-maarssen-vermoedelijk-explosie-in-amersfoort"
+        },
+        {
+          "title": "Sterrenkijker legt bijzonder natuurfenomeen vast vanuit Wijk bij Duurstede: 'Ik had het niet verwacht'",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102584/sterrenkijker-legt-bijzonder-natuurfenomeen-vast-vanuit-wijk-bij-duurstede-ik-had-het-niet-verwacht"
+        },
+        {
+          "title": "Marians dochter is vermoord, nu vertelt ze haar verhaal",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101187/marians-dochter-is-vermoord-nu-vertelt-ze-haar-verhaal"
+        },
+        {
+          "title": "Utrecht volgens Puck Pieterse: 'Negen van de tien keer is het rondje Amerongen'",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101134/utrecht-volgens-puck-pieterse-negen-van-de-tien-keer-is-het-rondje-amerongen"
+        },
+        {
+          "title": "Stookseizoen weer van start, maar hoe schadelijk is houtrook eigenlijk?",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101149/stookseizoen-weer-van-start-maar-hoe-schadelijk-is-houtrook-eigenlijk"
+        },
+        {
+          "title": "Rini (72) brengt al bijna 20 jaar al zijn zaterdagen vrijwillig door in het hospice in IJsselstein",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101653/rini-72-brengt-al-bijna-20-jaar-al-zijn-zaterdagen-vrijwillig-door-in-het-hospice-in-ijsselstein"
+        },
+        {
+          "title": "Toen wisten deze Loenense sterren-chefs: Michelin-inspecteurs zijn binnen",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101740/toen-wisten-deze-loenense-sterren-chefs-michelin-inspecteurs-zijn-binnen"
+        },
+        {
+          "title": "Danique verloor haar baby vlak voor geboorte: 'Zat opeens thuis zonder kind in mijn buik'",
+          "url": "https://www.rtvutrecht.nl/nieuws/4099613/danique-verloor-haar-baby-vlak-voor-geboorte-zat-opeens-thuis-zonder-kind-in-mijn-buik"
+        },
+        {
+          "title": "Bas en Teus zijn overlast verbouwing gemeentehuis spuugzat: 'Vertrouwen naar het nulpunt'",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102213/bas-en-teus-zijn-overlast-verbouwing-gemeentehuis-spuugzat-vertrouwen-naar-het-nulpunt"
+        },
+        {
+          "title": "Marije (64) wil zo min mogelijk spullen weggooien, dus repareert zij ook haar oude stoel",
+          "url": "https://www.rtvutrecht.nl/nieuws/4100896/marije-64-wil-zo-min-mogelijk-spullen-weggooien-dus-repareert-zij-ook-haar-oude-stoel"
+        },
+        {
+          "title": "Vleutense kerk heeft verborgen schat: gigantische muurschildering komt tevoorschijn",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101548/vleutense-kerk-heeft-verborgen-schat-gigantische-muurschildering-komt-tevoorschijn"
+        },
+        {
+          "title": "Vermoedelijk explosief bij woning Amersfoort",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102806/vermoedelijk-explosief-bij-woning-amersfoort"
+        },
+        {
+          "title": "Zwaar ongeluk met 2 auto's in Kanaleneiland",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102746/zwaar-ongeluk-met-2-autos-in-kanaleneiland"
+        },
+        {
+          "title": "Drukke ochtend voor bergers en Wegenwacht: 14 banden lek in één straat",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102611/drukke-ochtend-voor-bergers-en-wegenwacht-14-banden-lek-in-een-straat"
+        },
+        {
+          "title": "Wie filmde de spookrijder op de A2? Politie zoekt dashcambeelden na dodelijk ongeluk",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102600/wie-filmde-de-spookrijder-op-de-a2-politie-zoekt-dashcambeelden-na-dodelijk-ongeluk"
+        },
+        {
+          "title": "Steekpartij gemeld in Amersfoort, veel politie op de been",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102589/steekpartij-gemeld-in-amersfoort-veel-politie-op-de-been"
+        },
+        {
+          "title": "Ravage in IJsselstein: bestelbus crasht op rotonde",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102587/ravage-in-ijsselstein-bestelbus-crasht-op-rotonde"
+        },
+        {
+          "title": "Spookrijder om het leven gekomen bij ongeluk A2",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102432/spookrijder-om-het-leven-gekomen-bij-ongeluk-a2"
+        },
+        {
+          "title": "Jongeren aangehouden bij oproep tot rellen in Utrechtse Griftpark",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102427/jongeren-aangehouden-bij-oproep-tot-rellen-in-utrechtse-griftpark"
+        },
+        {
+          "title": "112-nieuws: Ongeluk met 2 auto's in Utrecht | Fietsen in het water",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102418/112-nieuws-ongeluk-met-2-autos-in-utrecht-fietsen-in-het-water"
+        },
+        {
+          "title": "Auto rijdt tegen omgevallen boom in Woerden",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102422/auto-rijdt-tegen-omgevallen-boom-in-woerden"
+        },
+        {
+          "title": "Podcast MatchTalk: 'Het was niet goed, maar het belangrijkste zijn de 3 punten'",
+          "url": "https://www.rtvutrecht.nl/sport/4102696/podcast-matchtalk-het-was-niet-goed-maar-het-belangrijkste-zijn-de-3-punten"
+        },
+        {
+          "title": "Populaire veerpont weer in de vaart door regenval",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102750/populaire-veerpont-weer-in-de-vaart-door-regenval"
+        },
+        {
+          "title": "Dorp in actie: Aart van Eldik rijdt met konvooi vol hulpgoederen naar Oekraïne",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101734/dorp-in-actie-aart-van-eldik-rijdt-met-konvooi-vol-hulpgoederen-naar-oekraine"
+        },
+        {
+          "title": "Deze week failliet: ontharingskliniek maakte tientallen filmpjes, zelfs met een schaap",
+          "url": "https://www.rtvutrecht.nl/nieuws/4101608/deze-week-failliet-ontharingskliniek-maakte-tientallen-filmpjes-zelfs-met-een-schaap"
+        },
+        {
+          "title": "In Breukelen kun je razendsnel de top bereiken van deze nieuwe sport",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102700/in-breukelen-kun-je-razendsnel-de-top-bereiken-van-deze-nieuwe-sport"
+        },
+        {
+          "title": "FC Utrecht-trainer Correia tevreden over strijdlust: 'Spanning moest ons dichter bij elkaar brengen'",
+          "url": "https://www.rtvutrecht.nl/sport/4102698/fc-utrecht-trainer-correia-tevreden-over-strijdlust-spanning-moest-ons-dichter-bij-elkaar-brengen"
+        },
+        {
+          "title": "Treinreizigers opgelet: minder treinen rond Amersfoort",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102087/treinreizigers-opgelet-minder-treinen-rond-amersfoort"
+        },
+        {
+          "title": "FC Utrecht boekt dankzij Cathline tweede overwinning van het seizoen",
+          "url": "https://www.rtvutrecht.nl/sport/4102104/fc-utrecht-boekt-dankzij-cathline-tweede-overwinning-van-het-seizoen"
+        },
+        {
+          "title": "Jas uit, zonnebril op: zeer zacht nazomerweer op komst",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102607/jas-uit-zonnebril-op-zeer-zacht-nazomerweer-op-komst"
+        },
+        {
+          "title": "Utrecht onderzoekt strengere aanpak foute verhuurders en kijkt naar werkwijze andere stad",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102598/utrecht-onderzoekt-strengere-aanpak-foute-verhuurders-en-kijkt-naar-werkwijze-andere-stad"
+        },
+        {
+          "title": "Camera's waren kapot tijdens bekladding van tientallen oorlogsgraven",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102526/cameras-waren-kapot-tijdens-bekladding-van-tientallen-oorlogsgraven"
+        },
+        {
+          "title": "Spakenburg-trainer na vuurdoop: 'We moeten geiler zijn om te scoren'",
+          "url": "https://www.rtvutrecht.nl/sport/4102522/spakenburg-trainer-na-vuurdoop-we-moeten-geiler-zijn-om-te-scoren"
+        },
+        {
+          "title": "Sportlust'46 scoort weer niet tegen Hercules, maar verliest voor het eerst niet: 'We gaan er in ieder geval op vooruit'",
+          "url": "https://www.rtvutrecht.nl/sport/4102530/sportlust46-scoort-weer-niet-tegen-hercules-maar-verliest-voor-het-eerst-niet-we-gaan-er-in-ieder-geval-op-vooruit"
+        },
+        {
+          "title": "Angst voor gevolgen wekelijkse ov-staking: 'Reizigers keren niet terug naar bus'",
+          "url": "https://www.rtvutrecht.nl/nieuws/4102504/angst-voor-gevolgen-wekelijkse-ov-staking-reizigers-keren-niet-terug-naar-bus"
+        },
+        {
+          "title": "FC Utrecht-aanvoerder Joris van Overeem is eindelijk fit: 'Heb me zitten verbijten'",
+          "url": "https://www.rtvutrecht.nl/sport/4102040/fc-utrecht-aanvoerder-joris-van-overeem-is-eindelijk-fit-heb-me-zitten-verbijten"
+        },
+        {
+          "title": "Benauwde zege koploper Kampong, Hoogland verder in degradatiezorgen",
+          "url": "https://www.rtvutrecht.nl/sport/4102736/benauwde-zege-koploper-kampong-hoogland-verder-in-degradatiezorgen"
+        },
+        {
+          "title": "Sport Kort week 41: Belangrijke eerste zege mannen SCHC | VV Utrecht begint met zege",
+          "url": "https://www.rtvutrecht.nl/sport/4098720/sport-kort-week-41-belangrijke-eerste-zege-mannen-schc-vv-utrecht-begint-met-zege"
+        },
+        {
+          "title": "Spakenburg onderuit bij debuut nieuwe trainer | Vogels en GVVV winnen wel",
+          "url": "https://www.rtvutrecht.nl/sport/4102494/spakenburg-onderuit-bij-debuut-nieuwe-trainer-vogels-en-gvvv-winnen-wel"
+        },
+        {
+          "title": "FC Utrecht-speler Siebe Horemans over de rol van zijn trainers: 'Ze moeten niet teveel met mij bezig zijn'",
+          "url": "https://www.rtvutrecht.nl/sport/4102322/fc-utrecht-speler-siebe-horemans-over-de-rol-van-zijn-trainers-ze-moeten-niet-teveel-met-mij-bezig-zijn"
+        },
+        {
+          "title": "Amateurvoetbal: Vuurdoop Van der Veen in Werkendam | Streekderby in Utrecht",
+          "url": "https://www.rtvutrecht.nl/sport/4100744/amateurvoetbal-vuurdoop-van-der-veen-in-werkendam-streekderby-in-utrecht"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Woerdense Courant",
+      "url": "https://www.woerdensecourant.nl/",
+      "municipalities": [
+        "woerden"
+      ],
+      "checkedAt": "2026-10-12T09:31:07.931423+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.woerdensecourant.nl/",
+        "https://www.woerdensecourant.nl/search",
+        "https://www.woerdensecourant.nl/zoek"
+      ],
+      "archiveLinks": [
+        "https://www.woerdensecourant.nl/search",
+        "https://www.woerdensecourant.nl/zoek"
+      ],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.woerdensecourant.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.woerdensecourant.nl/sport"
+        },
+        {
+          "label": "Dossiers",
+          "url": "https://www.woerdensecourant.nl/dossiers"
+        },
+        {
+          "label": "Nieuwsarchief",
+          "url": "https://www.woerdensecourant.nl/search"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.woerdensecourant.nl/112"
+        },
+        {
+          "label": "Meer sport",
+          "url": "https://www.woerdensecourant.nl/sport"
+        },
+        {
+          "label": "Archief",
+          "url": "https://www.woerdensecourant.nl/zoek"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Technisch medewerker / Havenmeester m/v",
+          "url": "https://www.woerdensecourant.nl/joboffers/750446/technisch-medewerker-havenmeester-m-v"
+        },
+        {
+          "title": "Chauffeur knijperwagen 8x4",
+          "url": "https://www.woerdensecourant.nl/joboffers/750634/chauffeur-knijperwagen-8x4"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "indebuurt Woerden",
+      "url": "https://indebuurt.nl/woerden/",
+      "municipalities": [
+        "woerden"
+      ],
+      "checkedAt": "2026-10-12T09:31:15.233517+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Amersfoort",
+      "url": "https://www.ad.nl/amersfoort/",
+      "municipalities": [
+        "amersfoort"
+      ],
+      "checkedAt": "2026-10-12T09:31:17.904713+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Baarn",
+      "url": "https://www.ad.nl/baarn/",
+      "municipalities": [
+        "baarn"
+      ],
+      "checkedAt": "2026-10-12T09:31:21.026016+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Bunnik",
+      "url": "https://www.ad.nl/bunnik/",
+      "municipalities": [
+        "bunnik"
+      ],
+      "checkedAt": "2026-10-12T09:31:23.578903+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Bunschoten",
+      "url": "https://www.ad.nl/bunschoten/",
+      "municipalities": [
+        "bunschoten"
+      ],
+      "checkedAt": "2026-10-12T09:31:25.847281+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD De Bilt",
+      "url": "https://www.ad.nl/de-bilt/",
+      "municipalities": [
+        "de-bilt"
+      ],
+      "checkedAt": "2026-10-12T09:31:27.974122+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD De Ronde Venen",
+      "url": "https://www.ad.nl/de-ronde-venen/",
+      "municipalities": [
+        "de-ronde-venen"
+      ],
+      "checkedAt": "2026-10-12T09:31:30.344338+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Eemnes",
+      "url": "https://www.ad.nl/eemnes/",
+      "municipalities": [
+        "eemnes"
+      ],
+      "checkedAt": "2026-10-12T09:31:32.528830+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Houten",
+      "url": "https://www.ad.nl/houten/",
+      "municipalities": [
+        "houten"
+      ],
+      "checkedAt": "2026-10-12T09:31:34.733367+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD IJsselstein",
+      "url": "https://www.ad.nl/ijsselstein/",
+      "municipalities": [
+        "ijsselstein"
+      ],
+      "checkedAt": "2026-10-12T09:31:36.987979+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Leusden",
+      "url": "https://www.ad.nl/leusden/",
+      "municipalities": [
+        "leusden"
+      ],
+      "checkedAt": "2026-10-12T09:31:39.122723+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Lopik",
+      "url": "https://www.ad.nl/lopik/",
+      "municipalities": [
+        "lopik"
+      ],
+      "checkedAt": "2026-10-12T09:31:41.308508+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Montfoort",
+      "url": "https://www.ad.nl/montfoort/",
+      "municipalities": [
+        "montfoort"
+      ],
+      "checkedAt": "2026-10-12T09:31:43.505820+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Nieuwegein",
+      "url": "https://www.ad.nl/nieuwegein/",
+      "municipalities": [
+        "nieuwegein"
+      ],
+      "checkedAt": "2026-10-12T09:31:45.653213+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Oudewater",
+      "url": "https://www.ad.nl/oudewater/",
+      "municipalities": [
+        "oudewater"
+      ],
+      "checkedAt": "2026-10-12T09:31:47.815872+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Renswoude",
+      "url": "https://www.ad.nl/renswoude/",
+      "municipalities": [
+        "renswoude"
+      ],
+      "checkedAt": "2026-10-12T09:31:49.942279+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Rhenen",
+      "url": "https://www.ad.nl/rhenen/",
+      "municipalities": [
+        "rhenen"
+      ],
+      "checkedAt": "2026-10-12T09:31:52.083151+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Soest",
+      "url": "https://www.ad.nl/soest/",
+      "municipalities": [
+        "soest"
+      ],
+      "checkedAt": "2026-10-12T09:31:54.558249+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Stichtse Vecht",
+      "url": "https://www.ad.nl/stichtse-vecht/",
+      "municipalities": [
+        "stichtse-vecht"
+      ],
+      "checkedAt": "2026-10-12T09:31:56.875272+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Utrecht",
+      "url": "https://www.ad.nl/utrecht/",
+      "municipalities": [
+        "utrecht"
+      ],
+      "checkedAt": "2026-10-12T09:31:59.275268+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Utrechtse Heuvelrug",
+      "url": "https://www.ad.nl/utrechtse-heuvelrug/",
+      "municipalities": [
+        "utrechtse-heuvelrug"
+      ],
+      "checkedAt": "2026-10-12T09:32:01.428962+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Veenendaal",
+      "url": "https://www.ad.nl/veenendaal/",
+      "municipalities": [
+        "veenendaal"
+      ],
+      "checkedAt": "2026-10-12T09:32:03.568784+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Vijfheerenlanden",
+      "url": "https://www.ad.nl/vijfheerenlanden/",
+      "municipalities": [
+        "vijfheerenlanden"
+      ],
+      "checkedAt": "2026-10-12T09:32:05.729265+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Wijk bij Duurstede",
+      "url": "https://www.ad.nl/wijk-bij-duurstede/",
+      "municipalities": [
+        "wijk-bij-duurstede"
+      ],
+      "checkedAt": "2026-10-12T09:32:07.913908+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Woerden",
+      "url": "https://www.ad.nl/woerden/",
+      "municipalities": [
+        "woerden"
+      ],
+      "checkedAt": "2026-10-12T09:32:10.045192+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Woudenberg",
+      "url": "https://www.ad.nl/woudenberg/",
+      "municipalities": [
+        "woudenberg"
+      ],
+      "checkedAt": "2026-10-12T09:32:12.171135+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "AD Zeist",
+      "url": "https://www.ad.nl/zeist/",
+      "municipalities": [
+        "zeist"
+      ],
+      "checkedAt": "2026-10-12T09:32:14.353473+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "indebuurt Amersfoort",
+      "url": "https://indebuurt.nl/amersfoort/",
+      "municipalities": [
+        "amersfoort"
+      ],
+      "checkedAt": "2026-10-12T09:32:16.497056+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "indebuurt Utrecht",
+      "url": "https://indebuurt.nl/utrecht/",
+      "municipalities": [
+        "utrecht"
+      ],
+      "checkedAt": "2026-10-12T09:32:18.768403+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "indebuurt Veenendaal",
+      "url": "https://indebuurt.nl/veenendaal/",
+      "municipalities": [
+        "veenendaal"
+      ],
+      "checkedAt": "2026-10-12T09:32:21.008639+00:00",
+      "completeArchive": false,
+      "pages": [],
+      "archiveLinks": [],
+      "categories": [],
+      "headlines": [],
+      "errors": [
+        "HTTP 302"
+      ],
+      "status": "unavailable"
+    },
+    {
+      "name": "De Woudenberger",
+      "url": "https://www.dewoudenberger.nl",
+      "municipalities": [
+        "woudenberg"
+      ],
+      "checkedAt": "2026-10-12T09:32:23.294034+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.dewoudenberger.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.dewoudenberger.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.dewoudenberger.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.dewoudenberger.nl/112-uitderegio"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Raad kritisch over inzicht in jeugdzorg: ‘Hoe moeilijk is het om die cijfers bij te houden?’",
+          "url": "https://www.dewoudenberger.nl/lokaal/politiek/1318067/raad-kritisch-over-inzicht-in-jeugdzorg-hoe-moeilijk-is-het-o"
+        },
+        {
+          "title": "Woudenberg wil veiligere Stationsweg-west, maar wat heeft prioriteit?",
+          "url": "https://www.dewoudenberger.nl/lokaal/politiek/1317948/woudenberg-wil-veiligere-stationsweg-west-maar-wat-heeft-prio"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Bunniks Nieuws",
+      "url": "https://www.bunniksnieuws.nl",
+      "municipalities": [
+        "bunnik"
+      ],
+      "checkedAt": "2026-10-12T09:32:25.796365+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.bunniksnieuws.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.bunniksnieuws.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.bunniksnieuws.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.bunniksnieuws.nl/112-uitderegio"
+        },
+        {
+          "label": "Lees meer dossiers",
+          "url": "https://www.bunniksnieuws.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Zeer zacht najaarsweer op komst met temperaturen tot 21 graden",
+          "url": "https://www.bunniksnieuws.nl/lokaal/natuur-en-milieu/1318554/zeer-zacht-najaarsweer-op-komst-met-temperaturen-tot-21-graden"
+        },
+        {
+          "title": "Midlandia J1 verrast kampioen SKF met knappe overwinning",
+          "url": "https://www.bunniksnieuws.nl/sport/korfbal/1318506/midlandia-j1-verrast-kampioen-skf-met-knappe-overwinning"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Wijks Nieuws",
+      "url": "https://www.wijksnieuws.nl",
+      "municipalities": [
+        "wijk-bij-duurstede"
+      ],
+      "checkedAt": "2026-10-12T09:32:28.241910+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.wijksnieuws.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.wijksnieuws.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.wijksnieuws.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.wijksnieuws.nl/112-uitderegio"
+        },
+        {
+          "label": "Lees meer dossiers",
+          "url": "https://www.wijksnieuws.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Het verschil maken in Gambia",
+          "url": "https://www.wijksnieuws.nl/lokaal/maatschappelijk/1318548/het-verschil-maken-in-gambia"
+        },
+        {
+          "title": "Zeer zacht najaarsweer op komst met temperaturen tot 21 graden",
+          "url": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1318555/zeer-zacht-najaarsweer-op-komst-met-temperaturen-tot-21-graden"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Houtens Nieuws",
+      "url": "https://www.houtensnieuws.nl",
+      "municipalities": [
+        "houten"
+      ],
+      "checkedAt": "2026-10-12T09:32:30.749831+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.houtensnieuws.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.houtensnieuws.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.houtensnieuws.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.houtensnieuws.nl/112-uitderegio"
+        },
+        {
+          "label": "Cultuur 18e Cultuurnacht - De Reünie",
+          "url": "https://www.houtensnieuws.nl/lokaal/cultuur/1313857/18e-cultuurnacht-de-reunie"
+        },
+        {
+          "label": "Meer Wonen en bouwen",
+          "url": "https://www.houtensnieuws.nl/wonen-en-bouwen-in-houten"
+        },
+        {
+          "label": "Lees meer dossiers",
+          "url": "https://www.houtensnieuws.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Stichting Duurzaam Vervoer Houten viert 10-jarig bestaan",
+          "url": "https://www.houtensnieuws.nl/lokaal/maatschappelijk/1317122/stichting-duurzaam-vervoer-houten-viert-10-jarig-bestaan"
+        },
+        {
+          "title": "Zeer zacht najaarsweer op komst met temperaturen tot 21 graden",
+          "url": "https://www.houtensnieuws.nl/lokaal/natuur-en-milieu/1318556/zeer-zacht-najaarsweer-op-komst-met-temperaturen-tot-21-graden"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "De Nieuwsbode",
+      "url": "https://www.denieuwsbode.nl",
+      "municipalities": [
+        "zeist"
+      ],
+      "checkedAt": "2026-10-12T09:32:33.164581+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.denieuwsbode.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.denieuwsbode.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.denieuwsbode.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.denieuwsbode.nl/112-uitderegio"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Zeer zacht najaarsweer op komst met temperaturen tot 21 graden",
+          "url": "https://www.denieuwsbode.nl/lokaal/natuur-en-milieu/1318553/zeer-zacht-najaarsweer-op-komst-met-temperaturen-tot-21-graden"
+        },
+        {
+          "title": "Een fabel: Met innerlijke zwier",
+          "url": "https://www.denieuwsbode.nl/lokaal/dieren/1317662/een-fabel-met-innerlijke-zwier"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Vierklank",
+      "url": "https://www.vierklank.nl",
+      "municipalities": [
+        "de-bilt"
+      ],
+      "checkedAt": "2026-10-12T09:32:35.592534+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.vierklank.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.vierklank.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.vierklank.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.vierklank.nl/112-uitderegio"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "TZ behoudt derde plaats",
+          "url": "https://www.vierklank.nl/lokaal/overig/1318597/tz-behoudt-derde-plaats"
+        },
+        {
+          "title": "Extra raadsvergadering over noodopvang asielzoekers",
+          "url": "https://www.vierklank.nl/lokaal/politiek/1293009/extra-raadsvergadering-over-noodopvang-asielzoekers"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "De Stad Amersfoort",
+      "url": "https://www.destadamersfoort.nl",
+      "municipalities": [
+        "amersfoort"
+      ],
+      "checkedAt": "2026-10-12T09:32:38.044766+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.destadamersfoort.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.destadamersfoort.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.destadamersfoort.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.destadamersfoort.nl/112-uitderegio"
+        },
+        {
+          "label": "Lees meer dossiers",
+          "url": "https://www.destadamersfoort.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Spanning op werkvloer SRO is te snijden na meldingen over corrupte praktijken van collega’s",
+          "url": "https://www.destadamersfoort.nl/112/misdaad/1318663/spanning-op-werkvloer-sro-is-te-snijden-na-meldingen-over-cor"
+        },
+        {
+          "title": "Amersfoort Toen en Nu: De Hof",
+          "url": "https://www.destadamersfoort.nl/lokaal/historie/1318631/-in-beeld-amersfoort-toen-en-nu-de-hof"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Leusder Krant",
+      "url": "https://www.leusderkrant.nl",
+      "municipalities": [
+        "leusden"
+      ],
+      "checkedAt": "2026-10-12T09:32:40.521132+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.leusderkrant.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.leusderkrant.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.leusderkrant.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.leusderkrant.nl/112-uitderegio"
+        },
+        {
+          "label": "Lees meer dossiers",
+          "url": "https://www.leusderkrant.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Spanning op werkvloer SRO is te snijden na meldingen over corrupte praktijken van collega’s",
+          "url": "https://www.leusderkrant.nl/112/misdaad/1318672/spanning-op-werkvloer-sro-is-te-snijden-na-meldingen-over-cor"
+        },
+        {
+          "title": "Jonge robotbouwers kunnen bouwen en programmeren tijdens LEGO Lab Mindstorms in de Bibliotheek Leusden",
+          "url": "https://www.leusderkrant.nl/lokaal/activiteiten/1318705/jonge-robotbouwers-kunnen-bouwen-en-programmeren-tijdens-lego"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Soester Courant",
+      "url": "https://www.soestercourant.nl",
+      "municipalities": [
+        "soest"
+      ],
+      "checkedAt": "2026-10-12T09:32:42.958994+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.soestercourant.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.soestercourant.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.soestercourant.nl/sport"
+        },
+        {
+          "label": "112 Inhoud papiercontainer in brand",
+          "url": "https://www.soestercourant.nl/112/brand/1318334/inhoud-papiercontainer-in-brand"
+        },
+        {
+          "label": "112 Omgewaaide boom blokkeert weg in Soest",
+          "url": "https://www.soestercourant.nl/112/overig/1318322/omgewaaide-boom-blokkeert-weg-in-soest"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.soestercourant.nl/112-uitderegio"
+        },
+        {
+          "label": "Meer dossiers",
+          "url": "https://www.soestercourant.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "‘Doelpuntenmachines’ bij Soester sportvereniging VVZ’49",
+          "url": "https://www.soestercourant.nl/lokaal/duurzaamheid/1318590/doelpuntenmachines-bij-soester-sportvereniging-vvz49"
+        },
+        {
+          "title": "Geschiedenis van rijksmonumenten op themaochtend Soesterberg toen en nu",
+          "url": "https://www.soestercourant.nl/lokaal/historie/1318111/geschiedenis-van-rijksmonumenten-op-themaochtend-soesterberg-"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Baarnsche Courant",
+      "url": "https://www.baarnschecourant.nl",
+      "municipalities": [
+        "baarn"
+      ],
+      "checkedAt": "2026-10-12T09:32:45.434863+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.baarnschecourant.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.baarnschecourant.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.baarnschecourant.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.baarnschecourant.nl/112-uitderegio"
+        },
+        {
+          "label": "Lees meer dossiers",
+          "url": "https://www.baarnschecourant.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Op ontdekkingstocht door oud-Baarn",
+          "url": "https://www.baarnschecourant.nl/nieuws/lokaalnieuws/1318572/op-ontdekkingstocht-door-oud-baarn"
+        },
+        {
+          "title": "Nog geen vergunning aangevraagd voor intocht Sinterklaas",
+          "url": "https://www.baarnschecourant.nl/lokaal/maatschappelijk/1318569/nog-geen-vergunning-aangevraagd-voor-intocht-sinterklaas"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    },
+    {
+      "name": "Nieuwsblad De Kaap",
+      "url": "https://www.nieuwsbladdekaap.nl",
+      "municipalities": [
+        "utrechtse-heuvelrug"
+      ],
+      "checkedAt": "2026-10-12T09:32:47.879949+00:00",
+      "completeArchive": false,
+      "pages": [
+        "https://www.nieuwsbladdekaap.nl"
+      ],
+      "archiveLinks": [],
+      "categories": [
+        {
+          "label": "112",
+          "url": "https://www.nieuwsbladdekaap.nl/112"
+        },
+        {
+          "label": "Sport",
+          "url": "https://www.nieuwsbladdekaap.nl/sport"
+        },
+        {
+          "label": "Meer 112",
+          "url": "https://www.nieuwsbladdekaap.nl/112-uitderegio"
+        },
+        {
+          "label": "Lees meer dossiers",
+          "url": "https://www.nieuwsbladdekaap.nl/dossiers"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Beleef het opnieuw: De klok bovenop",
+          "url": "https://www.nieuwsbladdekaap.nl/lokaal/historie/1317074/beleef-het-opnieuw-de-klok-bovenop"
+        },
+        {
+          "title": "Race tegen de klok tijdens minuut gratis winkelen PLUS Leersum",
+          "url": "https://www.nieuwsbladdekaap.nl/lokaal/winkels/1318471/race-tegen-de-klok-tijdens-minuut-gratis-winkelen-plus-leersum"
+        }
+      ],
+      "errors": [],
+      "status": "partial"
+    }
+  ]
+}

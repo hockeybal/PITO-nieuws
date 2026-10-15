@@ -1,0 +1,43 @@
+{
+  "field": "ranking.activeUntil",
+  "backup": "/private/tmp/pito-original-20261014/articles.json",
+  "changes": [
+    {
+      "slug": "reparatieweek-brengt-workshops-en-reparatiehulp-naar-de-ronde-venen",
+      "old": "2026-10-18T23:59:59+02:00",
+      "new": "2026-10-18"
+    },
+    {
+      "slug": "telefoonstoring-bij-umc-utrecht-en-wkz-op-10-oktober-opgelost",
+      "old": "2026-10-10T14:00:00+02:00",
+      "new": "2026-10-10"
+    },
+    {
+      "slug": "annexcinema-kondigt-jubileumvertoning-van-buddhas-lost-children-aan",
+      "old": "2026-10-13T20:00:00+02:00",
+      "new": "2026-10-13"
+    },
+    {
+      "slug": "spoorstoring-onderbreekt-intercityverbinding-utrechtrotterdam-op-11-oktober",
+      "old": "2026-10-11T13:44:00+02:00",
+      "new": "2026-10-11"
+    },
+    {
+      "slug": "nff-kondigt-utrechtse-slotavond-met-filmdebuut-van-spinvis-aan",
+      "old": "2026-10-01T00:00:00+02:00",
+      "new": "2026-10-01"
+    },
+    {
+      "slug": "fc-utrecht-verwacht-compacte-tegenstander-bij-thuisduel-met-willem-ii",
+      "old": "2026-10-11T12:15:00+02:00",
+      "new": "2026-10-11"
+    }
+  ],
+  "rankingCorrection": {
+    "slug": "bachdag-amersfoort-2026-kerken-kapellen",
+    "field": "ranking.audienceNeed",
+    "before": "connection",
+    "after": "",
+    "reason": "Beoordeling zonder motivering blijft onbeoordeeld; geen inhoud of publicatiestatus aangepast."
+  }
+}

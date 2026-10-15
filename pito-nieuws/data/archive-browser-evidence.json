@@ -1,0 +1,1380 @@
+[
+  {
+    "name": "AD Woerden",
+    "pages": [
+      "https://www.ad.nl/woerden/",
+      "https://www.ad.nl/net-binnen-woerden/"
+    ],
+    "categories": [
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-woerden/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-woerden/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-woerden/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-woerden/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-woerden/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-woerden/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-woerden/"
+      },
+      {
+        "label": "Aanbiedingen",
+        "url": "https://www.ad.nl/aanbiedingen-woerden/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-woerden/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "method": "Openbare browserweergave na weigeren optionele cookies",
+    "completeArchive": false,
+    "note": "Regiopagina combineert lokaal en breder regionaal nieuws; premiumverhalen niet geopend."
+  },
+  {
+    "name": "indebuurt Woerden",
+    "pages": [
+      "https://indebuurt.nl/woerden/"
+    ],
+    "categories": [
+      {
+        "label": "Nieuws",
+        "url": "https://indebuurt.nl/woerden/nieuws/"
+      },
+      {
+        "label": "Doen",
+        "url": "https://indebuurt.nl/woerden/doen/"
+      },
+      {
+        "label": "Woerdenaren",
+        "url": "https://indebuurt.nl/woerden/woerdenaren/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://indebuurt.nl/woerden/eten-en-drinken/"
+      },
+      {
+        "label": "Winkelen",
+        "url": "https://indebuurt.nl/woerden/winkelen/"
+      },
+      {
+        "label": "Wonen",
+        "url": "https://indebuurt.nl/woerden/wonen/"
+      },
+      {
+        "label": "Genieten van Woerden",
+        "url": "https://indebuurt.nl/woerden/genieten-van-woerden/"
+      }
+    ],
+    "method": "Openbare browserweergave na weigeren optionele cookies",
+    "completeArchive": false,
+    "note": "Rubrieken, wekelijkse tips, maandlijsten, woonselecties en lokale dossiers zichtbaar; geen volledige archiefcrawl."
+  },
+  {
+    "name": "AD Amersfoort",
+    "pages": [
+      "https://www.ad.nl/amersfoort/"
+    ],
+    "categories": [
+      {
+        "label": "Wijzig",
+        "url": "https://www.ad.nl/regio/wijzigen/"
+      },
+      {
+        "label": "Amersfoort",
+        "url": "https://www.ad.nl/amersfoort/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-amersfoort/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-amersfoort/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-amersfoort/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-amersfoort/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-amersfoort/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-amersfoort/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-amersfoort/"
+      },
+      {
+        "label": "Aanbiedingen",
+        "url": "https://www.ad.nl/aanbiedingen-amersfoort/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-amersfoort/"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Baarn",
+    "url": "https://www.ad.nl/baarn/",
+    "pages": [
+      "https://www.ad.nl/baarn/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-baarn/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-baarn/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-baarn/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-baarn/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-baarn/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-baarn/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-baarn/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-baarn/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Bunnik",
+    "url": "https://www.ad.nl/bunnik/",
+    "pages": [
+      "https://www.ad.nl/bunnik/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-bunnik/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-bunnik/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-bunnik/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-bunnik/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-bunnik/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-bunnik/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-bunnik/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-bunnik/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Bunschoten",
+    "url": "https://www.ad.nl/bunschoten/",
+    "pages": [
+      "https://www.ad.nl/bunschoten-spakenburg"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-bunschoten-spakenburg/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-bunschoten-spakenburg/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-bunschoten-spakenburg/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-bunschoten-spakenburg/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-bunschoten-spakenburg/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-bunschoten-spakenburg/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-bunschoten-spakenburg/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-bunschoten-spakenburg/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD De Bilt",
+    "url": "https://www.ad.nl/de-bilt/",
+    "pages": [
+      "https://www.ad.nl/de-bilt/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-de-bilt/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-de-bilt/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-de-bilt/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-de-bilt/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-de-bilt/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-de-bilt/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-de-bilt/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-de-bilt/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD De Ronde Venen",
+    "url": "https://www.ad.nl/de-ronde-venen/",
+    "pages": [
+      "https://www.ad.nl/de-ronde-venen/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-de-ronde-venen/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-de-ronde-venen/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-de-ronde-venen/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-de-ronde-venen/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-de-ronde-venen/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-de-ronde-venen/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-de-ronde-venen/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-de-ronde-venen/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Eemnes",
+    "url": "https://www.ad.nl/eemnes/",
+    "pages": [
+      "https://www.ad.nl/eemnes/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-eemnes/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-eemnes/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-eemnes/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-eemnes/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-eemnes/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-eemnes/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-eemnes/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-eemnes/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Houten",
+    "url": "https://www.ad.nl/houten/",
+    "pages": [
+      "https://www.ad.nl/houten/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-houten/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-houten/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-houten/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-houten/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-houten/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-houten/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-houten/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-houten/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD IJsselstein",
+    "url": "https://www.ad.nl/ijsselstein/",
+    "pages": [
+      "https://www.ad.nl/ijsselstein/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-ijsselstein/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-ijsselstein/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-ijsselstein/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-ijsselstein/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-ijsselstein/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-ijsselstein/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-ijsselstein/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-ijsselstein/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Leusden",
+    "url": "https://www.ad.nl/leusden/",
+    "pages": [
+      "https://www.ad.nl/leusden/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-leusden/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-leusden/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-leusden/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-leusden/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-leusden/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-leusden/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-leusden/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-leusden/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Lopik",
+    "url": "https://www.ad.nl/lopik/",
+    "pages": [
+      "https://www.ad.nl/lopik/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-lopik/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-lopik/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-lopik/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-lopik/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-lopik/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-lopik/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-lopik/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-lopik/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Montfoort",
+    "url": "https://www.ad.nl/montfoort/",
+    "pages": [
+      "https://www.ad.nl/montfoort/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-montfoort/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-montfoort/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-montfoort/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-montfoort/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-montfoort/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-montfoort/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-montfoort/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-montfoort/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Nieuwegein",
+    "url": "https://www.ad.nl/nieuwegein/",
+    "pages": [
+      "https://www.ad.nl/nieuwegein/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-nieuwegein/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-nieuwegein/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-nieuwegein/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-nieuwegein/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-nieuwegein/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-nieuwegein/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-nieuwegein/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-nieuwegein/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Oudewater",
+    "url": "https://www.ad.nl/oudewater/",
+    "pages": [
+      "https://www.ad.nl/oudewater/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-oudewater/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-oudewater/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-oudewater/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-oudewater/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-oudewater/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-oudewater/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-oudewater/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-oudewater/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Renswoude",
+    "url": "https://www.ad.nl/renswoude/",
+    "pages": [
+      "https://www.ad.nl/renswoude/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-renswoude/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-renswoude/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-renswoude/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-renswoude/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-renswoude/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-renswoude/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-renswoude/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Rhenen",
+    "url": "https://www.ad.nl/rhenen/",
+    "pages": [
+      "https://www.ad.nl/rhenen/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-rhenen/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-rhenen/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-rhenen/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-rhenen/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-rhenen/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-rhenen/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-rhenen/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-rhenen/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Soest",
+    "url": "https://www.ad.nl/soest/",
+    "pages": [
+      "https://www.ad.nl/soest/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-soest/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-soest/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-soest/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-soest/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-soest/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-soest/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-soest/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-soest/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Stichtse Vecht",
+    "pages": [],
+    "categories": [],
+    "note": "Browsernavigatie afgebroken; regiopagina niet inhoudelijk vastgesteld."
+  },
+  {
+    "name": "AD Utrecht",
+    "url": "https://www.ad.nl/utrecht/",
+    "pages": [
+      "https://www.ad.nl/utrecht/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-utrecht/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-utrecht/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-utrecht/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-utrecht/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-utrecht/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-utrecht/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-utrecht/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-utrecht/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Utrechtse Heuvelrug",
+    "url": "https://www.ad.nl/utrechtse-heuvelrug/",
+    "pages": [
+      "https://www.ad.nl/utrechtse-heuvelrug/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-utrechtse-heuvelrug/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Veenendaal",
+    "url": "https://www.ad.nl/veenendaal/",
+    "pages": [
+      "https://www.ad.nl/veenendaal/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-veenendaal/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-veenendaal/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-veenendaal/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-veenendaal/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-veenendaal/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-veenendaal/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-veenendaal/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-veenendaal/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Vijfheerenlanden",
+    "url": "https://www.ad.nl/vijfheerenlanden/",
+    "pages": [
+      "https://www.ad.nl/vijfheerenlanden/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-vijfheerenlanden/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-vijfheerenlanden/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-vijfheerenlanden/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-vijfheerenlanden/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-vijfheerenlanden/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-vijfheerenlanden/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-vijfheerenlanden/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-vijfheerenlanden/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Wijk bij Duurstede",
+    "url": "https://www.ad.nl/wijk-bij-duurstede/",
+    "pages": [
+      "https://www.ad.nl/wijk-bij-duurstede/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-wijk-bij-duurstede/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-wijk-bij-duurstede/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-wijk-bij-duurstede/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-wijk-bij-duurstede/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-wijk-bij-duurstede/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-wijk-bij-duurstede/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-wijk-bij-duurstede/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-wijk-bij-duurstede/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Woudenberg",
+    "url": "https://www.ad.nl/woudenberg/",
+    "pages": [
+      "https://www.ad.nl/woudenberg/"
+    ],
+    "categories": [
+      {
+        "label": "Koken & Eten",
+        "url": "https://www.ad.nl/koken-en-eten/"
+      },
+      {
+        "label": "Net Binnen",
+        "url": "https://www.ad.nl/net-binnen-woudenberg/"
+      },
+      {
+        "label": "112 nieuws",
+        "url": "https://www.ad.nl/112-nieuws-woudenberg/"
+      },
+      {
+        "label": "Van de lezer",
+        "url": "https://www.ad.nl/van-de-lezer-woudenberg/"
+      },
+      {
+        "label": "Uit-tips",
+        "url": "https://www.ad.nl/uit-tips-woudenberg/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://www.ad.nl/eten-en-drinken-woudenberg/"
+      },
+      {
+        "label": "Regiosport",
+        "url": "https://www.ad.nl/regiosport-woudenberg/"
+      },
+      {
+        "label": "In herinnering",
+        "url": "https://www.ad.nl/in-herinnering-woudenberg/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.ad.nl/vacatures-woudenberg/"
+      },
+      {
+        "label": "Vacatures",
+        "url": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg?utm_source=AD&utm_medium=tekstlink&utm_content=footer&utm_campaign=vacatures"
+      }
+    ],
+    "note": "Openbare gemeentepagina in browser gecontroleerd; rubrieknavigatie en archiefingangen vastgelegd. Dit is geen volledige historische crawl."
+  },
+  {
+    "name": "AD Zeist",
+    "url": "https://www.ad.nl/zeist/",
+    "pages": [],
+    "categories": [],
+    "note": "Browsernavigatie mislukt; niet inhoudelijk gecontroleerd."
+  },
+  {
+    "name": "indebuurt Amersfoort",
+    "pages": [
+      "https://indebuurt.nl/amersfoort/"
+    ],
+    "categories": [
+      {
+        "label": "Nieuws",
+        "url": "https://indebuurt.nl/amersfoort/nieuws/"
+      },
+      {
+        "label": "Doen",
+        "url": "https://indebuurt.nl/amersfoort/doen/"
+      },
+      {
+        "label": "Amersfoorters",
+        "url": "https://indebuurt.nl/amersfoort/amersfoorters/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://indebuurt.nl/amersfoort/eten-en-drinken/"
+      },
+      {
+        "label": "Winkelen",
+        "url": "https://indebuurt.nl/amersfoort/winkelen/"
+      },
+      {
+        "label": "Wonen",
+        "url": "https://indebuurt.nl/amersfoort/wonen/"
+      },
+      {
+        "label": "Genieten van Amersfoort",
+        "url": "https://indebuurt.nl/amersfoort/genieten-van-amersfoort/"
+      },
+      {
+        "label": "Nieuwsbrieven",
+        "url": "https://indebuurt.nl/nieuwsbrieven?utm_source=Indebuurt&utm_medium=tekstlink&utm_content=footer&utm_campaign=nieuwsbrieven"
+      }
+    ],
+    "note": "Openbare rubrieken bekeken, waaronder bewonersverhalen, uit-tips, winkels en wonen; volledige historische dekking niet vastgesteld."
+  },
+  {
+    "name": "indebuurt Utrecht",
+    "url": "https://indebuurt.nl/utrecht/",
+    "pages": [
+      "https://indebuurt.nl/utrecht/"
+    ],
+    "categories": [
+      {
+        "label": "Nieuws",
+        "url": "https://indebuurt.nl/utrecht/nieuws/"
+      },
+      {
+        "label": "Doen",
+        "url": "https://indebuurt.nl/utrecht/doen/"
+      },
+      {
+        "label": "Utrechters",
+        "url": "https://indebuurt.nl/utrecht/utrechters/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://indebuurt.nl/utrecht/eten-en-drinken/"
+      },
+      {
+        "label": "Winkelen",
+        "url": "https://indebuurt.nl/utrecht/winkelen/"
+      },
+      {
+        "label": "Wonen",
+        "url": "https://indebuurt.nl/utrecht/wonen/"
+      },
+      {
+        "label": "Genieten van Utrecht",
+        "url": "https://indebuurt.nl/utrecht/genieten-van-utrecht/"
+      },
+      {
+        "label": "Nieuwsbrieven",
+        "url": "https://indebuurt.nl/nieuwsbrieven?utm_source=Indebuurt&utm_medium=tekstlink&utm_content=footer&utm_campaign=nieuwsbrieven"
+      }
+    ],
+    "note": "Openbare rubriekstructuur in browser onderzocht; geen complete historische dekking vastgesteld."
+  },
+  {
+    "name": "indebuurt Veenendaal",
+    "url": "https://indebuurt.nl/veenendaal/",
+    "pages": [
+      "https://indebuurt.nl/veenendaal/"
+    ],
+    "categories": [
+      {
+        "label": "Nieuws",
+        "url": "https://indebuurt.nl/veenendaal/nieuws/"
+      },
+      {
+        "label": "Doen",
+        "url": "https://indebuurt.nl/veenendaal/doen/"
+      },
+      {
+        "label": "Veenendalers",
+        "url": "https://indebuurt.nl/veenendaal/veenendalers/"
+      },
+      {
+        "label": "Eten en drinken",
+        "url": "https://indebuurt.nl/veenendaal/eten-en-drinken/"
+      },
+      {
+        "label": "Winkelen",
+        "url": "https://indebuurt.nl/veenendaal/winkelen/"
+      },
+      {
+        "label": "Wonen",
+        "url": "https://indebuurt.nl/veenendaal/wonen/"
+      },
+      {
+        "label": "Genieten van Veenendaal",
+        "url": "https://indebuurt.nl/veenendaal/genieten-van-veenendaal/"
+      },
+      {
+        "label": "Nieuwsbrieven",
+        "url": "https://indebuurt.nl/nieuwsbrieven?utm_source=Indebuurt&utm_medium=tekstlink&utm_content=footer&utm_campaign=nieuwsbrieven"
+      }
+    ],
+    "note": "Openbare rubriekstructuur in browser onderzocht; geen complete historische dekking vastgesteld."
+  }
+]

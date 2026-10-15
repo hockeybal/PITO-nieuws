@@ -1,0 +1,3042 @@
+[
+  {
+    "slug": "regio-gezamenlijk-stroomnet-aanvragen",
+    "title": "Vijftien Utrechtse gemeenten bundelen aanvragen voor het stroomnet",
+    "summary": "Woningbouw- en schoolprojecten krijgen één regionale volgordelijst. De gemeenten willen de aanvragen op 16 november gezamenlijk indienen.",
+    "body": "Sinds 1 oktober kunnen gemeenten eerder in het planproces stroomtransportcapaciteit aanvragen voor woningbouw en onderwijshuisvesting. Houten en veertien andere gemeenten stemmen de volgorde daarvoor regionaal af. De geplande start van de bouw bepaalt de rangorde; bij gelijke uitkomst volgt een loting tussen gemeenten.\n\nDe gezamenlijke aanpak voorkomt een race om het snelst aanvragen te verwerken. Ze maakt echter geen extra capaciteit op het net vrij. Volgens Houten verwacht Stedin vanaf 2027 meer duidelijkheid over de beschikbare ruimte.\n\nDe gemeenten willen de aanvragen op 16 november 2026 gezamenlijk indienen. De nieuwe regeling biedt ruimte om voor concrete woningbouw- en schoolprojecten maximaal tien jaar vooruit capaciteit aan te vragen.",
+    "impact": "De afspraak raakt de voorbereiding van nieuwe woningen en scholen. Een plek op de lijst is geen garantie voor een aansluiting of een bouwdatum.",
+    "category": "Wonen",
+    "municipalities": [
+      "houten",
+      "utrecht",
+      "stichtse-vecht",
+      "de-ronde-venen",
+      "woerden",
+      "oudewater",
+      "montfoort",
+      "ijsselstein",
+      "nieuwegein",
+      "bunnik",
+      "zeist",
+      "wijk-bij-duurstede",
+      "utrechtse-heuvelrug",
+      "soest",
+      "de-bilt"
+    ],
+    "sourceUrl": "https://www.houten.nl/nieuws/houten-en-regio-kiezen-voor-regionale-aanpak-aanvragen-netcapaciteit",
+    "sourceName": "Gemeente Houten",
+    "sourcePublishedAt": "2026-10-02",
+    "eventDate": "2026-11-16",
+    "dateNote": "Publicatie 2 oktober; regeling eerder aanvragen gestart 1 oktober; gezamenlijke indiening gepland 16 november. Alleen de vijftien expliciet genoemde gemeenten gekoppeld.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Primaire bron volledig geopend en tekst en datum gecontroleerd op 10 oktober 2026.",
+    "priority": 1,
+    "rights": "Eigen feitelijke samenvatting; geen overgenomen beeld of brontekst.",
+    "sensitive": false,
+    "ranking": {
+      "impact": 5,
+      "reach": 4,
+      "urgency": 2,
+      "duration": 5,
+      "actionability": 2,
+      "reason": "Voorlopige redactionele inschatting. De afspraak raakt de voorbereiding van nieuwe woningen en scholen. Een plek op de lijst is geen garantie voor een aansluiting of een bouwdatum.",
+      "cluster": "",
+      "activeUntil": "2026-10-24",
+      "audienceNeed": "explanation",
+      "audienceReason": "De afspraak raakt de voorbereiding van nieuwe woningen en scholen. Een plek op de lijst is geen garantie voor een aansluiting of een bouwdatum."
+    },
+    "imageKey": "leidsche-rijn-wonen",
+    "imageTopics": [
+      "energie"
+    ],
+    "editorialContact": "Sander Groenendijk",
+    "evidence": {
+      "latestVerificationFile": "work/archive-279-evidence.json"
+    }
+  },
+  {
+    "slug": "ring-utrecht-project-stopgezet",
+    "title": "Rijkswaterstaat licht stopzetting project A27/A12 Ring Utrecht toe",
+    "summary": "Een publicatie van 18 september beschrijft waarom het project na een rechterlijke uitspraak niet kon worden uitgevoerd.",
+    "body": "Het tracébesluit werd op 11 maart 2026 vernietigd door de Raad van State. Rijkswaterstaat meldt dat het project daarom al in het voorjaar is stopgezet.\n\nVolgens het bericht bestudeert de minister de uitspraak en overlegt deze met de regio over het vervolg. Het artikel kondigt geen nieuw vastgesteld alternatief aan. De projectwebsite wordt volgens Rijkswaterstaat niet meer bijgewerkt.",
+    "category": "Bestuur",
+    "municipalities": [
+      "utrecht",
+      "bunnik",
+      "de-bilt"
+    ],
+    "sourceUrl": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/09/project-a27-a12-ring-utrecht-stopgezet",
+    "sourceName": "Rijkswaterstaat",
+    "sourcePublishedAt": "2026-09-18",
+    "eventDate": "2026-03-11",
+    "dateNote": "Publicatie binnen dit archief; rechterlijke uitspraak op 11 maart en stopzetting in het voorjaar.",
+    "impact": "Het gaat om een belangrijk bereikbaarheidsdossier. Publicatiedatum en moment van het besluit moeten uit elkaar worden gehouden.",
+    "verifiedAt": "2026-10-10",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Historische bron gecontroleerd; eindredactie vereist voor externe publicatie.",
+    "priority": 3,
+    "rights": "Eigen feitelijke samenvatting; geen overgenomen brontekst of bronbeeld.",
+    "sensitive": false,
+    "provinceWide": false,
+    "ranking": {
+      "impact": 5,
+      "reach": 4,
+      "urgency": 0,
+      "duration": 5,
+      "actionability": 2,
+      "reason": "Voorlopige redactionele inschatting. Het gaat om een belangrijk bereikbaarheidsdossier. Publicatiedatum en moment van het besluit moeten uit elkaar worden gehouden.",
+      "cluster": "",
+      "activeUntil": null
+    },
+    "imageKey": "a12-utrecht",
+    "imageTopics": [
+      "wegen"
+    ],
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "a12-zomeronderhoud-vier-weekenden",
+    "title": "A12 richting Veenendaal: vier weekendafsluitingen in de zomer gepland",
+    "summary": "Het onderhoud tussen Lunetten en Veenendaal-West kreeg in augustus en september een tweede fase.",
+    "body": "Rijkswaterstaat meldde op 31 juli dat de eerste fase grotendeels klaar was. De vervolgplanning bevatte afsluitingen in vier weekenden, van 14 augustus tot en met 7 september.\n\nBehalve asfalt werden andere onderdelen van de weg onderhouden. Een eerder weekend was vanwege verwachte extreme warmte uitgesteld; die werkzaamheden zouden naar verwachting in 2027 terugkomen.",
+    "category": "Verkeer",
+    "municipalities": [
+      "utrecht",
+      "bunnik",
+      "utrechtse-heuvelrug",
+      "veenendaal"
+    ],
+    "sourceUrl": "https://www.rijkswaterstaat.nl/nieuws/archief/2026/07/a12-1e-fase-groot-onderhoud-grotendeels-afgerond-vanaf-14-augustus-2026-4-weekenden-dicht",
+    "sourceName": "Rijkswaterstaat",
+    "sourcePublishedAt": "2026-07-31",
+    "eventDate": "2026-08-14",
+    "dateNote": "De aangekondigde zomerweekenden zijn verstreken. Dit bericht geeft geen huidige afsluiting aan.",
+    "impact": "Dit archief verklaart de grote onderhoudshinder op een belangrijke oost-westverbinding door de provincie.",
+    "verifiedAt": "2026-10-10",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Historische bron gecontroleerd; eindredactie vereist voor externe publicatie.",
+    "priority": 2,
+    "rights": "Eigen feitelijke samenvatting; geen overgenomen brontekst of bronbeeld.",
+    "sensitive": false,
+    "provinceWide": false,
+    "ranking": {
+      "impact": 4,
+      "reach": 4,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige redactionele inschatting. Dit archief verklaart de grote onderhoudshinder op een belangrijke oost-westverbinding door de provincie.",
+      "cluster": "a12-zomeronderhoud-2026",
+      "activeUntil": null
+    },
+    "imageKey": "a12-utrecht",
+    "imageTopics": [
+      "wegen"
+    ],
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "bunnik-zet-bomen-repareren-en-duurzame-huizen-op-programma-klimaatweek",
+    "title": "Bunnik zet bomen, repareren en duurzame huizen op programma Klimaatweek",
+    "summary": "In Bunnik zijn voor de Klimaatweek van 2 tot en met 8 november verschillende activiteiten aangekondigd. Het programma combineert praktische hulp met kennismaking met duurzame initiatieven.",
+    "body": "Op 4 november is een uitdeelmoment voor bomen en struiken voorzien, naast een avond over duurzaam voedsel. In het daaropvolgende weekend zijn activiteiten bij het Repair Café en kunnen inwoners via de Duurzame Huizen Route voorbeelden bekijken.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "sourceUrl": "https://www.bunnik.nl/nieuws/klimaatweek-2026-dit-is-er-te-doen",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-10-06",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "bunnik-zet-bomen-repareren-en-duurzame-huizen-op-programma-klimaatweek",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/6df29f97894033cba844f2bc.html",
+      "sourceTitle": "Klimaatweek 2026: dit is er te doen",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/klimaatweek-2026-dit-is-er-te-doen",
+        "https://www.bunnik.nl/nieuws/klimaatweek-2026-dit-is-er-te-doen"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "bunnik-benoemt-achtste-kinderburgemeester",
+    "title": "Bunnik benoemt achtste kinderburgemeester",
+    "summary": "Edoardo Verwey is tijdens de raadsvergadering van 1 oktober benoemd tot kinderburgemeester van Bunnik. Hij neemt de rol over van Fien Swinkels.",
+    "body": "De nieuwe kinderburgemeester wil aandacht vragen voor inclusie en diversiteit. Bij de overdracht keek de raad ook terug op de boekenactie van zijn voorganger: tweehonderd ingezamelde kinderboeken vonden hun weg naar minibibliotheken in de drie dorpen.",
+    "category": "Bestuur",
+    "municipalities": [
+      "bunnik"
+    ],
+    "sourceUrl": "https://www.bunnik.nl/nieuws/edoardo-verwey-is-onze-achtste-kinderburgemeester",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-10-01",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "bunnik-benoemt-achtste-kinderburgemeester",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/501823deb257d6a4cd864fd4.html",
+      "sourceTitle": "Edoardo Verwey is onze achtste kinderburgemeester",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/edoardo-verwey-is-onze-achtste-kinderburgemeester",
+        "https://www.bunnik.nl/nieuws/edoardo-verwey-is-onze-achtste-kinderburgemeester"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "bunnik-deelt-op-4-november-bomen-en-struiken-uit",
+    "title": "Bunnik deelt op 4 november bomen en struiken uit",
+    "summary": "Inwoners en ondernemers in Bunnik kunnen zich aanmelden voor een gratis boom of struik. De eerste van drie aangekondigde oogst- en uitdeeldagen staat gepland op 4 november.",
+    "body": "De gemeente werkt hiervoor samen met Meer Bomen Nu. Vrijwilligers helpen in de ochtend bij het verzamelen van de jonge bomen; in de middag volgt het uitdelen. Zowel afhalers als mensen die willen meehelpen kunnen zich via de bronpagina aanmelden.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "sourceUrl": "https://www.bunnik.nl/nieuws/gratis-boom-of-struik-tijdens-de-oogst-en-uitdeeldagen",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-09-30",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "bunnik-deelt-op-4-november-bomen-en-struiken-uit",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/40e590f287360c59427c7cf1.html",
+      "sourceTitle": "Gratis boom of struik tijdens oogst- en uitdeeldagen",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/gratis-boom-of-struik-tijdens-de-oogst-en-uitdeeldagen",
+        "https://www.bunnik.nl/nieuws/gratis-boom-of-struik-tijdens-de-oogst-en-uitdeeldagen"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "gemeente-verwijdert-ongeveer-105-zieke-iepen-aan-achterdijk",
+    "title": "Gemeente verwijdert ongeveer 105 zieke iepen aan Achterdijk",
+    "summary": "Bunnik heeft aangekondigd vanaf september ongeveer 105 zieke en afgestorven iepen langs de Achterdijk in Werkhoven te verwijderen. Volgens de gemeente heeft droogte de gevolgen van de iepziekte versterkt.",
+    "body": "Met de kap wil de gemeente verspreiding naar gezonde bomen beperken. De gemeente controleert ook ander openbaar groen. Het bericht is een aankondiging van de werkzaamheden en bevestigt niet dat alle bomen inmiddels verwijderd zijn.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "sourceUrl": "https://www.bunnik.nl/nieuws/zieke-iepen-aan-achterdijk-herken-de-iepziekte",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-09-15",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "gemeente-verwijdert-ongeveer-105-zieke-iepen-aan-achterdijk",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/938bf5e3356210cc2cabf227.html",
+      "sourceTitle": "105 zieke iepen langs de Achterdijk worden verwijderd",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/zieke-iepen-aan-achterdijk-herken-de-iepziekte",
+        "https://www.bunnik.nl/nieuws/zieke-iepen-aan-achterdijk-herken-de-iepziekte"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "rmn-pas-nodig-voor-recyclingstation-bunnik",
+    "title": "RMN-pas nodig voor recyclingstation Bunnik",
+    "summary": "Het recyclingstation in Bunnik is vanaf 6 oktober alleen met een RMN-pas toegankelijk voor inwoners. De pas voor ondergrondse restafvalcontainers krijgt daarmee een tweede functie.",
+    "body": "Huishoudens die al zo’n pas hebben, kunnen die blijven gebruiken. Inwoners zonder pas zouden volgens de gemeentelijke aankondiging eind september een exemplaar per post ontvangen. Een afzonderlijk adresbewijs is bij toegang met de pas niet meer nodig.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "sourceUrl": "https://www.bunnik.nl/nieuws/toegang-tot-recyclestation-in-bunnik-alleen-nog-met-rmn-pas-vanaf-6-oktober",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-09-07",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "rmn-pas-nodig-voor-recyclingstation-bunnik",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/01cccf06b817306f13697992.html",
+      "sourceTitle": "Recyclingstation vanaf 6 oktober alleen toegankelijk met RMN-pas",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/toegang-tot-recyclestation-in-bunnik-alleen-nog-met-rmn-pas-vanaf-6-oktober",
+        "https://www.bunnik.nl/nieuws/toegang-tot-recyclestation-in-bunnik-alleen-nog-met-rmn-pas-vanaf-6-oktober"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "bunnik-hervat-gratis-ophalen-van-gewipte-tuintegels",
+    "title": "Bunnik hervat gratis ophalen van gewipte tuintegels",
+    "summary": "De gemeente Bunnik kondigde in augustus aan de gratis tegeltaxi na de zomervakantie weer te laten rijden. De dienst is bedoeld voor inwoners die bestrating vervangen door groen.",
+    "body": "Voor gebruik is vooraf aanmelden nodig. De gemeente koppelt de ophaaldienst aan het NK Tegelwippen en meldde toen een lokale tussenstand van ruim 3.200 verwijderde tegels. De beschikbare ophaalmomenten en voorwaarden staan op de gemeentelijke projectpagina.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "sourceUrl": "https://www.bunnik.nl/nieuws/gratis-tegeltaxi-rijdt-vanaf-augustus-weer",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-08-03",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "bunnik-hervat-gratis-ophalen-van-gewipte-tuintegels",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/1187e5cfc4e60c8bffd2913d.html",
+      "sourceTitle": "Gratis tegeltaxi rijdt weer",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/gratis-tegeltaxi-rijdt-vanaf-augustus-weer",
+        "https://www.bunnik.nl/nieuws/gratis-tegeltaxi-rijdt-vanaf-augustus-weer"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "bunnik-staat-laden-met-eigen-kabel-op-openbare-parkeerplek-toe",
+    "title": "Bunnik staat laden met eigen kabel op openbare parkeerplek toe",
+    "summary": "Inwoners van Bunnik zonder eigen oprit kunnen onder voorwaarden hun elektrische auto met stroom vanuit huis laden op een openbare parkeerplaats. De gemeente maakte de nieuwe mogelijkheid op 23 juli bekend.",
+    "body": "Daarbij gelden veiligheidsregels voor de kabel en het gebruik van de openbare ruimte. De toestemming betekent dus niet dat iedere opstelling is toegestaan. De gemeentelijke informatie beschrijft welke voorwaarden gebruikers moeten volgen.",
+    "category": "Verkeer",
+    "municipalities": [
+      "bunnik"
+    ],
+    "sourceUrl": "https://www.bunnik.nl/nieuws/opladen-van-uw-elektrische-auto-wordt-makkelijker",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-07-23",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "verkeer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "bunnik-staat-laden-met-eigen-kabel-op-openbare-parkeerplek-toe",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/416d50fa4f38e67774f822b0.html",
+      "sourceTitle": "Opladen van uw elektrische auto wordt makkelijker",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/opladen-van-uw-elektrische-auto-wordt-makkelijker",
+        "https://www.bunnik.nl/nieuws/opladen-van-uw-elektrische-auto-wordt-makkelijker"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "bunnik-vraagt-huiseigenaren-isolatie-tijdig-voor-te-bereiden",
+    "title": "Bunnik vraagt huiseigenaren isolatie tijdig voor te bereiden",
+    "summary": "Bij dak- en spouwmuurisolatie speelt de bescherming van vogels en vleermuizen een rol.",
+    "body": "Inwoners van Bunnik die hun dak of spouwmuur willen laten isoleren, moeten rekening houden met dieren die in gebouwen verblijven. De gemeente wees op 20 juli op de voorbereiding die nodig kan zijn voordat het isolatiebedrijf aan de slag gaat.\n\nVolgens de gemeentelijke uitleg loopt de geschikte periode voor het zogenoemde natuurvrij maken van 1 augustus tot 1 november. Daarbij gaat het om maatregelen waardoor dieren een gebouw kunnen verlaten voordat openingen worden afgesloten. De gemeente vraagt inwoners vooraf toestemming en de toepasselijke werkwijze te regelen.\n\nBunnik laat ook ecologisch onderzoek uitvoeren in de bebouwde kommen van Bunnik, Odijk en Werkhoven. De aankondiging betekent niet dat elke woning zonder verdere controle geïsoleerd kan worden. De gemeentelijke bron bevat de informatie voor een concreet isolatieplan.",
+    "category": "Wonen",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunnik.nl/nieuws/geschikte-periode-voor-gevelisolatie-en-dakwerkzaamheden",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-07-20",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "isolatie"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-vraagt-huiseigenaren-isolatie-tijdig-voor-te-bereiden",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/01de1e23929750fdb8a4bca1.html",
+      "sourceTitle": "Geschikte periode voor gevelisolatie en dakwerkzaamheden",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/geschikte-periode-voor-gevelisolatie-en-dakwerkzaamheden",
+        "https://www.bunnik.nl/nieuws/geschikte-periode-voor-gevelisolatie-en-dakwerkzaamheden",
+        "https://www.bunnik.nl/nieuws/geschikte-periode-voor-gevelisolatie-en-dakwerkzaamheden"
+      ]
+    },
+    "importBatch": "municipal-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T11:59:17.599299+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "subject-photo-155402719",
+    "imageContextLabel": "Gevelisolatie. Foto ter illustratie; geen lokale projectfoto."
+  },
+  {
+    "slug": "laatste-tegeltaxi-van-het-jaar-rijdt-op-24-oktober-in-bunnik",
+    "title": "Laatste tegeltaxi van het jaar rijdt op 24 oktober in Bunnik",
+    "summary": "Inwoners moeten zich uiterlijk 16 oktober aanmelden voor het ophalen van verwijderde tuintegels.",
+    "body": "Bunnik laat op zaterdag 24 oktober voor de laatste keer dit jaar de tegeltaxi rijden. De gemeente haalt daarmee gratis verwijderde tuintegels op bij deelnemers die groen terugbrengen. Aanmelden kan tot en met 16 oktober, onder de voorwaarden van de gemeente.\n\nDe actie hoort bij het NK Tegelwippen. Volgens de stand die Bunnik op 12 oktober publiceerde, waren in Bunnik, Odijk en Werkhoven samen meer dan 3.800 tegels vervangen door groen.\n\nDaarnaast kondigt de gemeente voor 4 november een oogst- en uitdeeldag met Meer Bomen Nu aan. Daar kunnen deelnemers een boom of struik ophalen. Voor die activiteit is een afzonderlijke aanmelding nodig. De tegeltaxi en de plantendag hebben dus elk hun eigen inschrijving.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunnik.nl/nieuws/laatste-kans-om-gebruik-te-maken-van-de-tegeltaxi",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-10-12",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "laatste-tegeltaxi-van-het-jaar-rijdt-op-24-oktober-in-bunnik",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/34573968b8a459eff12ab1cd-e0e5bb03a93e.html",
+      "sourceTitle": "Laatste kans om gebruik te maken van de tegeltaxi",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/laatste-kans-om-gebruik-te-maken-van-de-tegeltaxi",
+        "https://www.bunnik.nl/nieuws/laatste-kans-om-gebruik-te-maken-van-de-tegeltaxi",
+        "https://www.bunnik.nl/nieuws/laatste-kans-om-gebruik-te-maken-van-de-tegeltaxi"
+      ]
+    },
+    "importBatch": "regional-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:01:54.762457+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "midlandia-j1-sluit-veldcompetitie-af-met-winst-op-kampioen-skf",
+    "title": "Midlandia J1 sluit veldcompetitie af met winst op kampioen SKF",
+    "summary": "Het Bunnikse korfbalteam eindigt als tweede en bereidt zich voor op het zaalseizoen.",
+    "body": "Midlandia J1 heeft de laatste wedstrijd van de veldcompetitie gewonnen van kampioen SKF uit Veenendaal. Het Bunnikse jeugdteam verzekerde zich daarmee van de tweede plaats, schrijft Bunniks Nieuws in het wedstrijdverslag van 11 oktober.\n\nDe ploegen gingen bij een stand van 1-1 rusten. Na de pauze kwam Midlandia opnieuw op voorsprong. In de slotfase maakte de ploeg nog twee doelpunten, waarmee de wedstrijd werd beslist.\n\nVoor Midlandia betekende de uitslag een succesvolle afsluiting van de najaarscompetitie op het veld. Na de herfstvakantie richt het team zich op de wedstrijden in de zaal. Het bericht gaat over dit jeugdteam en niet over het eerste seniorenteam van de vereniging.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/korfbal/1318506/midlandia-j1-verrast-kampioen-skf-met-knappe-overwinning",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "sport"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "midlandia-j1-sluit-veldcompetitie-af-met-winst-op-kampioen-skf",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/dbe2d66497375d9ef4494a05-bead5ff312cb.html",
+      "sourceTitle": "Midlandia J1 verrast kampioen SKF met knappe overwinning",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/korfbal/1318506/midlandia-j1-verrast-kampioen-skf-met-knappe-overwinning",
+        "https://www.bunniksnieuws.nl/sport/korfbal/1318506/midlandia-j1-verrast-kampioen-skf-met-knappe-overwinning",
+        "https://www.bunniksnieuws.nl/sport/korfbal/1318506/midlandia-j1-verrast-kampioen-skf-met-knappe-overwinning"
+      ]
+    },
+    "importBatch": "community-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:06:28.977510+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "sv-aurora-begint-seizoen-met-vijf-meidenteams",
+    "title": "SV Aurora begint seizoen met vijf meidenteams",
+    "summary": "De Werkhovense voetbalvereniging biedt teams van MO11 tot en met MO20.",
+    "body": "SV Aurora heeft voor het nieuwe voetbalseizoen vijf meidenteams ingeschreven. Het gaat om MO11, MO13, MO15, MO17 en MO20, meldde Bunniks Nieuws op 31 augustus. De Werkhovense vereniging heeft daarmee aanbod voor meerdere leeftijdsgroepen.\n\nNaast de bestaande teams zoekt de club nieuwe speelsters. Geïnteresseerde meiden kunnen volgens de aankondiging vrijblijvend enkele trainingen meedoen. Eerdere voetbalervaring is daarvoor niet noodzakelijk.\n\nDe vereniging verwijst voor kennismaken en vragen over de teams naar haar contactpersonen voor meidenvoetbal. De teamindeling betreft het aangekondigde seizoen; een plek en een geschikt trainingsmoment moeten met de club worden afgestemd.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/voetbal/1304895/werkhovense-meiden-staan-klaar-voor-het-nieuwe-voetbalseizoen",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-08-31",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "sv-aurora-begint-seizoen-met-vijf-meidenteams",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/457ad0653ca2c03b4ab79838-7e3091b05008.html",
+      "sourceTitle": "Werkhovense meiden staan klaar voor het nieuwe voetbalseizoen",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/voetbal/1304895/werkhovense-meiden-staan-klaar-voor-het-nieuwe-voetbalseizoen",
+        "https://www.bunniksnieuws.nl/sport/voetbal/1304895/werkhovense-meiden-staan-klaar-voor-het-nieuwe-voetbalseizoen",
+        "https://www.bunniksnieuws.nl/sport/voetbal/1304895/werkhovense-meiden-staan-klaar-voor-het-nieuwe-voetbalseizoen"
+      ]
+    },
+    "importBatch": "summer-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:10:26.715327+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "voetbal-gras-2026",
+    "imageContextLabel": "Foto ter illustratie; niet het team van SV Aurora."
+  },
+  {
+    "slug": "odijker-lars-beijk-wint-juniorentitel-cross-triatlon",
+    "title": "Odijker Lars Beijk wint juniorentitel cross-triatlon",
+    "summary": "De achttienjarige triatleet kwam in Renkum als eerste over de finish.",
+    "body": "Lars Beijk uit Odijk is Nederlands kampioen cross-triatlon bij de junioren geworden. De achttienjarige atleet won de wedstrijd in Renkum, meldde Bunniks Nieuws op 31 augustus.\n\nNa het zwemmen kwam hij als vijfde uit het water. Door een snelle wissel begon hij als tweede aan het mountainbiken. Op dat onderdeel bouwde hij een voorsprong op.\n\nDe wedstrijd eindigde met hardlopen over onverhard terrein. Hoewel een concurrent in het slot dichterbij kwam, hield Beijk genoeg over om als eerste te finishen. De titel betreft de juniorenwedstrijd en wordt hier niet voorgesteld als winst in het algemene seniorenklassement.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/sport/1305019/lars-beijk-nederlands-kampioen-cross-triatlon",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-08-31",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "triatlon"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "odijker-lars-beijk-wint-juniorentitel-cross-triatlon",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/4e7244a53245c98f803fcace-3c3e8059055f.html",
+      "sourceTitle": "Lars Beijk Nederlands Kampioen Cross Triatlon",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/sport/1305019/lars-beijk-nederlands-kampioen-cross-triatlon",
+        "https://www.bunniksnieuws.nl/sport/sport/1305019/lars-beijk-nederlands-kampioen-cross-triatlon",
+        "https://www.bunniksnieuws.nl/sport/sport/1305019/lars-beijk-nederlands-kampioen-cross-triatlon"
+      ]
+    },
+    "importBatch": "summer-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:10:26.715357+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "svo-krommerijnstreek-verlengt-samenwerking-met-ing",
+    "title": "SVO Krommerijnstreek verlengt samenwerking met ING",
+    "summary": "Het nieuwe sponsorcontract loopt drie jaar en ging op 1 augustus in.",
+    "body": "SVO Krommerijnstreek en ING hebben hun samenwerking voor drie jaar verlengd. Het nieuwe contract is op 1 augustus ingegaan, meldde Bunniks Nieuws later die maand.\n\nDe vereniging wil de ondersteuning gebruiken voor haar ontwikkeling, waaronder trainers en materialen. Daarbij is aandacht voor meiden- en vrouwenvoetbal. De overeenkomst maakt deel uit van de bredere sponsoring van amateurclubs door de bank.\n\nIn de bekendmaking worden geen financiële bedragen genoemd. De samenwerking is bedoeld als ondersteuning van de vereniging; uit het bericht volgt niet hoeveel daarvan naar een specifiek team of project gaat. Het gaat om clubnieuws, niet om een aanbeveling van financiële producten.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/sport/1304476/nieuw-sponsorcontract-voor-drie-jaar-tussen-svo-krommerijnstreek-en-ing",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-08-28",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "svo-krommerijnstreek-verlengt-samenwerking-met-ing",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/337a6d61cc59dd53ec065816-d2f54687325d.html",
+      "sourceTitle": "Nieuw sponsorcontract voor drie jaar tussen SVO Krommerijnstreek en ING",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/sport/1304476/nieuw-sponsorcontract-voor-drie-jaar-tussen-svo-krommerijnstreek-en-ing",
+        "https://www.bunniksnieuws.nl/sport/sport/1304476/nieuw-sponsorcontract-voor-drie-jaar-tussen-svo-krommerijnstreek-en-ing",
+        "https://www.bunniksnieuws.nl/sport/sport/1304476/nieuw-sponsorcontract-voor-drie-jaar-tussen-svo-krommerijnstreek-en-ing"
+      ]
+    },
+    "importBatch": "summer-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:10:26.715369+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "voetbal-bal-2024",
+    "imageContextLabel": "Voetbal ter illustratie."
+  },
+  {
+    "slug": "provincie-onderscheidt-initiatiefnemers-rond-lokaal-voedsel",
+    "title": "Provincie onderscheidt initiatiefnemers rond lokaal voedsel",
+    "summary": "De Waarde-Ringen zijn op 8 oktober tijdens een bijeenkomst in Odijk uitgereikt.",
+    "body": "Joyce Bielderman, Victor Stukker, Mark Verhoef en Sylvia Terpstra hebben een Waarde-Ring van de provincie Utrecht ontvangen. Gedeputeerde Gijs de Kruif reikte de onderscheidingen op 8 oktober uit in Odijk.\n\nBielderman en Stukker van Héron Petit Restaurant werden gewaardeerd voor hun samenwerking met lokale leveranciers. Verhoef kreeg erkenning voor zijn werk rond toegankelijk en duurzaam voedsel. Terpstra werd onderscheiden voor voedseleducatie, onder meer via Groene Weelde in Leerdam.\n\nGréanne en Monique van Middelaar ontvingen daarnaast een aanmoedigingsprijs voor jonge agrarische ondernemers. De onderscheiden initiatieven krijgen een voucher van 2.500 euro om zich verder te ontwikkelen. De prijzen worden uitgereikt tijdens de Week van Ons Eten.",
+    "category": "Samenleving",
+    "municipalities": [
+      "utrecht",
+      "vijfheerenlanden",
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.provincie-utrecht.nl/actueel/nieuws/utrechtse-voedselhelden-het-zonnetje-gezet",
+    "sourceName": "Provincie Utrecht",
+    "sourcePublishedAt": "2026-10-09",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "provincie-onderscheidt-initiatiefnemers-rond-lokaal-voedsel",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/f7d349873440f55d6146f7c0-85a7fc2e7fc7.html",
+      "sourceTitle": "Utrechtse voedselhelden in het zonnetje gezet",
+      "paragraphSourceUrls": [
+        "https://www.provincie-utrecht.nl/actueel/nieuws/utrechtse-voedselhelden-het-zonnetje-gezet",
+        "https://www.provincie-utrecht.nl/actueel/nieuws/utrechtse-voedselhelden-het-zonnetje-gezet",
+        "https://www.provincie-utrecht.nl/actueel/nieuws/utrechtse-voedselhelden-het-zonnetje-gezet"
+      ]
+    },
+    "importBatch": "public-service-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:20:03.856601+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.omroepzout.nl/ondernemer-mark-verhoef-beloond-voor-inzet-duurzaam-voedsel/",
+        "name": "Ondernemer Mark Verhoef beloond voor inzet duurzaam voedsel"
+      },
+      {
+        "name": "Eemland1",
+        "url": "https://www.eemland1.nl/nieuws/de-kastanjeboom-in-bunschoten-krijgt-provinciale-aanmoedigingsprijs/",
+        "publishedAt": "2026-10-11",
+        "checkedAt": "2026-10-13",
+        "note": "Volledige bron gelezen; hetzelfde nieuwsfeit, gekoppeld aan bestaand artikel.",
+        "evidenceFile": "work/goal-archive-191-4.html"
+      }
+    ]
+  },
+  {
+    "slug": "lichtwandeling-fabel-fort-aangekondigd-bij-fort-bij-vechten",
+    "title": "Lichtwandeling Fabel Fort aangekondigd bij Fort bij Vechten",
+    "summary": "Het evenement staat gepland van 16 december tot en met 3 januari.",
+    "body": "Fort bij Vechten in Bunnik krijgt in de kerstvakantie een licht- en verhalenwandeling. Fabel Fort staat gepland van 16 december 2026 tot en met 3 januari 2027, meldt Bunniks Nieuws.\n\nDe route combineert projecties, geluid en verhalen over het fort en zijn omgeving. De wandeling duurt volgens de aankondiging ongeveer anderhalf uur. Halverwege komt een terras waar bezoekers kunnen pauzeren.\n\nTickets worden per tijdslot aangeboden. Het bronbericht beschrijft de aangekondigde editie en de start van de voorverkoop. Actuele prijzen, beschikbare tijdsloten en praktische voorwaarden staan bij de organisator; een eerdere voorverkoopprijs is niet zonder meer de huidige ticketprijs.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/evenementen/1317004/magische-lichtroute-tijdens-fabel-fort-in-bunnik",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-08",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "lichtwandeling-fabel-fort-aangekondigd-bij-fort-bij-vechten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/13f3fc61747f0e01183ddd20-bef1a3e0062d.html",
+      "sourceTitle": "Magische lichtroute tijdens Fabel Fort in Bunnik",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/evenementen/1317004/magische-lichtroute-tijdens-fabel-fort-in-bunnik",
+        "https://www.bunniksnieuws.nl/lokaal/evenementen/1317004/magische-lichtroute-tijdens-fabel-fort-in-bunnik",
+        "https://www.bunniksnieuws.nl/lokaal/evenementen/1317004/magische-lichtroute-tijdens-fabel-fort-in-bunnik"
+      ]
+    },
+    "importBatch": "continued-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:41:25.171945+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "name": "www.wijksnieuws.nl",
+        "url": "https://www.wijksnieuws.nl/lokaal/evenementen/1317005/magische-lichtroute-tijdens-fabel-fort-in-bunnik",
+        "publishedAt": "2026-10-08"
+      }
+    ],
+    "corroboratingEvidence": [
+      {
+        "evidenceFile": "work/quarter-sources/866e0d188054a66b3e11646f-f8e1b5c7aae8.html",
+        "checkedAt": "2026-10-13T11:53:44.804869+00:00",
+        "method": "Identieke titel, brondatum en volledige brontekst; gekoppeld aan reeds uitgewerkt artikel."
+      }
+    ]
+  },
+  {
+    "slug": "houtfort-brengt-bijna-vijftig-makers-naar-fort-bij-vechten",
+    "title": "Houtfort brengt bijna vijftig makers naar Fort bij Vechten",
+    "summary": "Op 17 en 18 oktober zijn er demonstraties en workshops rond hout.",
+    "body": "Bijna vijftig exposanten worden op 17 en 18 oktober verwacht bij Houtfort op Fort bij Vechten in Bunnik. Het evenement draait om houtbewerking, ambacht, kunst en ontwerp, meldt Wijks Nieuws.\n\nNaast presentaties van makers zijn workshops en demonstraties aangekondigd. Zowel kinderen als volwassenen kunnen zelf deelnemen aan activiteiten. Het evenement keert terug na de editie van 2025.\n\nHoutfort is op beide dagen gepland van 10.00 tot 17.00 uur aan Achterdijk 12. Praktische informatie en eventuele deelnamevoorwaarden staan bij de organisator. Het bericht hoort bij Bunnik, ook al is het gepubliceerd door een nieuwsbron uit Wijk bij Duurstede.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.wijksnieuws.nl/lokaal/activiteiten/1317967/houtfort-groeit-bijna-vijftig-houtmakers-strijken-neer-op-for",
+    "sourceName": "Wijks Nieuws",
+    "sourcePublishedAt": "2026-10-10",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "houtfort-brengt-bijna-vijftig-makers-naar-fort-bij-vechten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/69b1aaad6bee4bb63abf9cd9-2ded5cc0d197.html",
+      "sourceTitle": "Houtfort groeit: bijna vijftig houtmakers strijken neer op Fort bij Vechten",
+      "paragraphSourceUrls": [
+        "https://www.wijksnieuws.nl/lokaal/activiteiten/1317967/houtfort-groeit-bijna-vijftig-houtmakers-strijken-neer-op-for",
+        "https://www.wijksnieuws.nl/lokaal/activiteiten/1317967/houtfort-groeit-bijna-vijftig-houtmakers-strijken-neer-op-for",
+        "https://www.wijksnieuws.nl/lokaal/activiteiten/1317967/houtfort-groeit-bijna-vijftig-houtmakers-strijken-neer-op-for"
+      ]
+    },
+    "importBatch": "continued-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:41:25.171984+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "name": "www.bunniksnieuws.nl",
+        "url": "https://www.bunniksnieuws.nl/lokaal/activiteiten/1317966/houtfort-groeit-bijna-vijftig-houtmakers-strijken-neer-op-for",
+        "publishedAt": "2026-10-10"
+      },
+      {
+        "name": "www.houtensnieuws.nl",
+        "url": "https://www.houtensnieuws.nl/lokaal/activiteiten/1317968/houtfort-groeit-bijna-vijftig-houtmakers-strijken-neer-op-for",
+        "publishedAt": "2026-10-10"
+      },
+      {
+        "name": "www.bunniksnieuws.nl",
+        "url": "https://www.bunniksnieuws.nl/lokaal/activiteiten/1317966/houtfort-groeit-bijna-vijftig-houtmakers-strijken-neer-op-fort-bij-vechten",
+        "publishedAt": "2026-10-10"
+      }
+    ],
+    "corroboratingEvidence": [
+      {
+        "evidenceFile": "work/quarter-sources/06d97355b494cae8b3995886-11552772d6e9.html",
+        "checkedAt": "2026-10-13T11:34:55.388332+00:00",
+        "method": "Identieke titel, brondatum en volledige brontekst; gekoppeld aan reeds uitgewerkt artikel."
+      },
+      {
+        "evidenceFile": "work/quarter-sources/06c2dc4590ea064cc2af2ae4-c3a32aaecd8d.html",
+        "checkedAt": "2026-10-13T11:53:12.170913+00:00",
+        "method": "Identieke titel, brondatum en volledige brontekst; gekoppeld aan reeds uitgewerkt artikel."
+      },
+      {
+        "evidenceFile": "work/quarter-sources/e254e21f745ec36f0b98f600-0bb35ad555de.html",
+        "checkedAt": "2026-10-13T11:56:36.936852+00:00",
+        "method": "Identieke titel, brondatum en volledige brontekst; gekoppeld aan reeds uitgewerkt artikel."
+      }
+    ]
+  },
+  {
+    "slug": "bunnik-zoekt-opvolger-voor-inzameling-plastic-doppen",
+    "title": "Bunnik zoekt opvolger voor inzameling plastic doppen",
+    "summary": "Het bestaande inzamelpunt stopt na ruim tien jaar.",
+    "body": "In Bunnik wordt een nieuw inzamelpunt voor plastic doppen gezocht. Hanny Pater stopt na ruim tien jaar met de inzameling, meldde Bunniks Nieuws op 7 oktober. Zonder opvolging verdwijnt het lokale punt vanaf december.\n\nDe opbrengst van het hergebruik ondersteunt KNGF Geleidehonden en Stichting Hulphond. Voor de actie worden schone en droge plastic doppen verzameld.\n\nDe oproep richt zich op iemand die daarvoor ruimte en tijd beschikbaar heeft. Belangstellenden kunnen via de contactgegevens in het bronbericht reageren. Het gaat om voortzetting van een bestaande lokale inzamelactie, niet om een algemene gemeentelijke afvalvoorziening.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317459/inzamelpunt-voor-plastic-doppen-gezocht-in-bunnik",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-07",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-zoekt-opvolger-voor-inzameling-plastic-doppen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/d2ed4e62addc4fe035ba7e63-fdb9247d1a1b.html",
+      "sourceTitle": "Inzamelpunt voor plastic doppen gezocht in Bunnik",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317459/inzamelpunt-voor-plastic-doppen-gezocht-in-bunnik",
+        "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317459/inzamelpunt-voor-plastic-doppen-gezocht-in-bunnik",
+        "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317459/inzamelpunt-voor-plastic-doppen-gezocht-in-bunnik"
+      ]
+    },
+    "importBatch": "continued-local-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:44:15.498324+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "the-flower-booth-kondigt-tweede-winkel-in-houten-aan",
+    "title": "The Flower Booth kondigt tweede winkel in Houten aan",
+    "summary": "De vestiging komt in het voormalige pand van Fiori Style in Castellum.",
+    "body": "Bloemenwinkel The Flower Booth breidt uit van Odijk naar Houten. De tweede vestiging is gevestigd in winkelcentrum Castellum, naast Kruidvat, meldt Houtens Nieuws. De opening was aangekondigd voor 8 oktober.\n\nOndernemer Denise Gijsbertse werkte eerder bij Fiori Style, de vorige bloemenwinkel in hetzelfde pand. In 2022 begon zij een eigen zaak in Odijk. Die vestiging blijft bestaan.\n\nHet bronbericht beschrijft de aangekondigde uitbreiding en bevat geen onafhankelijk oordeel over het aanbod van de winkel. Voor actuele openingstijden en beschikbaarheid kunnen bezoekers rechtstreeks bij The Flower Booth terecht.",
+    "category": "Samenleving",
+    "municipalities": [
+      "houten",
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.houtensnieuws.nl/lokaal/zakelijk/1316817/van-odijk-naar-houten-denise-gijsbertse-opent-tweede-bloemenwinkel-the-flower-booth",
+    "sourceName": "Houtens Nieuws",
+    "sourcePublishedAt": "2026-10-07",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "the-flower-booth-kondigt-tweede-winkel-in-houten-aan",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/592bf97ac51565d792dc0fa8-fd15ec51c32e.html",
+      "sourceTitle": "Van Odijk naar Houten: Denise Gijsbertse opent tweede bloemenwinkel, The Flower Booth",
+      "paragraphSourceUrls": [
+        "https://www.houtensnieuws.nl/lokaal/zakelijk/1316817/van-odijk-naar-houten-denise-gijsbertse-opent-tweede-bloemenwinkel-the-flower-booth",
+        "https://www.houtensnieuws.nl/lokaal/zakelijk/1316817/van-odijk-naar-houten-denise-gijsbertse-opent-tweede-bloemenwinkel-the-flower-booth",
+        "https://www.houtensnieuws.nl/lokaal/zakelijk/1316817/van-odijk-naar-houten-denise-gijsbertse-opent-tweede-bloemenwinkel-the-flower-booth"
+      ]
+    },
+    "importBatch": "continued-local-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:44:15.498335+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "kunstenhuis-idea-biedt-theaterlessen-in-odijk",
+    "title": "Kunstenhuis Idea biedt theaterlessen in Odijk",
+    "summary": "De lessen gebruiken voorlopig de scoutingruimte.",
+    "body": "Kunstenhuis Idea biedt in de gemeente Bunnik theaterlessen aan onder begeleiding van docent José van Os. De scoutingruimte in Odijk wordt voorlopig als leslocatie gebruikt, meldt Bunniks Nieuws.\n\nHet aanbod richt zich op kinderen van zes tot acht en negen tot twaalf jaar, maar ook op volwassenen. Improvisatie is een belangrijk onderdeel van de lessen. Van Os heeft ervaring als theaterdocent en schrijver.\n\nHet bronbericht uit september beschrijft de opbouw van het lokale aanbod en verwijst naar Kunstenhuis Idea voor proeflessen. Actuele groepen, lestijden en beschikbare plaatsen zijn daar te vinden. Een eerder genoemde open les op 9 oktober is inmiddels voorbij.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/activiteiten/1310844/toneel-bij-kunstenhuis-idea-voor-kinderen-jongeren-en-volwassenen",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-09-22",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "kunstenhuis-idea-biedt-theaterlessen-in-odijk",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/d198cfca7fb110e358a56bce-7c635c1a9d14.html",
+      "sourceTitle": "Toneel bij Kunstenhuis Idea - voor kinderen, jongeren én volwassenen",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1310844/toneel-bij-kunstenhuis-idea-voor-kinderen-jongeren-en-volwassenen",
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1310844/toneel-bij-kunstenhuis-idea-voor-kinderen-jongeren-en-volwassenen",
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1310844/toneel-bij-kunstenhuis-idea-voor-kinderen-jongeren-en-volwassenen"
+      ]
+    },
+    "importBatch": "goal-archive-01-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T13:10:23.293981+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "bunnik-organiseert-avond-over-kansen-en-kwetsbaarheid-van-kinderen",
+    "title": "Bunnik organiseert avond over kansen en kwetsbaarheid van kinderen",
+    "summary": "Eva Huls spreekt op 14 oktober tijdens de jaarlijkse bijeenkomst van de lokale mensenrechtencoalitie.",
+    "body": "De Coalitie voor de Mensenrechten Bunnik houdt op 14 oktober haar jaarlijkse bijeenkomst in de raadzaal van het gemeentehuis. De avond begint om 20.00 uur, met inloop vanaf 19.30 uur. De toegang is gratis, meldt Bunniks Nieuws.\n\nSpreker Eva Huls, strategisch adviseur bij de Kinderombudsman, gaat in op omstandigheden die de ontwikkeling van kinderen beïnvloeden. Op het programma staan onder meer prestatiedruk, ongelijke toegang tot voorzieningen en de vraag hoe kinderen zelf kunnen meepraten over beslissingen die hen raken.\n\nBurgemeester Ruud van Bennekom opent de bijeenkomst. De lezing richt zich ook op de rol van ouders, onderwijs en de directe omgeving bij het herkennen van problemen en het bieden van steun.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317963/coalitie-voor-de-mensenrechten",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-09",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-organiseert-avond-over-kansen-en-kwetsbaarheid-van-kinderen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/0fd1774589c93590449ad541-d1ef647f3e39.html",
+      "sourceTitle": "Bijeenkomst Coalitie voor de Mensenrechten Bunnik",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317963/coalitie-voor-de-mensenrechten",
+        "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317963/coalitie-voor-de-mensenrechten",
+        "https://www.bunniksnieuws.nl/lokaal/maatschappelijk/1317963/coalitie-voor-de-mensenrechten"
+      ]
+    },
+    "importBatch": "goal-archive-13-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T13:44:55.100127+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "ijfc-en-odijk-delen-punten-na-gelijkmaker-uit-strafschop",
+    "title": "IJFC en Odijk delen punten na gelijkmaker uit strafschop",
+    "summary": "De wedstrijd in IJsselstein eindigde in 1-1, nadat de thuisploeg bij rust voorstond.",
+    "body": "IJFC heeft thuis met 1-1 gelijkgespeeld tegen Odijk. Beide ploegen pakten daarmee hun eerste competitiepunt, meldt Zenderstreeknieuws op 5 oktober. De IJsselsteiners kwamen na twintig minuten op voorsprong uit een snelle aanval.\n\nNa rust voerde Odijk de druk op. Een overtreding in het strafschopgebied leverde de bezoekers een penalty op, die de gelijkmaker betekende. Beide teams kregen daarna nog mogelijkheden, maar er werd niet meer gescoord.\n\nIJFC-trainer Jesper Stoop was tegenover de krant tevreden over de eerste helft en de inzet van zijn spelers. Hij vond dat zijn ploeg na rust ongeduldiger speelde en minder goed met het spel van Odijk omging.",
+    "category": "Sport",
+    "municipalities": [
+      "ijsselstein",
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.zenderstreeknieuws.nl/sport/sport/480135/ijfc-laat-zege-tegen-odijk-uit-handen-glippen-met-fotos-",
+    "sourceName": "Zenderstreeknieuws",
+    "sourcePublishedAt": "2026-10-05",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "ijfc-en-odijk-delen-punten-na-gelijkmaker-uit-strafschop",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/fbb4bce24c5472d64f925338-725f68f1be96.html",
+      "sourceTitle": "IJFC laat zege tegen Odijk uit handen glippen ",
+      "paragraphSourceUrls": [
+        "https://www.zenderstreeknieuws.nl/sport/sport/480135/ijfc-laat-zege-tegen-odijk-uit-handen-glippen-met-fotos-",
+        "https://www.zenderstreeknieuws.nl/sport/sport/480135/ijfc-laat-zege-tegen-odijk-uit-handen-glippen-met-fotos-",
+        "https://www.zenderstreeknieuws.nl/sport/sport/480135/ijfc-laat-zege-tegen-odijk-uit-handen-glippen-met-fotos-"
+      ]
+    },
+    "importBatch": "goal-archive-16-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T13:50:44.690325+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "waterliniemuseum-vertoont-historische-film-holland-neutraal",
+    "title": "Waterliniemuseum vertoont historische film Holland Neutraal",
+    "summary": "Op 25 oktober combineert Fort bij Vechten een lezing met een filmvertoning en historische muziek.",
+    "body": "Het Waterliniemuseum op Fort bij Vechten houdt op 25 oktober een middag rond de film Holland Neutraal. Tom Sas geeft een inleiding over de omstandigheden waarin de film over het Nederlandse leger en de vloot tot stand kwam, meldt Houtens Nieuws.\n\nDaarna volgt een verkorte versie van 46 minuten. De vertoning krijgt muziek op basis van oorspronkelijke speellijsten, verwerkt in een arrangement van dirigent Sjef Ipskamp.\n\nDe toegang kost vijf euro per persoon, inclusief koffie en koek in de pauze. Aanmelden kan via het formulier in de oorspronkelijke aankondiging. Fort bij Vechten ligt in de gemeente Bunnik; de activiteit hoort daarom bij die lokale agenda.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.houtensnieuws.nl/lokaal/lokaal/1318692/bijzondere-lezing-en-filmvertoning-holland-neutraal-op-fort-bij-vechten",
+    "sourceName": "Houtens Nieuws",
+    "sourcePublishedAt": "2026-10-12",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "waterliniemuseum-vertoont-historische-film-holland-neutraal",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/9da6f28e1b82e30d305b283f-8d53b9891da9.html",
+      "sourceTitle": "Bijzondere lezing en filmvertoning Holland Neutraal op Fort bij Vechten",
+      "paragraphSourceUrls": [
+        "https://www.houtensnieuws.nl/lokaal/lokaal/1318692/bijzondere-lezing-en-filmvertoning-holland-neutraal-op-fort-bij-vechten",
+        "https://www.houtensnieuws.nl/lokaal/lokaal/1318692/bijzondere-lezing-en-filmvertoning-holland-neutraal-op-fort-bij-vechten",
+        "https://www.houtensnieuws.nl/lokaal/lokaal/1318692/bijzondere-lezing-en-filmvertoning-holland-neutraal-op-fort-bij-vechten"
+      ]
+    },
+    "importBatch": "goal-archive-17-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T13:52:40.287467+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "name": "De Woudenberger",
+        "url": "https://www.dewoudenberger.nl/lokaal/lokaal/1318739/bijzondere-lezing-en-filmvertoning-holland-neutraal-op-fort-bij-vechten"
+      },
+      {
+        "url": "https://www.denieuwsbode.nl/lokaal/film/1318695/bijzondere-lezing-en-filmvertoning-holland-neutraal-op-fort-b",
+        "name": "De Nieuwsbode",
+        "sourcePublishedAt": "2026-10-12",
+        "note": "Gelezen; dezelfde gebeurtenis of aanvullende berichtgeving samengevoegd."
+      }
+    ]
+  },
+  {
+    "slug": "maria-arias-exposeert-dierenportretten-op-fort-bij-vechten",
+    "title": "Maria Arias exposeert dierenportretten op Fort bij Vechten",
+    "summary": "De Houtense kunstenaar toont vanaf 11 december elf schilderijen in het Waterliniemuseum.",
+    "body": "Kunstenaar Maria Arias uit Houten exposeert van 11 december 2026 tot en met 3 maart 2027 in de Atriumzaal van het Waterliniemuseum op Fort bij Vechten. In haar aankondiging in Houtens Nieuws noemt zij elf dierenschilderijen als onderdeel van de tentoonstelling Innerlijke Wildernis.\n\nDe opening is op vrijdag 11 december van 19.00 tot 21.00 uur. Het museum bevindt zich aan de Achterdijk 12 in Bunnik.\n\nArias maakt expressieve dierenportretten en werkt voor de tentoonstelling aan een nieuwe reeks. Haar aankondiging biedt bezoekers gelegenheid haar tijdens de opening te ontmoeten. De genoemde periode betreft een komende tentoonstelling, geen verslag van een al gehouden opening.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik",
+      "houten"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.houtensnieuws.nl/lokaal/lokaal/1318474/innerlijke-wildernis-tentoonstelling-van-maria-arias-in-het-waterliniemuseum-fort-bij-vechten",
+    "sourceName": "Houtens Nieuws / Maria Arias",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "maria-arias-exposeert-dierenportretten-op-fort-bij-vechten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/d3941e3682a72a1a64f3b2c9-b62e8d86196b.html",
+      "sourceTitle": "‘Innerlijke Wildernis’ Tentoonstelling van Maria Arias in het Waterliniemuseum Fort bij Vechten",
+      "paragraphSourceUrls": [
+        "https://www.houtensnieuws.nl/lokaal/lokaal/1318474/innerlijke-wildernis-tentoonstelling-van-maria-arias-in-het-waterliniemuseum-fort-bij-vechten",
+        "https://www.houtensnieuws.nl/lokaal/lokaal/1318474/innerlijke-wildernis-tentoonstelling-van-maria-arias-in-het-waterliniemuseum-fort-bij-vechten",
+        "https://www.houtensnieuws.nl/lokaal/lokaal/1318474/innerlijke-wildernis-tentoonstelling-van-maria-arias-in-het-waterliniemuseum-fort-bij-vechten"
+      ]
+    },
+    "importBatch": "goal-archive-18-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T13:53:53.611729+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "inwoonster-odijk-vraagt-aandacht-voor-praten-over-zwangerschapsverlies",
+    "title": "Inwoonster Odijk vraagt aandacht voor praten over zwangerschapsverlies",
+    "summary": "Tijdens de Week van het zwangerschapsverlies vertelde een moeder aan RTV Utrecht over rouw en het belang van erkenning.",
+    "body": "Een inwoonster van Odijk heeft tijdens de Week van het zwangerschapsverlies haar ervaring gedeeld met RTV Utrecht. In het interview van 10 oktober vertelde zij hoe het verlies van haar kind doorwerkte in haar leven en hoe moeilijk het kan zijn daarover te praten.\n\nSamen met andere ouders besloot zij ervaringen in een boek te bundelen. Daarmee willen zij ruimte maken voor herinneringen en erkenning van het verlies. Dit bericht verwijst naar het oorspronkelijke interview en laat de persoonlijke medische details buiten beschouwing.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.rtvutrecht.nl/nieuws/4099613/danique-verloor-haar-baby-vlak-voor-geboorte-zat-opeens-thuis-zonder-kind-in-mijn-buik",
+    "sourceName": "RTV Utrecht",
+    "sourcePublishedAt": "2026-10-10",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "inwoonster-odijk-vraagt-aandacht-voor-praten-over-zwangerschapsverlies",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/8e566d136639263f032e3a43-d3f7d480e514.html",
+      "sourceTitle": "Danique verloor haar baby vlak voor geboorte: 'Zat opeens thuis zonder kind in mijn buik'",
+      "paragraphSourceUrls": [
+        "https://www.rtvutrecht.nl/nieuws/4099613/danique-verloor-haar-baby-vlak-voor-geboorte-zat-opeens-thuis-zonder-kind-in-mijn-buik",
+        "https://www.rtvutrecht.nl/nieuws/4099613/danique-verloor-haar-baby-vlak-voor-geboorte-zat-opeens-thuis-zonder-kind-in-mijn-buik"
+      ]
+    },
+    "importBatch": "goal-archive-55-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:11:43.340862+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "midlandia-organiseert-open-korfbaltraining-in-bunnik",
+    "title": "Midlandia organiseert open korfbaltraining in Bunnik",
+    "summary": "De vereniging nodigde kinderen en volwassenen uit om op 23 september kennis te maken met korfbal.",
+    "body": "Korfbalvereniging Midlandia kondigde voor woensdag 23 september een open vriendjestraining in Bunnik aan. Vooraf aanmelden was niet nodig. Het programma kende verschillende begintijden per leeftijdsgroep.\n\nDe jongste kinderen konden om 17.00 uur beginnen, gevolgd door de groepen van zes tot negen jaar om 18.00 uur en tien tot veertien jaar om 19.00 uur. Volwassenen met korfbalervaring waren vanaf 20.00 uur welkom. Bunniks Nieuws publiceerde de uitnodiging op 19 september. De genoemde tijden horen bij die specifieke open training en zijn geen actueel trainingsrooster.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/korfbal/1310414/open-vriendjestraining-midlandia-op-woensdag-23-september",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-09-19",
+    "eventDate": "2026-09-23",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "korfbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "midlandia-organiseert-open-korfbaltraining-in-bunnik",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/d89d0c4eb48b31c31220b777-10e6856c814d.html",
+      "sourceTitle": "Open vriendjestraining Midlandia op woensdag 23 september",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/korfbal/1310414/open-vriendjestraining-midlandia-op-woensdag-23-september",
+        "https://www.bunniksnieuws.nl/sport/korfbal/1310414/open-vriendjestraining-midlandia-op-woensdag-23-september"
+      ]
+    },
+    "importBatch": "goal-archive-56-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:14:24.069216+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "midlandia-j4-wint-met-108-van-de-vinken",
+    "title": "Midlandia J4 wint met 10–8 van De Vinken",
+    "summary": "Het jeugdteam uit Bunnik besliste op 12 september een gelijkopgaande wedstrijd tegen de ploeg uit Vinkeveen.",
+    "body": "Midlandia J4 heeft tijdens de eerste thuiswedstrijden van het veldseizoen gewonnen van De Vinken. De korfbalwedstrijd op zaterdag 12 september eindigde in 10–8 voor de ploeg uit Bunnik. De tegenstander kwam uit Vinkeveen.\n\nVolgens het verslag van Bunniks Nieuws bleef het duel tot het einde spannend. De coaches wezen op het samenspel van hun team en de technische ontwikkeling van de spelers. De wedstrijd maakte deel uit van de veldopening van de vereniging, met naast het korfbal ook activiteiten voor de jeugd.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik",
+      "de-ronde-venen"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/korfbal/1308756/midlandia-j4-viert-spannende-overwinning-met-pannenkoeken",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-09-14",
+    "eventDate": "2026-09-12",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "korfbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "midlandia-j4-wint-met-108-van-de-vinken",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/15d4aeb25a99e02173131eeb-c91722ff3ae1.html",
+      "sourceTitle": "Midlandia J4 viert spannende overwinning met pannenkoeken",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/korfbal/1308756/midlandia-j4-viert-spannende-overwinning-met-pannenkoeken",
+        "https://www.bunniksnieuws.nl/sport/korfbal/1308756/midlandia-j4-viert-spannende-overwinning-met-pannenkoeken"
+      ]
+    },
+    "importBatch": "goal-archive-57-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:16:09.316952+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "bunnikse-trainer-willem-enoch-behaalt-vierde-dan-hapkido",
+    "title": "Bunnikse trainer Willem Enoch behaalt vierde dan hapkido",
+    "summary": "De hoofdtrainer van Enoch Martial Arts deed in Zuid-Korea examens in twee disciplines. De uitslag voor taekwondo was bij publicatie nog niet bekend.",
+    "body": "Willem Enoch, hoofdtrainer van Enoch Martial Arts in Bunnik en inwoner van Wijk bij Duurstede, heeft in Zuid-Korea de vierde dan bij de hapkido-organisatie KHGA behaald. Bunniks Nieuws meldde dat op 5 augustus.\n\nTijdens dezelfde reis deed hij in Seoul examen voor de zevende dan taekwondo. Die uitslag was ten tijde van het bronbericht nog niet binnen. De twee examens mogen daarom niet allebei als behaald worden weergegeven. De vereniging geeft trainingen in de Irenezaal in Bunnik.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik",
+      "wijk-bij-duurstede"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/sport/1298708/willem-enoch-van-enoch-martial-arts-reist-naar-zuid-korea-voor-taekwondo-en-hapkido-examen",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-08-05",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "hapkido"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnikse-trainer-willem-enoch-behaalt-vierde-dan-hapkido",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/aa06bc14da37f55bdc1719a8-da440bd47ed5.html",
+      "sourceTitle": "Willem Enoch van Enoch Martial Arts reist naar Zuid Korea voor Taekwondo en Hapkido examen",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/sport/1298708/willem-enoch-van-enoch-martial-arts-reist-naar-zuid-korea-voor-taekwondo-en-hapkido-examen",
+        "https://www.bunniksnieuws.nl/sport/sport/1298708/willem-enoch-van-enoch-martial-arts-reist-naar-zuid-korea-voor-taekwondo-en-hapkido-examen"
+      ]
+    },
+    "importBatch": "goal-archive-65-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:34:44.843827+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.bunniksnieuws.nl/sport/sport/1297790/willem-enoch-reist-naar-zuid-korea-om-in-het-land-van-herkomst-zowel-een-taekwondo-als-hapkido-examen-te-doen",
+        "name": "Bunniks Nieuws",
+        "sourcePublishedAt": "2026-07-31",
+        "note": "Gelezen versie van hetzelfde bericht; gekoppeld om duplicaten te voorkomen."
+      },
+      {
+        "url": "https://www.wijksnieuws.nl/sport/vechtsporten/1297833/willem-enoch-uit-wijk-bij-duurstede-reist-naar-zuid-korea-voo",
+        "name": "Wijks Nieuws",
+        "sourcePublishedAt": "2026-08-03",
+        "note": "Gelezen versie van hetzelfde bericht; gekoppeld om duplicaten te voorkomen."
+      },
+      {
+        "url": "https://www.wijksnieuws.nl/sport/sport/1298175/willem-enoch-reist-naar-zuid-korea-om-in-het-land-van-herkomst-zowel-een-taekwondo-als-hapkido-examen-te-doen",
+        "name": "Wijks Nieuws",
+        "sourcePublishedAt": "2026-08-03",
+        "note": "Andere publicatie van hetzelfde nieuws; geen afzonderlijk artikel aangemaakt."
+      }
+    ]
+  },
+  {
+    "slug": "voorleesmiddag-over-limes-en-waterlinie-op-fort-bij-vechten",
+    "title": "Voorleesmiddag over Limes en Waterlinie op Fort bij Vechten",
+    "summary": "Kinderen van ongeveer vijf tot acht jaar kunnen op 22 oktober luisteren naar twee Gouden Boekjes.",
+    "body": "Het Waterliniemuseum op Fort bij Vechten organiseert op donderdag 22 oktober een voorleesmiddag. Vanaf 14.00 uur staan de Gouden Boekjes Tappo en de rivier en Een fort voor Vleermuis centraal, meldt Bunniks Nieuws.\n\nDe verhalen gaan over de Romeinse Limes en de Nieuwe Hollandse Waterlinie, twee werelderfgoederen die door de gemeente Bunnik lopen. De middag is vooral bedoeld voor kinderen van ongeveer vijf tot acht jaar en sluit aan bij de Maand van de Geschiedenis.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/activiteiten/1318870/kopij-komend-bunniks-nieuws",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-13",
+    "eventDate": "2026-10-22",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "boeken"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "voorleesmiddag-over-limes-en-waterlinie-op-fort-bij-vechten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/d8b0d64c8291b7eca242afcd-017e44e12196.html",
+      "sourceTitle": "Voorleesmiddag over onze werelderfgoederen op Fort bij Vechten",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1318870/kopij-komend-bunniks-nieuws",
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1318870/kopij-komend-bunniks-nieuws"
+      ]
+    },
+    "importBatch": "goal-archive-68-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:41:07.296668+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "hdsr-onderzoekt-aanpak-rivierkreeften-in-kromme-rijn-en-grecht",
+    "title": "HDSR onderzoekt aanpak rivierkreeften in Kromme Rijn en Grecht",
+    "summary": "Het waterschap combineert monitoring met proeven rond natuurvriendelijke oevers en gericht wegvangen.",
+    "body": "Hoogheemraadschap De Stichtse Rijnlanden gaat onderzoeken welke rivierkreeften voorkomen in onder meer de Kromme Rijn, de Grecht en kleinere sloten. Daarnaast komt er een proef met natuurvriendelijke oevers en gericht wegvangen, meldt Bunniks Nieuws op 13 oktober.\n\nDe proeflocaties worden vergeleken met plekken zonder maatregelen. Het vangen begint naar verwachting in 2027. Bij eerder onderzoek in de Slimmenwetering bij Zegveld nam het aantal kreeften volgens het bericht ondanks vier jaar vangen niet af. Daar wordt het onderzoek voortgezet met een grotere vanginspanning en aanvullende maatregelen.\n\nHet gaat om onderzoek, niet om een aangekondigde grootschalige vangactie in alle watergangen.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik",
+      "woerden"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/natuur-en-milieu/1318864/waterschap-onderzoekt-aanpak-van-rivierkreeften-natuurvriende",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-13",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "natuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "hdsr-onderzoekt-aanpak-rivierkreeften-in-kromme-rijn-en-grecht",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/29fd91d39270a458722a38c0-c69c40a13030.html",
+      "sourceTitle": "Waterschap onderzoekt aanpak van rivierkreeften: natuurvriendelijke oevers en gericht wegvangen",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/natuur-en-milieu/1318864/waterschap-onderzoekt-aanpak-van-rivierkreeften-natuurvriende",
+        "https://www.bunniksnieuws.nl/lokaal/natuur-en-milieu/1318864/waterschap-onderzoekt-aanpak-van-rivierkreeften-natuurvriende",
+        "https://www.bunniksnieuws.nl/lokaal/natuur-en-milieu/1318864/waterschap-onderzoekt-aanpak-van-rivierkreeften-natuurvriende"
+      ]
+    },
+    "importBatch": "goal-archive-69-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:43:18.360926+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.houtensnieuws.nl/lokaal/natuur-en-milieu/1318843/waterschap-onderzoekt-aanpak-van-rivierkreeften-natuurvriende",
+        "name": "Houtens Nieuws",
+        "sourcePublishedAt": "2026-10-13",
+        "note": "Gelezen aanvullende versie; gekoppeld aan bestaand artikel."
+      },
+      {
+        "url": "https://www.wijksnieuws.nl/lokaal/natuur-en-milieu/1318865/waterschap-onderzoekt-aanpak-van-rivierkreeften-natuurvriende",
+        "name": "Wijks Nieuws",
+        "sourcePublishedAt": "2026-10-13",
+        "note": "Dezelfde gebeurtenis; gelezen en samengevoegd."
+      }
+    ]
+  },
+  {
+    "slug": "walking-football-start-op-3-november-bij-aurora",
+    "title": "Walking Football start op 3 november bij Aurora",
+    "summary": "Inwoners vanaf vijftig jaar kunnen op dinsdagochtend meedoen in Werkhoven.",
+    "body": "SV Aurora start op dinsdag 3 november met Walking Football voor inwoners van vijftig jaar en ouder. De bijeenkomsten zijn op dinsdag van 11.00 tot 12.00 uur in Werkhoven, meldt Bunniks Nieuws.\n\nHet initiatief komt van de club, Bunnik Vitaal en studenten van de Sportacademie Amersfoort. Ervaring met voetbal is niet nodig. Na het sporten is er gelegenheid om in de kantine na te praten met koffie of thee. Informatie over deelname is verkrijgbaar bij Bunnik Vitaal.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/activiteiten/1317453/walking-football-komt-naar-sv-aurora-in-werkhoven",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-10",
+    "eventDate": "2026-11-03",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "walking-football-start-op-3-november-bij-aurora",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/ff2303a22aff6318307d8a4b-96b488c42a46.html",
+      "sourceTitle": "Walking Football komt naar SV Aurora in Werkhoven",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1317453/walking-football-komt-naar-sv-aurora-in-werkhoven",
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1317453/walking-football-komt-naar-sv-aurora-in-werkhoven"
+      ]
+    },
+    "importBatch": "goal-archive-72-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:48:14.901145+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.wijksnieuws.nl/lokaal/activiteiten/1317971/walking-football-komt-naar-sv-aurora-in-werkhoven",
+        "name": "Wijks Nieuws",
+        "sourcePublishedAt": "2026-10-10",
+        "note": "Gelezen bron gekoppeld aan bestaand onderwerp."
+      }
+    ]
+  },
+  {
+    "slug": "meer-dan-6-000-kilo-fruit-verwerkt-tot-sap-in-werkhoven",
+    "title": "Meer dan 6.000 kilo fruit verwerkt tot sap in Werkhoven",
+    "summary": "Boomgaardeigenaren konden hun oogst laten persen op de boerderij van Dorrestein.",
+    "body": "Op uitnodiging van de Hoogstambrigade stond de mobiele pers van De Sappers op woensdag 7 oktober bij de boerderij van Dorrestein in Werkhoven. Boomgaardeigenaren uit de streek lieten daar appels en peren verwerken.\n\nVolgens Bunniks Nieuws ging het in totaal om meer dan 6.000 kilo fruit uit hoogstamboomgaarden. Het sap wordt onder meer aangeboden bij Lekker Driebergen aan de Traaij.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/nieuws/lokaalnieuws/1317920/fruitsappen-in-werkhoven",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-10",
+    "eventDate": "2026-10-07",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "natuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "meer-dan-6-000-kilo-fruit-verwerkt-tot-sap-in-werkhoven",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/2dd61322e4769f40068d482d-0e1392e2b1a6.html",
+      "sourceTitle": "Fruitsappen in Werkhoven",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/nieuws/lokaalnieuws/1317920/fruitsappen-in-werkhoven",
+        "https://www.bunniksnieuws.nl/nieuws/lokaalnieuws/1317920/fruitsappen-in-werkhoven"
+      ]
+    },
+    "importBatch": "goal-archive-73-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T15:50:25.372771+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "kraamverzorgsters-bereiden-vrijwilligersmaand-in-gambia-voor",
+    "title": "Kraamverzorgsters bereiden vrijwilligersmaand in Gambia voor",
+    "summary": "Puck van Emmerik en Margareth van der Poel vertrekken op 19 oktober naar een kraamkliniek.",
+    "body": "Kraamverzorgsters Puck van Emmerik en Margareth van der Poel gaan een maand vrijwilligerswerk doen in Gambia. Hun vertrek staat gepland voor 19 oktober. De twee begonnen hun loopbaan bij huize Regina in Baarn en werken inmiddels 43 jaar in de kraamzorg.\n\nVia stichting Rescue Baby Gambia kwamen zij in contact met een kliniek waar zij ondersteuning gaan bieden. In een vanuit Werkhoven geschreven verhaal vertellen zij over de voorbereiding op die reis. Voor hun inzet zamelen zij materiaal en financiële bijdragen in. Geïnteresseerden kunnen daarvoor terecht bij de stichting.",
+    "category": "Samenleving",
+    "municipalities": [
+      "baarn",
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.baarnschecourant.nl/lokaal/maatschappelijk/1318550/het-verschil-maken-in-gambia",
+    "sourceName": "Baarnsche Courant",
+    "sourcePublishedAt": "2026-10-12",
+    "eventDate": "2026-10-19",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "vrijwilligers"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "kraamverzorgsters-bereiden-vrijwilligersmaand-in-gambia-voor",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/d92bbf932ac3d3139342775f-8fbdaedaf8f7.html",
+      "sourceTitle": "Het verschil maken in Gambia",
+      "paragraphSourceUrls": [
+        "https://www.baarnschecourant.nl/lokaal/maatschappelijk/1318550/het-verschil-maken-in-gambia",
+        "https://www.baarnschecourant.nl/lokaal/maatschappelijk/1318550/het-verschil-maken-in-gambia"
+      ]
+    },
+    "importBatch": "goal-archive-80-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T16:08:11.249177+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "url": "https://www.wijksnieuws.nl/lokaal/maatschappelijk/1318548/het-verschil-maken-in-gambia",
+        "name": "Wijks Nieuws",
+        "sourcePublishedAt": "2026-10-12",
+        "note": "Brontekst gelezen en samengevoegd met bestaande berichtgeving."
+      }
+    ]
+  },
+  {
+    "slug": "bunnik-organiseert-koffiebijeenkomsten-voor-mantelzorgers",
+    "title": "Bunnik organiseert koffiebijeenkomsten voor mantelzorgers",
+    "summary": "Op 10 en 11 november zijn er ontmoetingen in Werkhoven, Bunnik en Odijk.",
+    "body": "Mantelzorgers uit de gemeente Bunnik zijn in november welkom bij drie koffiebijeenkomsten. De gemeente organiseert de ontmoetingen rond de Dag van de Mantelzorg op 10 november. De persoon voor wie iemand zorgt, mag meekomen.\n\nOp dinsdag 10 november is er van 10.00 tot 11.30 uur een bijeenkomst in het Wapen van Werkhoven aan de Herenstraat 31. Die middag kunnen bezoekers van 14.00 tot 15.30 uur terecht in het Wapen van Bunnik aan de Dorpsstraat 9.\n\nDe derde ontmoeting is op woensdag 11 november, van 10.00 tot 11.30 uur in het Wapen van Odijk aan De Meent 53. Aanmelden kan bij mantelzorgondersteuner Manja Bakker; volgens de gemeente is binnenlopen zonder aanmelding ook mogelijk. De gemeente publiceerde de uitnodiging samen met een verhaal over mantelzorg in Odijk.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunnik.nl/nieuws/hoe-je-naast-mantelzorger-ook-nog-jezelf-kan-blijven",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-09-29",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-organiseert-koffiebijeenkomsten-voor-mantelzorgers",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/1d3916a521d6a32cc81ed3a1-a060783ef168.html",
+      "sourceTitle": "Hoe je naast mantelzorger ook nog jezelf kan blijven",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/hoe-je-naast-mantelzorger-ook-nog-jezelf-kan-blijven",
+        "https://www.bunnik.nl/nieuws/hoe-je-naast-mantelzorger-ook-nog-jezelf-kan-blijven",
+        "https://www.bunnik.nl/nieuws/hoe-je-naast-mantelzorger-ook-nog-jezelf-kan-blijven"
+      ]
+    },
+    "importBatch": "goal-archive-97-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:08:36.823421+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "bunnik-belicht-aangepaste-sportlessen-tijdens-warme-zomer",
+    "title": "Bunnik belicht aangepaste sportlessen tijdens warme zomer",
+    "summary": "De gemeentelijke publicatie beschrijft hoe een lokale groep oudere sporters bleef trainen.",
+    "body": "Een Bunnikse sportgroep voor vrouwen van 65 jaar en ouder bleef in de zomer twee keer per week bijeenkomen. De gemeente besteedde op 11 augustus aandacht aan de lessen van Mieke Hansen-Hilhorst en de aanpassingen die zij bij warm weer maakt.\n\nDe begeleider vertelde dat zij bij hogere temperaturen minder intensieve oefeningen kiest en extra pauzes inlast. Waar mogelijk zoekt de groep een plek in de schaduw. Na de les drinken de deelnemers samen koffie.\n\nDe publicatie ging over de omstandigheden in augustus. Het bericht is daarmee een terugblik op een plaatselijke sportactiviteit en geen actuele hittewaarschuwing.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunnik.nl/nieuws/zo-kunt-u-gezond-sporten-ook-in-de-warme-zomer",
+    "sourceName": "Gemeente Bunnik",
+    "sourcePublishedAt": "2026-08-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "sport",
+      "seniorensport"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-belicht-aangepaste-sportlessen-tijdens-warme-zomer",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/d35f44343170068da86f6d36-35c3db260c8c.html",
+      "sourceTitle": "Zo kunt u gezond sporten, ook in de warme zomer",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/nieuws/zo-kunt-u-gezond-sporten-ook-in-de-warme-zomer",
+        "https://www.bunnik.nl/nieuws/zo-kunt-u-gezond-sporten-ook-in-de-warme-zomer",
+        "https://www.bunnik.nl/nieuws/zo-kunt-u-gezond-sporten-ook-in-de-warme-zomer"
+      ]
+    },
+    "importBatch": "goal-archive-97-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:08:36.823847+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "paardentrailer-uitgebrand-onder-a12-bij-bunnik",
+    "title": "Paardentrailer uitgebrand onder A12 bij Bunnik",
+    "summary": "De brand ontstond in de nacht naar zondag 4 oktober aan de Schoudermantel.",
+    "body": "Een oude paardentrailer is in de nacht naar zondag 4 oktober door brand verwoest aan de Schoudermantel in Bunnik. De aanhanger stond onder het viaduct van de A12, langs de parallelweg van de N229, meldt Bunniks Nieuws.\n\nDe brandweer werd rond 00.30 uur opgeroepen. In de trailer lag volgens de berichtgeving hout opgeslagen. De aanhanger kon niet behouden blijven.\n\nDe oorzaak van het vuur was bij publicatie niet bekend. De bron noemt geen bevestigde onderzoeksuitkomst; brandstichting wordt daarom niet als vastgestelde oorzaak gepresenteerd.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/112/brand/1316027/oude-paardentrailer-door-brand-verwoest-in-bunnik",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-04",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "brandweer"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "paardentrailer-uitgebrand-onder-a12-bij-bunnik",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/bb4151f42abe51f207ec26d4-bbbea462931e.html",
+      "sourceTitle": "Oude paardentrailer door brand verwoest in Bunnik",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/112/brand/1316027/oude-paardentrailer-door-brand-verwoest-in-bunnik",
+        "https://www.bunniksnieuws.nl/112/brand/1316027/oude-paardentrailer-door-brand-verwoest-in-bunnik",
+        "https://www.bunniksnieuws.nl/112/brand/1316027/oude-paardentrailer-door-brand-verwoest-in-bunnik"
+      ]
+    },
+    "importBatch": "goal-archive-110-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:41:55.365171+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "auto-belandt-in-water-langs-baan-van-fectio-in-bunnik",
+    "title": "Auto belandt in water langs Baan van Fectio in Bunnik",
+    "summary": "De bestuurder werd door ambulancepersoneel gecontroleerd.",
+    "body": "Langs de N229, de Baan van Fectio in Bunnik, is vrijdagavond 11 september een auto in het water terechtgekomen. De hulpdiensten kregen rond 19.41 uur een melding, schrijft Bunniks Nieuws.\n\nHet voertuig was van de weg geraakt en had ook een verkeersbord geraakt. De aanleiding was bij publicatie nog onbekend.\n\nAmbulancepersoneel keek de bestuurder na. Volgens de bron hoefde die niet naar het ziekenhuis. Voor het verwijderen van de auto werd een bergingsbedrijf ingeschakeld.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/112/ongeval/1308341/zwarte-tesla-te-water-in-bunnik",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-09-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "verkeersongeval"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "auto-belandt-in-water-langs-baan-van-fectio-in-bunnik",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/e7a25094bdfc315d7a7f13fc-3c50325ea132.html",
+      "sourceTitle": "Zwarte Tesla te water in Bunnik",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/112/ongeval/1308341/zwarte-tesla-te-water-in-bunnik",
+        "https://www.bunniksnieuws.nl/112/ongeval/1308341/zwarte-tesla-te-water-in-bunnik",
+        "https://www.bunniksnieuws.nl/112/ongeval/1308341/zwarte-tesla-te-water-in-bunnik"
+      ]
+    },
+    "importBatch": "goal-archive-110-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:41:55.365214+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "ongeval-op-a12-bij-bunnik-leidde-tot-rijstrookafsluitingen",
+    "title": "Ongeval op A12 bij Bunnik leidde tot rijstrookafsluitingen",
+    "summary": "Een vrachtwagen kwam op 21 juli in de middenberm terecht; meerdere auto's raakten beschadigd.",
+    "body": "Op de A12 bij Bunnik vond dinsdagochtend 21 juli rond 8.30 uur een ongeval plaats in de richting Utrecht. Volgens Bunniks Nieuws reed een vrachtwagen de middenberm in en raakten meerdere auto's beschadigd.\n\nTwee rijstroken werden afgesloten. Daardoor ontstond vertraging vanaf Driebergen richting Utrecht. Berging van de betrokken voertuigen was nodig.\n\nOver de oorzaak en mogelijke gewonden gaf de eerste berichtgeving nog geen uitsluitsel. De beschreven afsluitingen horen bij het incident van 21 juli en zijn geen actuele verkeersmelding.",
+    "category": "Verkeer",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/112/ongeval/1295723/ongeval-op-a12-bij-bunnik",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-07-21",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "verkeersongeval"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "ongeval-op-a12-bij-bunnik-leidde-tot-rijstrookafsluitingen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/b058db9f02748e6c8f66003f-d646afbfc43e.html",
+      "sourceTitle": "Ongeval op A12 bij Bunnik",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/112/ongeval/1295723/ongeval-op-a12-bij-bunnik",
+        "https://www.bunniksnieuws.nl/112/ongeval/1295723/ongeval-op-a12-bij-bunnik",
+        "https://www.bunniksnieuws.nl/112/ongeval/1295723/ongeval-op-a12-bij-bunnik"
+      ]
+    },
+    "importBatch": "goal-archive-110-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:41:55.365256+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "patrick-van-burgel-te-gast-bij-ontmoetingsmiddag-in-de-brug",
+    "title": "Patrick van Burgel te gast bij ontmoetingsmiddag in De Brug",
+    "summary": "De gratis Zondagse Ontmoeting Middag staat gepland op 18 oktober in Bunnik.",
+    "body": "Schrijver en uitvinder Patrick van Burgel is op zondag 18 oktober de aangekondigde gast van de Zondagse Ontmoeting Middag in Bunnik. De bijeenkomst in De Brug duurt van 15.00 tot 17.00 uur.\n\nDe aankondiging beschrijft zijn werk rond veranderingen binnen organisaties en samenwerking tussen techniek en management. Bezoekers kunnen zonder toegangsprijs deelnemen; een vrijwillige bijdrage is mogelijk. Het ZOM-team nodigt ook buren en vrienden uit om mee te komen. Bunniks Nieuws publiceerde de aankondiging op 11 oktober.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/overig/1318076/zom-middag-op-18-oktober-met-patrick-van-burgel",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "muziek"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "patrick-van-burgel-te-gast-bij-ontmoetingsmiddag-in-de-brug",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/0d6f673930d5688666fb54fd-cdcb1ea4819a.html",
+      "sourceTitle": "ZOM Middag op 18 oktober met Patrick van Burgel",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/overig/1318076/zom-middag-op-18-oktober-met-patrick-van-burgel",
+        "https://www.bunniksnieuws.nl/lokaal/overig/1318076/zom-middag-op-18-oktober-met-patrick-van-burgel"
+      ]
+    },
+    "importBatch": "goal-archive-117-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:02:45.416718+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "bijeenkomst-microfoon-2025"
+  },
+  {
+    "slug": "dorpshuis-odijk-kondigt-discoavond-op-24-oktober-aan",
+    "title": "Dorpshuis Odijk kondigt discoavond op 24 oktober aan",
+    "summary": "De deuren gaan om 20.30 uur open; een kaartje kost vijf euro inclusief één consumptie.",
+    "body": "Dorpshuis Odijk organiseert op zaterdag 24 oktober een discoavond met muziek uit eerdere decennia. Volgens de aankondiging gaan de deuren om 20.30 uur open. De avond biedt ruimte om te dansen en om elkaar te ontmoeten.\n\nDe toegang kost vijf euro, inclusief één consumptie. Kaarten zijn aan de deur verkrijgbaar; vooraf bestellen kan via dorpshuisodijk@gmail.com. Bunniks Nieuws publiceerde de informatie op 11 oktober op basis van een bericht van de organisatie.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/activiteiten/1318283/weer-tijd-voor-discoavond-in-dorpshuis-odijk",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "muziek"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "dorpshuis-odijk-kondigt-discoavond-op-24-oktober-aan",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/9d45cba12f34f4f163d14fc4-77ca5fff18a2.html",
+      "sourceTitle": "Weer tijd voor discoavond in Dorpshuis Odijk",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1318283/weer-tijd-voor-discoavond-in-dorpshuis-odijk",
+        "https://www.bunniksnieuws.nl/lokaal/activiteiten/1318283/weer-tijd-voor-discoavond-in-dorpshuis-odijk"
+      ]
+    },
+    "importBatch": "goal-archive-117-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:02:45.416767+00:00",
+    "publicationScope": "local_preview",
+    "imageReviewNote": "Passende recente foto van dansavond nog selecteren; geen willekeurig portret."
+  },
+  {
+    "slug": "thema-avond-in-bunninchem-over-zorg-en-ondersteuning-in-de-buurt",
+    "title": "Thema-avond in Bunninchem over zorg en ondersteuning in de buurt",
+    "summary": "Oud-huisarts Esther Bouman is aangekondigd als een van de sprekers op 13 oktober.",
+    "body": "In woonzorgcentrum Bunninchem in Bunnik is voor dinsdag 13 oktober een thema-avond aangekondigd over onderlinge hulp en ondersteuning in de buurt. De bijeenkomst begint om 19.30 uur. Oud-huisarts Esther Bouman uit Werkhoven is een van de aangekondigde gastsprekers.\n\nDe uitnodiging stond bij een bijdrage in Bunniks Nieuws over ouderenzorg. Bewoners worden uitgenodigd mee te denken over samenwerking tussen buurtgenoten, vrijwilligers en zorgverleners. Voorbeelden in de reeks zijn buurtverbinders en groepen inwoners die elkaar ondersteunen.\n\nIdeeën kunnen ook worden ingestuurd naar focusgroepouderen@bunniksamen.nl. Dit archiefbericht betreft de aankondiging van 7 oktober en is geen verslag van de bijeenkomst.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/gezondheid/gezondheid/1314821/25-jaar-huisarts-wat-moet-er-gebeuren-en-door-wie-tweede-set-voorstellen",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-10-07",
+    "eventDate": "2026-10-13",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bijeenkomst"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "thema-avond-in-bunninchem-over-zorg-en-ondersteuning-in-de-buurt",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/49dbc631020225f7c74f26a8-b50a7574e145.html",
+      "sourceTitle": "25 jaar Huisarts: Wat moet er gebeuren en door wie? Tweede set voorstellen",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/gezondheid/gezondheid/1314821/25-jaar-huisarts-wat-moet-er-gebeuren-en-door-wie-tweede-set-voorstellen",
+        "https://www.bunniksnieuws.nl/gezondheid/gezondheid/1314821/25-jaar-huisarts-wat-moet-er-gebeuren-en-door-wie-tweede-set-voorstellen",
+        "https://www.bunniksnieuws.nl/gezondheid/gezondheid/1314821/25-jaar-huisarts-wat-moet-er-gebeuren-en-door-wie-tweede-set-voorstellen"
+      ]
+    },
+    "importBatch": "goal-archive-118-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:04:42.767685+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "bijeenkomst-microfoon-2025"
+  },
+  {
+    "slug": "tijdelijke-aldi-in-aanbouw-bij-station-driebergen-zeist",
+    "title": "Tijdelijke Aldi in aanbouw bij station Driebergen-Zeist",
+    "summary": "De supermarkt verrijst aan de Odijkerweg naast de parkeergarage.",
+    "body": "Bij station Driebergen-Zeist werd in september gewerkt aan een tijdelijke Aldi. De fundering aan de Odijkerweg lag er volgens een bericht van Bunniks Nieuws van 24 september inmiddels. De eerdere winkel aan de Traay in Driebergen was voor de zomer gesloten.\n\nDe gemeente Utrechtse Heuvelrug noemde de stationslocatie de best beschikbare optie na onderzoek naar verschillende plekken. Volgens een gemeentewoordvoerder waren met Aldi afspraken gemaakt over de verkeerssituatie. Het tijdelijke gebruik zou de verdere ontwikkeling van het stationsgebied niet belemmeren.\n\nOok buurgemeenten zijn betrokken bij de omgeving van de winkel. Met Zeist was overlegd omdat de Odijkerweg daar op Zeister grondgebied ligt; Bunnik was volgens het bericht inmiddels geïnformeerd. De publicatie beschrijft de bouwfase en bevestigt geen openingsdatum.",
+    "category": "Wonen",
+    "municipalities": [
+      "utrechtse-heuvelrug",
+      "zeist",
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/winkels/1311614/komst-aldi-bij-station-driebergen-zeist-kent-lange-voorgeschi",
+    "sourceName": "Bunniks Nieuws",
+    "sourcePublishedAt": "2026-09-24",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "supermarkt",
+      "bouw"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "tijdelijke-aldi-in-aanbouw-bij-station-driebergen-zeist",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/b900872a14becc6974091d03-208a49e8ca4f.html",
+      "sourceTitle": "Komst Aldi bij station Driebergen-Zeist kent lange voorgeschiedenis",
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/lokaal/winkels/1311614/komst-aldi-bij-station-driebergen-zeist-kent-lange-voorgeschi",
+        "https://www.bunniksnieuws.nl/lokaal/winkels/1311614/komst-aldi-bij-station-driebergen-zeist-kent-lange-voorgeschi",
+        "https://www.bunniksnieuws.nl/lokaal/winkels/1311614/komst-aldi-bij-station-driebergen-zeist-kent-lange-voorgeschi"
+      ]
+    },
+    "importBatch": "goal-archive-118-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:04:42.767737+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "meldingen-over-misleidende-loungesetadvertenties-in-zuidoost-utrecht",
+    "title": "Meldingen over misleidende loungesetadvertenties in Zuidoost-Utrecht",
+    "summary": "Kopers zouden na een aanbetaling bij een adres uitkomen waar niets over de verkoop bekend is.",
+    "body": "Omroep ZOUT meldt klachten over loungesets die via lokale Facebookgroepen worden aangeboden. Volgens de omroep zijn er meldingen uit onder meer De Bilt, Bunnik en de Utrechtse Heuvelrug.\n\nDe beschreven werkwijze is dat een aanbieder eerst om een aanbetaling vraagt. Daarna krijgt de koper een afhaaladres, terwijl de bewoner volgens de meldingen niets van de verkoop weet. Het verkopersaccount reageert vervolgens niet meer.\n\nDe omroep noemt geen vastgesteld aantal aangiften. Dit bericht identificeert daarom geen verdachte en presenteert de meldingen niet als een afgerond politieonderzoek.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "de-bilt",
+      "bunnik",
+      "utrechtse-heuvelrug"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.omroepzout.nl/waarschuwing-voor-loungeset-oplichter-doe-geen-aanbetaling/",
+    "sourceName": "Omroep ZOUT",
+    "sourcePublishedAt": "2026-10-12",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "politie"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "meldingen-over-misleidende-loungesetadvertenties-in-zuidoost-utrecht",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/9835de7f600731754964960d-34828889e6f1.html",
+      "sourceTitle": "Waarschuwing voor loungeset-oplichters “Doe geen aanbetaling!”",
+      "paragraphSourceUrls": [
+        "https://www.omroepzout.nl/waarschuwing-voor-loungeset-oplichter-doe-geen-aanbetaling/",
+        "https://www.omroepzout.nl/waarschuwing-voor-loungeset-oplichter-doe-geen-aanbetaling/",
+        "https://www.omroepzout.nl/waarschuwing-voor-loungeset-oplichter-doe-geen-aanbetaling/"
+      ]
+    },
+    "importBatch": "goal-archive-129-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T18:27:31.228936+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "politie-auto-2024",
+    "imageContextLabel": "Foto ter illustratie",
+    "imageReviewNote": "Gelicentieerde politie-contextfoto; geen opname van een verdachte of incident."
+  },
+  {
+    "slug": "aurora-hield-tenniskamp-met-davis-cup-thema-in-werkhoven",
+    "title": "Aurora hield tenniskamp met Davis Cup-thema in Werkhoven",
+    "summary": "Vijfentwintig kinderen deden mee aan drie dagen tennis en spel.",
+    "body": "Tennisclub Aurora in Werkhoven hield eind augustus een jeugdkamp met de Davis Cup als thema. Volgens het op 27 augustus gepubliceerde verenigingsbericht deden 25 kinderen mee.\n\nElke kampdag kreeg een eigen landenaccent: dinsdag Australië, woensdag Frankrijk en donderdag de Verenigde Staten. Naast tennis waren er andere sport- en spelactiviteiten. Tennisleraar Edwin van der Hoeven begeleidde de deelnemers.\n\nHet ging om een lokaal tenniskamp met een internationaal thema, niet om een officiële wedstrijd in het Davis Cup-toernooi. Het bericht kijkt terug op de zomerse clubactiviteit.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/sport/sport/1304288/davis-cup-tennis-in-werkhoven",
+    "sourceName": "Bunniks Nieuws — ingezonden verenigingsbericht",
+    "sourcePublishedAt": "2026-08-27",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "tennis"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "aurora-hield-tenniskamp-met-davis-cup-thema-in-werkhoven",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/recovery-164-604079b51f4a.html",
+      "sourceTitle": null,
+      "paragraphSourceUrls": [
+        "https://www.bunniksnieuws.nl/sport/sport/1304288/davis-cup-tennis-in-werkhoven",
+        "https://www.bunniksnieuws.nl/sport/sport/1304288/davis-cup-tennis-in-werkhoven",
+        "https://www.bunniksnieuws.nl/sport/sport/1304288/davis-cup-tennis-in-werkhoven"
+      ]
+    },
+    "importBatch": "goal-archive-164-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T20:40:23.810254+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "ronald-den-hartog-geinstalleerd-als-pastoor-van-twee-parochies",
+    "title": "Ronald den Hartog geïnstalleerd als pastoor van twee parochies",
+    "summary": "De parochies Paus Johannes XXIII en Suitbertus hebben Ronald den Hartog op 6 september officieel verwelkomd.",
+    "body": "Ronald den Hartog is op zondag 6 september geïnstalleerd als pastoor van de parochies H. Paus Johannes XXIII en H. Suitbertus. Hulpbisschop Woorts leidde de installatie, meldt de parochie in een verslag van 7 september.\n\nTijdens de viering ontving Den Hartog een symbolische sleutel voor de veertien kerken. Vertegenwoordigers van de geloofsgemeenschappen werkten aan de viering mee.\n\nDe benoeming raakt ook de Kromme Rijnstreek. Paus Johannes XXIII omvat de katholieke gemeenschappen in Houten, Schalkwijk, ’t Goy, Bunnik, Odijk, Werkhoven, Cothen en Wijk bij Duurstede. De samenwerkende Suitbertusparochie ligt in de West-Betuwe.",
+    "category": "Samenleving",
+    "municipalities": [
+      "houten",
+      "bunnik",
+      "wijk-bij-duurstede"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://pj23.nl/blog/2026/09/07/feestelijke-installatie-pastoor-den-hartog/",
+    "sourceName": "Parochie H. Paus Johannes XXIII",
+    "sourcePublishedAt": "2026-09-07",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "locatiearchief",
+      "wijk bij duurstede"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "ronald-den-hartog-geinstalleerd-als-pastoor-van-twee-parochies",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/goal-archive-199-evidence.txt",
+      "sourceTitle": "Feestelijke Installatie Pastoor Den Hartog",
+      "paragraphSourceUrls": [
+        "https://pj23.nl/blog/2026/09/07/feestelijke-installatie-pastoor-den-hartog/",
+        "https://pj23.nl/blog/2026/09/07/feestelijke-installatie-pastoor-den-hartog/",
+        "https://pj23.nl/blog/2026/09/07/feestelijke-installatie-pastoor-den-hartog/"
+      ]
+    },
+    "importBatch": "goal-archive-199-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T21:43:11.409964+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "archive-photo-133456558",
+    "imageContextLabel": "Archieffoto: Sint-Jan de Doperkerk in Wijk bij Duurstede (2022), onderdeel van de parochie. Geen beeld van de installatie."
+  },
+  {
+    "slug": "bunnik-73-ontvangt-ruim-1-400-euro-uit-clubsupport",
+    "title": "Bunnik ’73 ontvangt ruim 1.400 euro uit ClubSupport",
+    "summary": "De voetbalclub wil de bijdrage onder meer gebruiken voor materialen voor oudere voetballers.",
+    "body": "Bunnik ’73 heeft via Rabo ClubSupport een bijdrage van 1.433,68 euro gekregen. De vereniging maakte het bedrag op 6 oktober bekend, nadat de uitreiking had plaatsgevonden bij hockeyclub Phoenix in Zeist.\n\nDe club noemt doelen en ballen voor de 35+- en 45+-groepen als besteding. Ook thuisaccu’s staan in de mededeling genoemd. Hoe het bedrag over deze doelen wordt verdeeld, vermeldt de vereniging niet.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://bunnik73.nl/2026/10/06/mooi-resultaat-rabo-clubsupport/",
+    "sourceName": "Bunnik ’73",
+    "sourcePublishedAt": "2026-10-06",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-73-ontvangt-ruim-1-400-euro-uit-clubsupport",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/38f19f351a828339ac8388e6-88b71b33a2e3.html",
+      "sourceTitle": "Mooi resultaat Rabo Clubsupport",
+      "paragraphSourceUrls": [
+        "https://bunnik73.nl/2026/10/06/mooi-resultaat-rabo-clubsupport/",
+        "https://bunnik73.nl/2026/10/06/mooi-resultaat-rabo-clubsupport/"
+      ]
+    },
+    "importBatch": "goal-archive-206-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:18:01.336115+00:00",
+    "publicationScope": "local_preview",
+    "imageReviewNote": "Alleen passend voetbalbeeld ter illustratie; club- en wedstrijdfoto nog niet van gebruiksrechten voorzien."
+  },
+  {
+    "slug": "bunnik-73-zoekt-scheidsrechters-om-wedstrijden-door-te-laten-gaan",
+    "title": "Bunnik ’73 zoekt scheidsrechters om wedstrijden door te laten gaan",
+    "summary": "De vereniging waarschuwde in augustus voor een tekort aan mensen die wedstrijden willen fluiten.",
+    "body": "Bunnik ’73 heeft op 21 augustus een oproep gedaan voor nieuwe scheidsrechters. Volgens de voetbalvereniging dreigt het tekort zo groot te worden dat wedstrijden mogelijk niet kunnen doorgaan. Het bericht meldt geen concrete afgelastingen.\n\nOok mensen zonder ervaring kunnen zich aanmelden. Kennis van de spelregels en bereidheid om te helpen zijn volgens de club een begin; de vereniging biedt ondersteuning. Wie slechts enkele keren per seizoen beschikbaar is, kan eveneens reageren via de club.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://bunnik73.nl/2026/08/21/scheidsrechters-gezocht-bij-bunnik-73/",
+    "sourceName": "Bunnik ’73",
+    "sourcePublishedAt": "2026-08-21",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-73-zoekt-scheidsrechters-om-wedstrijden-door-te-laten-gaan",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/ec7e09be18801fb92d9ccc50-c914858cf49a.html",
+      "sourceTitle": "Scheidsrechters gezocht bij Bunnik ’73",
+      "paragraphSourceUrls": [
+        "https://bunnik73.nl/2026/08/21/scheidsrechters-gezocht-bij-bunnik-73/",
+        "https://bunnik73.nl/2026/08/21/scheidsrechters-gezocht-bij-bunnik-73/"
+      ]
+    },
+    "importBatch": "goal-archive-206-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:18:01.336362+00:00",
+    "publicationScope": "local_preview",
+    "imageReviewNote": "Alleen passend voetbalbeeld ter illustratie; club- en wedstrijdfoto nog niet van gebruiksrechten voorzien."
+  },
+  {
+    "slug": "sv-aurora-vervangt-gasinstallatie-door-warmtepomp",
+    "title": "SV Aurora vervangt gasinstallatie door warmtepomp",
+    "summary": "De werkzaamheden bij de Werkhovense sportvereniging starten volgens de planning op 17 oktober.",
+    "body": "De voetbal- en tennisafdeling van SV Aurora stappen gezamenlijk over op een warmtepomp. De club in Werkhoven wil daarmee de accommodatie zonder aardgas verwarmen. De vereniging kondigde op 11 oktober aan dat de werkzaamheden op 17 oktober beginnen en naar verwachting in de eerste helft van november klaar zijn.\n\nEen werkgroep bereidt de overstap sinds september 2025 voor. Behalve vertegenwoordigers van de sportvereniging werkt ook energiecoöperatie Bunnik mee. Warmtepomponline levert de installatie; Duurzaam Opgewekt verzorgde het externe advies.\n\nAurora meldt bijdragen van het ANWB-fonds en Rabobank en een DUMAVA-subsidie. Ook gemeente Bunnik en Sporthuis Bunnik ondersteunen het project. Gebruikers van het complex kunnen tijdens de aanpassingen hinder ondervinden.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5711-sv-aurora-gaat-van-het-gas-af-duurzame-stap-richting-de-toekomst",
+    "sourceName": "SV Aurora",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": "2026-10-17",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "warmtepomp"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "sv-aurora-vervangt-gasinstallatie-door-warmtepomp",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/cf67c84865a78ce00db4c410-d81522ff7bae.html",
+      "sourceTitle": "SV Aurora gaat van het gas af: duurzame stap richting de toekomst",
+      "paragraphSourceUrls": [
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5711-sv-aurora-gaat-van-het-gas-af-duurzame-stap-richting-de-toekomst",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5711-sv-aurora-gaat-van-het-gas-af-duurzame-stap-richting-de-toekomst",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5711-sv-aurora-gaat-van-het-gas-af-duurzame-stap-richting-de-toekomst"
+      ]
+    },
+    "importBatch": "goal-archive-213-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:34:49.523539+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "nita-wint-met-30-bij-aurora-in-werkhoven",
+    "title": "NITA wint met 3–0 bij Aurora in Werkhoven",
+    "summary": "Alle doelpunten vielen voor rust; Aurora bleef na twee gelijke spelen zonder overwinning.",
+    "body": "NITA heeft de uitwedstrijd tegen Aurora met 3–0 gewonnen. De ploeg uit Nieuwer Ter Aa nam in Werkhoven voor rust al de volledige voorsprong. Aurora had de eerste twee competitiewedstrijden gelijkgespeeld en wachtte daardoor ook na dit duel op een overwinning.\n\nVolgens het wedstrijdverslag van Aurora opende Jens Boekel in de elfde minuut de score. Stijn Koekoek maakte na 24 minuten de tweede treffer, waarna Boekel in de 37ste minuut opnieuw scoorde.\n\nAurora kreeg na rust mogelijkheden, maar slaagde er niet in te scoren. Ook NITA voegde geen doelpunt meer toe. De thuisclub koos Boekel na afloop tot speler van de wedstrijd.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik",
+      "stichtse-vecht"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5708-10-10-26",
+    "sourceName": "SV Aurora",
+    "sourcePublishedAt": "2026-10-11",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "nita-wint-met-30-bij-aurora-in-werkhoven",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/a008775b40ad2c6685c068aa-6580ccbcba12.html",
+      "sourceTitle": "Verslag AURORA 1 - NITA 1",
+      "paragraphSourceUrls": [
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5708-10-10-26",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5708-10-10-26",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5708-10-10-26"
+      ]
+    },
+    "importBatch": "goal-archive-213-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:34:49.523811+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "leden-aurora-stemmen-in-met-contributieverhoging",
+    "title": "Leden Aurora stemmen in met contributieverhoging",
+    "summary": "Tijdens de ledenvergadering kwamen ook de financiën en werkzaamheden aan de accommodatie aan bod.",
+    "body": "De ledenvergadering van de voetbalafdeling van SV Aurora heeft ingestemd met een lichte verhoging van de contributie. De club maakte dat op 9 oktober bekend in het verslag van de vergadering van de avond ervoor. In dat verslag staat geen bedrag of percentage.\n\nTon van Dam legde na jaren de functie van penningmeester neer. Als opvolger werd Jack van Galen voorgesteld. Voorzitter Tom van Elst lichtte de jaarcijfers en de begroting toe.\n\nDe vereniging besprak ook investeringen in het sportcomplex. Naast de installatie van een warmtepomp staat het opknappen van de kleedkamers op de planning.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5706-eerste-alv-voor-voorzitter-tom-van-elst",
+    "sourceName": "SV Aurora",
+    "sourcePublishedAt": "2026-10-09",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "leden-aurora-stemmen-in-met-contributieverhoging",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/1bafcf5a6b83e192c53bc3d8-ee6b8c918706.html",
+      "sourceTitle": "Eerste ALV voor Voorzitter Tom van Elst",
+      "paragraphSourceUrls": [
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5706-eerste-alv-voor-voorzitter-tom-van-elst",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5706-eerste-alv-voor-voorzitter-tom-van-elst",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5706-eerste-alv-voor-voorzitter-tom-van-elst"
+      ]
+    },
+    "importBatch": "goal-archive-213-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:34:49.523875+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "vier-trainers-zetten-keeperstraining-bij-aurora-voort",
+    "title": "Vier trainers zetten keeperstraining bij Aurora voort",
+    "summary": "De Werkhovense club heeft opvolging gevonden voor de begeleiding van haar keepers.",
+    "body": "SV Aurora heeft vier trainers gevonden om de keeperstraining voort te zetten. Het gaat om Tom Strik, Pieter Dorresteijn, Tjitse Lock en Max Nijboer. De vereniging maakte hun komst op 2 oktober bekend.\n\nEd Steffers, die jarenlang de keeperstraining verzorgde, heeft volgens de club geholpen bij de opstart. Met de nieuwe bezetting blijft er binnen de vereniging afzonderlijke begeleiding voor keepers beschikbaar.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5703-keeperstrainers",
+    "sourceName": "SV Aurora",
+    "sourcePublishedAt": "2026-10-02",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "vier-trainers-zetten-keeperstraining-bij-aurora-voort",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/4079b4952dc3024243440ac3-af17ac34c950.html",
+      "sourceTitle": "Keeperstrainers",
+      "paragraphSourceUrls": [
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5703-keeperstrainers",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5703-keeperstrainers"
+      ]
+    },
+    "importBatch": "goal-archive-213-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:34:49.523935+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "aurora-bereidt-ouders-voor-op-vlaggen-bij-jeugdwedstrijden",
+    "title": "Aurora bereidt ouders voor op vlaggen bij jeugdwedstrijden",
+    "summary": "Ouders van de O13- en MO13-teams kregen uitleg over hun nieuwe rol langs het hele veld.",
+    "body": "SV Aurora heeft voor ouders van de O13- en MO13-teams een grensrechtercursus georganiseerd. Die teams spelen dit seizoen voor het eerst op een heel veld. Daardoor krijgen ouders bij de wedstrijden ook te maken met het vlaggen.\n\nCursusleider Stephan de Gier verzorgde de bijeenkomst met scheidsrechter Jan Ruitenberg. Zij behandelden regels en situaties die langs de lijn kunnen voorkomen. Volgens de club was er veel belangstelling en konden deelnemers vragen stellen. Aurora publiceerde het verslag op 2 september.",
+    "category": "Sport",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5688-geslaagde-grensrechtercursus-voor-ouders-o13-en-mo13",
+    "sourceName": "SV Aurora",
+    "sourcePublishedAt": "2026-09-02",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "aurora-bereidt-ouders-voor-op-vlaggen-bij-jeugdwedstrijden",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/39824be9ec41dd7b7301f0a6-ee29083b7a17.html",
+      "sourceTitle": "Geslaagde grensrechtercursus voor ouders O13 en MO13",
+      "paragraphSourceUrls": [
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5688-geslaagde-grensrechtercursus-voor-ouders-o13-en-mo13",
+        "https://svaurora.nl/cms/index.php/voetbal/nieuwsarchief/5688-geslaagde-grensrechtercursus-voor-ouders-o13-en-mo13"
+      ]
+    },
+    "importBatch": "goal-archive-213-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:34:49.523992+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "onder-14-2-van-fc-driebergen-boekt-derde-zege-op-rij",
+    "title": "Onder 14-2 van FC Driebergen boekt derde zege op rij",
+    "summary": "De jeugdploeg won op 19 september met 4–1 van Bunnik ’73.",
+    "body": "FC Driebergen O14-2 heeft op zaterdag 19 september thuis met 4–1 gewonnen van Bunnik ’73. Het was volgens de club de derde overwinning op rij voor het team.\n\nDe ploeg begon het seizoen in een grotendeels nieuwe samenstelling. De vereniging beschrijft de reeks als een goede start voor spelers die nog aan elkaar moeten wennen. Het verslag van de wedstrijd verscheen op 24 september.",
+    "category": "Sport",
+    "municipalities": [
+      "utrechtse-heuvelrug",
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://fcdriebergen.nl/fc-driebergen-14-2-pakt-derde-overwinning-op-rij/",
+    "sourceName": "FC Driebergen",
+    "sourcePublishedAt": "2026-09-24",
+    "eventDate": "2026-09-19",
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "voetbal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "onder-14-2-van-fc-driebergen-boekt-derde-zege-op-rij",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/7fdcb940331eaf9a498566d3-fdcf6e488dbc.html",
+      "sourceTitle": "FC Driebergen 14-2 pakt derde overwinning op rij! - FC DRIEBERGEN",
+      "paragraphSourceUrls": [
+        "https://fcdriebergen.nl/fc-driebergen-14-2-pakt-derde-overwinning-op-rij/",
+        "https://fcdriebergen.nl/fc-driebergen-14-2-pakt-derde-overwinning-op-rij/"
+      ]
+    },
+    "importBatch": "goal-archive-214-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:36:24.577972+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "bunnik-verwijdert-vijf-zieke-bomen-aan-drie-jofferengaarde",
+    "title": "Bunnik verwijdert vijf zieke bomen aan Drie Jofferengaarde",
+    "summary": "Volgens de gemeente vormen de bomen in Odijk een gevaar voor de omgeving.",
+    "body": "Gemeente Bunnik verwijdert vijf bomen aan de Drie Jofferengaarde in Odijk. Op haar werkzaamhedenpagina schrijft de gemeente dat de bomen ziek en in slechte staat zijn en een gevaar vormen voor de omgeving. De kap staat daar onder de werkzaamheden voor september.\n\nWaar genoeg ruimte beschikbaar is, wil de gemeente een boom terugplanten. Daarbij kan een andere boomsoort worden gekozen. Tijdens het werk kan tijdelijk hinder ontstaan.\n\nBunniks Nieuws berichtte op 24 september over de kap. De gemeentelijke informatie bevestigt de omvang en reden van de werkzaamheden; zij vermeldt geen exacte uitvoeringsdag.",
+    "category": "Samenleving",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.bunniksnieuws.nl/lokaal/natuur-en-milieu/1311844/gemeente-kapt-zieke-bomen-aan-de-drie-jofferengaarde-in-odijk",
+    "sourceName": "Bunniks Nieuws · openbare aankondiging / Gemeente Bunnik",
+    "sourcePublishedAt": "2026-09-24",
+    "eventDate": null,
+    "dateNote": "24 september is de datum van het openbare nieuwsbericht; de dynamische gemeentepagina heeft geen geverifieerde datum van deze specifieke update.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Alleen openbare krantenkop/datum gelezen; kapomvang, reden en herplant uit officiële gemeentepagina. Geen toegang tot premiumartikel geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bomen"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "bunnik-verwijdert-vijf-zieke-bomen-aan-drie-jofferengaarde",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Openbare krantenmetadata gecombineerd met volledige gemeentelijke passage over Drie Jofferengaarde",
+      "evidenceFile": "work/quarter-sources/72cbfd2ec9c7c3a0df3662b9-da6bf67a023c.html",
+      "sourceTitle": "Gemeente kapt zieke bomen aan de Drie Jofferengaarde in Odijk",
+      "paragraphSourceUrls": [
+        "https://www.bunnik.nl/parkeren-en-vervoer/werkzaamheden",
+        "https://www.bunnik.nl/parkeren-en-vervoer/werkzaamheden",
+        "https://www.bunniksnieuws.nl/lokaal/natuur-en-milieu/1311844/gemeente-kapt-zieke-bomen-aan-de-drie-jofferengaarde-in-odijk",
+        "https://www.bunnik.nl/parkeren-en-vervoer/werkzaamheden"
+      ]
+    },
+    "importBatch": "goal-archive-218-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T22:43:19.147832+00:00",
+    "publicationScope": "local_preview",
+    "additionalSources": [
+      {
+        "name": "Gemeente Bunnik · werkzaamheden",
+        "url": "https://www.bunnik.nl/parkeren-en-vervoer/werkzaamheden"
+      }
+    ]
+  },
+  {
+    "slug": "omwonenden-beverweerd-kritisch-over-omvang-hotelplannen",
+    "title": "Omwonenden Beverweerd kritisch over omvang hotelplannen",
+    "summary": "Gemeente Bunnik benadrukt dat de planvorming nog aan het begin staat.",
+    "body": "Omwonenden van Kasteel Beverweerd in Werkhoven maken bezwaar tegen de omvang van de voorgenomen horecaontwikkeling. Zij vrezen gevolgen voor natuur, verkeer en rust, meldt Omroep ZOUT op 7 oktober. Het initiatief omvat volgens de omroep onder meer een hotel met negentig kamers en ruimte voor 120 geparkeerde auto’s.\n\nDe bewoners vinden dat zij onvoldoende invloed hebben op de plannen. De gemeente Bunnik weerspreekt in hetzelfde verslag dat de participatie onvoldoende wordt georganiseerd. Zij wijst op bijeenkomsten, een enquête en een klankbordgroep. Volgens de gemeente staat het proces nog aan het begin en ligt er geen concreet uitgewerkt plan.\n\nDe ontwikkeling past volgens Bunnik niet in het geldende omgevingsplan. De gemeenteraad moet over een wijziging besluiten. Eigenaar Louis De Leon wilde zijn inhoudelijke reactie laten wachten op een gesprek met de vertegenwoordiger van omwonenden. Het gaat dus om een initiatief, niet om een definitief goedgekeurde ontwikkeling.",
+    "category": "Bestuur",
+    "municipalities": [
+      "bunnik"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.omroepzout.nl/plannen-voor-kasteel-beverweerd-zijn-veel-te-groot-volgens-omwonenden/",
+    "sourceName": "Omroep ZOUT",
+    "sourcePublishedAt": "2026-10-07",
+    "eventDate": null,
+    "dateNote": "Verslag van 7 oktober over een voorgenomen ontwikkeling; geen vergunning of definitief vastgesteld bouwplan.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "omwonenden-beverweerd-kritisch-over-omvang-hotelplannen",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/archive-310-evidence.json",
+      "sourceTitle": "Plannen voor Kasteel Beverweerd zijn veel te groot volgens omwonenden",
+      "paragraphSourceUrls": [
+        "https://www.omroepzout.nl/plannen-voor-kasteel-beverweerd-zijn-veel-te-groot-volgens-omwonenden/",
+        "https://www.omroepzout.nl/plannen-voor-kasteel-beverweerd-zijn-veel-te-groot-volgens-omwonenden/",
+        "https://www.omroepzout.nl/plannen-voor-kasteel-beverweerd-zijn-veel-te-groot-volgens-omwonenden/"
+      ]
+    },
+    "importBatch": "goal-archive-310-completion-2026-10-13",
+    "localPublishedAt": "2026-10-14T01:56:46.906849+00:00",
+    "publicationScope": "local_preview",
+    "imagePolicy": "real_only"
+  }
+]

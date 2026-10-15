@@ -1,0 +1,24 @@
+PITO — opmerkingen uit deze chat en huidige status
+Bijgewerkt 10 oktober 2026. 'Aanwezig' betekent lokaal, niet online gepubliceerd.
+
+NU HERSTELD
+Agenda, vandaag, morgen, weekend en community delen het bestaande compacte openingsbeeld met Nieuws. Gemeenteselectie behoudt de gekozen weergave en dag. Het provinciale openingsbeeld blijft de goedgekeurde flyercollage. Lokale openingsbeelden behouden hun uitsnede en beeldverantwoording. Blauwe/oranje accentranden, glasvlakken en subtiele schaduw lopen door in de lokale nieuws-, agenda- en communityonderdelen. De oorspronkelijke PITO-homepage blijft behouden.
+
+HOOGSTE PRIORITEIT — NOG NIET AF
+1. Zes maanden nieuws voor alle gemeenten: 76 zichtbare concepten, alle 26 hebben eigen lokaal nieuws. Dit is geen volledig archief. Verdeling april 7, mei 8, juni 4, juli 12, augustus 7, september 16, oktober 22. Aanvulling en eindredactie nodig; brondata niet als PITO-publicatiedata gebruiken. Oudere lokale verhalen staan nu ook op de recente gemeentepagina, met een maandbalk, onderwerpsoverzichten en gerelateerde artikelen. Alle 76 artikelen zijn doorbladerbaar in een archiefraster. Aanvullende inhoudelijke dekking blijft nodig.
+2. Bestaande PITO-activiteiten en agenda echt aansluiten op Strapi. Adapter, plaatsfilter en webdetails bestaan; PITO_APP_CONTENT_URL ontbreekt. Geen echte live agenda, vacatures- of aanbiedingenkoppeling. Gemeentelijke bijeenkomsten zijn een apart, beperkt gecontroleerd aanbod en vervangen de appagenda niet.
+3. Gemeentebeelden: alle 26 gemeenten hebben nu een eigen locatiebeeld; 20 vervangende Commons-foto’s toegevoegd en 11 browser-screenshots uit de openingsbeelden gehaald. Vier bestaande bewerkte PITO-beelden en twee bestaande luchtfoto’s behouden. Niet alle beelden zijn luchtfoto’s: originele PITO-dronebestanden blijven een kwaliteitsverbetering voor een volgende ronde.
+4. Weetje van de week: werkende afzonderlijke rubriek, momenteel twee verhalen (Utrecht en Woerden). Gemeentelijke weetjesbibliotheek en redactionele planning voor overige plaatsen ontbreken.
+5. Bronneninname: politie- en Woerden-feed getest. Veel andere berichten handmatig gecontroleerd. Volledige werkende dekking van gemeenten, provincie, raadsinformatie, bekendmakingen, RWS/NDW, veiligheidsregio, NS/ProRail en OmgevingsAlert ontbreekt. Links naar informatiediensten zijn geen gekoppelde live feeds. Rechten/toegang per bron controleren. Regionale media alleen als signaleringsbron.
+
+AANWEZIG MAAR NOG UIT TE BOUWEN
+6. Impact/selectie: uitlegbare prioriteitsregels, motivering en onderzoekspagina aanwezig. Dit is geen gemeten voorkeurenmodel. Het verzoek 'alle Nederlandse universiteiten/PGO's' is niet als volledig dekkend onderzoek afgerond; zoekdekking en beperkingen staan op /nieuws/onderzoek. Later toetsen met eigen lezers en gedrag, zonder alleen op clicks te sturen.
+7. Community: aanmeld- en inzendformulier plus lokale moderatie. Meerdere auteurs per gemeente mogelijk in het model. Productieaccounts, rollen, auteursprofielen, publicatieproces en meldingen nog nodig.
+8. Beeldbibliotheek: stock-/contextbeelden en gelicentieerde foto's aanwezig; toewijzing voorkomt dubbele assets binnen de nieuwslijst. Niet voor elk onderwerp is voldoende variatie; meer relevante originele beelden nodig. Bij een tekort geen ongerelateerde foto plaatsen. Licenties en decoratieve AI-bewerking blijven terugvindbaar; geen opvallend AI-label in het openingsbeeld.
+9. SEO: vaste nieuws-/agenda-/vandaag-/weekendroutes, metadata, webdetailtemplate en sitemaps aanwezig. Strapi-aansluiting, productiehost, indexeerbare publicatielaag, Search Console en metingen ontbreken. Zie SEO-UITVOERING.txt.
+10. Bron- en gebeurtenisdatum: onderscheid is opgeslagen, maar sommige archiveDate/lastModified-bronnen worden in de artikelkop nog generiek 'Bronpublicatie' genoemd. Dat datumlabel moet worden verfijnd.
+
+BEHOUDEN UITGANGSPUNTEN
+Alleen relevant lokaal/provinciaal nieuws; grote gevolgen boven kleine meldingen. Geen buitenlandrubriek. Nieuws blijft één onderdeel van pito.app. Gratis toegankelijk; eigen promotieruimte en later lokale partners. Eigen samenvattingen met bronverwijzing en menselijke eindredactie. De compacte provinciale opening, gemeentefoto's, bestaande PITO-navigatie en appagenda vormen één geheel; geen losse witte SEO-website.
+
+Geen automatisch achtergrondwerk of externe publicatie gestart. Deze lijst is de werkvoorraad voor verdere uitvoering.

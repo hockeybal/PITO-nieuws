@@ -1,0 +1,49 @@
+[
+  {
+    "name": "VV Cabauw",
+    "url": "https://www.vvcabauw.nl/",
+    "aliases": [
+      "Cabauw"
+    ],
+    "municipality": "lopik",
+    "sport": "voetbal",
+    "discoverySource": "https://www.vvcabauw.nl/",
+    "checkedAt": "2026-10-14T03:39:11.785229+00:00",
+    "feedChecks": [
+      {
+        "url": "https://www.vvcabauw.nl/home/feed/",
+        "status": "XML-feed bereikbaar",
+        "items": 1
+      }
+    ],
+    "homepageStatus": "Opgehaald",
+    "next": "Feedadapter toevoegen en geografie controleren",
+    "status": "website_verified",
+    "publicationEnabled": false,
+    "rights": "Feitenbron; clubfoto’s niet automatisch vrijgegeven.",
+    "scope": "Eigen clubnieuws, programma, uitslagen en afgelastingen.",
+    "feedStatus": "feed_verified_not_connected",
+    "feed": "https://www.vvcabauw.nl/home/feed/"
+  },
+  {
+    "name": "SPV ’81",
+    "url": "https://www.spv81.nl/",
+    "aliases": [
+      "SPV 81",
+      "SPV’81",
+      "SPV'81"
+    ],
+    "municipality": "lopik",
+    "sport": "voetbal",
+    "discoverySource": "https://www.spv81.nl/",
+    "checkedAt": "2026-10-14T03:39:12.231415+00:00",
+    "feedChecks": [],
+    "homepageStatus": "curl: (56) The requested URL returned error: 403\n",
+    "next": "Website-index / sitemap onderzoeken; toegang, voorwaarden en archiefpaginering nog toetsen",
+    "status": "fetch_error",
+    "publicationEnabled": false,
+    "rights": "Feitenbron; clubfoto’s niet automatisch vrijgegeven.",
+    "scope": "Eigen clubnieuws, programma, uitslagen en afgelastingen.",
+    "feedStatus": "no_verified_feed"
+  }
+]

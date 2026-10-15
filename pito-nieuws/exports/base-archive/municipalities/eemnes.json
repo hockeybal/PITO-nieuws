@@ -1,0 +1,709 @@
+[
+  {
+    "slug": "eemnes-laat-subsidieaanvragen-via-nieuw-digitaal-portaal-lopen",
+    "title": "Eemnes laat subsidieaanvragen via nieuw digitaal portaal lopen",
+    "summary": "Eemnes gebruikt een nieuw digitaal systeem voor subsidieaanvragen. Inwoners, verenigingen en organisaties kunnen via het SubsidieVolgSysteem hun dossier indienen en volgen.",
+    "body": "In hetzelfde portaal worden documenten, berichten en besluiten beschikbaar gemaakt. Aanvragers krijgen een melding wanneer aanvullende informatie nodig is. De bestaande subsidieregelingen en voorwaarden blijven via de gemeentelijke subsidiepagina te vinden.",
+    "category": "Bestuur",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/nieuw-digitaal-subsidieaanvraagsysteem",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-10-08",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "eemnes-laat-subsidieaanvragen-via-nieuw-digitaal-portaal-lopen",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/692800e832312f5393982ec5.html",
+      "sourceTitle": "Nieuw digitaal subsidieaanvraagsysteem",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/nieuw-digitaal-subsidieaanvraagsysteem",
+        "https://www.eemnes.nl/nieuw-digitaal-subsidieaanvraagsysteem"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "ondernemersavond-eemnes-staat-in-teken-van-vol-stroomnet",
+    "title": "Ondernemersavond Eemnes staat in teken van vol stroomnet",
+    "summary": "Business Club Eemnes en de gemeente organiseren op 27 oktober een ondernemersavond over netcongestie. De bijeenkomst gaat over gevolgen voor bedrijven en mogelijkheden om slimmer met energie om te gaan.",
+    "body": "Sprekers delen kennis en ervaringen; daarnaast is er gelegenheid om andere ondernemers te ontmoeten. De gemeente heeft ook een digitale ondernemersnieuwsbrief gestart om lokale ontwikkelingen en bijeenkomsten te delen.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/ondernemersavond-eemnes-op-27-oktober",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-10-07",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "ondernemersavond-eemnes-staat-in-teken-van-vol-stroomnet",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/0dc95481f958fa3b961b0909.html",
+      "sourceTitle": "Ondernemersavond Eemnes op 27 oktober",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/ondernemersavond-eemnes-op-27-oktober",
+        "https://www.eemnes.nl/ondernemersavond-eemnes-op-27-oktober"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "eemnes-sluit-aan-bij-aanpak-schadelijke-stoffen-in-afvalwater",
+    "title": "Eemnes sluit aan bij aanpak schadelijke stoffen in afvalwater",
+    "summary": "Eemnes heeft een intentieovereenkomst ondertekend voor betere waterkwaliteit. De gemeente werkt mee aan het programma Grip op Indirecte Lozingen, met onder meer provincie, omgevingsdienst en waterschappen.",
+    "body": "Het programma richt zich op stoffen die via het riool in het oppervlaktewater kunnen belanden. De omvang van mogelijke lozingen in Eemnes wordt nog onderzocht. De overeenkomst is een samenwerkingsstap, geen constatering van een acute lokale waterverontreiniging.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/gemeente-werkt-mee-aan-schoner-water-in-provincie-utrecht",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-10-01",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "eemnes-sluit-aan-bij-aanpak-schadelijke-stoffen-in-afvalwater",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/0eab5594db1ebe8fa97e3fb3.html",
+      "sourceTitle": "Gemeente werkt mee aan schoner water in provincie Utrecht",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/gemeente-werkt-mee-aan-schoner-water-in-provincie-utrecht",
+        "https://www.eemnes.nl/gemeente-werkt-mee-aan-schoner-water-in-provincie-utrecht"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "nieuwe-schuldhulp-voor-jongvolwassenen-in-eemnes",
+    "title": "Nieuwe schuldhulp voor jongvolwassenen in Eemnes",
+    "summary": "Jongeren van 18 tot 27 jaar in Eemnes kunnen gebruikmaken van de pilot Jongeren en Schulden. De ondersteuning wordt samen met Huizen, Blaricum en Laren aangeboden.",
+    "body": "De proef is bedoeld voor jongvolwassenen met problematische schulden of ernstige geldzorgen. Er wordt gekeken welke persoonlijke begeleiding past. Aanmelden kan rechtstreeks of met hulp van bijvoorbeeld een jongerenwerker; contactgegevens staan bij de officiële bron.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/pilot-jongeren-en-schulden-van-start-ondersteuning-voor-jongeren-met-geldzorgen-in-hbel",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-10-01",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "nieuwe-schuldhulp-voor-jongvolwassenen-in-eemnes",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/e3bba6b71647131cd409bf11.html",
+      "sourceTitle": "Pilot Jongeren en Schulden van start: ondersteuning voor jongeren met geldzorgen in HBEL",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/pilot-jongeren-en-schulden-van-start-ondersteuning-voor-jongeren-met-geldzorgen-in-hbel",
+        "https://www.eemnes.nl/pilot-jongeren-en-schulden-van-start-ondersteuning-voor-jongeren-met-geldzorgen-in-hbel"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "eemnes-publiceert-conceptvolgorde-voor-stroomaanvragen",
+    "title": "Eemnes publiceert conceptvolgorde voor stroomaanvragen",
+    "summary": "Eemnes heeft in september een conceptlijst gepubliceerd voor woningbouw- en schoolprojecten die eerder stroomcapaciteit willen aanvragen. De gemeente begeleidt de aanmelding bij de netbeheerder.",
+    "body": "Ontwikkelaars hadden hun projecten daarvoor kunnen aanmelden. De conceptlijst vormt een stap in de prioritering; een positie betekent geen gegarandeerde aansluiting. De definitieve uitwerking en eventuele vervolgbesluiten moeten bij de gemeente worden gecontroleerd.",
+    "category": "Wonen",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/concept-volgordelijst-netcapaciteit-bekend",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-09-22",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "wonen"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "eemnes-publiceert-conceptvolgorde-voor-stroomaanvragen",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/d669a3bc26ce963e92430fdb.html",
+      "sourceTitle": "Concept volgordelijst netcapaciteit bekend",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/concept-volgordelijst-netcapaciteit-bekend",
+        "https://www.eemnes.nl/concept-volgordelijst-netcapaciteit-bekend"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "eemnes-vraagt-inwoners-oordeel-over-dorp-en-dienstverlening",
+    "title": "Eemnes vraagt inwoners oordeel over dorp en dienstverlening",
+    "summary": "Inwoners van Eemnes kunnen tot en met 18 oktober meedoen aan de Dorpspeiling 2026. De vragen gaan over voorzieningen, woonomgeving en gemeentelijke dienstverlening.",
+    "body": "Voor jongeren van zestien tot en met 25 jaar is er een afzonderlijke, kortere vragenlijst. De gemeente wil met de antwoorden beter begrijpen wat goed gaat en waar verbetering nodig is. De uitkomsten waren bij de aankondiging nog niet beschikbaar.",
+    "category": "Bestuur",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/dorpspeiling-wat-gaat-goed-wat-kan-beter-laat-van-u-horen",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-09-21",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "bestuur"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "eemnes-vraagt-inwoners-oordeel-over-dorp-en-dienstverlening",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/547b30311ea0222de46fb73b.html",
+      "sourceTitle": "Dorpspeiling: wat gaat goed? Wat kan beter? Laat van u horen!",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/dorpspeiling-wat-gaat-goed-wat-kan-beter-laat-van-u-horen",
+        "https://www.eemnes.nl/dorpspeiling-wat-gaat-goed-wat-kan-beter-laat-van-u-horen"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "rioolonderzoek-in-noordbuurt-eemnes-aangekondigd",
+    "title": "Rioolonderzoek in Noordbuurt Eemnes aangekondigd",
+    "summary": "De gemeente Eemnes laat het riool in de Noordbuurt reinigen en inspecteren. Bewoners ontvangen per werkvak vooraf informatie van aannemer C.T. Boshuis.",
+    "body": "Het werk duurt volgens de aankondiging per straat enkele dagdelen. Werkvoertuigen kunnen kort hinder veroorzaken. De gemeente vraagt rioolputten vrij te houden; de precieze planning wordt met bewonersbrieven bekendgemaakt.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/rioolreiniging-en-inspectie-in-de-noordbuurt",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-09-09",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "rioolonderzoek-in-noordbuurt-eemnes-aangekondigd",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/d2cf38c072c4829bd354806a.html",
+      "sourceTitle": "Rioolreiniging en -inspectie in de Noordbuurt",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/rioolreiniging-en-inspectie-in-de-noordbuurt",
+        "https://www.eemnes.nl/rioolreiniging-en-inspectie-in-de-noordbuurt"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Michel van Noort"
+  },
+  {
+    "slug": "leefstijlpunt-kondigde-bijeenkomsten-voor-senioren-in-bel-gemeenten-aan",
+    "title": "Leefstijlpunt kondigde bijeenkomsten voor senioren in BEL-gemeenten aan",
+    "summary": "Het Leefstijlpunt BEL kondigde tijdens de Week van de Valpreventie twee gratis bijeenkomsten voor senioren aan. Ook inwoners van Eemnes konden deelnemen.",
+    "body": "Een buurtsportcoach en diëtist zouden informatie geven over bewegen en voeding. Daarnaast konden deelnemers hun persoonlijke valrisico laten bekijken. Het bericht betreft het aangekondigde programma en bevat geen individueel medisch advies.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/valpreventie",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-09-01",
+    "eventDate": null,
+    "dateNote": "Brondatum uit source_page. Dit bericht beschrijft de situatie bij die publicatie; aankondiging is geen bevestiging van uitvoering.",
+    "verifiedAt": "2026-10-11",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Broninhoud geraadpleegd en eigen korte tekst opgesteld; menselijke eindredactie vóór externe publicatie.",
+    "rights": "Eigen feitelijke samenvatting met bronlink; geen bronfoto’s of citaten overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 2,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Voorlopige lokale relevantie; geen automatisch urgentiealarm.",
+      "cluster": "leefstijlpunt-kondigde-bijeenkomsten-voor-senioren-in-bel-gemeenten-aan",
+      "activeUntil": null,
+      "audienceNeed": "explanation",
+      "audienceReason": "Gecontroleerde gemeentelijke bron met lokale betekenis."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-11",
+      "method": "Broninhoud gelezen, eigen samenvatting",
+      "evidenceFile": "work/quarter-sources/1203d3e81d13b9495dbb11d8.html",
+      "sourceTitle": "Gratis bijeenkomsten over valpreventie",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/valpreventie",
+        "https://www.eemnes.nl/valpreventie"
+      ]
+    },
+    "importBatch": "quarter-2026-10-11",
+    "provinceWide": false,
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "eemnes-bracht-woningbouwplannen-voor-stedin-wachtlijst-in-kaart",
+    "title": "Eemnes bracht woningbouwplannen voor Stedin-wachtlijst in kaart",
+    "summary": "De gemeente vroeg initiatiefnemers in augustus om concrete plannen voor de komende tien jaar te melden.",
+    "body": "Eemnes is een inventarisatie gestart van toekomstige woningbouwprojecten in verband met de beperkte ruimte op het elektriciteitsnet. Voor de eerste ronde konden concrete plannen uiterlijk 9 september bij de gemeente worden aangemeld.\n\nVolgens de oproep van 13 augustus kijkt de gemeente onder meer naar voorbereiding, planning en verwachte oplevering. Een aanmelding garandeert geen directe stroomaansluiting. Stedin beslist over de beschikbare netcapaciteit.",
+    "category": "Wonen",
+    "municipalities": [
+      "eemnes"
+    ],
+    "sourceUrl": "https://www.eemnes.nl/meld-uw-woningbouwproject-aan",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-08-13",
+    "verifiedAt": "2026-10-12",
+    "eventDate": null,
+    "dateNote": "Archiefbericht op basis van de bronpublicatie van 2026-08-13. Aankondigingen zijn geen bevestiging van uitvoering of besluitvorming.",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Opgeslagen primaire bron gelezen; eigen korte tekst. Eindredactie vóór productie.",
+    "rights": "Eigen feitelijke samenvatting; geen citaten of bronbeelden overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "woningbouw"
+    ],
+    "editorialScope": "municipal",
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 0,
+      "cluster": "eemnes-bracht-woningbouwplannen-voor-stedin-wachtlijst-in-kaart",
+      "reason": "Gedateerd lokaal archiefbericht."
+    },
+    "evidence": {
+      "checkedAt": "2026-10-12",
+      "method": "Opgeslagen primaire broninhoud gelezen",
+      "evidenceFile": "work/quarter-sources/a90b85ce8d3120dad2e49ad3.html",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/meld-uw-woningbouwproject-aan"
+      ]
+    },
+    "importBatch": "additional-primary-2026-10-12",
+    "editorialContact": "Sander Groenendijk"
+  },
+  {
+    "slug": "eemnes-kondigde-gratis-monumentenbezoek-aan-voor-september",
+    "title": "Eemnes kondigde gratis monumentenbezoek aan voor september",
+    "summary": "De gemeente Eemnes wees inwoners eind augustus op Open Monumentendag, op 12 en 13 september.",
+    "body": "Tijdens het aangekondigde weekend zouden historische gebouwen gratis toegankelijk zijn, waaronder locaties die normaal niet voor bezoek openstaan. De gemeentelijke aankondiging verwees voor de deelnemende plekken en het programma naar Open Monumentendag.\n\nDit archiefbericht gaat over de aankondiging voor september. Het bevat geen bevestiging van de huidige openingstijden van de monumenten.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.eemnes.nl/bezoek-monumenten-in-blaricum-eemnes-en-laren",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-08-27",
+    "eventDate": null,
+    "dateNote": "Historisch bericht op oorspronkelijke brondatum; aangekondigde activiteiten zijn geen actuele agenda-items.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Eigen archiefsamenvatting op basis van geraadpleegde brontekst; niet extern gepubliceerd.",
+    "rights": "Eigen feitelijke samenvatting; geen tekst of foto uit de bron overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 1,
+      "actionability": 0,
+      "reason": "Lokaal archiefbericht; geen actuele waarschuwing.",
+      "cluster": "eemnes-kondigde-gratis-monumentenbezoek-aan-voor-september",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Brontekst gelezen en eigen archiefsamenvatting geschreven",
+      "evidenceFile": "work/quarter-sources/b02be149296b3703cbed4e78.html",
+      "sourceTitle": "Bezoek monumenten in Blaricum, Eemnes en Laren",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/bezoek-monumenten-in-blaricum-eemnes-en-laren",
+        "https://www.eemnes.nl/bezoek-monumenten-in-blaricum-eemnes-en-laren"
+      ]
+    },
+    "importBatch": "base-archive-2026-10-13"
+  },
+  {
+    "slug": "eemnes-zette-ontmoeting-centraal-tijdens-week-tegen-eenzaamheid",
+    "title": "Eemnes zette ontmoeting centraal tijdens Week tegen Eenzaamheid",
+    "summary": "Eemnes vroeg in september aandacht voor inwoners die meer contact met anderen zoeken. De gemeente wees op ontmoetingsactiviteiten tijdens de Week tegen Eenzaamheid, van 24 tot en met 30 september.",
+    "body": "De oproep richtte zich ook op buren, familieleden en vrienden. Een gesprek beginnen of samen naar een activiteit gaan, werd genoemd als manier om contact te leggen. Bij gemeentehuizen en dorpscentra waren daarvoor speciale ansichtkaarten beschikbaar.\n\nHet aangekondigde programma omvatte activiteiten in de BEL-gemeenten en omgeving. Zo organiseerde Vrijwilligerscentrale BEL op 29 september een ontmoeting voor mensen die zich voor anderen inzetten. De gemeente verwees daarnaast naar lokale activiteitenprogramma’s.\n\nDe genoemde actieweek is inmiddels voorbij. Dit bericht beschrijft de gemeentelijke oproep uit september en is geen actuele uitnodiging voor de afzonderlijke bijeenkomsten.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.eemnes.nl/week-tegen-eenzaamheid-24-tot-en-met-30-september",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-09-10",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum. De tekst maakt onderscheid tussen aankondigingen en bevestigde gebeurtenissen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Brontekst inhoudelijk gelezen; eigen tekst lokaal zichtbaar. Geen menselijke goedkeuring geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Lokale relevantie op basis van de geraadpleegde bron.",
+      "cluster": "eemnes-zette-ontmoeting-centraal-tijdens-week-tegen-eenzaamheid",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Volledige beschikbare brontekst gelezen; eigen tekst geschreven",
+      "evidenceFile": "work/quarter-sources/1b17bccea7f74db245f1185d-a20e656c0eeb.html",
+      "sourceTitle": "Week tegen Eenzaamheid: 24 tot en met 30 september",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/week-tegen-eenzaamheid-24-tot-en-met-30-september",
+        "https://www.eemnes.nl/week-tegen-eenzaamheid-24-tot-en-met-30-september",
+        "https://www.eemnes.nl/week-tegen-eenzaamheid-24-tot-en-met-30-september"
+      ]
+    },
+    "importBatch": "full-articles-2026-10-13",
+    "localPublishedAt": "2026-10-13T11:44:00.430587+00:00",
+    "publicationScope": "local_preview",
+    "imageKey": "koffie-kop-2023"
+  },
+  {
+    "slug": "eemnes-vraagt-inwoners-samen-over-noodsituaties-te-praten",
+    "title": "Eemnes vraagt inwoners samen over noodsituaties te praten",
+    "summary": "De gemeente sluit aan bij de landelijke campagne Denk Vooruit.",
+    "body": "Eemnes roept inwoners op zich voor te bereiden op langdurige uitval van stroom en andere voorzieningen. In een bericht van 12 oktober verwijst de gemeente naar de campagne Denk Vooruit.\n\nDe oproep richt zich op voorbereiding thuis én op contact met mensen in de omgeving. Bij een grote storing kunnen hulpdiensten volgens de gemeente niet overal tegelijk aanwezig zijn. Daarom is het belangrijk dat bewoners elkaar weten te vinden.\n\nEemnes noemt een noodpakket en het bespreken van mogelijke problemen als onderdelen van die voorbereiding. Het bericht is een algemene campagneoproep en geen melding van een concrete dreiging of storing in de gemeente.",
+    "category": "Veiligheid",
+    "municipalities": [
+      "eemnes"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.eemnes.nl/samen-voorbereid-denk-vooruit",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-10-12",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "veiligheid"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "eemnes-vraagt-inwoners-samen-over-noodsituaties-te-praten",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/94dec891bbd9c1184ffb9b20-2a8f5fcf0322.html",
+      "sourceTitle": "Samen voorbereid: Denk Vooruit",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/samen-voorbereid-denk-vooruit",
+        "https://www.eemnes.nl/samen-voorbereid-denk-vooruit",
+        "https://www.eemnes.nl/samen-voorbereid-denk-vooruit"
+      ]
+    },
+    "importBatch": "municipal-final-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T12:34:17.032219+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "eemnes-deelt-lintjes-uit-tijdens-suicidepreventieweek",
+    "title": "Eemnes deelt lintjes uit tijdens suïcidepreventieweek",
+    "summary": "De lintjes waren verkrijgbaar bij het gemeentehuis en het Huis van Eemnes.",
+    "body": "Eemnes besteedde van 7 tot en met 13 september aandacht aan de Wereld Suïcide Preventie Week. Inwoners konden bij het gemeentehuis en het Huis van Eemnes een geel-oranje lintje ophalen.\n\nMet het lintje wilde de gemeente het gesprek over psychische problemen ondersteunen. Ook wethouder Mirjam Havinga droeg het symbool. In de gemeentelijke aankondiging benadrukte zij dat problemen niet altijd zichtbaar zijn en dat aandacht voor elkaar belangrijk is.\n\nDe actie was onderdeel van de preventieweek in september. Het archiefbericht beschrijft deze lokale campagne en doet geen uitspraak over de huidige beschikbaarheid van de lintjes.",
+    "category": "Samenleving",
+    "municipalities": [
+      "eemnes"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.eemnes.nl/wereld-suicide-preventie-week-draag-het-lintje-start-het-gesprek",
+    "sourceName": "Gemeente Eemnes",
+    "sourcePublishedAt": "2026-09-08",
+    "eventDate": null,
+    "dateNote": "Oorspronkelijke brondatum; aankondigingen worden onderscheiden van verslagen.",
+    "verifiedAt": "2026-10-13",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Beschikbare brontekst gelezen en eigen tekst opgesteld. Geen menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": true,
+    "priority": 2,
+    "imageTopics": [
+      "samenleving",
+      "preventie"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "eemnes-deelt-lintjes-uit-tijdens-suicidepreventieweek",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-13",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/quarter-sources/12a6eaebff49d8656be9487e-dbd1c8b6cd47.html",
+      "sourceTitle": "Wereld Suïcide Preventie Week: draag het lintje, start het gesprek",
+      "paragraphSourceUrls": [
+        "https://www.eemnes.nl/wereld-suicide-preventie-week-draag-het-lintje-start-het-gesprek",
+        "https://www.eemnes.nl/wereld-suicide-preventie-week-draag-het-lintje-start-het-gesprek",
+        "https://www.eemnes.nl/wereld-suicide-preventie-week-draag-het-lintje-start-het-gesprek"
+      ]
+    },
+    "importBatch": "goal-archive-97-completion-2026-10-13",
+    "localPublishedAt": "2026-10-13T17:08:36.824124+00:00",
+    "publicationScope": "local_preview"
+  },
+  {
+    "slug": "voleem-wint-in-vier-sets-bij-touche-86-in-baarn",
+    "title": "Voleem wint in vier sets bij Touché ’86 in Baarn",
+    "summary": "De Baarnse volleyballers verloren op 7 oktober met 0–4; de laatste set eindigde in 23–25.",
+    "body": "Het eerste herenteam van Touché ’86 verloor op woensdag 7 oktober thuis met 0–4 van Voleem. De ploeg uit Eemnes won in sporthal De Trits in Baarn alle vier de sets.\n\nDe uitslagen op de eigen teamwebsite van Touché bevestigen het resultaat: 13–25, 17–25, 21–25 en 23–25. Het verschil werd daarmee per set kleiner, maar de thuisploeg wist geen set te winnen. In de vierde set bleef het verschil beperkt tot twee punten.\n\nDe Baarnsche Courant berichtte op 9 oktober over het duel. De afzonderlijke setstanden zijn gecontroleerd aan de hand van het uitslagenoverzicht van de vereniging.",
+    "category": "Sport",
+    "municipalities": [
+      "baarn",
+      "eemnes"
+    ],
+    "provinceWide": false,
+    "editorialScope": "municipal",
+    "sourceUrl": "https://www.baarnschecourant.nl/sport/volleybal/1317987/valse-start-in-promotieklasse-heren-1-touche-met-0-4-ten-onder",
+    "sourceName": "Baarnsche Courant",
+    "sourcePublishedAt": "2026-10-09",
+    "eventDate": "2026-10-07",
+    "dateNote": "Wedstrijd 7 oktober 2026; berichtgeving krant 9 oktober. Uitslagen op clubpagina gecontroleerd op 14 oktober; geen publicatiedatum aan die dynamische pagina toegekend.",
+    "verifiedAt": "2026-10-14",
+    "reviewStatus": "preview",
+    "reviewer": "",
+    "reviewNote": "Openbare intro en bijschrift krant plus volledige primaire uitslagentabel gelezen. Geen volledige premiumtekst of menselijke eindredactie geclaimd.",
+    "rights": "Eigen feitelijke tekst met bronvermelding; bronbeelden niet overgenomen.",
+    "sensitive": false,
+    "priority": 2,
+    "imageTopics": [
+      "volleybal"
+    ],
+    "ranking": {
+      "impact": 2,
+      "reach": 1,
+      "urgency": 0,
+      "duration": 2,
+      "actionability": 1,
+      "reason": "Gemeentelijke relevantie; archiefaankondigingen zijn geen actuele meldingen.",
+      "cluster": "voleem-wint-in-vier-sets-bij-touche-86-in-baarn",
+      "activeUntil": null
+    },
+    "evidence": {
+      "checkedAt": "2026-10-14",
+      "method": "Beschikbare brontekst gelezen; zelfstandige feitelijke tekst geschreven",
+      "evidenceFile": "work/archive-299-evidence.json",
+      "sourceTitle": "Valse start in promotieklasse; Heren 1 Touché met 0-4 ten onder",
+      "paragraphSourceUrls": [
+        "https://www.baarnschecourant.nl/sport/volleybal/1317987/valse-start-in-promotieklasse-heren-1-touche-met-0-4-ten-onder",
+        "https://www.touche86.nl/teams/heren-1/",
+        "https://www.touche86.nl/teams/heren-1/"
+      ]
+    },
+    "importBatch": "goal-archive-299-completion-2026-10-13",
+    "localPublishedAt": "2026-10-14T01:35:16.082830+00:00",
+    "publicationScope": "local_preview",
+    "imagePolicy": "real_only",
+    "additionalSources": [
+      {
+        "name": "Touché ’86 — uitslagen heren 1",
+        "url": "https://www.touche86.nl/teams/heren-1/"
+      }
+    ]
+  }
+]

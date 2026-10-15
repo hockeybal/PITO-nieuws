@@ -1,0 +1,79 @@
+{
+  "checkedAt": "2026-10-14",
+  "method": "Live browser DOM inspection at three viewport widths; Woerden desktop screenshot inspected",
+  "checks": [
+    {
+      "width": 390,
+      "path": "/nieuws/utrecht/woerden",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/agenda/utrecht/woerden/vandaag",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/nieuws/utrecht/woerden/wonen",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 390,
+      "path": "/nieuws/praktisch",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 768,
+      "path": "/nieuws/utrecht/woerden",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 768,
+      "path": "/agenda/utrecht/woerden/vandaag",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 768,
+      "path": "/nieuws/utrecht/woerden/wonen",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 768,
+      "path": "/nieuws/praktisch",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/nieuws/utrecht/woerden",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/agenda/utrecht/woerden/vandaag",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/nieuws/utrecht/woerden/wonen",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    },
+    {
+      "width": 1440,
+      "path": "/nieuws/praktisch",
+      "horizontalOverflow": false,
+      "brokenLoadedImages": 0
+    }
+  ],
+  "limitation": "Not every article or lazy-loaded image was visually inspected."
+}

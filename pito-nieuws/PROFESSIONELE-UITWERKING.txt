@@ -1,0 +1,65 @@
+PITO NIEUWS — PROFESSIONELE UITWERKING, 10 OKTOBER 2026
+
+WERKENDE LOKALE VERSIE
+http://127.0.0.1:4198/nieuws/utrecht
+http://127.0.0.1:4198/nieuws/dossiers
+http://127.0.0.1:4198/nieuws/redactie/overzicht
+http://127.0.0.1:4198/nieuws/redactie/signalen
+http://127.0.0.1:4198/nieuws/seo-controle
+
+ONTWERP EN NAVIGATIE
+De bestaande PITO-site blijft de basis. De nieuwsopening is compacter, zodat de belangrijkste kop eerder zichtbaar is. Kaarten hebben subtiele diepte en blauwe/oranje randen. Marges, kopgroottes, tekstbreedte, filters, zoekveld en advertentieformaten zijn gelijkgetrokken. De gemeentefoto blijft boven nieuws en agenda staan. Gemeente, onderwerp, agenda en vandaag zijn rechtstreeks bereikbaar vanuit een artikel. Kopieerlink, leestijd, bronverantwoording en gerelateerde artikelen zijn toegevoegd of aangescherpt.
+
+De recente editie toont maximaal twaalf berichten per pagina met echte paginering. Het bestaande archief blijft bereikbaar via maandkeuze en oudere berichten. Vier dossiers verzamelen bestaande artikelen over wonen, verkeer, stroomnet en gemeentelijke besluiten. Er zijn geen nieuwe feiten bedacht om pagina’s te vullen.
+
+SEO
+Vaste routes voor vijf onderwerpen per gemeente en provincie. Voorbeeld: /nieuws/utrecht/woerden/onderwerp/politiek-bestuur. Canonicals behouden paginering en negeren een alternatieve beeldkeuze. Titels, omschrijvingen, sociale deelkaarten en uitgeversgegevens zijn aanwezig. Artikel-, collectie-, kruimelpad- en activiteitengegevens worden als JSON-LD weergegeven. Event-markering verschijnt alleen bij complete activiteitgegevens.
+
+Bronpublicatiedatum is nooit automatisch de eigen publicatiedatum. Sitemaps bevatten geen conceptartikelen. De Google News-sitemap is beperkt tot eigen openbare publicaties van de laatste twee dagen. De lokale omgeving blijft noindex; publicatie op pito.app en Google-indexering zijn niet uitgevoerd.
+
+BRONNENONDERZOEK EN WERKENDE INNAME
+Alle 26 gemeentelijke websites zijn onderzocht, inclusief een volgende stap naar raadsinformatie. Resultaten staan in data/municipal-source-discovery.json.
+
+Zes RSS-feeds werken: Politie Utrecht, Woerden, Amersfoort, Vijfheerenlanden, Provincie Utrecht en NS Nieuws. Deze ronde voegde 94 signalen toe; totaal 109 RSS-signalen. Alleen kop, link en bronmetadata, geen overgenomen artikeltekst.
+
+OpenBesluitvorming: 449 vergaderingen opgehaald als beperkte steekproef, maximaal 24 per aangesloten gemeente. De dienst meldde recente inname voor 22 gemeenten. De Bilt, Lopik, Utrechtse Heuvelrug en Woerden vereisen een rechtstreekse raadsbron. Een gezonde importstatus bewijst geen volledige historische dekking. Vergaderdata zijn geen publicatiedata.
+
+NDW: werkende begrensde DATEX II v3-parser. De proef selecteerde 171 geografische kandidaten. De gebiedsselectie is bewust ruimer dan Utrecht; wegvak, richting en lokale relevantie zijn nog handmatig te bevestigen. Testdata, verlopen records en verouderde snapshots worden geweigerd. Er verschijnen geen ongecontroleerde openbare verkeerswaarschuwingen.
+
+KOOP: werkende SRU 2.0-inname voor alle 26 gemeenten. De steekproef van 3–10 oktober leverde 33 kandidaten op, gericht op plannen, verkeersbesluiten, verordeningen, begrotingen en woningbouw. Herkenbare kleine individuele meldingen worden uitgesloten. Besluitstatus en impact blijven redactionele controlepunten.
+
+AANVULLENDE BRONNENLAAG
+NS-reisinformatie vereist een abonnementssleutel. KNMI wijzigt de waarschuwingsbestanden; nieuwe bestanden bevatten vóór de aangekondigde overgang testdata. Dit vereist aparte operationele controle. Stedin-open-data is niet automatisch een storingenfeed. Vitens verwijst voor storingen naar waterstoring.nl. Ook waterschappen, Omgevingsdienst Utrecht, GGD en Rechtspraak zijn opgenomen in de bronmatrix. ODU is sinds 1 januari 2026 de samengevoegde dienst van ODRU/RUD. Hergebruik- en API-afspraken voor deze extra bronnen zijn nog niet allemaal afgerond.
+
+Primaire documentatie:
+https://openbesluitvorming.nl/docs/api
+https://openbesluitvorming.nl/api/status
+https://opendata.ndw.nu/
+https://www.koopoverheid.nl/actueel/nieuws/2025/06/02/nieuwe-handleiding-sru-2.0-v1.4-beschikbaar
+https://apiportal.ns.nl/startersguide
+https://developer.dataplatform.knmi.nl/deprecation-warnings
+https://www.rechtspraak.nl/uitspraken/open-data
+https://developers.google.com/search/docs/appearance/structured-data/article
+https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap
+https://developers.google.com/search/docs/appearance/structured-data/event
+https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls
+
+CONTROLE
+70 tests geslaagd. HTTP/HTML-controle van 354 routes zonder fouten: status, één H1, canonical, beschrijving, JSON-LD en lokale noindex-beveiliging. Desktop, tablet en mobiel visueel gecontroleerd, inclusief lange gemeentenaam. Geen horizontale pagina-overloop in de gecontroleerde schermen. Dit is geen volledige WCAG-, juridische of productieprestatiecertificering.
+
+ONTWERPCONTROLE IN VIER STAPPEN
+1. Bestaande provincie-, gemeente-, artikel- en agendaroute als uitgangspunt vastgelegd.
+2. Te hoge opening, concurrerende blokken en zwakke doorleesroutes vastgesteld.
+3. Compacte hiërarchie, consistente kaarten, lokale navigatie en vaste onderwerpen toegepast.
+4. Schermen en routes opnieuw gecontroleerd; resterende aansluitingen hieronder expliciet gemaakt.
+
+NOG NODIG VOOR PRODUCTIE
+- Strapi/PITO-activiteiten aansluiten via PITO_APP_CONTENT_URL; momenteel geen verzonnen agenda-items.
+- Het archief bevat nog 76 zichtbare conceptartikelen, geen complete zesmaandenvoorziening. Broninboxen zijn onderzoeksmateriaal, geen gepubliceerde artikelen.
+- Menselijke eindredactie, publieke auteursprofielen, correctieproces, beveiligde rollen en gedeeld auditlog.
+- Volledige geografische koppeling en status-/vervalbewaking voor verkeers-, weer- en storingsmeldingen.
+- Beeldoptimalisatie voor productie: meerdere bronafbeeldingen zijn nog zwaar; maak responsive afgeleiden via de beeldpipeline, met behoud van rechtenmetadata.
+- Productie-origin, publicatiebeleid, Search Console en echte Core Web Vitals meten op hosting.
+- Feedruns zijn in deze sessie uitgevoerd. Er is geen permanente externe monitor of geplande achtergrondtaak aangezet.
+
+Bewijs: work/route-audit.json, work/professional-tests.log, data/*-report.json en preview-professioneel-desktop.png.

@@ -1,0 +1,608 @@
+[
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.omroepzout.nl/agenda/",
+    "sourceTitle": "Agenda voor Zuidoost-Utrecht",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.omroepzout.nl/",
+    "id": "d9b8e6c5740c4dccb0b3",
+    "sourceId": "region-bc9b6aa170",
+    "municipality": "",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-bilt",
+      "bunnik",
+      "zeist",
+      "utrechtse-heuvelrug",
+      "wijk-bij-duurstede"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://omroeplekstroom.nl/vacatures/",
+    "sourceTitle": "Bezoldigde functies",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://omroeplekstroom.nl/",
+    "id": "7e4406cf266f8f6f2d95",
+    "sourceId": "region-6a29f2d4eb",
+    "municipality": "",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "houten",
+      "ijsselstein",
+      "lopik",
+      "nieuwegein"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2025/03/DeTijdlijn-640x640.jpg",
+        "sourcePage": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/reporters/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/reporters/",
+    "sourceTitle": "(Aankomend) reporters / interviewers",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "e69f99a202d38e68f4d9",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2023/11/y2mate.com-RTV-Ronde-Venen-PROMO-REPORTER_1080p.00_00_12_15.Still001-640x640.jpg",
+        "sourcePage": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/cameravrijwilliger/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/cameravrijwilliger/",
+    "sourceTitle": "Filmen voor Nieuwsronde",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "27fac8207e4e41e3d928",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2023/11/y2mate.com-RTV-Ronde-Venen-PROMO-REPORTER_1080p.00_00_29_05.Still001-640x640.jpg",
+        "sourcePage": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/video-editors/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/video-editors/",
+    "sourceTitle": "Video editors voor Nieuwsronde",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "692fda3f6852002241eb",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2022/04/225.De_Ronde_Venen_CultuurpuntRondeVenen-zoekt-bestuursleden-640x640.jpg",
+        "sourcePage": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/pbo-leden/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/pbo-leden/",
+    "sourceTitle": "Word lid van het PBO!",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "bd3b4ea63d2e8c1283ac",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2025/03/redactielid-640x640.jpg",
+        "sourcePage": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/redactieleden-nieuws/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/rtvrondevenen/vacatures/redactieleden-nieuws/",
+    "sourceTitle": "Redactielid Nieuwsronde",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "f8494122624c8831f1f9",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2026/10/Buurderij-fietswerkplaats-400x200.jpeg",
+        "sourcePage": "https://rtvrondevenen.nl/agenda/2026/10/fietsreparatiemiddag-bij-buurderij-van-dam-tijdens-week-van-de-reparatie/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/agenda/2026/10/fietsreparatiemiddag-bij-buurderij-van-dam-tijdens-week-van-de-reparatie/",
+    "sourceTitle": "Fietsreparatiemiddag bij Buurderij van Dam tijdens Week van de Reparatie",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "52e6eefa93845931e082",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2024/01/240129.De_Ronde_Venen_MamaLokaal-Veenweidebad-400x200.jpeg",
+        "sourcePage": "https://rtvrondevenen.nl/agenda/2026/10/ochtend-vol-waterpret-in-veenweidebad-mijdrecht/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/agenda/2026/10/ochtend-vol-waterpret-in-veenweidebad-mijdrecht/",
+    "sourceTitle": "Ochtend vol waterpret in Veenweidebad Mijdrecht",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "b574717677128d2c9189",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2026/09/2026-10-15_Calle-Malaga_backdrop_1-400x200.jpg",
+        "sourcePage": "https://rtvrondevenen.nl/agenda/2026/10/eigenwijs-levensgeluk-in-calle-malaga/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/agenda/2026/10/eigenwijs-levensgeluk-in-calle-malaga/",
+    "sourceTitle": "Eigenwijs levensgeluk in Calle Malaga",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "9df125b5894880e98c6f",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [
+      {
+        "url": "https://rtvrondevenen.nl/wp-content/uploads/2026/10/Alpaca-400x200.jpeg",
+        "sourcePage": "https://rtvrondevenen.nl/agenda/2026/10/creatieve-workshop-met-alpacawol-bij-buurderij-van-dam/",
+        "rightsStatus": "unknown",
+        "publicationAllowed": false,
+        "note": "Alleen vindplaats; geen toestemming afgeleid uit zichtbaarheid of bronvermelding."
+      }
+    ],
+    "sourceUrl": "https://rtvrondevenen.nl/agenda/2026/10/creatieve-workshop-met-alpacawol-bij-buurderij-van-dam/",
+    "sourceTitle": "Creatieve workshop met alpacawol bij Buurderij Van Dam",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "55cc8cbc13cb062adf38",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://rtvrondevenen.nl/agenda",
+    "sourceTitle": "Bekijk de agenda",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://rtvrondevenen.nl/",
+    "id": "7f8d6849016d9923fe06",
+    "sourceId": "region-80437f9cba",
+    "municipality": "de-ronde-venen",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "de-ronde-venen"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://src.fm/agenda/61987/repair-cafe-in-toevershof-varik",
+    "sourceTitle": "okt 13 Repair Café in Toevershof Varik",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://src.fm/",
+    "id": "32d2466bfcfc5b846675",
+    "sourceId": "region-6562579ea7",
+    "municipality": "vijfheerenlanden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "vijfheerenlanden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://src.fm/agenda/62086/meer-groen-op-je-erf-doe-mee-aan-gemeente-buren-in-het-groen",
+    "sourceTitle": "okt 13 Meer groen op je erf? Doe mee aan Gemeente Buren in het Groen",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://src.fm/",
+    "id": "4db2a10e946c56141488",
+    "sourceId": "region-6562579ea7",
+    "municipality": "vijfheerenlanden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "vijfheerenlanden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://src.fm/agenda/62092/alzheimer-cafe-veiligheid-in-en-om-huis",
+    "sourceTitle": "okt 15 Alzheimer Café: Veiligheid in en om huis",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://src.fm/",
+    "id": "e90931c2da6a979e5943",
+    "sourceId": "region-6562579ea7",
+    "municipality": "vijfheerenlanden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "vijfheerenlanden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://src.fm/agenda/61955/buitententoonstelling-femicide-in-geldermalsen",
+    "sourceTitle": "okt 15 Buitententoonstelling FEMICIDE in Geldermalsen",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://src.fm/",
+    "id": "a642eadaba2523c761f5",
+    "sourceId": "region-6562579ea7",
+    "municipality": "vijfheerenlanden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "vijfheerenlanden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://src.fm/agenda/61381/hertenbronst-excursie-naar-amsterdamse-waterleidingduinen",
+    "sourceTitle": "okt 15 Hertenbronst excursie naar Amsterdamse Waterleidingduinen",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://src.fm/",
+    "id": "ced8d9adb40c0a1bc20f",
+    "sourceId": "region-6562579ea7",
+    "municipality": "vijfheerenlanden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "vijfheerenlanden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.duic.nl/archive",
+    "sourceTitle": "Bekijk de voorgaande DUIC kranten hier »",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.duic.nl/",
+    "id": "6c3b11c82d04cd67d7e7",
+    "sourceId": "region-265b7de6a7",
+    "municipality": "utrecht",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "utrecht"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/reader/60698",
+    "sourceTitle": "Lees de krant online",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "0a85d8c61922e6b863fc",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/archive",
+    "sourceTitle": "Bekijk de vorige edities",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "30a79f7ff0a9841a1e1e",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/agenda/2026/9/15/kansen-van-3d-printen-472100",
+    "sourceTitle": "sep 15 Kansen van 3D printen dinsdag 15 september 2026 Cursus-Workshop",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "557634ce02d93e0bbac2",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/agenda/2026/10/12/maandagmiddagwandeling-bij-samen-sterk-huis-478126",
+    "sourceTitle": "okt 12 Maandagmiddagwandeling bij Samen sterk huis maandag 12 oktober 2026 Fiets-Wandeltocht",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "bdbf3309e3cd248d64b1",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/agenda/2026/10/12/digitaal-inloop-spreekuur-van-de-bibliotheek-471649",
+    "sourceTitle": "okt 12 Digitaal (inloop)spreekuur van de bibliotheek maandag 12 oktober 2026 Algemeen",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "55cac3d219d0212caa1d",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/agenda/2026/10/12/a-meezing-zangavond-zing-nederlands-met-me-476274",
+    "sourceTitle": "okt 12 A-meezing zangavond: Zing Nederlands met me maandag 12 oktober 2026 Muziek",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "981a1fe2dbfe479d6388",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/agenda/2026/10/13/creatief-werken-in-samen-sterk-huis-478121",
+    "sourceTitle": "okt 13 Creatief werken in Samen sterk huis dinsdag 13 oktober 2026 Cursus-Workshop",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "5d9d913adad3f89995f5",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/joboffers/750446/technisch-medewerker-havenmeester-m-v",
+    "sourceTitle": "Technisch medewerker / Havenmeester m/v",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "8faf72ec676ec6e4ff67",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/joboffers/750634/chauffeur-knijperwagen-8x4",
+    "sourceTitle": "Chauffeur knijperwagen 8x4",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "b87fb6fa2c8ccbb927a2",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/familieberichten",
+    "sourceTitle": "Familiebericht opgeven",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "faad6261d37585fe0301",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/reader/",
+    "sourceTitle": "Lees de krant online",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "dd12f48170db5aaecdd1",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/bezorgklachten",
+    "sourceTitle": "Bezorgklacht melden",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "6b1e8b0ba7d6485ce4fc",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  },
+  {
+    "imageCandidates": [],
+    "sourceUrl": "https://www.woerdensecourant.nl/privacy",
+    "sourceTitle": "Bekijk ons privacystatement.",
+    "sourcePublishedAt": null,
+    "dateEvidence": "missing",
+    "discoveredOn": "https://www.woerdensecourant.nl/112",
+    "id": "6d56f0545c6a689c0e65",
+    "sourceId": "region-abfb0368ef",
+    "municipality": "woerden",
+    "geographyStatus": "candidate_needs_review",
+    "status": "excluded_non_news_index",
+    "note": "Indexsignaal; lees bronartikel, controleer datum, plaats en feiten vóór publicatie.",
+    "municipalityCandidates": [
+      "woerden"
+    ]
+  }
+]
