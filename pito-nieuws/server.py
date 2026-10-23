@@ -6,7 +6,7 @@ from http.server import ThreadingHTTPServer
 from xml.sax.saxutils import escape as xml_escape
 import news,community,seo
 ROOT=Path(__file__).parent
-base=Path(os.environ.get('PITO_BASE_PREVIEW',json.loads((ROOT/'base.json').read_text())['preview']))
+base=Path(os.environ.get('PITO_BASE_PREVIEW') or (json.loads((ROOT/'base.json').read_text())['preview'] if os.environ.get('PITO_STANDALONE')!='1' and (ROOT/'base.json').is_file() else ROOT/'portable-assets'))
 if os.environ.get('PITO_STANDALONE')=='1' or not (base/'server.py').is_file():
  import portable_handler as existing
 else:
@@ -58,10 +58,11 @@ class Handler(existing.Handler):
   super().end_headers()
 
  def allowed(self):return self.headers.get('Host') in (f'127.0.0.1:{self.server.server_port}',f'localhost:{self.server.server_port}')
+ @__import__('strapi_news').coherent_request
  def do_GET(self):
   if not self.allowed():return self.send('Ongeldige host',status=403)
   u=urlsplit(self.path);p=unquote(u.path).rstrip('/') or '/';qs=parse_qs(u.query)
-  if os.environ.get('PITO_SITE_MODE')=='production' and p.startswith(('/nieuws/redactie','/nieuws/onderzoek','/nieuws/beeldbibliotheek','/nieuws/seo-controle','/api/','/news-static/source-audit','/news-static/local-audit')):
+  if os.environ.get('PITO_SITE_MODE')=='production' and p!='/api/weather' and p.startswith(('/nieuws/redactie','/nieuws/onderzoek','/nieuws/beeldbibliotheek','/nieuws/seo-controle','/api/','/news-static/source-audit','/news-static/local-audit')):
    return self.send('Niet gevonden',status=404)
   if p=='/robots.txt':return self.send(__import__('search_visibility').robots_txt(),'text/plain; charset=utf-8')
   if p.startswith('/news-static/'):return self.file(ROOT/'static',p[len('/news-static/'):])
@@ -148,6 +149,14 @@ class Handler(existing.Handler):
   if p=='/nieuws/verantwoording':
    import legal
    return self.send(legal.page())
+  if p=='/nieuws/bronberichten':
+   import live_sources
+   m=qs.get('gemeente',[''])[0]
+   if m and m not in {x['slug'] for x in news.read('municipalities')}:return self.send('Gemeente niet gevonden',status=404)
+   return self.send(live_sources.page(m,qs.get('q',[''])[0][:200],qs.get('pagina',['1'])[0]))
+  if p=='/nieuws/aanvoerstatus':
+   import live_sources
+   return self.send(live_sources.status_page())
   if p=='/nieuws/over-de-redactie':return self.send(news.editorial.about())
   if p=='/nieuws/dossiers' or p.startswith('/nieuws/dossiers/'):
    import dossiers
@@ -187,7 +196,8 @@ class Handler(existing.Handler):
    if m and m not in {x['slug'] for x in news.read('municipalities')}:return self.send('Onbekende gemeente',status=404)
    origin=seo.origin()
    items=''.join('<item><title>'+xml_escape(a['title'])+'</title><link>'+origin+news.url(a)+'</link><guid isPermaLink="true">'+origin+news.url(a)+'</guid><description>'+xml_escape(a['summary'])+'</description></item>' for a in news.ranking.order(news.articles(),'latest') if news.selected(a,m) and news.ranking.is_recent(a))
-   return self.send('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>PITO Utrecht — lokale concepteditie</title><link>'+origin+news.BASE+'</link><description>Eigen samenvattingen; menselijke eindredactie vóór openbare publicatie.</description>'+items+'</channel></rss>','application/rss+xml; charset=utf-8')
+   title='PITO Nieuws — provincie Utrecht' if news.search_visibility.production() else 'PITO Utrecht — lokale concepteditie'
+   return self.send('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>'+title+'</title><link>'+origin+news.BASE+'</link><description>Nieuws met bronvermelding. De bronpublicatie en de publicatiedatum van PITO worden afzonderlijk bijgehouden.</description>'+items+'</channel></rss>','application/rss+xml; charset=utf-8')
   if p=='/nieuws/news-sitemap.xml':return self.send(seo.news_sitemap(),'application/xml')
   if p=='/nieuws/sitemap.xml':
    return self.send(seo.sitemap(),'application/xml')
@@ -196,8 +206,14 @@ class Handler(existing.Handler):
    alias_file=ROOT/'data/article-aliases.json'
    aliases=json.loads(alias_file.read_text()) if alias_file.exists() else {}
    old_slug=p[len(news.BASE+'/artikel/'):]
-   target=aliases.get(old_slug)
-   if target and any(a['slug']==target for a in news.articles()):
+   import strapi_news
+   active={a['slug'] for a in news.articles()}
+   target=strapi_news.redirect(old_slug) if strapi_news.enabled() else None
+   # Preserve valid historical aliases, but never shadow a current CMS slug.
+   if not target and old_slug not in active:
+    target=aliases.get(old_slug)
+    if target and strapi_news.enabled():target=strapi_news.redirect(target) or target
+   if target and target in active:
     return self.redirect(news.BASE+'/artikel/'+target+('?' +u.query if u.query else ''),301)
    a=next((a for a in news.articles() if news.url(a)==p),None)
    key=qs.get('beeld',[''])[0]

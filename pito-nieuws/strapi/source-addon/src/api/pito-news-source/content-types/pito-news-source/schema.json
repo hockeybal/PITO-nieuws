@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pito_news_sources",
+  "info": {
+    "singularName": "pito-news-source",
+    "pluralName": "pito-news-sources",
+    "displayName": "PITO Nieuwsbron",
+    "description": "Beheer welke nieuwsbronnen worden gecontroleerd en hoe de bronpagina’s worden gelezen."
+  },
+  "options": { "draftAndPublish": false },
+  "attributes": {
+    "sourceKey": { "type": "string", "required": true, "unique": true, "maxLength": 180, "description": "Blijvende broncode; behoud deze bij het aanpassen van een bestaande bron." },
+    "name": { "type": "string", "required": true, "maxLength": 240 },
+    "url": { "type": "string", "required": true },
+    "feed": { "type": "string", "description": "RSS- of Atom-adres; laat dit leeg bij een bron zonder nieuwsfeed." },
+    "kind": { "type": "string", "required": true, "maxLength": 120 },
+    "active": { "type": "boolean", "default": false, "required": true },
+    "reader": { "type": "enumeration", "enum": ["firecrawl", "direct"], "default": "firecrawl", "required": true },
+    "discovery": { "type": "enumeration", "enum": ["rss", "page", "manual"], "default": "manual", "required": true, "description": "rss: nieuwe links uit de nieuwsfeed; page: links uit de bronpagina; manual: alleen bewaren voor handmatig onderzoek." },
+    "articleHosts": { "type": "json", "required": true, "description": "Toegestane nieuwssites, bijvoorbeeld [\"www.utrecht.nl\"]." },
+    "municipality": { "type": "string" },
+    "coverageCandidates": { "type": "json", "description": "Mogelijke gemeenten. De artikelinhoud moet de uiteindelijke gemeentekeuze onderbouwen." },
+    "articlePathPrefix": { "type": "string", "default": "/", "description": "Bij page: neem alleen links onder dit pad mee, bijvoorbeeld /nieuws/." },
+    "maxLinks": { "type": "integer", "default": 5, "min": 1, "max": 20, "required": true }
+  }
+}

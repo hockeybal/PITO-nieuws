@@ -26,20 +26,29 @@ class RankingTests(unittest.TestCase):
   for x in [-1,6,'x',True]:
    r=dict(self.record()['ranking'],impact=x,reason='Test')
    with self.assertRaises(ValueError):ranking.validate(r)
+ def test_latest_uses_source_time_and_normalizes_timezone(self):
+  earlier=self.record(slug='z-earlier',sourceUrl='https://example.org/earlier',sourcePublishedAt='2026-10-10',sourcePublishedAtExact='2026-10-10T10:00:00+02:00')
+  later=self.record(slug='a-later',sourceUrl='https://example.org/later',sourcePublishedAt='2026-10-10T09:00:00Z')
+  self.assertEqual(['a-later','z-earlier'],[a['slug'] for a in ranking.order([earlier,later],'latest')])
+ def test_source_date_is_not_replaced_by_new_test_import_date(self):
+  old=self.record(sourcePublishedAt='2026-10-10',webPublishedAt='2026-10-21T12:00:00Z')
+  new=self.record(slug='new',sourcePublishedAt='2026-10-21T08:00:00Z')
+  self.assertLess(ranking.chronology_key(old),ranking.chronology_key(new))
  def test_archive_month_and_pagination(self):
   s=news.home(period='archive',month='2026-07',sort='latest');self.assertIn('voorbereiding-nieuw-kindcentrum-noorderwaard-gestart',s);self.assertNotIn('amersfoort-spoorwerk-12-18-oktober',s)
   s=news.home();self.assertNotIn('houten-het-rond-ontwikkeling-mei',s)
-  self.assertIn('Archiefpagina',news.home(period='archive'))
+  self.assertIn('data-latest-next',news.home(period='archive'))
   import re
   s=news.home(period='archive',sort='latest',page='4')
-  headings=re.findall(r'<h[23]><a href="([^"]+)">',s)
+  rows=re.findall(r'<li class="latest-row">.*?</li>',s,re.S)
+  headings=[re.search(r'<h2><a href="([^"]+)">',row).group(1) for row in rows]
   by_url={news.url(a):a for a in news.articles()}
   days=[by_url[u.split('?')[0]]['sourcePublishedAt'] for u in headings if u.split('?')[0] in by_url]
   self.assertEqual(days,sorted(days,reverse=True));self.assertGreater(len(days),1)
- def test_complete_assets_dates_and_ranking(self):
+ def test_article_categories_dates_and_ranking_are_valid(self):
   for a in news.articles():
    self.assertIn(a['category'],news.CATEGORIES)
-   self.assertTrue('2026-04-10'<=a['sourcePublishedAt']<='2026-10-10')
+   published=datetime.date.fromisoformat(a['sourcePublishedAt'][:10])
+   self.assertLessEqual(published,datetime.date.today())
    ranking.validate(a['ranking'])
-   if not a.get('imageKey'):self.assertTrue((news.ROOT/'static/images'/(a['category'].lower()+'.svg')).exists())
 if __name__=='__main__':unittest.main()

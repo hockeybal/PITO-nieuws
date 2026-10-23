@@ -71,6 +71,33 @@ body.news-site:has(main.pito-news) {
 .news-site .pito-news .topic-feature .story-location { color: #fff; }
 .news-site .pito-news :is(.app-campaign,.community-display,.download-closing) h2 { color: #fff; }
 .news-site .pito-news .topic-composition .news-visual { border-radius: 8px; overflow: hidden; }
+/* Photo-free leads need their own spacing after the shared image-card rules. */
+.news-site .pito-news .editorial-overview .topic-feature .story.text-only {
+  display: flex;
+  align-items: center;
+  height: auto;
+  min-height: 240px;
+  padding: 56px 28px 28px;
+}
+.news-site .pito-news .editorial-overview .topic-feature .story.text-only::before {
+  top: 24px;
+  left: 28px;
+  width: 64px;
+  height: 4px;
+}
+.news-site .pito-news .editorial-overview .topic-feature .story.text-only .story-copy {
+  position: static;
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+  padding: 0 !important;
+  background: none;
+  color: var(--news-ink);
+}
+.news-site .pito-news .editorial-overview .topic-feature .story.text-only .story-location {
+  color: var(--news-blue);
+  opacity: 1;
+}
 .news-site .pito-news .topic-more { border-color: var(--news-line); }
 .news-site .pito-news :is(.pito-tips,.weekly-feature,.home-agenda) { margin-top: 36px; margin-bottom: 36px; }
 .news-site .pito-news :is(.home-agenda,.weekly-feature,.pito-house-ad) { border-radius: 12px; }
@@ -150,6 +177,11 @@ body.news-site:has(main.pito-news) {
   .news-site .pito-news .news-secondary .story { padding-bottom: 16px; border-bottom: 1px solid var(--news-line); }
   .news-site .pito-news .local-tabs { margin-bottom: 20px !important; }
   .news-site .pito-news .article-context { gap: 12px; }
+  .news-site .pito-news .editorial-overview .topic-feature .story.text-only {
+    min-height: 0;
+    padding: 52px 22px 24px;
+  }
+  .news-site .pito-news .editorial-overview .topic-feature .story.text-only::before { left: 22px; }
 }
 @media (prefers-reduced-motion: reduce) {
   .news-site *, .news-site *::before, .news-site *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; }

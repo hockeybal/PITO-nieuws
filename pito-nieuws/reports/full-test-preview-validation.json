@@ -1,0 +1,79 @@
+{
+  "passed": true,
+  "preview": "http://127.0.0.1:4213/nieuws/utrecht",
+  "strapiConcepts": 326,
+  "newConcepts": 126,
+  "originalTestConcepts": 200,
+  "published": 0,
+  "chronologicalPaginationPages": 14,
+  "exactDetailTextMatches": 326,
+  "municipalityFilterCounts": {
+    "amersfoort": 29,
+    "baarn": 18,
+    "bunnik": 17,
+    "bunschoten": 18,
+    "de-bilt": 18,
+    "de-ronde-venen": 18,
+    "eemnes": 11,
+    "houten": 30,
+    "ijsselstein": 27,
+    "leusden": 18,
+    "lopik": 22,
+    "montfoort": 20,
+    "nieuwegein": 31,
+    "oudewater": 16,
+    "renswoude": 17,
+    "rhenen": 19,
+    "soest": 19,
+    "stichtse-vecht": 18,
+    "utrecht": 45,
+    "utrechtse-heuvelrug": 21,
+    "veenendaal": 24,
+    "vijfheerenlanden": 18,
+    "wijk-bij-duurstede": 19,
+    "woerden": 40,
+    "woudenberg": 19,
+    "zeist": 22
+  },
+  "categoryFilterCounts": {
+    "Bestuur": 46,
+    "Samenleving": 92,
+    "Sport": 51,
+    "Veiligheid": 57,
+    "Verkeer": 46,
+    "Wonen": 34
+  },
+  "searchCases": {
+    "staking": 1,
+    "Hercules": 4,
+    "Woerden": 23,
+    "Maarsbergen": 4,
+    "onvindbaarzz999": 0
+  },
+  "images": {
+    "photo_or_logo": 218,
+    "illustration": 108
+  },
+  "uniqueLocalAssetsChecked": 169,
+  "netBinnen": [
+    {
+      "title": "Aangekondigde streekvervoerstaking gaat niet door",
+      "sourcePublishedAt": "2026-10-21T12:26:57.000Z"
+    },
+    {
+      "title": "Onderzoek: duurste Utrechtse straattarief bijna gelijk aan Amsterdam",
+      "sourcePublishedAt": "2026-10-21T10:58:39.000Z"
+    },
+    {
+      "title": "N224 bij Woudenberg gaat vanaf 9 november zes nachten dicht",
+      "sourcePublishedAt": "2026-10-21T10:42:34.000Z"
+    },
+    {
+      "title": "RTV Utrecht meldt stroomstoring bij ongeveer 1200 huishoudens in Hoogland",
+      "sourcePublishedAt": "2026-10-21T10:17:53.000Z"
+    }
+  ],
+  "privateRoutesBlocked": true,
+  "noindex": true,
+  "readOnly": true
+}

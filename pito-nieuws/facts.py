@@ -1,7 +1,7 @@
 """Separate evergreen local stories, deliberately excluded from breaking-news ranking/RSS."""
 import datetime,json
 from pathlib import Path
-import news,ranking,media_library
+import news,ranking,media_library,search_visibility
 ROOT=Path(__file__).parent
 BASE='/nieuws/weetjes/'
 def records():
@@ -13,6 +13,7 @@ def visible():
    valid=(a.get('status') in ('preview','approved') and a.get('municipality') in {m['slug'] for m in news.read('municipalities')}
      and a.get('title') and a.get('summary') and a.get('body') and a.get('sourceUrl','').startswith('https://')
      and datetime.date.fromisoformat(a['verifiedAt'])<=ranking.today()<=datetime.date.fromisoformat(a['reviewBy']))
+   if search_visibility.public_facing():valid=valid and search_visibility.published(dict(a,reviewStatus=a.get('status')))
    if valid:result.append(a)
   except (ValueError,KeyError,TypeError):continue
  return sorted(result,key=lambda a:a['slug'])

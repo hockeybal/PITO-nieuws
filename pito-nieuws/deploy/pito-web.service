@@ -1,0 +1,38 @@
+[Unit]
+Description=PITO Nieuws public read-only WSGI application
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=pito-preview
+Group=pito-preview
+WorkingDirectory=/srv/PITO-nieuws/pito-nieuws
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONDONTWRITEBYTECODE=1
+Environment=TZ=Europe/Amsterdam
+Environment=PITO_STANDALONE=1
+Environment=PITO_SITE_MODE=production
+Environment=PITO_PUBLIC_URL=https://pitonieuws.nl
+Environment=PITO_WEATHER_CACHE=/var/cache/pito-news-web/weather-de-bilt.json
+EnvironmentFile=-/etc/pito-news/web.env
+ExecStart=/srv/PITO-nieuws/pito-nieuws/.venv/bin/gunicorn --no-control-socket --bind 127.0.0.1:4201 --workers 2 --worker-class gthread --threads 4 --timeout 45 --graceful-timeout 30 --keep-alive 5 --max-requests 1000 --max-requests-jitter 100 --access-logfile - --error-logfile - production_app:create_app()
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=40
+UMask=0077
+CacheDirectory=pito-news-web
+CacheDirectoryMode=0700
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+RestrictSUIDSGID=true
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+LockPersonality=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+
+[Install]
+WantedBy=multi-user.target

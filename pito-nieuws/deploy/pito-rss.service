@@ -1,0 +1,23 @@
+[Unit]
+Description=PITO Nieuws RSS feed intake
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=pito-preview
+Group=pito-preview
+WorkingDirectory=/srv/PITO-nieuws/pito-nieuws
+Environment=PYTHONUNBUFFERED=1
+Environment=TZ=Europe/Amsterdam
+Environment=PITO_SITE_MODE=preview
+ExecStart=/usr/bin/python3 -B /srv/PITO-nieuws/pito-nieuws/scripts/news_pipeline.py --adapters rss --lookback-days 14
+TimeoutStartSec=10min
+UMask=0077
+Nice=10
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+RestrictSUIDSGID=true
+ReadWritePaths=/srv/PITO-nieuws/pito-nieuws/data

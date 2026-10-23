@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-21T10:51:22.998294+00:00",
+  "status": "ok",
+  "sourceCount": 205,
+  "activeFeedSources": 119,
+  "adminStatus": 200,
+  "unauthenticatedSourcesStatus": 401,
+  "publishedArticlesInStrapi": 0,
+  "changedArticlePublications": false,
+  "sourceToFirecrawl": "real test passed",
+  "writerConfigured": false
+}

@@ -1,0 +1,38 @@
+/* Headline links remain visually distinct from PITO's editorial articles. */
+.live-sources{margin:1.5rem 0 2.5rem;padding:1.5rem;background:#f4f8f9;border-top:4px solid #006b78;color:#17373c;border-radius:0 0 8px 8px}
+.live-sources .desk-heading{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:.5rem}
+.live-sources .desk-heading h2{margin:0}
+.live-sources-intro{margin:.5rem 0 1rem;max-width:65ch}
+.live-sources-list{padding:0;margin:0;list-style:none;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:2rem}
+.live-sources-list>li{padding:1rem 0;border-top:1px solid #cbdadc;min-width:0}
+.live-sources-list h2,.live-sources-list h3{font:700 1.1rem/1.4 var(--font-sans,Arial,sans-serif);margin:0 0 .4rem}
+.live-sources a{color:#005d6a;text-decoration-thickness:1px;text-underline-offset:3px}
+.live-sources-list a{text-decoration:none;overflow-wrap:anywhere}
+.live-sources-list a:hover,.live-sources-list a:focus-visible{text-decoration:underline}
+.live-sources a:focus-visible,.live-sources button:focus-visible,.live-sources input:focus-visible,.live-sources select:focus-visible{outline:3px solid #b85b13;outline-offset:3px}
+.live-source-arrow{white-space:nowrap;font-size:.85em}
+.live-sources .live-source-meta{font:400 .82rem/1.6 var(--font-sans,Arial,sans-serif);color:#38585f;margin:0}
+.live-sources-status{font-size:.85rem;line-height:1.6;border-top:1px solid #cbdadc;padding-top:1rem;margin:1rem 0 0}
+.live-sources-empty{padding:1rem 0}
+.live-sources-page{max-width:1100px;margin:1.5rem auto 3rem}
+.live-sources-page h1{font-size:clamp(1.8rem,4vw,2.75rem);line-height:1.16}
+.live-sources-page .standfirst{max-width:70ch}
+.live-sources-filters{display:flex;align-items:end;flex-wrap:wrap;gap:1rem;margin:1.5rem 0}
+.live-sources-filters label{display:grid;gap:.35rem;font-size:.9rem;flex:1 1 220px}
+.live-sources-filters input,.live-sources-filters select,.live-sources-filters button{box-sizing:border-box;min-height:44px;max-width:100%;padding:.65rem;border:1px solid #78969b;border-radius:4px;background:#fff;color:#17373c;font:inherit}
+.live-sources-filters button{background:#006b78;color:#fff;padding-inline:1.25rem;cursor:pointer}
+.live-sources-pages{display:flex;gap:.7rem;flex-wrap:wrap;margin-top:1.5rem}
+.live-sources-pages a{padding:.45rem .7rem;background:white;border:1px solid #78969b;border-radius:4px}
+.live-sources-pages a[aria-current=page]{background:#006b78;color:#fff}
+.live-sources-dates{display:grid;grid-template-columns:minmax(180px,auto) 1fr;gap:.6rem 1.5rem;margin:1.5rem 0}
+.live-sources-dates dt{font-weight:700}.live-sources-dates dd{margin:0}
+.live-sources-table-wrap{overflow-x:auto;margin:1.5rem 0}
+.live-sources-table{border-collapse:collapse;text-align:left;width:100%;font-size:.9rem;min-width:650px;background:white}
+.live-sources-table caption{text-align:left;font-size:1.1rem;font-weight:700;margin:0 0 .8rem}
+.live-sources-table th,.live-sources-table td{padding:.8rem;border-bottom:1px solid #cbdadc;vertical-align:top}
+.live-sources-table thead{background:#e1ecee}.live-sources-table tbody th{max-width:250px}
+@media(max-width:680px){.live-sources{padding:1rem;margin-block:1rem 2rem}.live-sources-list{grid-template-columns:1fr}.live-sources .desk-heading{gap:.5rem}.live-sources-dates{grid-template-columns:1fr;gap:.25rem}.live-sources-dates dd{margin-bottom:.7rem}.live-sources-filters button{width:100%}}
+
+.live-sources[data-feed-state=degraded]{border-top-color:#9b691f}
+
+.live-source-note{display:block;max-width:42ch;margin-top:.35rem;line-height:1.45;overflow-wrap:anywhere;color:#61491f}

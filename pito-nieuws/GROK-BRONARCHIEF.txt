@@ -1,0 +1,131 @@
+PITO — EERST BRONNEN VERZAMELEN, GROK LATER
+21 oktober 2026, Europe/Amsterdam.
+
+ACTUELE UITVOERING — GROTERE TEST OP NIEUW VERZOEK
+De gebruiker vroeg vervolgens de volledige eerste bronselectie lokaal in te
+laden. Die opdracht vervangt de eerdere beperking tot tien testverzoeken.
+Alle 741 adressen uit de bevroren selectie van 205 bronnen zijn gecontroleerd:
+177 nieuwe volledige teksten bewaard, 388 toestemmingspagina's, 90 robots- of
+bereikbaarheidsblokkades, 27 start/indexpagina's, 42 extractieproblemen,
+8 buiten de periode en 9 zonder document in de afgeronde providerbatch.
+Er is geen toestemming- of betaalmuur omzeild. Er zijn geen nieuwe betaalde
+recursieve vervolgcrawls of automatische updates geactiveerd.
+
+Firecrawl verbruikte voor deze uitvoering 256 credits; 1132 bleven over.
+Het archief bevat nu 181 documenten inclusief de oorspronkelijke vier.
+Codex schreef op verzoek 126 nieuwe feitelijke concepten. Samen met de oude
+200 testconcepten staan 326 needs_review/draft-artikelen in lokaal Strapi.
+Grok blijft uit; niets is gepubliceerd. De 48 overige schrijfonderwerpen zijn
+met reden overgeslagen (dubbel, buiten provincie, verouderde alerts of review).
+
+Lokale preview:
+  http://127.0.0.1:4213/nieuws/utrecht/utrecht
+Starten vanuit de projectmap:
+  python3 -B scripts/preview_article_concepts.py --snapshot data/newsroom/full-test-20261021/strapi-preview.json
+Snapshot exact teruggelezen uit lokaal Strapi; brondata blijven oorspronkelijk.
+Net binnen sorteert inclusief tijdstip en toont berichten van 21 oktober.
+Rapporten: reports/full-test-crawl-20261021.json en
+reports/full-test-preview-validation.json. Detailstatus per URL en opgeslagen
+bron- en schrijfteksten staan privé in data/newsroom/full-test-20261021/.
+
+PITO_FIRECRAWL_ENABLED=0 en PITO_WRITER_ENABLED=0 blijven gelden voor normale
+jobs. De aparte, afgeronde batch is expliciet begrensd en kan niet opnieuw
+worden ingediend vanuit dezelfde reservering. Gebruik geen submit voor deze
+map; offline process herleest uitsluitend reeds opgeslagen providerresultaten.
+
+DOEL EN GEKOZEN INSTELLINGEN
+De gebruiker wil eerst met Firecrawl de bronnen van de laatste 14 dagen
+verzamelen. Daarna kan Grok van xAI vanuit dat archief eigen artikelconcepten
+maken, naar Strapi sturen en na beoordeling/publicatie op PITO Nieuws tonen.
+Grok is op verzoek uitgesteld. PITO_WRITER_ENABLED=0 voorkomt echte
+schrijfverzoeken, ook als later al een sleutel in het bestand staat.
+
+ROUTE
+Strapi-bronnenregister -> bronlinks/startpagina's -> Firecrawl -> bronarchief
+-> later: Grok -> PITO Nieuwsartikel (concept) -> beoordelen/publiceren
+-> bestaande PITO Nieuws-renderers en nieuwsfilters.
+
+ARCHIEF
+data/newsroom/source-archive.sqlite3 bevat een hervatbare wachtrij, de koppeling
+met Strapi-broncodes, bronstatussen, volledige uitgelezen teksten, datums,
+vingerafdrukken en onveranderlijke tekstversies. Bij een nieuwe download wordt
+voortaan ook de ruwe HTML privé bewaard, zodat een mislukte extractie later
+zonder een nieuwe Firecrawl-aanvraag verbeterd kan worden. Deze bestanden
+staan buiten Git en zijn niet beschikbaar op de openbare nieuwswebsite.
+
+Bekijken:
+  python3 -B scripts/export_source_library.py
+Open daarna data/newsroom/bronnenbibliotheek.html. Het bestand heeft zoeken,
+een bronfilter en een datumfilter. De oorspronkelijke bron en opgeslagen tekst
+zijn te openen. De export toont standaard maximaal 200 recente documenten.
+
+CRAWLEN
+Inventariseer alle bronnen (ook handmatige verwijzingen) zonder Firecrawl-kosten:
+  python3 -B scripts/crawl_source_archive.py --env-file .env.pipeline.local --all-sources --discover-only
+
+Verwerk de bestaande wachtrij tot de ingestelde verzoeklimiet:
+  python3 -B scripts/crawl_source_archive.py --env-file .env.pipeline.local --all-sources --collect-only
+
+Beide stappen in één uitvoering:
+  python3 -B scripts/crawl_source_archive.py --env-file .env.pipeline.local --all-sources
+
+Optioneel --source <broncode> beperkt de uitvoering tot die Strapi-bron.
+--all-sources verandert geen active-vlaggen in Strapi: een eerste archiefcrawl
+van een handmatige bron is geen toestemming om die bron automatisch te publiceren.
+De crawler volgt alleen toegestane artikelhosts en gekozen artikelpaden. Bij
+een startpagina wordt maximaal maxLinks aan nieuwslinks ingepland; een limiet
+wordt zichtbaar gemeld als index_truncated. Dit bewijst geen volledig webarchief.
+De oudste bronpublicaties worden buiten het 14-dagenvenster gehouden.
+Fouten, robotsuitsluitingen en ontbrekende volledige artikeltekst blijven in
+het rapport staan en tellen niet als geslaagde verzameling.
+
+KOSTEN EN HERVATTEN
+De oorspronkelijke keuze voor slechts tien pagina's is hierboven vervangen
+door de later expliciet gevraagde grotere lokale test. De gewone crawler
+blijft standaard uitgeschakeld en op tien verzoeken begrensd. Het afgeronde
+batchplan staat in data/newsroom/full-test-20261021/batch-jobs.json.
+De 741 links waren de resterende geselecteerde pagina's, geen 741 afzonderlijke
+bronorganisaties of gegarandeerde artikelen. Robotsuitsluitingen,
+toestemmingspagina's, indexpagina's en ontbrekende teksten blijven zichtbaar.
+Een volledige terugkerende brondekking is hiermee niet bewezen.
+Geen betaalde retries of verdere bronuitbreiding zonder concrete nieuwe scope.
+
+GROK LATER ACTIVEREN
+PITO_WRITER_PROVIDER=xai is voorbereid. XAI_API_KEY is de afzonderlijke xAI-
+sleutel; een OpenAI-sleutel wordt nooit naar xAI gestuurd. Het voorbereide
+model is grok-4.7 volgens de geraadpleegde officiële xAI-documentatie.
+Vul pas bij de schrijffase een sleutel in en zet PITO_WRITER_ENABLED=1.
+Vanuit het opgeslagen bronarchief (geen Firecrawl- of bronfeed-verzoeken):
+  python3 -B scripts/write_archive_articles.py --env-file .env.pipeline.local --limit 1
+De schrijver verwerkt alleen bronnen die in het huidige CMS actief zijn.
+Hij gebruikt bronquotes als bewijs, een bestaande gemeentelijst en bestaande
+rubrieken. De bot kan zichzelf niet goedkeuren/publiceren. Bronwijzigingen
+blijven nieuwe bewijsversies en leiden tot herbeoordeling; menselijke CMS-
+bewerkingen en gepubliceerde teksten worden niet stil overschreven.
+
+WEBSITE EN FILTERS
+De bestaande nieuwsadapter leest gepubliceerde Strapi-artikelen. Gemeenten,
+rubriek, samenvatting, bron-/gebeurtenisdatum en eerste PITO-publicatiedatum
+blijven afzonderlijk vastgelegd. Op een echte tijdelijke Strapi is getest:
+de bronarchief-route naar een concept, beoordeling/publicatie, de bestaande
+PITO-renderers, juiste/verkeerde gemeente, onderwerp, zoeken, archief/periode,
+sortering, detail, RSS, sitemap en intrekken. De nagebootste schrijver is alleen
+een contracttest; Grok zelf is op verzoek nog niet aangeroepen.
+Agenda/activiteiten blijven hun eigen bestaande contentkoppeling gebruiken.
+
+RAPPORTEN
+data/newsroom/archive-crawl-report.json: privé-crawlstatus en afzonderlijke fouten.
+reports/firecrawl-strapi-e2e.json: 10 controles met echte Strapi, opgeslagen
+  bewijs en echte website-renderers; externe schrijver/Firecrawl nagebootst.
+reports/firecrawl-live.json: eerdere echte Firecrawl-broncontrole.
+reports/firecrawl-install.json: oorspronkelijke installatie en back-up-pad.
+
+TESTS
+  python3 -B -m unittest discover -s tests -p 'test_source_archive.py'
+  python3 -B -m unittest discover -s tests -p 'test_newsroom_worker.py'
+  python3 -B -m unittest discover -s tests -p 'test_firecrawl_pipeline.py'
+  node scripts/test_firecrawl_strapi_e2e.cjs /Users/michelvannoort/sites/website/pito/strapi
+
+Officiële xAI-bronnen:
+https://docs.x.ai/developers/quickstart
+https://docs.x.ai/developers/model-capabilities/text/structured-outputs

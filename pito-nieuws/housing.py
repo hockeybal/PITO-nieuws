@@ -30,7 +30,7 @@ def project_image(project,library):
 def page(m=''):
  import media_library,seo
  e=news.e;city=community.name(m) if m else 'provincie Utrecht';path=news.BASE+('/'+m if m else '')+'/wonen'
- items=sorted([a for a in news.articles() if news.selected(a,m) and a['category']=='Wonen'],key=lambda a:a['sourcePublishedAt'],reverse=True)
+ items=sorted([a for a in news.articles() if news.selected(a,m) and a['category']=='Wonen'],key=lambda a:news.article_date(a),reverse=True)
  projects=[p for p in news.read('housing-projects') if not m or p['municipality']==m]
  topics={'plan':['woningbouw','ruimtelijk-plan'],'snellerpoort':['wonen','woningbouw'],'molenvliet':['participatie','ruimtelijk-plan'],'zegveld':['zorg','wonen']}
  library={k:v for k,v in news.read('images').items() if k!='stock-20261010-wonen-2'}

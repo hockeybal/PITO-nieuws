@@ -3,6 +3,7 @@ Example: python3 scripts/news_pipeline.py --adapters rss,vru,koop --start 2026-0
 """
 import argparse,contextlib,datetime,fcntl,json,subprocess,sys,os
 from pathlib import Path
+from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1]
 ADAPTERS={'rss':'intake.py','vru':'vru_intake.py','koop':'koop_intake.py','council':'council_intake.py','ndw':'ndw_intake.py','amber':'amber_intake.py','municipal':'municipal_archive_intake.py','regional':'regional_archive_intake.py','documents':'read_source_documents.py'}
 def consolidate():
@@ -35,8 +36,9 @@ def consolidate():
  target=ROOT/'data/editorial-queue.json';tmp=target.with_suffix('.tmp');tmp.write_text(json.dumps(list(result.values()),ensure_ascii=False,indent=2));tmp.replace(target)
  return len(result)
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('--adapters',default='rss,vru,documents');ap.add_argument('--start');ap.add_argument('--end',default=datetime.date.today().isoformat());ap.add_argument('--max-pages',type=int,default=30);ap.add_argument('--document-limit',type=int,default=120);ap.add_argument('--queue-only',action='store_true');a=ap.parse_args()
- start=a.start or (datetime.date.fromisoformat(a.end)-datetime.timedelta(days=7)).isoformat();adapters=a.adapters.split(',')
+ ap=argparse.ArgumentParser();ap.add_argument('--adapters',default='rss,vru,documents');ap.add_argument('--start');ap.add_argument('--end',default=datetime.datetime.now(ZoneInfo('Europe/Amsterdam')).date().isoformat());ap.add_argument('--lookback-days',type=int,default=7);ap.add_argument('--max-pages',type=int,default=30);ap.add_argument('--document-limit',type=int,default=120);ap.add_argument('--queue-only',action='store_true');a=ap.parse_args()
+ if not 1<=a.lookback_days<=366:ap.error('Terugkijkperiode moet tussen 1 en 366 dagen liggen')
+ start=a.start or (datetime.date.fromisoformat(a.end)-datetime.timedelta(days=a.lookback_days)).isoformat();adapters=a.adapters.split(',')
  if set(adapters)-ADAPTERS.keys():ap.error('Onbekende adapter')
  if datetime.date.fromisoformat(start)>datetime.date.fromisoformat(a.end):ap.error('Ongeldige periode')
  with (ROOT/'data/pipeline.lock').open('w') as lock:
@@ -57,6 +59,9 @@ def main():
     report['runs'].append({'adapter':adapter,'exitCode':process.returncode,'result':process.stdout[-2000:] if process.returncode==0 else process.stderr[-1000:]})
    except Exception as error:report['runs'].append({'adapter':adapter,'error':str(error)[:500]})
   report['queueSize']=consolidate()
-  (ROOT/'data/pipeline-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
+  report['completedAt']=datetime.datetime.now(datetime.timezone.utc).isoformat()
+  report['status']='error' if any(r.get('error') or r.get('exitCode',0)!=0 for r in report['runs']) else 'ok'
+  target=ROOT/'data/pipeline-report.json';tmp=target.with_suffix('.tmp');tmp.write_text(json.dumps(report,ensure_ascii=False,indent=2));tmp.replace(target)
   print(json.dumps(report,ensure_ascii=False,indent=2))
+  if report['status']=='error':sys.exit(1)
 if __name__=='__main__':main()

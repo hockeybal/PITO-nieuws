@@ -8,16 +8,20 @@ class ArchiveTests(unittest.TestCase):
    for a in archive.earlier(m['slug']):
     self.assertIn(m['slug'],a['municipalities']);self.assertFalse(news.ranking.is_recent(a))
  def test_all_archive_articles_reachable_on_pages(self):
-  expected={a['slug'] for a in news.articles() if '2026-07-11'<=a['sourcePublishedAt']<=news.seo.today().isoformat()}
+  # Stored historical articles remain navigable after the rolling edition ages.
+  expected={a['slug'] for a in news.articles() if archive.in_archive(a)}
   seen=set()
-  for page in range(1,(len(expected)+11)//12+1):
+  import latest_news
+  for page in range(1,(len(expected)+latest_news.SIZE-1)//latest_news.SIZE+1):
    html=news.home(period='archive',sort='latest',page=str(page))
    seen.update(a for a in expected if '/artikel/'+a in html)
   self.assertEqual(expected,seen)
  def test_home_exposes_archive_and_topic_history(self):
   html=news.home('woerden')
   self.assertIn('Alle nieuwsberichten',html);self.assertIn('rubriek-politiek',html)
-  self.assertIn('Filters &amp; archief',html) if 'Filters &amp; archief' in html else self.assertIn('Filters & archief',html)
+  # The current overview links to the independent chronological archive.
+  self.assertIn('/nieuws/utrecht/woerden?periode=archive',html)
+  self.assertIn('/nieuws/utrecht/woerden/onderwerp/politiek-bestuur',html)
  def test_combined_current_and_archive_images_do_not_repeat(self):
   html=news.home('woerden')
   photos=re.findall(r'<img src="(/news-static/images/[^"]+)"',html)

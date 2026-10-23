@@ -10,7 +10,9 @@
     "articleHosts": [
       "www.politie.nl",
       "politie.nl"
-    ]
+    ],
+    "provinceWide": true,
+    "geographicScope": "province"
   },
   {
     "id": "utrecht",
@@ -26,10 +28,14 @@
     "kind": "Gemeente / agenda",
     "url": "https://www.woerden.nl/Voorzieningen/Vrije_tijd/Evenementen?datefrom=01-10-2026",
     "status": "Officiële RSS gekoppeld; alleen signalering, selectie door redactie",
-    "mode": "manual",
+    "mode": "signal",
     "feed": "https://www.woerden.nl/rss.jsp?objectid=a7b99c7a-2bc1-4333-aeb8-6b0c6a9e1b20",
     "articleHosts": [
       "www.woerden.nl"
+    ],
+    "municipality": "woerden",
+    "coverageCandidates": [
+      "woerden"
     ]
   },
   {
@@ -744,7 +750,9 @@
     "mode": "signal",
     "municipality": "",
     "status": "Feed ontdekt op officiële website; signalen blijven in redactie-inbox. Geografie en feiten worden afzonderlijk gecontroleerd.",
-    "verifiedAt": "2026-10-10"
+    "verifiedAt": "2026-10-10",
+    "provinceWide": true,
+    "geographicScope": "province"
   },
   {
     "id": "ns-live",
@@ -1164,7 +1172,9 @@
     "status": "RSS voor signalering; geen toestemming tot artikel- of beeldhergebruik afgeleid",
     "municipality": "",
     "sourceRole": "external_media",
-    "automaticPublication": false
+    "automaticPublication": false,
+    "provinceWide": true,
+    "geographicScope": "province"
   },
   {
     "id": "gemeente-utrecht-rss",
@@ -2395,5 +2405,471 @@
     "publicationEnabled": false,
     "connectedAt": "2026-10-14T03:15:28.048024+00:00",
     "status": "Clubfeed getest; feiten en beelden apart controleren"
+  },
+  {
+    "id": "rss-023605de5f1f",
+    "name": "Amersfoortse Sportfederatie",
+    "feed": "https://www.sportamersfoort.nl/feed/",
+    "articleHosts": [
+      "sportamersfoort.nl",
+      "www.sportamersfoort.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "amersfoort",
+    "coverageCandidates": [
+      "amersfoort"
+    ],
+    "url": "https://www.sportamersfoort.nl/alle-leden/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "no_usable_dated_items",
+      "channelTitle": "Amersfoortse Sportfederatie",
+      "entries": 10
+    }
+  },
+  {
+    "id": "rss-2360e47f5f71",
+    "name": "Huiskamer van Leusden",
+    "feed": "https://huiskamervanleusden.nl/feed/",
+    "articleHosts": [
+      "huiskamervanleusden.nl",
+      "www.huiskamervanleusden.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "leusden",
+    "coverageCandidates": [
+      "leusden"
+    ],
+    "url": "https://huiskamervanleusden.nl/nieuws/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Huiskamer van Leusden",
+      "entries": 10,
+      "datedItems": 10,
+      "recentItems": 1,
+      "latest": "2026-10-14"
+    }
+  },
+  {
+    "id": "rss-360e2f87ae01",
+    "name": "Cultuur in Soest",
+    "feed": "https://cultuurinsoest.nl/feed/",
+    "articleHosts": [
+      "cultuurinsoest.nl",
+      "www.cultuurinsoest.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "soest",
+    "coverageCandidates": [
+      "soest"
+    ],
+    "url": "https://cultuurinsoest.nl/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Cultuur in Soest",
+      "entries": 4,
+      "datedItems": 4,
+      "recentItems": 0,
+      "latest": "2026-09-16"
+    }
+  },
+  {
+    "id": "rss-3edfd0b419ff",
+    "name": "Sport in Bunschoten",
+    "feed": "https://www.sportinbunschoten.nl/feed/",
+    "articleHosts": [
+      "sportinbunschoten.nl",
+      "www.sportinbunschoten.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "bunschoten",
+    "coverageCandidates": [
+      "bunschoten"
+    ],
+    "url": "https://www.sportinbunschoten.nl/bunschoten/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "no_usable_dated_items",
+      "channelTitle": "Sport in Bunschoten",
+      "entries": 10
+    }
+  },
+  {
+    "id": "rss-40d1c20d4627",
+    "name": "Sport in Soest",
+    "feed": "https://sportinsoest.nl/rss",
+    "articleHosts": [
+      "sportinsoest.nl",
+      "www.sportinsoest.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "soest",
+    "coverageCandidates": [
+      "soest"
+    ],
+    "url": "https://sportinsoest.nl/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "no_usable_dated_items",
+      "channelTitle": "RSS feed titel",
+      "entries": 1283
+    }
+  },
+  {
+    "id": "rss-46f311fab9fd",
+    "name": "Sociale kaart Oudewater",
+    "feed": "https://socialekaartoudewater.nl/feed/",
+    "articleHosts": [
+      "socialekaartoudewater.nl",
+      "www.socialekaartoudewater.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "oudewater",
+    "coverageCandidates": [
+      "oudewater"
+    ],
+    "url": "https://socialekaartoudewater.nl/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Sociale Kaart Oudewater",
+      "entries": 3,
+      "datedItems": 1,
+      "recentItems": 0,
+      "latest": "2026-03-02"
+    }
+  },
+  {
+    "id": "rss-4c7d2f08bc21",
+    "name": "Cultuur in Rhenen",
+    "feed": "https://cultuurinrhenen.nl/feed/",
+    "articleHosts": [
+      "cultuurinrhenen.nl",
+      "www.cultuurinrhenen.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "rhenen",
+    "coverageCandidates": [
+      "rhenen"
+    ],
+    "url": "https://cultuurinrhenen.nl/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "empty_feed",
+      "channelTitle": "Cultuur in Rhenen",
+      "entries": 0
+    }
+  },
+  {
+    "id": "rss-545973f5f8f2",
+    "name": "Rhenense Raaf",
+    "feed": "https://www.rhenenseraaf.nl/rss/",
+    "articleHosts": [
+      "rhenenseraaf.nl",
+      "www.rhenenseraaf.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "rhenen",
+    "coverageCandidates": [
+      "rhenen"
+    ],
+    "url": "https://www.rhenenseraaf.nl/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Rhenense Raaf",
+      "entries": 15,
+      "datedItems": 15,
+      "recentItems": 0,
+      "latest": "2026-09-30"
+    }
+  },
+  {
+    "id": "rss-5510e59ca5c0",
+    "name": "Veiligheidsregio Utrecht · nieuws",
+    "feed": "https://vru.nl/rss/nieuws/",
+    "articleHosts": [
+      "vru.nl",
+      "www.vru.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "",
+    "coverageCandidates": [],
+    "url": "https://vru.nl/nieuws/rtv-utrecht-en-veiligheidsregio-utrecht-vernieuwen-afspraken-over-calamiteitenzender/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Nieuws",
+      "entries": 10,
+      "datedItems": 10,
+      "recentItems": 2,
+      "latest": "2026-10-05"
+    },
+    "provinceWide": true,
+    "geographicScope": "province"
+  },
+  {
+    "id": "rss-61c5730650fa",
+    "name": "SportID Nieuwegein",
+    "feed": "https://www.sportidnieuwegein.nl/feed/",
+    "articleHosts": [
+      "sportidnieuwegein.nl",
+      "www.sportidnieuwegein.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "nieuwegein",
+    "coverageCandidates": [
+      "nieuwegein"
+    ],
+    "url": "https://www.sportidnieuwegein.nl/wie-zijn-wij/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "empty_feed",
+      "channelTitle": "SportID Nieuwegein",
+      "entries": 0
+    }
+  },
+  {
+    "id": "rss-636aa66da2fb",
+    "name": "Stadsteam Oudewater",
+    "feed": "https://stadsteamoudewater.nl/feed/",
+    "articleHosts": [
+      "stadsteamoudewater.nl",
+      "www.stadsteamoudewater.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "oudewater",
+    "coverageCandidates": [
+      "oudewater"
+    ],
+    "url": "https://stadsteamoudewater.nl/nieuws/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Stadsteam Oudewater",
+      "entries": 10,
+      "datedItems": 3,
+      "recentItems": 0,
+      "latest": "2026-09-03"
+    }
+  },
+  {
+    "id": "rss-921c46aa747a",
+    "name": "Sportief Baarn",
+    "feed": "https://www.sportiefbaarn.nl/feed/",
+    "articleHosts": [
+      "sportiefbaarn.nl",
+      "www.sportiefbaarn.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "baarn",
+    "coverageCandidates": [
+      "baarn"
+    ],
+    "url": "https://www.sportiefbaarn.nl/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "no_usable_dated_items",
+      "channelTitle": "Sportief Baarn",
+      "entries": 3
+    }
+  },
+  {
+    "id": "rss-a5c6a29b217e",
+    "name": "Cultuurhuis Woudenberg",
+    "feed": "https://cultuurhuiswoudenberg.nl/feed/",
+    "articleHosts": [
+      "cultuurhuiswoudenberg.nl",
+      "www.cultuurhuiswoudenberg.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "woudenberg",
+    "coverageCandidates": [
+      "woudenberg"
+    ],
+    "url": "https://cultuurhuiswoudenberg.nl/agenda/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "no_usable_dated_items",
+      "channelTitle": "Cultuurhuis Woudenberg",
+      "entries": 1
+    }
+  },
+  {
+    "id": "rss-aa3fac88a3aa",
+    "name": "Geschiedkundige Vereniging Oudewater",
+    "feed": "https://geschiedkundigeverenigingoudewater.nl/feed/",
+    "articleHosts": [
+      "geschiedkundigeverenigingoudewater.nl",
+      "www.geschiedkundigeverenigingoudewater.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "oudewater",
+    "coverageCandidates": [
+      "oudewater"
+    ],
+    "url": "https://geschiedkundigeverenigingoudewater.nl/lezingen-en-excursies/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Geschiedkundige vereniging Oudewater",
+      "entries": 10,
+      "datedItems": 6,
+      "recentItems": 0,
+      "latest": "2026-08-31"
+    }
+  },
+  {
+    "id": "rss-cc17b94b243b",
+    "name": "Gemeente Vijfheerenlanden · evenementen",
+    "feed": "https://www.vijfheerenlanden.nl/feeds/2/laatste-evenementen-gemeente-vijfheerenlanden.rss",
+    "articleHosts": [
+      "vijfheerenlanden.nl",
+      "www.vijfheerenlanden.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "vijfheerenlanden",
+    "coverageCandidates": [
+      "vijfheerenlanden"
+    ],
+    "url": "https://www.vijfheerenlanden.nl/nieuws/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "no_usable_dated_items",
+      "channelTitle": "Laatste evenementen gemeente Vijfheerenlanden",
+      "entries": 20
+    }
+  },
+  {
+    "id": "rss-dad396f5db80",
+    "name": "Veiligheidsregio Utrecht · incidenten",
+    "feed": "https://vru.nl/rss/incidenten/",
+    "articleHosts": [
+      "vru.nl",
+      "www.vru.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "",
+    "coverageCandidates": [],
+    "url": "https://vru.nl/incidenten/grote-brand-in-garage-in-harmelen/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "ready",
+      "channelTitle": "Incidenten",
+      "entries": 10,
+      "datedItems": 10,
+      "recentItems": 2,
+      "latest": "2026-10-14"
+    },
+    "provinceWide": true,
+    "geographicScope": "province"
+  },
+  {
+    "id": "rss-ff8659a6fe6d",
+    "name": "Oranjevereniging Renswoude",
+    "feed": "https://ovrenswoude.nl/feed/",
+    "articleHosts": [
+      "ovrenswoude.nl",
+      "www.ovrenswoude.nl"
+    ],
+    "kind": "RSS / lokale bronnen",
+    "municipality": "renswoude",
+    "coverageCandidates": [
+      "renswoude"
+    ],
+    "url": "https://ovrenswoude.nl/",
+    "mode": "signal",
+    "sourceRole": "rss_headline_link",
+    "automaticPublication": false,
+    "publicationEnabled": false,
+    "connectedAt": "2026-10-15T23:46:12.241569+00:00",
+    "status": "RSS ingepland voor bronverwijzingen; inhoud en gezondheid zichtbaar op /nieuws/aanvoerstatus",
+    "feedValidation": {
+      "status": "no_usable_dated_items",
+      "channelTitle": "Oranjevereniging Renswoude",
+      "entries": 1
+    }
   }
 ]

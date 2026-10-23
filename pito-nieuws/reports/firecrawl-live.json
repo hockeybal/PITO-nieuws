@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-21T10:42:11.327762+00:00",
+  "status": "ok",
+  "sourceId": "amersfoort-live",
+  "sourceUrl": "https://www.amersfoort.nl/regiogemeenten-presenteren-gezamenlijke-aanpak-om-zelfdoding-te-voorkomen",
+  "title": "Regiogemeenten presenteren gezamenlijke aanpak om zelfdoding te voorkomen",
+  "sourcePublishedAt": "2026-10-16T12:00:00+00:00",
+  "dateEvidence": "feed_timestamp",
+  "bodyCharacters": 2889,
+  "sha256": "b391fe32a7d5e7623b37c8c7cae35914432ad8f2ee743a770f03b53494a9f5e7",
+  "firecrawlRequests": 1,
+  "realFirecrawl": true,
+  "writerRequests": 0,
+  "published": 0,
+  "privateEvidence": "/var/folders/3x/4pn03fy50ss_ms7vp4gm5yvh0000gn/T/pito-firecrawl-live-nk5bk1x2/newsroom/real-source.json"
+}

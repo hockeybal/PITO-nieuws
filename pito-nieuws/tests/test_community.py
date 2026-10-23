@@ -32,7 +32,7 @@ class CommunityTests(unittest.TestCase):
   with self.assertRaises(ValueError):community.moderate(dict(id=a['id'],status='approved',reviewer='',reviewNote='',confirmed=False))
   self.assertEqual(community.visible(),[])
  def test_today_filters_date_and_municipality(self):
-  base=dict(label='Dag',summary='Test',sourceName='PITO-app',url='https://pito.app/test')
+  base=dict(label='Dag',summary='Test',sourceName='PITO-app',url='https://pito.app/test',agendaHighlight=True)
   items=[dict(base,title='Vandaag Woerden',date='2026-10-10',municipality='woerden'),dict(base,title='Morgen Woerden',date='2026-10-11',municipality='woerden'),dict(base,title='Vandaag Baarn',date='2026-10-10',municipality='baarn')]
   with patch.object(news.app_content,'get',return_value=(items,'connected')):
    s=community.page('woerden','vandaag');self.assertIn('Vandaag Woerden',s);self.assertNotIn('Morgen Woerden',s);self.assertNotIn('Vandaag Baarn',s)

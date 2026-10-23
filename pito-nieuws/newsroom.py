@@ -5,7 +5,7 @@ def related_items(a,limit=6):
  candidates=[x for x in news.articles() if x['slug']!=a['slug']]
  places=set(a.get('municipalities',[]))
  candidates=[x for x in candidates if x['category']==a['category'] or places.intersection(x.get('municipalities',[]))]
- candidates.sort(key=lambda x:(x['category']==a['category'] and bool(places.intersection(x.get('municipalities',[]))),x['category']==a['category'],x['sourcePublishedAt']),reverse=True)
+ candidates.sort(key=lambda x:(x['category']==a['category'] and bool(places.intersection(x.get('municipalities',[]))),x['category']==a['category'],news.article_date(x)),reverse=True)
  return candidates[:limit]
 def article_body(a):
  paragraphs=[p.strip() for p in a['body'].split('\n\n') if p.strip()]

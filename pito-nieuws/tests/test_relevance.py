@@ -38,9 +38,10 @@ class RelevanceTests(unittest.TestCase):
   for extra in [{'audienceNeed':'fake'},{'audienceReason':''},{'actionFrom':'garbage'},{'actionFrom':'2026-10-12','actionUntil':'2026-10-10'}]:
    a=self.story();a['ranking'].update(extra);self.assertEqual(ranking.relevance_tier(a),0)
    with self.assertRaises(ValueError):ranking.validate_audience(a['ranking'])
- def test_default_and_opt_out_routes(self):
-  s=news.home();self.assertIn('value="relevance" selected',s);self.assertNotIn('Waarom dit bericht?',s)
-  self.assertIn('value="latest" selected',news.home(sort='latest'))
+ def test_editorial_overview_links_to_independent_chronological_archive(self):
+  s=news.home();self.assertIn('class="news-opening"',s);self.assertNotIn('Waarom dit bericht?',s)
+  self.assertIn('periode=archive&sortering=latest',s)
+  self.assertIn('data-latest-rows',news.home(period='archive',sort='latest'))
   self.assertIn('waarde',news.research_page())
  def test_local_filter_remains_hard_boundary(self):
   for slug in ['baarn','woerden']:

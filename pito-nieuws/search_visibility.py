@@ -8,6 +8,8 @@ def production():
  u=urlsplit(seo.origin())
  return os.environ.get('PITO_SITE_MODE')=='production' and u.scheme=='https' and u.hostname in ('pitonieuws.nl','www.pitonieuws.nl')
 
+def public_facing():return production() or os.environ.get('PITO_PUBLIC_PREVIEW')=='1'
+
 
 def published(a):
  if a.get('reviewStatus')!='approved' or a.get('publicationStatus')!='published':return False

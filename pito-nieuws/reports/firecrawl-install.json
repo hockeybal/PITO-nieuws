@@ -1,0 +1,20 @@
+{
+  "installedAt": "2026-10-21T10:45:36.535Z",
+  "strapiProject": "/Users/michelvannoort/sites/website/pito/strapi",
+  "files": [
+    "src/api/pito-news-source/content-types/pito-news-source/schema.json",
+    "src/api/pito-news-source/controllers/pito-news-source.ts",
+    "src/api/pito-news-source/routes/pito-news-source.ts",
+    "src/api/pito-news-source/services/pito-news-source.ts",
+    "src/pito-news-sources/index.ts"
+  ],
+  "backupDirectory": "/Users/michelvannoort/sites/website/pito/strapi/.pito-news-backups/2026-10-21T10-45-28-066Z",
+  "databaseBackupBytes": 50788704,
+  "applied": true,
+  "databaseRestarted": true,
+  "importedSources": 205,
+  "externalPublication": false,
+  "activeFeedSources": 119,
+  "localAdmin": "http://127.0.0.1:1337/admin",
+  "liveFirecrawlTest": "reports/firecrawl-live.json"
+}

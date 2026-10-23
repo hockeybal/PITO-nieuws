@@ -36,14 +36,16 @@ def block(m=''):
     context='De eerstvolgende activiteiten in '+city+'.'
    elif m:
     rows=select(pool,'',today,week)
-    title='Vandaag in de regio' if not week else 'Deze week in de regio'
-    context='Nog geen lokale activiteiten bekend. Ontdek ook wat er in de regio te doen is.'
+    if rows:
+     title='Vandaag in de regio' if not week else 'Deze week in de regio'
+     context='Nog geen lokale activiteiten bekend. Ontdek ook wat er in de regio te doen is.'
 
   if not week:today_ids={a.get('id') or a['url'] for a in rows}
   for a in rows:
    d=datetime.date.fromisoformat(a['date']);day=['Ma','Di','Wo','Do','Vr','Za','Zo'][d.weekday()];month=['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'][d.month-1]
    meta=' · '.join(x for x in [a.get('timesText'),a.get('locationName')] if x)
    cards.append('<li><a class="invitation-event" href="'+news.e(a['url'])+'" target="_blank" rel="noopener"><time datetime="'+a['date']+'"><span>'+day+'</span><strong>'+str(d.day)+'</strong><span>'+month+'</span></time>'+agenda_images.image(a)+'<div class="invitation-event-copy"><span class="invitation-city">'+news.e(community.name(a['municipality']))+'</span><h3>'+news.e(a['title'])+'</h3>'+('<p>'+news.e(meta)+'</p>' if meta else '')+'</div></a></li>')
-  content='<ul>'+''.join(cards)+'</ul>' if cards else '<div class="invitation-empty"><strong>Wat ga jij ontdekken?</strong><p>'+('De agenda is tijdelijk niet beschikbaar.' if status=='unavailable' else 'Voor deze periode staan er nog geen bevestigde activiteiten in '+news.e(city)+'.')+'</p><a href="'+seo.agenda_path(m)+'">Bekijk de volledige agenda →</a></div>'
+  empty_message={'unavailable':'De agenda is tijdelijk niet beschikbaar.','not_configured':'De actuele PITO-agenda is nog niet beschikbaar.'}.get(status,'Voor deze periode staan er nog geen bevestigde activiteiten in '+news.e(city)+'.')
+  content='<ul>'+''.join(cards)+'</ul>' if cards else '<div class="invitation-empty"><strong>Wat ga jij ontdekken?</strong><p>'+empty_message+'</p><a href="'+seo.agenda_path(m)+'">Bekijk de volledige agenda →</a></div>'
   sections.append('<section class="invitation-strip '+('week' if week else 'today')+'" id="home-'+key+'"><header><span class="invitation-kicker">'+('MAAK ALVAST PLANNEN' if week else 'GA EROP UIT')+'</span><h2>'+title+'</h2><p>'+news.e(context or ('Iets om naar uit te kijken.' if week else 'Een mooi moment begint dichtbij.'))+'</p><a class="invitation-all" href="'+seo.agenda_path('' if 'in de regio' in title else m,('' if week else 'binnenkort') if title in ('Binnenkort te doen','Verder in de agenda') else key)+'">'+('Bekijk de week' if week else 'Ontdek vandaag')+' <span aria-hidden="true">→</span></a></header><div class="invitation-content">'+content+'</div></section>')
  return '<div class="invitation-agenda" aria-label="Activiteiten in '+news.e(city)+'">'+''.join(sections)+'</div><a class="invitation-photo-credit" href="/nieuws/agenda-beeldcredits">Over de agendafoto’s</a>'

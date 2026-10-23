@@ -1,6 +1,6 @@
 """Chronological, progressively enhanced news archive."""
 from urllib.parse import urlencode
-import news, seo, media_library, community, starter
+import news, seo, media_library, community, starter, archive_navigation
 
 SIZE = 24
 
@@ -9,11 +9,11 @@ def render(m='', q='', category='', month='', page='1', path=None):
  names = {x['slug']:x['name'] for x in news.read('municipalities')}
  name = names.get(m, 'Provincie Utrecht')
  items = [a for a in news.articles() if news.selected(a,m)
-          and '2026-07-11' <= a['sourcePublishedAt'][:10] <= seo.today().isoformat()
+          and archive_navigation.in_archive(a)
           and (not category or a['category']==category)
-          and (not month or a['sourcePublishedAt'].startswith(month))
+          and (not month or news.article_date(a).startswith(month))
           and (not q or q.casefold() in (a['title']+' '+a['summary']).casefold())]
- items.sort(key=lambda a:(a['sourcePublishedAt'],a['slug']), reverse=True)
+ items.sort(key=news.ranking.chronology_key, reverse=True)
  try: page = max(1,min(max(1,(len(items)+SIZE-1)//SIZE),int(page)))
  except (TypeError,ValueError): page=1
  batch = media_library.assign(items[(page-1)*SIZE:page*SIZE],news.read('images'))
@@ -21,7 +21,7 @@ def render(m='', q='', category='', month='', page='1', path=None):
   return path+'?'+urlencode({'periode':'archive','sortering':'latest','q':q,'onderwerp':category,'maand':month,'pagina':n})
  rows=[]
  for a in batch:
-  published=a['sourcePublishedAt']; stamp=news.date(published)
+  published=news.article_date(a); stamp=news.date(published)
   if 'T' in published:
    try:
     from datetime import datetime

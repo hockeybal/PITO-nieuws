@@ -14,7 +14,7 @@ class CoreTests(unittest.TestCase):
   self.assertEqual(len(app_content.normalize({'data':{'activities':[a,a]}},'2026-10-10')),1);a['status']='draft';self.assertEqual(app_content.normalize({'activities':[a]},'2026-10-10'),[])
  def test_import_drafts(self):
   for a in news.read('articles'):
-   p=import_strapi.payload(a)['data'];self.assertIsNone(p['publishedAt']);self.assertEqual(p['reviewStatus'],'needs_review' if a['reviewStatus']!='approved' else 'approved')
+   p=import_strapi.payload(a)['data'];self.assertNotIn('publishedAt',p);self.assertNotIn('reviewStatus',p);self.assertTrue(p['externalKey'].startswith('legacy-preview:'))
  def test_html_escape(self):
   a=dict(news.read('articles')[0]);a['title']='<script>alert(1)</script>';s=news.detail(a);self.assertNotIn('<script>alert(1)</script>',s);self.assertIn('&lt;script&gt;',s)
 class ServerTests(unittest.TestCase):
@@ -41,7 +41,7 @@ class ServerTests(unittest.TestCase):
   self.assertEqual(self.get(news.BASE+'/buitenland')[0],404)
  def test_filter_and_search(self):
   _,s=self.get(news.BASE+'/woerden');self.assertIn('woerden-geen-vuurwerkontheffingen',s);self.assertNotIn('griftpark-toezicht-na-online-oproep',s.split('Ook in de provincie Utrecht')[0])
-  _,s=self.get(news.BASE+'?q=onvindbaarzz');self.assertIn('Nog geen berichten voor deze selectie',s)
+  _,s=self.get(news.BASE+'?q=onvindbaarzz');self.assertIn('Geen berichten gevonden voor deze selectie',s)
  def test_draft_not_public(self):
   a=next(a for a in news.read('articles') if a['reviewStatus']=='draft');self.assertEqual(self.get(news.url(a))[0],404)
  def test_feeds_and_seo(self):
@@ -54,11 +54,17 @@ class ServerTests(unittest.TestCase):
   a.update(confirmed=True,reviewer='TESTREDACTEUR',reviewNote='Test in tijdelijke database');self.assertEqual(self.post(a)[0],200);self.assertEqual(news.read('articles')[0]['reviewStatus'],'approved')
   a['reviewStatus']='rejected';self.assertEqual(self.post(a)[0],200);self.assertEqual(self.get(news.url(a))[0],404)
  def test_archive_routing_and_recent_feed(self):
-  code,s=self.get(news.BASE+'?periode=archive&maand=2026-07');self.assertEqual(code,200);self.assertIn('uplg-programma-landelijk-gebied-juli',s);self.assertNotIn('amersfoort-spoorwerk-12-18-oktober',s)
+  import latest_news,archive_navigation
+  expected=sorted([a for a in news.articles() if archive_navigation.in_archive(a) and a['sourcePublishedAt'].startswith('2026-07')],key=lambda a:(a['sourcePublishedAt'],a['slug']),reverse=True)[:latest_news.SIZE]
+  code,s=self.get(news.BASE+'?periode=archive&maand=2026-07');self.assertEqual(code,200)
+  for a in expected:self.assertIn(news.e(a['title']),s)
+  self.assertNotIn('amersfoort-spoorwerk-12-18-oktober',s)
   _,s=self.get('/nieuws/feed.xml');self.assertNotIn('utrecht-stroomnet-pauze-aangekondigd-april',s)
   code,s=self.get('/nieuws/selectie');self.assertEqual(code,200)
   code,s=self.get('/nieuws/onderzoek');self.assertEqual(code,200);self.assertIn('Zoekdekking per instelling',s)
-  code,s=self.get('/nieuws/kies?gemeente=utrecht&periode=archive&maand=2026-07');self.assertEqual(code,200);self.assertIn('uplg-programma-landelijk-gebied-juli',s)
+  code,s=self.get('/nieuws/kies?gemeente=utrecht&periode=archive&maand=2026-07');self.assertEqual(code,200)
+  expected_city=sorted([a for a in news.articles() if archive_navigation.in_archive(a) and news.selected(a,'utrecht') and a['sourcePublishedAt'].startswith('2026-07')],key=lambda a:(a['sourcePublishedAt'],a['slug']),reverse=True)[:latest_news.SIZE]
+  for a in expected_city:self.assertIn(news.e(a['title']),s)
  def test_ranking_edit_validates_and_persists(self):
   a=dict(news.read('articles')[0]);a.update({'rank_'+k:v for k,v in a['ranking'].items()});a.update(rank_impact='5',rank_reason='Testmotivering',rank_activeUntil='2026-10-15',rank_audienceNeed='service',rank_audienceReason='Andere reisroute nodig',rank_actionFrom='2026-10-12',rank_actionUntil='2026-10-18')
   self.assertEqual(self.post(a)[0],200);self.assertEqual(news.read('articles')[0]['ranking']['impact'],5)

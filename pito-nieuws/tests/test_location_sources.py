@@ -16,7 +16,8 @@ class LocationSources(unittest.TestCase):
   a=news.articles()[0]
   with patch('newsroom.related',return_value=''),patch('promotions.article_navigation',return_value=('','')):
    h=news.detail(a)
-  self.assertIn('<section class="sourcebox">',h)
-  self.assertIn('article-source-visible',h)
-  self.assertNotIn('<details class="sourcebox">',h)
-  self.assertIn('Redactioneel contact:',h)
+  self.assertIn('<div class="article-sources" aria-label="Bronvermelding">',h)
+  self.assertIn(news.e(a['sourceUrl']),h)
+  self.assertIn(news.e(a['sourceName']),h)
+  self.assertNotRegex(h,r'<details[^>]*(?:sourcebox|article-sources)')
+  self.assertIn('href="/nieuws/verantwoording#correcties"',h)

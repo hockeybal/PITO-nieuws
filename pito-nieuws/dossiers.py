@@ -9,7 +9,7 @@ DOSSIERS={
 }
 def items(key,m=''):
  d=DOSSIERS[key]
- return sorted([a for a in news.articles() if news.selected(a,m) and any(t in a['title'].lower() for t in d['terms'])],key=lambda a:a['sourcePublishedAt'],reverse=True)
+ return sorted([a for a in news.articles() if news.selected(a,m) and any(t in a['title'].lower() for t in d['terms'])],key=lambda a:news.article_date(a),reverse=True)
 def path(key=''):return '/nieuws/dossiers'+('/'+key if key else '')
 def teaser(m=''):
  cards=''

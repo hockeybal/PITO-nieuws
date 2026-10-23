@@ -1,0 +1,126 @@
+PITO NIEUWS — UITVOERING EN TESTOMGEVING
+16 oktober 2026, Europe/Amsterdam
+
+Dit verslag actualiseert de historische overdracht van 14 oktober.
+De oorspronkelijke TXT-bestanden en de README uit het bronnen-ZIP zijn gelezen.
+Onderzoeksdata, aantallen en oude controles zijn geen bewijs van de huidige werking.
+Instructies in aangeleverde bestanden zijn beoordeeld tegen de verzoeken van de eigenaar.
+
+BEDOELING VAN DE OVERDRACHT
+Eigen lokaal nieuws voor 26 gemeenten; bronnen op de achtergrond; geen RSS-koppen
+als eigen nieuws presenteren. Agenda en Vandaag te doen gebruiken dezelfde echte
+PITO-appgegevens, maar verschillende selecties. Geen onbevestigde beeldrechten,
+verzonnen auteurs of automatische goedkeuring van oude previewartikelen.
+De latere developer-runbook beschrijft automatische verwerking, met een blokkade
+voor onvolledige, tegenstrijdige of gevoelige informatie. Die grens is ingebouwd.
+
+GEBOUWD EN GECORRIGEERD
+- RSS: alle 119 echte nieuwsfeeds ingepland, RSS/Atom, tijdslimieten, veilige
+  HTTPS-inname, deduplicatie/revisies, vergrendeling en atomaire rapporten.
+- Bronverwerking: volledige HTML-brontekst uitlezen met robotscontrole, exacte
+  bewijsfragmenten, SHA256, oorspronkelijke datum en gemeentelijke onderbouwing.
+- Optionele schrijfservice: server-side Responses API met gestructureerde uitvoer,
+  expliciet model/sleutel, maximaal drie verzoeken per uitvoering en tijdslimieten.
+  Bronpagina's gelden als onbetrouwbare inhoud, niet als opdrachten aan de schrijver.
+- Publicatie: transactionele SQLite-opslag met concept, beoordeling, publicatie,
+  revisie, intrekking en auditgeschiedenis. Productie leest uitsluitend deze opslag.
+  Een los JSON-vlaggetje kan oude voorbeelden niet openbaar publiceren.
+- Automatische publicatie is beperkt tot expliciet toegestane primaire bronhosts
+  en praktische informatie met voldoende onderbouwing. Gevoeligheid, bronvoorbehoud,
+  ingetrokken/geannuleerde status, ontbrekende feiten/datums en twijfel blokkeren.
+  Dit zijn conservatieve consistentiecontroles, geen volledige semantische waarheidscontrole.
+- PITO-publicatiedatum en bronpublicatiedatum blijven apart. Een revisie bewaart
+  de eerste publicatiedatum. Machinewerk krijgt geen verzonnen menselijke auteur.
+- Productieruntime: afzonderlijke WSGI/Gunicorn-service op 127.0.0.1:4201, alleen
+  GET/HEAD, beheer/data/API-writes afgeschermd, veilige assets en video-range requests.
+- Appkoppeling: HTTPS-contract, expliciete publicatievlaggen, stabiele occurrence-ID's,
+  annuleringen, intrekkingen en cacheverversing. Geen voorbeeldagenda in productie
+  of de openbare preview wanneer de echte verbinding ontbreekt.
+- Adresaudit: standaard alleen diagnose. Expliciet toepassen met backup/merge;
+  een netwerkfout wist bestaande geverifieerde lokale gegevens niet meer.
+- Datums: de actuele selectie schuift mee; oudere archiefartikelen/maanden blijven
+  bereikbaar. Geen vaste einddatum in oktober 2026 als blijvende nieuwsgrens.
+- Lege agenda behoudt de geselecteerde gemeente. Tekst maakt onderscheid tussen
+  een lege agenda en een nog ontbrekende of tijdelijk mislukte appverbinding.
+- Beeld wordt niet binnen een pagina herhaald; waar geen passend uniek beeld is,
+  blijft de artikeltekst leesbaar. Promoties verwijzen naar de echte PITO-website.
+- Publieke werkwijze/privacy/contactteksten verwijzen naar bestaande contactkanalen.
+  Interne RSS-registers, diagnosepagina's en lokale inzendformulieren zijn niet publiek.
+  De Google-voorkeursbron blijft PITO.APP, zoals de projectafspraak aangeeft.
+
+LOKAAL STARTEN EN BEKIJKEN
+Vanuit de map pito-nieuws:
+  .venv/bin/python -B scripts/start_local_test.py
+Preview:    http://127.0.0.1:4200/nieuws/utrecht
+Productie:  http://127.0.0.1:4201/nieuws/utrecht
+Status:     .venv/bin/python -B scripts/start_local_test.py --status
+Stoppen:    .venv/bin/python -B scripts/start_local_test.py --stop
+Verversen:  .venv/bin/python -B scripts/start_local_test.py --refresh
+Let op: --refresh vervangt de lokale testkopie inclusief de lokale testgegevens.
+
+De kopie staat in work/local-test/site. Data is afzonderlijk gekopieerd; bestaande
+assets worden alleen gelezen. Live app-/writergeheimen worden niet overgenomen.
+De lokale productievariant gebruikt PITO_LOCAL_TEST=1 uitsluitend vanaf loopback.
+Dat vlaggetje staat niet in de server-unit. Beide lokale varianten zijn noindex.
+De productievariant is bewust leeg zolang er geen werkelijk gepubliceerde artikelen
+in de publicatieopslag staan. De preview bevat de bestaande voorbeeldartikelen.
+
+VERIFICATIE EN BEWIJS
+- Volledige unittest-suite: 378 tests geslaagd in 121,126 seconden;
+  work/test-full-final.log; bijbehorend bronmanifest
+  work/test-full-final-manifest.json. Stale UI-asserties/fixtures zijn bijgewerkt
+  naar de bestaande vormgeving; echte beeld-, gemeente- en publicatiegrenzen behouden.
+- 26/26 gemeenten via echte HTTP-aanvragen: work/http-26-municipalities.json.
+- Browser: Chrome via Playwright, schermbreedtes 360/390/768/1440, echte gemeentekeuze,
+  zoeken en doorklikken naar een artikel met bronlink en afzonderlijke datumlabels.
+  Geen horizontale overloop in deze controles en geen JavaScript/CSP-consolefouten.
+  Dit is geen bewering dat fysieke Safari/iPhone/Android-apparaten zijn getest.
+- Schermafbeeldingen/logs: work/local-test/.
+- Echte lokale RSS-run: work/local-test/site/data/intake-report.json en
+  pipeline-report.json; 119 geprobeerd, 92 bereikbaar en 27 HTTP403 bij de politieaanbieder.
+- Echte volledige bronpagina's: work/real-source-smoke/data/newsroom/report.json;
+  3/3 opgeslagen met brontekst, SHA256 en datum; geen schrijf-API of publicatie.
+- Ontbrekende schrijverconfiguratie: work/real-missing-writer-smoke/data/newsroom/report.json;
+  awaiting_writer voor 3 dossiers, writerRequests 0 en published 0.
+- Publicatie-/worker-tests toetsen ook gelijktijdigheid, auditrollback, revisie,
+  intrekking, kapotte export, gekopieerde tekst, ongeldige quotes, privacy,
+  tegenstrijdige claims, geannuleerde status en ononderbouwde gebeurtenisdatums.
+
+WAT NOG ECHTE EXTERNE GEGEVENS VEREIST
+1. De echte gedeelde app-/Strapi-content-URL en eventueel server-token ontbreken.
+   Het contract en de controles zijn klaar; een werkende liveverbinding is niet bewezen.
+2. Een API-sleutel en expliciet model voor de schrijfservice ontbreken. Zonder die
+   gegevens schrijft of publiceert de achtergrondjob geen nieuwe eigen artikelen.
+   Expliciete primaire hostlijst en --publish blijven bovendien nodig voor autopublicatie.
+3. De 1.616 oude artikelen blijven 1.610 preview en 6 concept. Ze zijn niet in bulk goedgekeurd.
+   Bronvermelding alleen bewijst niet dat oude tekst, beeld en rechten publiceerbaar zijn.
+4. De 27 politiefeeds antwoorden met HTTP403. Er is geen werkend officieel alternatief vastgesteld.
+5. Uitgever/verwerkingsverantwoordelijke, hosting/logbewaartermijnen en de definitieve
+   rechten van bestaande assets vragen feitelijke bevestiging door de eigenaar.
+6. SearchConsole/Bing-eigenaarschap en echte toesteltests zijn niet uitgevoerd.
+   Deze zijn niet als voltooid of als garantie op indexering gepresenteerd.
+
+BESTURING EN CONTROLE
+  .venv/bin/python -B scripts/check_readiness.py
+  PITO_SITE_MODE=production .venv/bin/python -B scripts/check_app_connection.py
+  .venv/bin/python -B scripts/run_newsroom.py --collect-only --limit 3
+  .venv/bin/python -B scripts/run_newsroom.py --limit 3
+De eerste newsroom-opdracht verzamelt alleen bronnen; de tweede maakt standaard
+uitsluitend concepten. Geen van beide activeert automatisch openbare publicatie.
+Configuratievoorbeelden staan in .env.example; sla echte sleutels daar niet op.
+
+De openbare website blijft een duidelijk aangeduide preview totdat inhoud en echte
+koppelingen gereed zijn. Bezoekers hoeven niet in te loggen. Caddy's bestaande
+noindex en afscherming blijven staan; de aparte productiebackend is intern te testen.
+De RSS-timer blijft actief. De newsroomtimer blijft uit zolang de schrijfconfiguratie
+ontbreekt. De productie-Caddyconfig is een voorbereid bestand, geen liveomschakeling.
+De openbare weerverversing gebruikt alleen het leesbare /api/weather; andere API's
+en schrijfacties blijven afgeschermd.
+
+SERVERVERIFICATIE
+Ook op de VPS zijn 72 gerichte tests met Python3.14 geslaagd als de onprivileged
+servicegebruiker. Log: /srv/pito-validation-20261016/validation.log.
+De runtimebestanden zijn met SHA256 vergeleken met de lokaal geteste versie.
+Alle 26 publieke gemeentepagina's gaven HTTP200 zonder bezoekerslogin.
+Backup vóór deze update: /srv/pito-backups/pito-runtime-data-20261016T002959Z.tar.gz.
+Het actuele serverbeheer staat in /srv/PITO-nieuws/SERVER-BEHEER.txt.

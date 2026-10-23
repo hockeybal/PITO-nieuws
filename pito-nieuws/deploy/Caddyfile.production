@@ -1,0 +1,18 @@
+# Pas gebruiken na controle van de productie-inhoud en externe koppelingen.
+{
+    acme_ca https://acme-v02.api.letsencrypt.org/directory
+}
+pitonieuws.nl {
+    encode zstd gzip
+    route {
+        @write not method GET HEAD
+        respond @write 405
+        reverse_proxy 127.0.0.1:4201 {
+            header_up -Authorization
+            header_down -Server
+        }
+    }
+}
+www.pitonieuws.nl {
+    redir https://pitonieuws.nl{uri} permanent
+}

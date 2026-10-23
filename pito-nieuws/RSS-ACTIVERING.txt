@@ -1,0 +1,64 @@
+PITO NIEUWS - RSS-ACTIVERING
+Ingericht op 16 oktober 2026, Europe/Amsterdam.
+
+De RSS-inname is op de VPS actief als pito-rss.service met pito-rss.timer.
+De timer draait elke vijftien minuten, ook na een serverherstart.
+Bronconfiguratie: data/sources.json (119 verschillende RSS/Atom-endpoints).
+Het onderzoeksbestand van 14 oktober is als aanvulling gecontroleerd;
+17 echte bronfeeds zijn toegevoegd. Reactiefeeds zijn niet als nieuws aangesloten.
+
+RSS OP DE ACHTERGROND
+Het blok Uit de bronnen is op verzoek van de eigenaar van de nieuwspagina's verwijderd.
+De RSS-inname blijft elk kwartier draaien en schrijft naar de redactie-inbox.
+De bezoekersinlog is op verzoek verwijderd. De diagnosepagina's zijn niet publiek
+bereikbaar; open ze intern via een SSH-tunnel naar 127.0.0.1:4198:
+http://127.0.0.1:4198/nieuws/bronberichten - zoeken, gemeenten en paginering
+http://127.0.0.1:4198/nieuws/aanvoerstatus - fouten en versheid per bron
+
+De eerste inname verwerkte alle 119 feeds: 92 bereikbaar, 27 met HTTP 403.
+De 27 fouten betroffen de politiefeeds. Er is geen bewezen vervangend endpoint;
+de koppelingen blijven ingepland en de fout blijft zichtbaar.
+76 feeds leverden recente items, 13 hadden geen items binnen het venster,
+1 bevatte geen bruikbare datums en 2 waren leeg.
+455 nieuwe inboxrecords toegevoegd; 1.320 recente, unieke bronlinks zichtbaar.
+Deze aantallen zijn de eerste run, geen blijvende garanties of dekkingstelling.
+
+WERKING
+De taak haalt RSS 1/2 en Atom op met een voortschrijdend venster van 14 dagen.
+Dubbele bronlinks worden samengevoegd; gewijzigde koppen bewaren revisies.
+Er draaien maximaal 6 bronverzoeken tegelijk en maximaal 2 per host.
+HTTPS-verificatie, publieke-adrescontrole, XML- en groottelimieten blijven actief.
+Een procesvergrendeling voorkomt overlappende pipeline-runs.
+De JSON-snapshots worden atomair vervangen, zodat bezoekers complete data lezen.
+Nieuwe data is bij de volgende aanvraag van de diagnosepagina's beschikbaar zonder serverrestart.
+Totale aanvoeruitval geeft een foutstatus; gedeeltelijke uitval houdt goede bronnen actief.
+
+Bronberichten zijn kop, bronnaam, oorspronkelijke datum en externe link.
+Er worden geen volledige bronartikelen of foto's automatisch overgenomen.
+Dit zijn geen automatisch geschreven of goedgekeurde PITO-artikelen.
+De bestaande artikelstatussen en Strapi-koppelingen zijn niet gewijzigd.
+Gemeenteselecties gebruiken lokale broncontracten of herkenbare plaatsaanduidingen;
+een algemene Utrechtse provinciefeed wordt niet als de stad Utrecht aangemerkt.
+
+BEHEER OP DE SERVER
+  systemctl list-timers pito-rss.timer --no-pager
+  systemctl status pito-rss.timer pito-rss.service --no-pager
+  systemctl start pito-rss.service
+  journalctl -u pito-rss.service -n 50 --no-pager
+  systemctl stop pito-rss.timer
+  systemctl enable --now pito-rss.timer
+De oneshot-service staat tussen uitvoeringen normaal op inactive; de timer blijft active.
+
+Laatste complete rapporten:
+  data/intake-report.json (per feed en laatste succes)
+  data/pipeline-report.json (uitvoering, datums en foutstatus)
+De interne aanvoerstatus toont ook ontbrekende/verouderde datums en lege feeds.
+Oude onderzoeksregisters en historische handleidingen zijn geen live gezondheidsmeting.
+
+Deploymentbestanden: deploy/pito-rss.service en deploy/pito-rss.timer.
+Apppad: /srv/PITO-nieuws/pito-nieuws
+Herstelback-up van bestanden en data voor de activering:
+  /var/backups/pito-before-rss-20261015T235049Z.tar.gz (bestandsdatum UTC)
+
+Controle: gerichte lokale tests voor intake, pipeline, bronweergave en netwerkgrenzen;
+41 runtime-/overdrachtstests op de VPS en HTTPS-controles op het echte domein.

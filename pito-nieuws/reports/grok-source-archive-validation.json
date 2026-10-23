@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-21T11:14:44.919624+00:00",
+  "writer": "deferred at user request",
+  "writerEnabled": false,
+  "providerPrepared": "xAI Grok",
+  "windowDays": 14,
+  "sourcesInventoried": 205,
+  "queue": {
+    "blocked": 13,
+    "collected": 4,
+    "pending": 741
+  },
+  "documents": 4,
+  "crawlRequestsInInitialBatch": 10,
+  "additionalCrawlBudget": "User selected only the ten completed test requests; no further paid crawl",
+  "websiteFiltersTested": [
+    "municipality",
+    "category/topic",
+    "search",
+    "period/archive",
+    "sorting",
+    "detail",
+    "rss",
+    "sitemap"
+  ],
+  "privateLibrary": "data/newsroom/bronnenbibliotheek.html",
+  "publishedActualArticles": 0,
+  "unitTests": {
+    "sourceArchive": 13,
+    "newsroomWorker": 31,
+    "firecrawlPipeline": 20
+  },
+  "firecrawlEnabled": false,
+  "budgetChoiceAt": "2026-10-21T11:19:38.839780+00:00"
+}

@@ -29,7 +29,7 @@ def overview(allitems,m,controls):
  opening=(news.ranking.province_frontpage(allitems) if not m else allitems)[:4]
  used={a['slug'] for a in opening};sections=[]
  for category,label,key in TOPICS:
-  group=sorted([a for a in allitems if a['category']==category and a['slug'] not in used],key=lambda a:a.get('sourcePublishedAt',''),reverse=True)[:9]
+  group=sorted([a for a in allitems if a['category']==category and a['slug'] not in used],key=lambda a:news.article_date(a),reverse=True)[:9]
   # Keep a recent, genuinely relevant photograph as the section's visual anchor.
   photo=next((a for a in group[:5] if media_library.candidates(a,source_library)),None)
   if photo:group.remove(photo);group.insert(0,photo)
@@ -43,8 +43,8 @@ def overview(allitems,m,controls):
  assigned={a['slug']:a for a in media_library.assign(visual,library)}
  selected=[assigned.get(a['slug'],dict(a,_displayImageKey='')) for a in opening+[a for _,_,_,g in sections for a in g]]
  opening=selected[:len(opening)];offset=len(opening)
- latest=sorted(allitems,key=lambda a:a['sourcePublishedAt'],reverse=True)[:4]
- timeline=''.join('<li><time>'+news.date(a['sourcePublishedAt'])+'</time><a href="'+news.url(a)+'">'+news.e(a['title'])+'</a></li>' for a in latest)
+ latest=sorted(allitems,key=news.ranking.chronology_key,reverse=True)[:4]
+ timeline=''.join('<li><time>'+news.date(news.article_date(a))+'</time><a href="'+news.url(a)+'">'+news.e(a['title'])+'</a></li>' for a in latest)
  body='<div class="frontpage editorial-overview">'
 
  if opening:
@@ -67,7 +67,7 @@ def overview(allitems,m,controls):
 
  body+=__import__('useful_addresses').block(m)
  body+='<nav class="desk-bottom" aria-label="Verder ontdekken"><a href="'+path+'?periode=archive&sortering=latest">Alle nieuwsberichten ›</a><a href="'+seo.agenda_path(m)+'">Bekijk de lokale agenda ›</a></nav></div>'
- return body,selected
+ return media_library.deduplicate_images(body,source_library),selected
 
 
 def topic_section(group,m,category,label,key,index=0,show_heading=True):

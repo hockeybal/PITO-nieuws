@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "strapiConcepts": 200,
+  "exactCmsTextMatches": 200,
+  "published": 0,
+  "newFirecrawlConcepts": 4,
+  "existingLocalTestArticles": 196,
+  "newPaidRequests": 0,
+  "preview": "http://127.0.0.1:4213/nieuws/utrecht",
+  "checks": [
+    {
+      "paginationPages": 9,
+      "uniqueArticlesAcrossPages": 200
+    },
+    {
+      "municipalitiesExactMatches": 26
+    },
+    {
+      "categoryExactMatches": 6
+    },
+    {
+      "searchCases": 5
+    },
+    {
+      "articlePagesWithBodyAndSource": 200
+    },
+    {
+      "emptyMonthFilter": true
+    },
+    {
+      "readOnlyAndPrivateRoutes": true
+    }
+  ]
+}

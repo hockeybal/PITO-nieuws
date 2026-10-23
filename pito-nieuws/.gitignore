@@ -6,7 +6,12 @@ __pycache__/
 .env.*
 !.env.example
 work/
+.playwright-cli/
+output/playwright/
 data/community.json
 data/audit.jsonl
 data/pipeline.lock
+data/newsroom/
+data/cms-source-inbox.json
+data/publication.sqlite3*
 *.tmp

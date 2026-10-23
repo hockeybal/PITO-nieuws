@@ -1,0 +1,50 @@
+{
+  "testedAt": "2026-10-21T11:15:07.988Z",
+  "strapiVersion": "5.50.2",
+  "actualStrapi": true,
+  "isolatedDatabase": "pito_firecrawl_e2e_ac8bbc641b998c4d",
+  "firecrawl": "controlled response fixture; no live API key",
+  "writer": "controlled response fixture; no live API key",
+  "checks": [
+    {
+      "name": "Source endpoints reject public, news-reader and worker-write credentials",
+      "passed": true
+    },
+    {
+      "name": "Source import creates one managed Strapi source and preserves it on retry",
+      "passed": true
+    },
+    {
+      "name": "Real Strapi source -> controlled Firecrawl -> saved source archive -> real Strapi draft",
+      "passed": true
+    },
+    {
+      "name": "A second pipeline run does not call Firecrawl or create another CMS article",
+      "passed": true
+    },
+    {
+      "name": "Worker credentials cannot publish the automatically created concept",
+      "passed": true
+    },
+    {
+      "name": "CMS editor review and Publish expose the article through the real news adapter",
+      "passed": true
+    },
+    {
+      "name": "Actual PITO website displays the Strapi article through location, topic, search, period and sort filters",
+      "passed": true
+    },
+    {
+      "name": "Unpublish removes the automatic article from the public CMS snapshot",
+      "passed": true
+    },
+    {
+      "name": "Disabling and editing a CMS source takes effect and an import preserves the change",
+      "passed": true
+    },
+    {
+      "name": "All existing 205 sources import into real Strapi without duplicates on repetition",
+      "passed": true
+    }
+  ]
+}

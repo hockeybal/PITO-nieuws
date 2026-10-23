@@ -1,0 +1,1015 @@
+{
+  "passed": true,
+  "articlesWithImage": 200,
+  "kinds": {
+    "photo-or-club-logo": 157,
+    "illustration": 43
+  },
+  "uniqueServedAssetsChecked": 92,
+  "newCommonsPhotos": 6,
+  "newPaidRequests": 0,
+  "localOnly": true,
+  "cmsMediaAttached": false,
+  "results": [
+    {
+      "slug": "nieuwe-inlooptenues-jo10-1-fc-driebergen",
+      "source": "/news-static/images/clubs/fc-driebergen.svg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "koppelsdarttoernooi-fc-driebergen-vol-reservelijst",
+      "source": "/news-static/editorial-covers/koppelsdarttoernooi-fc-driebergen-vol-reservelijst.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "elisa-van-heerde-snelheid-vriendschap-fc-driebergen",
+      "source": "/news-static/images/clubs/fc-driebergen.svg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "kaya-gaikhorst-negentien-jaar-fc-driebergen",
+      "source": "/news-static/images/clubs/fc-driebergen.svg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "zang-klarinet-en-piano-samen-in-aegtenkapel",
+      "source": "/news-static/images/piano-2025.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "woonbeurs-nieuwegein-brengt-nieuwbouw-en-woonadvies-bij-elkaar",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "utrechtse-politici-bespreken-alternatieven-voor-samen-veilig",
+      "source": "/news-static/images/utrecht-stadskantoor-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "twee-jongeren-melden-zich-na-vernieling-drankautomaat-in-oudewater",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "spoorwerk-bij-wolfheze-raakt-reizen-vanuit-driebergen-zeist-en-rhenen",
+      "source": "/news-static/images/rhenen-station-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "wauw-denberg-markt-brengt-repareren-en-hergebruik-samen",
+      "source": "/news-static/images/gereedschap-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "twee-kilo-paddenstoelen-in-beslag-genomen-bij-gezamenlijke-boscontrole",
+      "source": "/news-static/images/jonge-fruitboom-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "voorleesmiddag-over-limes-en-waterlinie-op-fort-bij-vechten",
+      "source": "/news-static/images/boekenplanken-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "winkelruimtes-rond-plein-kerckebosch-tijdelijk-ingevuld",
+      "source": "/news-static/editorial-covers/winkelruimtes-rond-plein-kerckebosch-tijdelijk-ingevuld.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "woerden-wil-vanaf-2027-werken-met-voorleesexpress",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "vier-partijen-willen-fatbikemaatregelen-voor-centrum-veenendaal-voorbereiden",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "supportersavond-bij-ijsselmeervogels-op-22-oktober",
+      "source": "/news-static/images/ijsselmeervogels-sportpark-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "baarn-zoekt-twee-adviseurs-voor-nieuwe-straatnamen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "rook-van-brand-in-aalsmeer-zichtbaar-vanuit-de-ronde-venen",
+      "source": "/news-static/images/brandweer-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "toekomst-witte-knmi-bol-onzeker-bij-nieuwbouw-in-de-bilt",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "eemnes-vraagt-inwoners-samen-over-noodsituaties-te-praten",
+      "source": "/news-static/editorial-covers/eemnes-vraagt-inwoners-samen-over-noodsituaties-te-praten.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "asfaltwerk-sluit-engherzandweg-in-linschoten-drie-dagen-af",
+      "source": "/news-static/images/wegwerk-asfalt-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "duurzame-huizen-route-biedt-gelegenheid-om-maatregelen-te-bekijken",
+      "source": "/news-static/editorial-covers/duurzame-huizen-route-biedt-gelegenheid-om-maatregelen-te-bekijken.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "milieupark-geeft-ganzenbordspel-bij-inleveren-oude-apparaten",
+      "source": "/news-static/images/afval-inzamelcontainers-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "herstel-n224-rotondes-vraagt-weekendafsluitingen-bij-renswoude",
+      "source": "/news-static/images/wegwerk-asfalt-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "lange-vertraging-op-a2-tijdens-avondspits-van-9-oktober",
+      "source": "/news-static/editorial-covers/lange-vertraging-op-a2-tijdens-avondspits-van-9-oktober.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "regenboogvlag-bij-woning-in-ameide-vernield",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "lopikse-klimaatburgemeester-stelt-aardgasvrije-woning-open",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "vluchtverhalen-en-muziek-in-johanneskerk",
+      "source": "/news-static/editorial-covers/vluchtverhalen-en-muziek-in-johanneskerk.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "leusden-opent-milieustraat-voor-kijkje-achter-de-schermen",
+      "source": "/news-static/images/afval-inzamelcontainers-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "spoorstoring-onderbreekt-intercityverbinding-utrechtrotterdam-op-11-oktober",
+      "source": "/news-static/images/utrecht-spoorwerk-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "politie-vraagt-aandacht-voor-vermiste-ouadoud-uit-zeist",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "wijk-bij-duurstede-wijst-woningeigenaren-op-isolatieactie",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "west-utrechtse-gemeenten-vragen-aanpassing-van-provinciale-plannen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "peters-baan-opent-inschrijving-voor-jubileumseizoen",
+      "source": "/news-static/editorial-covers/peters-baan-opent-inschrijving-voor-jubileumseizoen.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "sro-scherpt-controles-aan-na-onderzoek",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "pandajong-lang-yue-vertrekt-eind-oktober-uit-rhenen",
+      "source": "/news-static/images/panda-ouwehands-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "pont-schalkwijkculemborg-hervat-vaart-met-kortere-dagdienst",
+      "source": "/news-static/editorial-covers/pont-schalkwijkculemborg-hervat-vaart-met-kortere-dagdienst.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "bewoners-vragen-woudenberg-om-aanpak-hardrijders-op-stationsweg-west",
+      "source": "/news-static/images/microfoon-hand-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "eemnes-laat-subsidieaanvragen-via-nieuw-digitaal-portaal-lopen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "raadscommissies-vijfheerenlanden-bijeen-op-13-14-en-15-oktober",
+      "source": "/news-static/images/bijeenkomst-ruimte-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "dos-buigt-achterstand-om-in-thuiszege-op-oosterkwartier",
+      "source": "/news-static/editorial-covers/dos-buigt-achterstand-om-in-thuiszege-op-oosterkwartier.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "meldingen-over-misleidende-loungesetadvertenties-in-zuidoost-utrecht",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "vvij-wint-met-5-1-van-delta-sports-95",
+      "source": "/news-static/images/voetbal-gras-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "dorpsstraat-in-vreeswijk-opnieuw-open-voor-herstelwerk",
+      "source": "/news-static/images/wegwerk-asfalt-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "renswoudse-raad-steunt-brief-over-stikstofplannen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "bibliotheek-veenendaal-organiseert-middag-over-vriendschap-en-contact",
+      "source": "/news-static/images/boekenplanken-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "politie-waarschuwt-voor-nepagenten-rond-maarssen",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "man-uit-rhenen-zwaargewond-bij-dodelijk-ongeval-in-kesteren",
+      "source": "/news-static/images/testset-ambulance-160075614.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "duurzame-huizen-in-vijfheerenlanden-openen-op-afspraak-hun-deuren",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "meer-woningen-beschikbaar-in-eemland-maar-markt-blijft-krap",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "politie-onderzoekt-betalingen-in-utrecht-na-valse-pakket-sms",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "kunstkring-woerden-organiseert-avond-over-kunst-en-ai",
+      "source": "/news-static/images/kunststudio-2025.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "jonathan-ontvangt-victoria-voor-districtsbeker",
+      "source": "/news-static/images/clubs/vv-jonathan.png",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "oudewater-vraagt-reacties-op-twee-fietsroutes",
+      "source": "/news-static/editorial-covers/oudewater-vraagt-reacties-op-twee-fietsroutes.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "veenendaal-city-run-uitverkocht-na-extra-startbewijzen",
+      "source": "/news-static/images/testset-hardloopschoenen-groen-151071218.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "lopik-zoekt-kinderburgemeester-voor-nieuw-ambtsjaar",
+      "source": "/news-static/images/kleurpotloden-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "zorgstudios-en-winkels-gepland-op-voormalige-plus-locatie-abcoude",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "kledingbeurs-keert-op-31-oktober-terug-in-heul-gezellig",
+      "source": "/news-static/images/kledingrek-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "reacties-mogelijk-op-ontwerpplan-laan-van-overvliet",
+      "source": "/news-static/images/bouwplaats-fundering-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "boerenstreek-zet-stickers-in-tegen-te-hard-rijden",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "hdsr-onderzoekt-aanpak-rivierkreeften-in-kromme-rijn-en-grecht",
+      "source": "/news-static/images/rivierkreeft-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "auto-belandt-in-sloot-langs-veenweg-bij-renswoude",
+      "source": "/news-static/images/testset-ambulance-160075614.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "wijk-bij-duurstede-wijst-op-novembergrens-bij-isolatieplannen",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "vleugel-van-ramses-shaffy-tijdelijk-te-bespelen-in-de-kom",
+      "source": "/news-static/images/piano-2025.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "nieuwe-hoofdsponsoren-voor-eerste-teams-vives",
+      "source": "/news-static/editorial-covers/nieuwe-hoofdsponsoren-voor-eerste-teams-vives.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "dolf-huijgen-treedt-aan-als-wethouder-in-bunschoten",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "utrecht-maakt-voor-verenigingen-geen-uitzondering-op-vuurwerkverbod",
+      "source": "/news-static/images/testset-vuurwerk-150953710.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "onderzoek-naar-verdachte-in-zaak-rond-gewonde-vrouw-bij-maarsbergen",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "voleem-wint-in-vier-sets-bij-touche-86-in-baarn",
+      "source": "/news-static/editorial-covers/voleem-wint-in-vier-sets-bij-touche-86-in-baarn.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "plan-padmosweg-in-wilnis-voorziet-in-30-kilometer-en-fietsers-op-rijbaan",
+      "source": "/news-static/editorial-covers/plan-padmosweg-in-wilnis-voorziet-in-30-kilometer-en-fietsers-op-rijbaan.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "a27-onderdoorgangen-vijfheerenlanden",
+      "source": "/news-static/images/wegwerk-asfalt-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "zes-gemeenten-vragen-aanpassing-provinciale-ammoniakregels",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "houten-blijft-bij-prorail-aandringen-op-betrouwbare-stationsliften",
+      "source": "/news-static/editorial-covers/houten-blijft-bij-prorail-aandringen-op-betrouwbare-stationsliften.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "inwoner-van-rhenen-gewond-bij-dodelijk-ongeval-op-n233",
+      "source": "/news-static/editorial-covers/inwoner-van-rhenen-gewond-bij-dodelijk-ongeval-op-n233.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "buurtteam-alandsbeek-en-gemeente-leggen-samenwerking-over-warmte-vast",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "ijsselmeervogels-futsal-verliest-met-05-van-vvs46",
+      "source": "/news-static/images/ijsselmeervogels-sportpark-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "stichtse-vecht-zoekt-kamers-voor-jongeren-die-zelfstandig-gaan-wonen",
+      "source": "/news-static/images/wonen-rechtspraak-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "sv-lopik-wint-derby-tegen-cabauw-door-goal-van-pieter-bijman",
+      "source": "/news-static/images/clubs/vv-cabauw.png",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "cda-en-sp-vragen-onderzoek-naar-verkeer-rond-ichthus-college",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "concertkoor-baarn-zingt-durufle-in-bilthoven",
+      "source": "/news-static/images/theaterzaal-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "ondernemersavond-eemnes-staat-in-teken-van-vol-stroomnet",
+      "source": "/news-static/images/energie-hoogspanningsstation-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "scooterrijder-gewond-op-hei-en-boeicopseweg",
+      "source": "/news-static/images/testset-ambulance-160075614.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "ijsselmeervogels-en-gvvv-hervatten-gestaakt-duel-op-13-oktober",
+      "source": "/news-static/images/ijsselmeervogels-sportpark-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "zeister-speculaasactie-zamelt-geld-in-voor-jongerenproject",
+      "source": "/news-static/editorial-covers/zeister-speculaasactie-zamelt-geld-in-voor-jongerenproject.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "brandweer-opgeroepen-voor-afgebroken-tak-op-televisiebaan",
+      "source": "/news-static/images/brandweer-materieel-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "waterliniemuseum-vertoont-historische-film-holland-neutraal",
+      "source": "/news-static/images/boekenplanken-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "minister-ziet-geen-acuut-risico-bij-onderzochte-a28-viaducten",
+      "source": "/news-static/editorial-covers/minister-ziet-geen-acuut-risico-bij-onderzochte-a28-viaducten.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "so-soest-verslaat-renswoude-met-vijf-doelpunten-verschil",
+      "source": "/news-static/images/clubs/so-soest.png",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "tz-eindigt-derde-na-nipte-nederlaag-tegen-telstar",
+      "source": "/news-static/editorial-covers/tz-eindigt-derde-na-nipte-nederlaag-tegen-telstar.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "rhenen-plan-stationsgebied-inspraak",
+      "source": "/news-static/images/rhenen-station-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "veenvesters-helpt-huurders-met-klussen-tijdens-maatschappelijke-dag",
+      "source": "/news-static/images/gereedschap-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "verhuizing-utrechtse-hondenvereniging-op-overvecht-noord-schuift-op",
+      "source": "/news-static/editorial-covers/verhuizing-utrechtse-hondenvereniging-op-overvecht-noord-schuift-op.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "woerden-wil-toegankelijkheid-opnemen-in-breder-omgevingsprogramma",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "jongerenwoonproject-de-schijfmos-officieel-geopend",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "cda-raadslid-esther-van-der-hart-legt-nadruk-op-contact-met-inwoners",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "politie-controleert-118-bestuurders-op-plettenburgerbaan",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "amersfoort-vraagt-duidelijkheid-over-situatie-busvervoerder-keolis",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "wijk-bij-duurstede-sluit-aan-bij-gezamenlijke-lijst-voor-stroomaanvragen",
+      "source": "/news-static/images/bouwplaats-fundering-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "sv-aurora-vervangt-gasinstallatie-door-warmtepomp",
+      "source": "/news-static/images/clubs/s-v-aurora.png",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "bestelbus-raakt-van-m-a-reinaldaweg-bij-linschoten",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "vast-team-voor-thuiszorg-en-ondersteuning-in-renswoude",
+      "source": "/news-static/editorial-covers/vast-team-voor-thuiszorg-en-ondersteuning-in-renswoude.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "badmintonclub-zeist-viert-zeventigjarig-bestaan",
+      "source": "/news-static/editorial-covers/badmintonclub-zeist-viert-zeventigjarig-bestaan.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "sperwerlaan-in-bilthoven-houdt-maximumsnelheid-van-50-kilometer",
+      "source": "/news-static/editorial-covers/sperwerlaan-in-bilthoven-houdt-maximumsnelheid-van-50-kilometer.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "grondeigenaren-willen-niet-meewerken-aan-windenergie-bij-linschoten-en-papekop",
+      "source": "/news-static/images/energie-hoogspanningsstation-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "om-eist-celstraf-en-tbs-na-incidenten-tijdens-jaarwisseling-bij-nieuwegein",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "inwoners-beoordelen-communicatie-van-lopik-met-een-6-3",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "wijks-echtpaar-molthoff-verhoef-op-weg-naar-65-jarig-huwelijk",
+      "source": "/news-static/editorial-covers/wijks-echtpaar-molthoff-verhoef-op-weg-naar-65-jarig-huwelijk.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "slotlaan-in-lage-vuursche-krijgt-nieuwe-bestrating",
+      "source": "/news-static/editorial-covers/slotlaan-in-lage-vuursche-krijgt-nieuwe-bestrating.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "botsing-tussen-vrachtwagen-en-auto-op-a2-bij-breukelen",
+      "source": "/news-static/editorial-covers/botsing-tussen-vrachtwagen-en-auto-op-a2-bij-breukelen.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "bibliotheek-wilnis-sluit-een-week-voor-verhuizing-naar-de-woudreus",
+      "source": "/news-static/images/boeken-bibliotheek-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "bewoners-leerdam-klagen-over-verbouwing-gemeentehuis",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "utrecht-kiest-strijlandweg-als-nieuwe-plek-voor-skaeve-huse",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "uitbreiding-klein-houtdijk-in-kamerik-officieel-geopend",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "fietsersbond-vraagt-houten-naar-ervaringen-met-fatbikes",
+      "source": "/news-static/editorial-covers/fietsersbond-vraagt-houten-naar-ervaringen-met-fatbikes.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "brandweer-blust-woningbrand-aan-guntersteijn-in-ijsselstein",
+      "source": "/news-static/images/brandweer-materieel-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "waterpolosters-duinkikkers-winnen-met-11-5-van-de-vaart",
+      "source": "/news-static/images/voetbal-gras-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "rtv-midden-holland-wil-lokale-edities-behouden-binnen-streekomroep",
+      "source": "/news-static/images/microfoon-hand-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "twee-camera-s-defect-tijdens-bekladding-sovjet-ereveld",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "schc-vrouwen-winnen-derby-ook-mannen-boeken-zege",
+      "source": "/news-static/images/testset-hockey-stick-bal-149061796.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "weekendoverzicht-botsing-in-utrecht-fietsen-in-sloot-en-heftruckbrand",
+      "source": "/news-static/images/brandweer-materieel-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "nieuwegeinse-raad-wil-meer-zicht-op-kosten-watertheater",
+      "source": "/news-static/images/theaterzaal-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "zeker-veertien-autobanden-lekgestoken-in-baarnse-acacialaan",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "bestelbus-beschadigt-rotonde-bij-nelson-mandelaplein",
+      "source": "/news-static/editorial-covers/bestelbus-beschadigt-rotonde-bij-nelson-mandelaplein.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "rhenen-nodigt-inwoners-uit-voor-bezoek-aan-duurzame-huizen",
+      "source": "/news-static/images/zonnepanelen-dak-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "botsing-op-hogeweg-in-amersfoort-zorgt-voor-verkeershinder",
+      "source": "/news-static/editorial-covers/botsing-op-hogeweg-in-amersfoort-zorgt-voor-verkeershinder.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "bouwstart-hofpark-gevierd-205-woningen-in-houten-zuid",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "zuiderwaard-vraagt-nieuw-onderzoek-naar-bushalte-langs-n201",
+      "source": "/news-static/images/de-ronde-venen-bus-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "woudenberg-verwacht-minder-rijksgeld-voor-onderwijsachterstanden",
+      "source": "/news-static/images/kleurpotloden-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "nita-wint-met-30-bij-aurora-in-werkhoven",
+      "source": "/news-static/images/clubs/s-v-aurora.png",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "zeister-kunstenaars-openen-ateliers-tijdens-kunstroute",
+      "source": "/news-static/images/kunststudio-2025.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "rijbewijs-van-lopiker-ingenomen-na-snelheidscontrole-bij-lekkerkerk",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "svf-neemt-opnieuw-deel-aan-beloften-regiocup",
+      "source": "/news-static/images/clubs/s-v-f.png",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "raadspraat-bijdrage-vraagt-aandacht-voor-bereikbaarheid-bij-geer-iii",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "houten-gaat-met-scholen-en-sportclubs-praten-over-lhbti-acceptatie",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "gemeente-en-pandeigenaren-spreken-opvanggeruchten-in-de-ronde-venen-tegen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "vijfheerenlanden-zoekt-burgerhulpverleners-en-geregistreerde-aeds",
+      "source": "/news-static/editorial-covers/vijfheerenlanden-zoekt-burgerhulpverleners-en-geregistreerde-aeds.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "omroep-zout-kondigt-radioverslagen-van-drie-streekduels-aan",
+      "source": "/news-static/images/voetbal-bal-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "storing-albert-heijn-raakt-ook-utrechtse-bezorgklanten",
+      "source": "/news-static/images/testset-supermarkt-191628219.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "explosie-bij-woning-aan-adriaen-van-ostadelaan-in-veenendaal",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "renswoude-zoekt-kinderburgemeester-onder-leerlingen-van-groep-zeven",
+      "source": "/news-static/images/kleurpotloden-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "vrc-boekt-eerste-competitiezege-met-34-bij-bennekom",
+      "source": "/news-static/images/voetbal-bal-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "kidsfestival-bunschoten-opent-inschrijving-voor-21-oktober",
+      "source": "/news-static/editorial-covers/kidsfestival-bunschoten-opent-inschrijving-voor-21-oktober.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "ad-musica-speelt-in-de-voorhof-in-woudenberg",
+      "source": "/news-static/editorial-covers/ad-musica-speelt-in-de-voorhof-in-woudenberg.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "laatste-tegeltaxi-van-het-jaar-rijdt-op-24-oktober-in-bunnik",
+      "source": "/news-static/editorial-covers/laatste-tegeltaxi-van-het-jaar-rijdt-op-24-oktober-in-bunnik.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "christenunie-stelt-vragen-over-consultatiebureau-in-elst",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "verzakkingen-bij-vernieuwde-brandweerkazerne-zegveld-worden-onderzocht",
+      "source": "/news-static/images/wegwerk-asfalt-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "autobrand-op-a27-bij-nieuwegein-zorgt-voor-tijdelijke-afsluiting",
+      "source": "/news-static/images/wegwerk-asfalt-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "politie-vraagt-beelden-na-dodelijke-botsing-op-a2-bij-breukelen",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "omgevallen-bomen-zorgen-voor-brandweerinzet-op-9-oktober",
+      "source": "/news-static/images/brandweer-materieel-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "kraamverzorgsters-bereiden-vrijwilligersmaand-in-gambia-voor",
+      "source": "/news-static/editorial-covers/kraamverzorgsters-bereiden-vrijwilligersmaand-in-gambia-voor.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "ijfc-wint-bij-elinkwijk-door-late-treffer",
+      "source": "/news-static/images/clubs/usv-elinkwijk.png",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "spv81-en-stolwijk-delen-punten-na-doelpuntloos-duel",
+      "source": "/news-static/images/voetbal-bal-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "woudenberger-kees-van-asselt-uitvaartleider-bij-de-laatste-eer",
+      "source": "/news-static/editorial-covers/woudenberger-kees-van-asselt-uitvaartleider-bij-de-laatste-eer.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "bewoners-uiten-zorgen-over-woningbouw-bij-station-driebergen-zeist",
+      "source": "/news-static/images/commons-archive-166479253.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "leusden-vooruit-pleit-voor-behoud-van-groen-bij-woningbouw",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "rugbyers-spakenburg-spelen-gelijk-bij-rfc-gouda",
+      "source": "/news-static/images/voetbal-gras-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "burgemeester-rhenen-gaat-opnieuw-de-kernen-in",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "renswoude-vraagt-aandacht-voor-veiligheid-brandweerposten",
+      "source": "/news-static/images/gereedschap-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "bewoners-vragen-maatregelen-tegen-hard-rijden-in-harmelen",
+      "source": "/news-static/images/bijeenkomst-microfoon-2025.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "oudewater-kiest-voor-jaarwisseling-zonder-vuurwerkontheffingen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "circa-tweeduizend-geplande-woningen-in-amersfoort-wachten-op-netruimte",
+      "source": "/news-static/images/energie-hoogspanningsstation-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "nieuwe-vragen-over-gemeentelijke-informatie-bij-verkoop-valckenhof",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "montfoort-vraagt-inwoners-tijdig-na-te-denken-over-later-wonen",
+      "source": "/news-static/images/wonen-huissleutels-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "nieuwegein-diamonds-u21-kampioen-na-winst-in-linschoten",
+      "source": "/news-static/editorial-covers/nieuwegein-diamonds-u21-kampioen-na-winst-in-linschoten.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "lopik-verleent-deze-jaarwisseling-geen-vuurwerkontheffingen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "utrechts-landschap-koopt-grond-tussen-sandwijck-en-oostbroek",
+      "source": "/news-static/editorial-covers/utrechts-landschap-koopt-grond-tussen-sandwijck-en-oostbroek.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "renswoude-wijst-op-vergoeding-van-200-euro-via-grebbepas",
+      "source": "/news-static/editorial-covers/renswoude-wijst-op-vergoeding-van-200-euro-via-grebbepas.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "victum-u17-pakt-veldtitel-en-gaat-naar-hoofdklasse",
+      "source": "/news-static/editorial-covers/victum-u17-pakt-veldtitel-en-gaat-naar-hoofdklasse.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "brandweer-blust-brandende-olievaten-in-waverveen",
+      "source": "/news-static/images/brandweer-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "inductorstraat-afgesloten-bij-brandmelding-in-bedrijfshal",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "midlandia-j1-sluit-veldcompetitie-af-met-winst-op-kampioen-skf",
+      "source": "/news-static/editorial-covers/midlandia-j1-sluit-veldcompetitie-af-met-winst-op-kampioen-skf.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "nieuw-hulppunt-voor-geld-en-regelzaken-in-meerkerk",
+      "source": "/news-static/images/euro-biljet-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "rhenen-blikt-terug-op-week-tegen-ondermijning",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "politieoproep-na-oplichting-woerdenaar-en-pinbetaling-in-utrecht",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "stille-tocht-van-kamp-amersfoort-naar-station-herdenkt-deportaties",
+      "source": "/news-static/images/amersfoort-centraal-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "drie-mantelzorgsteunpunten-organiseren-theaterbezoek-in-baarn",
+      "source": "/news-static/images/theaterzaal-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "duurzaamheidsmarkt-aangekondigd-bij-cultuurhuis-woudenberg",
+      "source": "/news-static/images/energie-hoogspanningsstation-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "amersfoort-start-nieuwe-campagne-voor-woningisolatie",
+      "source": "/news-static/images/commons-subject-155402719.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "breukelen-krijgt-beweegroute-met-tien-sporttoestellen",
+      "source": "/news-static/editorial-covers/breukelen-krijgt-beweegroute-met-tien-sporttoestellen.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "damwand-geplaatst-bij-binnenstad-wijk-bij-duurstede",
+      "source": "/news-static/images/wegwerk-asfalt-2022.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "nieuwegeinse-raad-vraagt-protocol-tegen-bedreiging-van-politici",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "sv-houten-krijgt-eigen-supportersgroep-blue-white-army",
+      "source": "/news-static/images/voetbal-gras-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "proveenendaal-vraagt-aanpassing-omgeving-wilhelminastraat",
+      "source": "/news-static/images/bouwplaats-fundering-2023.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "lopikse-raad-vraagt-maatwerk-voor-landbouw-bij-natuurgebieden",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "bestuurder-aangehouden-na-botsing-op-herenweg-in-vinkeveen",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "nova-verliest-laatste-veldduel-bij-mia-nipt",
+      "source": "/news-static/editorial-covers/nova-verliest-laatste-veldduel-bij-mia-nipt.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "heuvelrug-vraagt-aandacht-voor-signalen-van-drugshandel",
+      "source": "/news-static/images/politie-auto-2024.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "montfoort-schuift-debat-over-windenergie-cattenbroek-op",
+      "source": "/news-static/images/energie-hoogspanningsstation-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "omwonenden-beverweerd-kritisch-over-omvang-hotelplannen",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "twee-woudenbergse-echtparen-vieren-zestig-jaar-huwelijk",
+      "source": "/news-static/editorial-covers/twee-woudenbergse-echtparen-vieren-zestig-jaar-huwelijk.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "svf-geeft-voorsprong-van-twee-doelpunten-weg-bij-pvc",
+      "source": "/news-static/images/voetbal-gras-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "ijfc-vrouwen-winnen-met-2-0-van-saestum",
+      "source": "/news-static/images/voetbal-gras-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "benefietfestival-in-everdingen-brengt-ruim-11-500-euro-op-voor-kwf",
+      "source": "/news-static/editorial-covers/benefietfestival-in-everdingen-brengt-ruim-11-500-euro-op-voor-kwf.svg",
+      "type": "illustration"
+    },
+    {
+      "slug": "fatbiker-gewond-bij-botsing-op-rembrandtlaan-in-woerden",
+      "source": "/news-static/images/zorg-stethoscoop-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "ijsselmeervogels-wint-spakenburg-verliest-en-eemdijk-speelt-gelijk",
+      "source": "/news-static/images/ijsselmeervogels-sportpark-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "flitspaal-aangevraagd-voor-amsterdamsestraatweg-in-baarn",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "raad-steunt-bedrijveninvesteringszone-muntplein",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "renswoude-wijst-op-heropening-noodfonds-energie-in-januari",
+      "source": "/news-static/images/energie-hoogspanningsstation-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "gemeentehuis-soest-krijgt-ingang-aan-achterzijde",
+      "source": "/news-static/images/inspraak-microfoon-2026.jpg",
+      "type": "photo-or-club-logo"
+    },
+    {
+      "slug": "man-met-scootmobiel-uit-water-gehaald-in-benschop",
+      "source": "/news-static/images/brandweer-2024.jpg",
+      "type": "photo-or-club-logo"
+    }
+  ]
+}

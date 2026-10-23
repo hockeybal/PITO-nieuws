@@ -1,12 +1,32 @@
 """Explainable local editorial ranking. Scores are judgments, never audience measurements."""
 import datetime, os
+from zoneinfo import ZoneInfo
 WEIGHTS={'impact':7,'reach':4,'urgency':3,'duration':2,'actionability':1} # 85 + freshness 15
 LABELS={'impact':'Ernst van de gevolgen','reach':'Bereik onder inwoners','urgency':'Urgentie','duration':'Duur van de gevolgen','actionability':'Handelingsperspectief'}
 def today():
  from seo import today as local_today
  return local_today()
+def local_date(value):
+ if not value:return ''
+ if len(value)==10:return datetime.date.fromisoformat(value).isoformat()
+ stamp=datetime.datetime.fromisoformat(value.replace('Z','+00:00'))
+ if stamp.tzinfo is not None:stamp=stamp.astimezone(ZoneInfo('Europe/Amsterdam'))
+ return stamp.date().isoformat()
+def article_date(a):
+ # Missing source dates stay missing in source attribution. The real first
+ # PITO publication can still place an own report in the public selection.
+ return local_date(a.get('sourcePublishedAt') or a.get('webPublishedAt') or '')
+def chronology_key(a):
+ # Prefer a real source timestamp when available; date-only source records
+ # remain in their original day and never inherit their test-import time.
+ value=a.get('sourcePublishedAtExact') or a.get('sourcePublishedAt') or a.get('webPublishedAt') or ''
+ try:
+  stamp=datetime.datetime.fromisoformat(value.replace('Z','+00:00')) if 'T' in value else datetime.datetime.combine(datetime.date.fromisoformat(value),datetime.time())
+  if stamp.tzinfo is None:stamp=stamp.replace(tzinfo=ZoneInfo('Europe/Amsterdam'))
+  return (stamp.astimezone(datetime.timezone.utc).isoformat(),a.get('slug',''))
+ except (ValueError,TypeError):return ('',a.get('slug',''))
 def age(a):
- try:return (today()-datetime.date.fromisoformat(a.get('sourcePublishedAt') or '')).days
+ try:return (today()-datetime.date.fromisoformat(article_date(a))).days
  except ValueError:return 99999
 def is_recent(a):return 0<=age(a)<=14
 
@@ -28,13 +48,13 @@ def importance(a):
 def order(items,mode='relevance',diversify=True):
  # Cluster is editorial; identical source URLs also collapse. Newest version wins.
  dedup={}
- for a in sorted(items,key=lambda a:(a.get('sourcePublishedAt') or '',a['slug']),reverse=True):
-  key=a.get('ranking',{}).get('cluster') or a['sourceUrl']
+ for a in sorted(items,key=lambda a:(article_date(a),a['slug']),reverse=True):
+  key=a.get('ranking',{}).get('cluster') or a.get('sourceUrl') or a.get('documentId') or a['slug']
   if key not in dedup:dedup[key]=a
  scores={id(a):score(a) for a in dedup.values()}
- pending=sorted(dedup.values(),key=lambda a:(scores[id(a)],a.get('sourcePublishedAt') or '',a['slug']),reverse=True)
+ pending=sorted(dedup.values(),key=lambda a:(scores[id(a)],article_date(a),a['slug']),reverse=True)
  if mode=='relevance':return relevant_order(pending,diversify)
- if mode=='latest':return sorted(pending,key=lambda a:(a.get('sourcePublishedAt') or '',a['slug']),reverse=True)
+ if mode=='latest':return sorted(pending,key=chronology_key,reverse=True)
  if not diversify:return pending
  chosen=[];cats={};places={}
  # Small documented diversity penalty only for first three positions. Never adds irrelevant news.
@@ -42,7 +62,7 @@ def order(items,mode='relevance',diversify=True):
   def adjusted(a):
    location=tuple(sorted(a.get('municipalities',[])))
    return scores[id(a)]-min(8,4*cats.get(a['category'],0))- (min(6,3*places.get(location,0)) if len(location)==1 else 0)
-  pick=max(pending,key=lambda a:(adjusted(a),scores[id(a)],a.get('sourcePublishedAt') or '',a['slug']))
+  pick=max(pending,key=lambda a:(adjusted(a),scores[id(a)],article_date(a),a['slug']))
   pending.remove(pick);chosen.append(pick);cats[pick['category']]=cats.get(pick['category'],0)+1
   loc=tuple(sorted(pick.get('municipalities',[])));places[loc]=places.get(loc,0)+1
  return chosen+pending
@@ -89,7 +109,7 @@ def audience(a):
 def relevance_tier(a):
  r=audience(a);start=r.get('actionFrom');end=r.get('actionUntil')
  window=bool(start and end and start<=today().isoformat()<=end)
- if (is_recent(a) and a.get('reviewStatus')=='approved' and a.get('reviewer') and
+ if (is_recent(a) and a.get('reviewStatus')=='approved' and (a.get('humanReviewed') or a.get('reviewer')) and
      r.get('alertConfirmed') and r.get('alertCheckedOn')==today().isoformat() and window):return 3
  if is_recent(a) and start and end and r.get('audienceNeed') in ('service','participation'):
   days=(datetime.date.fromisoformat(start)-today()).days
@@ -107,7 +127,7 @@ def relevant_order(items,diversify=True):
  # while selecting the first six stories; the remaining order is a stable sort.
  values={id(a):(relevance_tier(a),int(is_recent(a)),
                 int(a.get('ranking',{}).get('impact',0)),
-                a.get('sourcePublishedAt') or '',a['slug']) for a in pending}
+                article_date(a),a['slug']) for a in pending}
  while pending and diversify and len(chosen)<6:
   def key(a):
    # Tiers protect verified warnings and time-bounded practical information.
@@ -122,4 +142,4 @@ def relevant_order(items,diversify=True):
 def province_frontpage(items):
  """Local club reports stay in their municipal edition; wider consequences lead."""
  pool=[a for a in items if a.get('editorialScope')!='municipal']
- return sorted(pool,key=lambda a:(relevance_tier(a),int(is_recent(a)),int(a.get('ranking',{}).get('impact',0)),int(len(a.get('municipalities',[]))>1),score(a),a.get('sourcePublishedAt','')),reverse=True)
+ return sorted(pool,key=lambda a:(relevance_tier(a),int(is_recent(a)),int(a.get('ranking',{}).get('impact',0)),int(len(a.get('municipalities',[]))>1),score(a),article_date(a)),reverse=True)

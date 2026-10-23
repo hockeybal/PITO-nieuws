@@ -1,0 +1,25 @@
+[Unit]
+Description=PITO Strapi sources and Firecrawl article concepts
+Wants=network-online.target
+After=network-online.target
+Conflicts=pito-newsroom.service
+
+[Service]
+Type=oneshot
+User=pito-preview
+Group=pito-preview
+WorkingDirectory=/srv/PITO-nieuws/pito-nieuws
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONDONTWRITEBYTECODE=1
+Environment=TZ=Europe/Amsterdam
+EnvironmentFile=/etc/pito-news/newsroom.env
+ExecStart=/srv/PITO-nieuws/pito-nieuws/.venv/bin/python -B /srv/PITO-nieuws/pito-nieuws/scripts/run_source_pipeline.py --limit 3
+TimeoutStartSec=12min
+UMask=0077
+Nice=10
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+RestrictSUIDSGID=true
+ReadWritePaths=/srv/PITO-nieuws/pito-nieuws/data

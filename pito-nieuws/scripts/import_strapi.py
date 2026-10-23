@@ -1,36 +1,65 @@
-"""Strapi 5 draft-only import. Default dry run; explicit --apply required."""
-import argparse,json,os,sys,urllib.request,urllib.parse,urllib.error
+"""Explicit legacy draft import into the new CMS; default is a local dry run.
+
+Apply requires --slug for each reviewed legacy item. Existing CMS documents
+are returned untouched by the server's idempotent draft ingress.
+"""
+import argparse
+import hashlib
+import json
+import os
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
-FIELDS=['slug','title','summary','body','category','municipalities','sourceUrl','sourceName','sourcePublishedAt','eventDate','dateNote','verifiedAt','reviewer','reviewNote','rights','sensitive','impact','imageKey','imageTopics','additionalSources','ranking']
-def payload(a):
- d={k:a.get(k) for k in FIELDS};d['reviewStatus']='approved' if a['reviewStatus']=='approved' else 'needs_review';d['provinceWide']=a.get('provinceWide',False);d['publishedAt']=None
- return {'data':d}
-def request(base,path,token,method='GET',body=None):
- req=urllib.request.Request(base+path,data=json.dumps(body).encode() if body is not None else None,method=method,headers={'Authorization':'Bearer '+token,'Content-Type':'application/json'})
- with urllib.request.urlopen(req,timeout=20) as r:return json.load(r)
-def main():
- ap=argparse.ArgumentParser();ap.add_argument('--apply',action='store_true');ap.add_argument('--approved-only',action='store_true');a=ap.parse_args()
- records=[r for r in json.loads((ROOT/'data/articles.json').read_text()) if r['reviewStatus'] in (['approved'] if a.approved_only else ['preview','approved'])]
- endpoint='/api/pito-news-articles';plan=[{'slug':r['slug'],'method':'upsert draft only','endpoint':endpoint+'?status=draft','payload':payload(r)} for r in records]
- if not a.apply:
-  (ROOT/'strapi/import-plan.json').write_text(json.dumps(plan,ensure_ascii=False,indent=2));print(f'Dry run: {len(plan)} concepten voorbereid in strapi/import-plan.json. Geen netwerkverzoeken.');return
- base=os.environ.get('STRAPI_URL','').rstrip('/');token=os.environ.get('STRAPI_TOKEN','');u=urllib.parse.urlsplit(base)
- if not token or not base:sys.exit('Stel STRAPI_URL en STRAPI_TOKEN in de procesomgeving in.')
- if u.scheme!='https' and not (u.scheme=='http' and u.hostname in ['127.0.0.1','localhost']):sys.exit('HTTPS vereist buiten localhost')
- if u.username or u.password or u.query or u.fragment:sys.exit('Ongeldige basis-URL')
- # Do not guess a Strapi version or mutate an unconfirmed schema.
- if os.environ.get('STRAPI_MAJOR_VERSION')!='5' or os.environ.get('STRAPI_DRAFT_PUBLISH_CONFIRMED')!='true':sys.exit('Bevestig Strapi 5 en Draft & Publish via STRAPI_MAJOR_VERSION=5 en STRAPI_DRAFT_PUBLISH_CONFIRMED=true.')
- for item in plan:
-  query=urllib.parse.urlencode({'filters[slug][$eq]':item['slug'],'status':'draft','pagination[pageSize]':2})
-  found=request(base,endpoint+'?'+query,token)['data']
-  if len(found)>1:sys.exit('Dubbele slug in Strapi; import gestopt.')
-  if found:
-   doc=found[0].get('documentId')
-   if not doc:sys.exit('Geen Strapi 5 documentId; import gestopt.')
-   # Preserve edits made in CMS: existing records are deliberately not overwritten.
-   print(item['slug']+': bestaand concept overgeslagen');continue
-  result=request(base,endpoint+'?status=draft',token,'POST',item['payload'])
-  if result.get('data',{}).get('publishedAt') is not None:sys.exit('ONVERWACHT gepubliceerde response; verdere import gestopt. Controleer Strapi.')
-  print(item['slug']+': concept aangemaakt')
-if __name__=='__main__':main()
+import sys
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+from strapi_news import DraftClient, StrapiNewsError
+
+FIELDS = ('slug', 'title', 'summary', 'body', 'category', 'municipalities', 'sourceUrl',
+          'sourceName', 'sourcePublishedAt', 'eventDate', 'dateNote', 'rights', 'sensitive',
+          'impact', 'imageTopics', 'additionalSources', 'ranking')
+
+
+def payload(article):
+    data = {key: article[key] for key in FIELDS if article.get(key) is not None}
+    identity = hashlib.sha256((article['sourceUrl']+'\n'+article['slug']).encode()).hexdigest()
+    data.update(externalKey='legacy-preview:'+identity, eventKey=article.get('eventKey') or 'legacy:'+identity,
+                origin='import', provinceWide=article.get('provinceWide', False), sourceBased=True,
+                evidenceReference='legacy-preview:'+identity,
+                privateEvidence={'legacySlug': article['slug'], 'requiresEditorialReview': True})
+    return {'data': data}
+
+
+def main(argv=None):
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--apply', action='store_true')
+    parser.add_argument('--approved-only', action='store_true', help='Legacy-selectie; verleent geen CMS-goedkeuring')
+    parser.add_argument('--slug', action='append', default=[], help='Expliciete oude slug; herhaal voor meerdere concepten')
+    args = parser.parse_args(argv)
+    records = [row for row in json.loads((ROOT/'data/articles.json').read_text())
+               if row['reviewStatus'] in (['approved'] if args.approved_only else ['preview', 'approved'])
+               and (not args.slug or row['slug'] in args.slug)]
+    if args.slug and set(args.slug) != {row['slug'] for row in records}:
+        parser.error('Niet alle opgegeven slugs zijn gevonden in de toegestane selectie')
+    plan = [{'slug': row['slug'], 'method': 'idempotent draft only', 'endpoint': '/api/pito-news/drafts',
+             'payload': payload(row)} for row in records]
+    if not args.apply:
+        (ROOT/'strapi/import-plan.json').write_text(json.dumps(plan, ensure_ascii=False, indent=2))
+        print(str(len(plan))+' concepten voorbereid; geen netwerkverzoeken.')
+        return 0
+    if not args.slug:
+        parser.error('--apply vereist expliciete --slug selectie; oude previews worden niet blind geïmporteerd')
+    client = DraftClient.from_environment()
+    if client is None:
+        parser.error('Stel PITO_STRAPI_URL en PITO_NEWS_DRAFT_TOKEN server-side in')
+    for item in plan:
+        result = client.submit_data(item['payload']['data'])
+        print(item['slug']+(': concept aangemaakt' if result['created'] else ': bestaand CMS-document behouden'))
+    return 0
+
+
+if __name__ == '__main__':
+    try:
+        sys.exit(main())
+    except StrapiNewsError:
+        print('Conceptaanvoer niet bevestigd; dezelfde expliciete selectie kan veilig opnieuw worden aangeboden.', file=sys.stderr)
+        sys.exit(1)

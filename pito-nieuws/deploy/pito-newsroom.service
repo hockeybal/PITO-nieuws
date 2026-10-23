@@ -1,0 +1,27 @@
+[Unit]
+Description=PITO evidence-backed editorial concepts (shadow mode)
+Wants=network-online.target
+After=network-online.target pito-rss.service
+
+[Service]
+Type=oneshot
+User=pito-preview
+Group=pito-preview
+WorkingDirectory=/srv/PITO-nieuws/pito-nieuws
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONDONTWRITEBYTECODE=1
+Environment=TZ=Europe/Amsterdam
+EnvironmentFile=-/etc/pito-news/newsroom.env
+ExecStart=/srv/PITO-nieuws/pito-nieuws/.venv/bin/python -B /srv/PITO-nieuws/pito-nieuws/scripts/run_newsroom.py --limit 3
+TimeoutStartSec=6min
+UMask=0077
+Nice=10
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+RestrictSUIDSGID=true
+ReadWritePaths=/srv/PITO-nieuws/pito-nieuws/data
+
+# This unit intentionally creates drafts only. An operator must explicitly
+# Automatic publication is disabled; publish approved drafts through Strapi Content Manager. Do not add --publish.

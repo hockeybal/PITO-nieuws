@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-21T13:39:19.992768+00:00",
+  "scope": "Alle adressen uit de bevroren eerste selectie gecontroleerd; geen volledige dekking van alle bronsites.",
+  "sourceConfigurations": 205,
+  "frozenPageAddresses": 741,
+  "days": 14,
+  "outcomes": {
+    "access_gate": 388,
+    "blocked": 90,
+    "index": 27,
+    "collected": 177,
+    "needs_extraction": 42,
+    "outside_window": 8,
+    "provider_no_document": 9
+  },
+  "paidRequestsReserved": 265,
+  "providerBatchCredits": 246,
+  "pilotRequests": 10,
+  "creditsConsumed": 256,
+  "remainingCredits": 1132,
+  "archivedDocuments": 181,
+  "authoringCandidates": 166,
+  "newOwnConcepts": 126,
+  "authoringExcluded": 48,
+  "existingPreviewConcepts": 200,
+  "totalStrapiDrafts": 326,
+  "published": 0,
+  "grokRequests": 0,
+  "recursivePaidCrawl": false,
+  "automaticJobsEnabled": false
+}

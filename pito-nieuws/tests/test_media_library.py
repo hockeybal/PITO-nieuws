@@ -9,25 +9,55 @@ class LibraryTests(unittest.TestCase):
   lib={'a':{'file':file,'assetId':'same','topics':['bestuur']},'crop':{'file':file,'assetId':'same','topics':['bestuur']}}
   items=[{'slug':str(n),'imageTopics':['bestuur']} for n in range(3)]
   result=media_library.assign(items,lib)
-  self.assertEqual(sum(bool(a['_displayImageKey']) for a in result),3)
+  self.assertEqual(sum(bool(a['_displayImageKey']) for a in result),1)
+  self.assertEqual(sum(a['_suppressImage'] for a in result),2)
   self.assertFalse(media_library.assign([{'slug':'x','imageTopics':['rechtspraak']}],lib)[0]['_displayImageKey'])
   self.assertNotIn('_displayImageKey',items[0])
- def test_all_editions_deterministic_with_relevant_reuse(self):
+ def test_all_editions_deterministic_with_relevant_unique_images(self):
   lib=news.read('images')
   for m in ['']+[x['slug'] for x in news.read('municipalities')]:
    articles=[a for a in news.articles() if news.selected(a,m)][:12]
    selected=media_library.assign(articles,lib)
    ids=[media_library.identity(lib[a['_displayImageKey']]) for a in selected if a['_displayImageKey']]
    for a in selected:
-    self.assertEqual(bool(a['_displayImageKey']),bool(media_library.candidates(a,lib)))
+    if a['_displayImageKey']:self.assertIn(a['_displayImageKey'],media_library.candidates(a,lib))
+    else:self.assertTrue(a['_suppressImage'])
+   self.assertEqual(len(ids),len(set(ids)))
    self.assertEqual(selected,media_library.assign(articles,lib))
- def test_variety_before_reuse(self):
+ def test_shortage_keeps_unique_images_and_leaves_text_cards(self):
   file=next(iter(news.read('images').values()))['file']
   lib={k:{'file':file,'assetId':k,'topics':['bestuur']} for k in ['a','b']}
   items=[{'slug':str(n),'imageTopics':['bestuur']} for n in range(3)]
   rows=media_library.assign(items,lib)
-  self.assertEqual(len({a['_displayImageKey'] for a in rows}),2)
-  self.assertTrue(all(a['_displayImageKey'] for a in rows))
+  self.assertEqual(len({a['_displayImageKey'] for a in rows if a['_displayImageKey']}),2)
+  self.assertEqual(sum(bool(a['_displayImageKey']) for a in rows),2)
+  self.assertEqual(sum(a['_suppressImage'] for a in rows),1)
+ def test_page_composition_deduplicates_asset_aliases_without_removing_text(self):
+  library={'original':{'file':'one.jpg','assetId':'same'},'crop':{'file':'crop.jpg','assetId':'same'}}
+  markup=('<article><figure><img src="/news-static/images/one.jpg"><figcaption>First credit</figcaption></figure><h2>First article</h2></article>'
+          '<article class="story lead"><figure><img src="/news-static/images/crop.jpg"><figcaption>Repeated credit</figcaption></figure><h2>Second article</h2></article>'
+          '<a href="https://pito.app/event"><img class="invitation-event-photo" src="/news-static/images/one.jpg"><strong>Activity remains</strong></a>'
+          '<img src="/news-static/campaign/pito-logo.png"><img src="/news-static/campaign/pito-logo.png">')
+  html=media_library.deduplicate_images(markup,library)
+  self.assertEqual(html.count('/news-static/images/'),1)
+  self.assertIn('First credit',html);self.assertNotIn('Repeated credit',html)
+  for text in ('First article','Second article','Activity remains'):self.assertIn(text,html)
+  self.assertIn('<article class="story lead text-only"><h2>Second article</h2>',html)
+  self.assertEqual(html.count('/news-static/campaign/pito-logo.png'),2)
+ def test_matching_reassigns_flexible_article_before_leaving_a_gap(self):
+  library={'one':{'file':'one.jpg','assetId':'one'},'two':{'file':'two.jpg','assetId':'two'}}
+  articles=[{'slug':'flexible'},{'slug':'constrained'},{'slug':'unmatched'}]
+  with patch.object(media_library,'candidates',side_effect=[['one','two'],['one'],[]]):
+   rows=media_library.assign(articles,library)
+  self.assertEqual([a['_displayImageKey'] for a in rows],['two','one',''])
+  self.assertEqual(articles,[{'slug':'flexible'},{'slug':'constrained'},{'slug':'unmatched'}])
+ def test_suppressed_card_has_title_and_link_without_generic_cover(self):
+  a=dict(news.articles()[0],_suppressImage=True,_displayImageKey='')
+  html=news.card(a)
+  self.assertNotIn('<img',html)
+  self.assertIn(news.e(a['title']),html)
+  self.assertIn(news.url(a),html)
+  self.assertIn('text-only',html)
  def test_starter_city_image_and_explicit_fallback(self):
   self.assertNotIn('hero-baarn.png',starter.render([],'baarn'))
   self.assertNotIn('Nieuw gemeentebeeld volgt',starter.render([],'baarn'))
@@ -41,7 +71,7 @@ class LibraryTests(unittest.TestCase):
    self.assertEqual(media_library.eligible(image),accepted)
    self.assertEqual(media_library.media_for({'_displayImageKey':'x'},{'x':image}) is not None,accepted)
  def test_agenda_only_selected_city(self):
-  rows=[dict(title='Alleen Baarn',municipality='baarn',date='2026-10-11',label='Morgen',summary='',url='https://pito.app/a'),dict(title='Alleen Woerden',municipality='woerden',date='2026-10-11',label='Morgen',summary='',url='https://pito.app/b')]
+  rows=[dict(title='Alleen Baarn',municipality='baarn',date='2026-10-11',label='Morgen',summary='',url='https://pito.app/a',agendaHighlight=True),dict(title='Alleen Woerden',municipality='woerden',date='2026-10-11',label='Morgen',summary='',url='https://pito.app/b',agendaHighlight=True)]
   with patch.object(app_content,'get',return_value=(rows,'connected')), patch.object(news.seo,'today',return_value=__import__('datetime').date(2026,10,10)):
    html=community.page('baarn','agenda')
    self.assertIn('Alleen Baarn',html);self.assertNotIn('Alleen Woerden',html)

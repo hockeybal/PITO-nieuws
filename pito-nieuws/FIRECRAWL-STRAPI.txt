@@ -1,0 +1,146 @@
+PITO NIEUWS — STRAPI-BRONNEN EN FIRECRAWL
+Ingericht op 21 oktober 2026, Europe/Amsterdam.
+
+NIEUWSTE KEUZE VAN DE GEBRUIKER
+Eerst alle bronnen over de laatste 14 dagen verzamelen, Grok van xAI later
+activeren. Zie GROK-BRONARCHIEF.txt voor de nieuwe archiefworkflow. De schrijver
+is nu expliciet uitgeschakeld. De onderstaande beschrijving van de eerste
+directe bron-naar-conceptketen blijft als technische achtergrond behouden.
+
+GETESTE STAND
+De uitbreiding is geïnstalleerd in het eigen lokale Strapi-project, het beheer
+is gebouwd en 205 bronnen zijn daadwerkelijk geïmporteerd. Het lokale beheer
+draait op http://127.0.0.1:1337/admin. Reguliere cronjobs zijn bij deze teststart
+uitgeschakeld. De oorspronkelijke database en instellingen zijn geback-upt.
+95 gerichte Python-tests en 9 integratiecontroles met echte Strapi slagen.
+Firecrawl is twee keer echt gebruikt: één bronproef en één volledige run vanuit
+het eigen Strapi-bronnenregister tot opgeslagen bronbewijs. Voor de echte
+AI-schrijftest ontbreken nog de schrijfsleutel en expliciete modelnaam.
+Dit is geen productie-uitrol. Er is geen artikel openbaar gepubliceerd en de
+oude previewartikelen zijn niet naar Strapi gemigreerd of goedgekeurd.
+
+WERKING
+PITO Nieuwsbron in Strapi -> nieuwsfeed of bronpagina -> broninbox -> Firecrawl
+-> bewijscontrole en optionele AI-schrijver -> concept in PITO Nieuwsartikel
+-> inhoudelijke beoordeling en Publish in Strapi -> bestaande nieuwswebsite.
+
+Firecrawl is de uitleesdienst. Het bronnenregister blijft in Strapi. Er hoeft
+geen tweede permanente bronnenlijst in een Firecrawl-dashboard te worden beheerd.
+De bestaande agenda-collectie Calendar Source wordt hiervoor niet gebruikt.
+
+BESTANDEN EN PROJECTEN
+Nieuws: /Users/michelvannoort/sites/PITO-nieuws/pito-nieuws
+Strapi: /Users/michelvannoort/sites/website/pito/strapi
+De vijf nieuwe Strapi-bronbestanden staan ook als herhaalbare uitbreiding onder
+strapi/source-addon. Bestaande nieuws-publicatieregels zijn behouden.
+
+BRONNEN BEHEREN
+Open Strapi -> Content Manager -> PITO Nieuwsbron.
+- active: deze bron meenemen bij de volgende verwerking.
+- discovery=rss: nieuwe artikeladressen vinden in feed (RSS/Atom).
+- discovery=page: Firecrawl leest links op url; alleen articleHosts en
+  articlePathPrefix worden meegenomen, maximaal maxLinks (1-20).
+- discovery=manual: bron bewaren voor handmatig onderzoek, niet automatisch lezen.
+- reader=firecrawl: Firecrawl leest het volledige bronartikel.
+- reader=direct: de bestaande directe HTML-lezer leest het bronartikel.
+- articleHosts bevat exact de toegestane nieuwssites, geen jokertekens.
+- municipality/coverageCandidates geven mogelijke dekking aan; de schrijver
+  moet de gemeentekeuze alsnog onderbouwen met tekst uit de bron.
+- sourceKey is de blijvende broncode en hoort bij wijzigingen gelijk te blijven.
+
+De import bevat 205 bronnen: de 119 bestaande feeds zijn actief, de 86 overige
+onderzoeks-/archiefbronnen blijven handmatig. Maak van een handmatige bron pas
+een page-bron nadat de juiste nieuwsoverzichtspagina en het artikelpad zijn gekozen.
+De import overschrijft geen bestaande Strapi-bron, ook niet na een timeout.
+Bron uitschakelen stopt nieuwe aanvoer/verwerking; het trekt geen gepubliceerd
+artikel in. Intrekken van artikelen gebeurt in PITO Nieuwsartikel via Unpublish.
+
+Een page-bron wordt maximaal eenmaal per uur naar links gevraagd. Nieuwe links
+wachten minimaal de robots-crawlvertraging vóór inhoudelijk ophalen; meestal
+verwerkt een volgende uitvoering ze. discovery-tijd is nooit de brondatum.
+Pagina’s zonder vaststelbare publicatiedatum worden niet tot artikel verwerkt.
+
+INSTELLINGEN
+Privébestand: .env.pipeline.local, rechten 600, buiten Git.
+FIRECRAWL_API_KEY: jouw Firecrawl-sleutel.
+PITO_WRITER_API_KEY: sleutel van de bestaande OpenAI-schrijfdienst.
+PITO_WRITER_MODEL: expliciete modelnaam die Structured Outputs ondersteunt.
+PITO_FIRECRAWL_MAX_REQUESTS: maximaal 10 Firecrawl-verzoeken per uitvoering
+  standaard, instelbaar van 1 tot 50. Geen onbeperkte crawls of betaalde retries.
+PITO_NEWS_SOURCE_TOKEN: bronnenregister lezen.
+PITO_NEWS_SOURCE_IMPORT_TOKEN: eenmalig bronnen importeren; niet nodig in de job.
+PITO_NEWS_DRAFT_TOKEN: alleen artikelconcepten aanbieden.
+PITO_NEWS_READ_TOKEN: alleen gepubliceerde nieuws-snapshot lezen.
+PITO_STRAPI_URL: CMS-oorsprong zonder /api.
+
+De vier integratiesleutels staan uitsluitend server-side in Strapi .env en in
+het privébestand van de nieuwsapp. De OpenAI- en Firecrawl-sleutels horen alleen
+bij de worker. PITO_LOCAL_TEST=1 is uitsluitend voor de lokale HTTP-verbinding;
+op productie moet Strapi via HTTPS lopen en deze testinstelling ontbreken.
+
+GEBRUIKEN (vanuit de nieuwsmap)
+Controleer/importeer de bronnen; bestaande wijzigingen blijven behouden:
+  python3 -B scripts/import_source_registry.py --env-file .env.pipeline.local
+  python3 -B scripts/import_source_registry.py --env-file .env.pipeline.local --apply
+
+Een echte bron met maximaal één Firecrawl-verzoek testen, zonder schrijver:
+  python3 -B scripts/check_firecrawl.py --env-file .env.pipeline.local --source amersfoort-live
+
+Bronnen ophalen en maximaal drie eigen concepten maken:
+  python3 -B scripts/run_source_pipeline.py --env-file .env.pipeline.local --limit 3
+
+Alleen broninhoud verzamelen (geen AI-schrijver of artikelconcepten):
+  python3 -B scripts/run_source_pipeline.py --env-file .env.pipeline.local --collect-only --limit 1
+
+Voor een kleine echte ketentest kun je --source amersfoort-live toevoegen. Die
+broncode moet in het actuele CMS-register staan; andere bronnen worden dan niet
+opgehaald. Deze selectie verandert de broninstellingen in Strapi niet.
+
+Zonder schrijfsleutel plus model worden geen betaalde bronlezingen gestart in
+de normale schrijfmodus; de status is awaiting_writer. --collect-only is een
+expliciete opdracht om wel bronpagina’s te lezen. Bronfeeds worden apart gelezen.
+Een onbereikbaar/ongeldig CMS-register geeft een fout; geen terugval op de oude
+hardcoded bronnen. Voor de website blijft Strapi de publicatiebron; de oude
+data/articles.json is uitsluitend de lokale ontwerpvoorbeeldmodus.
+
+PRODUCTIE-JOB
+deploy/pito-source-pipeline.service en .timer zijn voorbereid voor de bestaande
+VPS. Gebruik /etc/pito-news/newsroom.env als privé-instellingenbestand (600).
+Installeer de geteste bronbestanden ook in de productie-Strapi en importeer daar
+het register vóór activering. Verwijder de importcredential uit de workeromgeving
+na de eenmalige import. Laat alleen de beperkte lees- en conceptsleutels staan.
+Stop pito-newsroom.timer om dubbele worker-aanroepen te vermijden. De oude
+pito-rss.timer mag blijven draaien; signalen worden op bron-URL samengevoegd.
+De nieuwe timer draait vijftien minuten na het einde van de vorige uitvoering.
+Geen timer wordt door alleen het toevoegen van deze bestanden geactiveerd.
+
+PUBLICATIE
+Automatische verwerking maakt concepten en geeft geen journalistieke goedkeuring.
+Controleer feiten, gemeentekeuze, bron-/gebeurtenisdatum, rechten en gevoeligheid.
+Vul reviewNote, verifiedAt en eventuele dateNote in, keur goed en gebruik Publish.
+Bronfoto’s worden niet automatisch overgenomen.
+
+BEHEER EN HERSTEL
+Private werkbestanden: data/newsroom/ (broninhoud, bewijs, verwerkingsstatus).
+Operationeel rapport: data/newsroom/source-pipeline-report.json.
+Strapi-bronneninbox: data/cms-source-inbox.json.
+Bewijs van de echte Firecrawl-proef: reports/firecrawl-live.json.
+Echte Strapi-integratietest: reports/firecrawl-strapi-e2e.json.
+Installatie en back-up-pad: reports/firecrawl-install.json.
+De back-up bevat een PostgreSQL-dump en de oorspronkelijke instellingen.
+Zet bij herstel eerst de job uit. Herstel alleen na beoordeling uit de dump;
+een databaseherstel vervangt ook latere redactiewijzigingen en is geen normale
+terugrolstap. De vijf toegevoegde bronbestanden kunnen afzonderlijk teruggezet.
+Het verwijderen van een bronmodel mag geen aanleiding zijn bestaande tabellen
+blind uit de database te verwijderen.
+
+TESTS HERHALEN
+  python3 -B -m unittest discover -s tests -p 'test_firecrawl_pipeline.py'
+  python3 -B -m unittest discover -s tests -p 'test_newsroom_worker.py'
+  python3 -B -m unittest discover -s tests -p 'test_strapi_news.py'
+  node scripts/test_firecrawl_strapi_e2e.cjs /Users/michelvannoort/sites/website/pito/strapi
+
+De laatste test gebruikt echte Strapi 5.50.2, een nieuwe tijdelijke PostgreSQL-
+database en echte Content Manager-verzoeken. Firecrawl en de schrijver zijn in
+die reproduceerbare test nagebootst. De aparte Firecrawl-proef gebruikt wél de
+echte dienst. Een geslaagde nagebootste schrijftest bewijst geen echte AI-uitvoer.

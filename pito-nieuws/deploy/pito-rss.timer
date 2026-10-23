@@ -1,0 +1,12 @@
+[Unit]
+Description=Update PITO RSS feeds every fifteen minutes
+
+[Timer]
+OnCalendar=*-*-* *:00/15:00 Europe/Amsterdam
+Persistent=true
+RandomizedDelaySec=20s
+AccuracySec=5s
+Unit=pito-rss.service
+
+[Install]
+WantedBy=timers.target

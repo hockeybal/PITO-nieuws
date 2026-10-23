@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-10-21T10:52:30.059926+00:00",
+  "pythonTests": {
+    "test_firecrawl_pipeline.py": 20,
+    "test_newsroom_worker.py": 31,
+    "test_strapi_news.py": 19,
+    "test_publication.py": 25,
+    "total": 95,
+    "failed": 0,
+    "skipped": 0
+  },
+  "realStrapiIntegrationChecks": 9,
+  "realFirecrawlChecks": 2,
+  "actualLocalSources": 205,
+  "activeFeedSources": 119,
+  "actualLocalStrapiAdmin": "http://127.0.0.1:1337/admin",
+  "writerLiveTest": "pending API key and explicit model",
+  "publicationChanges": false,
+  "productionDeployment": false
+}

@@ -182,7 +182,9 @@ def candidates(article,library):
  return [key for score,_,key in sorted(result,reverse=True) if score==best]
 def assign(articles,library=None):
  """Maximum matching gives every article a relevant image when feasible.
- Image identity collapses aliases/crops. State is per render, not global.
+ Image identity collapses aliases/crops. A shortage leaves text-only cards;
+ repeating a photograph or substituting an unrelated image is not a fallback.
+ State is per render, not global.
  """
  library=load() if library is None else library
  options=[candidates(a,library) for a in articles];owners={};chosen={}
@@ -196,7 +198,44 @@ def assign(articles,library=None):
   return False
  # Constrained stories go first; normal order is deterministic.
  for i in sorted(range(len(articles)),key=lambda n:(len(options[n]),n)):place(i,set())
- return [dict(a,_displayImageKey=chosen.get(i,options[i][0] if options[i] else '')) for i,a in enumerate(articles)]
+ return [dict(a,_displayImageKey=chosen.get(i,''),_suppressImage=i not in chosen) for i,a in enumerate(articles)]
+
+def deduplicate_images(markup,library=None,reserved=()):
+ """Keep a photograph once across independently rendered editorial blocks.
+
+ News cards, tips and agenda widgets are composed separately. Collapse aliases
+ by their recorded asset identity; remove an entire repeated figure so its
+ caption cannot remain attached to the next article. Standalone agenda images
+ can be omitted without removing the activity's date, title or link. Promotion
+ logos and icons live outside these editorial paths and remain untouched.
+ """
+ from html import unescape
+ from urllib.parse import urlsplit
+ library=load() if library is None else library
+ identities={'/news-static/images/'+v['file']:identity(v) for v in library.values() if v.get('file')}
+ def asset(src):
+  parsed=urlsplit(unescape(src))
+  if parsed.netloc and parsed.hostname not in ('pitonieuws.nl','www.pitonieuws.nl'):return None
+  path=parsed.path
+  if not path.startswith(('/news-static/images/','/news-static/editorial-covers/')):return None
+  return identities.get(path,path)
+ seen={asset(src) for src in reserved};seen.discard(None)
+ def keep(match):
+  fragment=match.group(0)
+  source=re.search(r'<img\b[^>]*\bsrc\s*=\s*([\"\'])(.*?)\1',fragment,re.I|re.S)
+  key=asset(source.group(2)) if source else None
+  if key is None:return fragment
+  if key in seen:return ''
+  seen.add(key)
+  return fragment
+ markup=re.sub(r'<figure\b[^>]*>.*?</figure>|<img\b[^>]*>',keep,markup,flags=re.I|re.S)
+ def text_card(match):
+  fragment=match.group(0)
+  if re.search(r'<img\b',fragment,re.I):return fragment
+  # Overlay card styles assume a photograph behind white text. Once a later
+  # duplicate figure is removed, restore the existing readable text-card style.
+  return re.sub(r'(<article\b[^>]*class=")([^"]*)',lambda x:x[0] if 'text-only' in x[2].split() else x[1]+x[2]+' text-only',fragment,count=1)
+ return re.sub(r'<article\b[^>]*class="story\b[^"]*"[^>]*>.*?</article>',text_card,markup,flags=re.I|re.S)
 def media_for(article,library=None):
  library=load() if library is None else library
  if '_displayImageKey' in article:
