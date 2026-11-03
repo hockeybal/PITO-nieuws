@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2026-10-29T13:47:10.469454+00:00",
+  "status": "complete",
+  "cms": "https://strapi.pito.app",
+  "reviewerBot": "PITO Eindredactie",
+  "writerRoutine": {
+    "name": "PITO dagelijkse nieuwsronde (concepten)",
+    "time": "06:00 Europe/Amsterdam",
+    "firecrawlCreditsPerRun": 40,
+    "confirmed": true
+  },
+  "reviewerRoutine": {
+    "name": "PITO dagelijkse eindcontrole",
+    "time": "07:00\u201307:20 Europe/Amsterdam",
+    "firecrawlCreditsPerRun": 0,
+    "created": true,
+    "confirmed": true,
+    "firstRun": "2026-10-30"
+  },
+  "tests": {
+    "domain": 22,
+    "realStrapiPostgres": 18
+  },
+  "liveChecks": {
+    "health": 204,
+    "snapshot": 200,
+    "published": 36,
+    "reviewQueue": 200,
+    "drafts": 33,
+    "pages": 2,
+    "writerQueue": 401,
+    "writerDirectPublish": 403,
+    "malformedReviewerDecision": 400
+  },
+  "backup": "/srv/pito-backups/reviewer-20261029",
+  "reviewTokenGenerated": true,
+  "reviewTokenPrinted": false,
+  "schemaMigration": false,
+  "paidRequestsStarted": false,
+  "liveArticlePublicationTest": {
+    "documentId": "qd1pmj13ni1ackq3lcr674q9",
+    "httpStatus": 200,
+    "status": "published",
+    "newlyPublished": true,
+    "url": "https://pitonieuws.nl/nieuws/utrecht/artikel/hagenweg-in-vianen-eind-november-vier-dagen-dicht-onder-a27",
+    "websiteStatus": 200,
+    "automaticLabel": true,
+    "indexable": true,
+    "humanReviewed": false,
+    "newsSnapshotCount": 37
+  },
+  "reviewTokenSecurelyEnteredByOwner": true,
+  "temporaryKeyFileRemoved": true,
+  "botConnection": {
+    "httpStatus": 200,
+    "pages": 2,
+    "drafts": 33,
+    "complete": true
+  },
+  "initialHold": {
+    "documentId": "bo92wu8las0zn3w8ah8taege",
+    "reason": "Reviewer identified unsupported or overly broad claims against original XON source",
+    "httpStatus": 200,
+    "persistedInStrapi": true
+  },
+  "backlog": {
+    "started": true,
+    "remainingAtStart": 31,
+    "completed": true,
+    "additionalPublished": 10,
+    "additionalHeld": 21,
+    "totalReviewed": 33,
+    "totalPublished": 11,
+    "totalHeld": 22
+  },
+  "completedAt": "2026-10-29T13:47:10.469454+00:00",
+  "finalLiveChecks": {
+    "checkedAt": "2026-10-29T13:46:16.182Z",
+    "health": 204,
+    "snapshot": 200,
+    "published": 47,
+    "writerQueue": 401,
+    "writerPublish": 403,
+    "malformedReview": 400,
+    "queue": 200,
+    "pages": 2,
+    "drafts": 22,
+    "eligible": 22,
+    "alreadyChecked": 22
+  },
+  "remainingUnreviewed": 0,
+  "botReportsPaidExtractionUsed": false,
+  "writerQualityFeedback": "dateNote, complete original evidence, active source matching, supported factual wording",
+  "writerQualityFeedbackConfirmed": true
+}

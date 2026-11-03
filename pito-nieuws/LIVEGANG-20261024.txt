@@ -1,0 +1,87 @@
+PITO NIEUWS — LIVEGANG EN SEO
+24 oktober 2026, Europe/Amsterdam
+
+Deze status vervangt de historische beschrijving van de openbare preview.
+
+UITGEVOERD
+- Nieuwe runtime en vormgeving uit lokale codeversie
+  f6e640a307cd6a76c1854fe272b3b051a118c8dd uitgerold naar
+  /srv/PITO-nieuws/pito-nieuws op root@2.31.50.83.
+- Bestaande serverdata, RSS-inbox en geheime instellingen behouden.
+- Publieke Caddy-proxy omgeschakeld van previewpoort 4198 naar de
+  gecontroleerde Gunicorn-productiebackend op 127.0.0.1:4201.
+- Globale X-Robots-Tag noindex verwijderd uit Caddy. De productiepagina's
+  volgen nu het bestaande indexeringsbeleid in search_visibility.py.
+- robots.txt staat crawlen toe en verwijst naar beide sitemaps.
+- Algemene sitemap bevat 1239 URL's: onder andere gemeentepagina's,
+  nuttige adressen en inhoudelijke officiële bekendmakingen.
+- Zoekresultaten blijven noindex. Interne redactie, data en onderzoeksbestanden
+  blijven onbereikbaar. De openbare voorbeeldmelding is verwijderd.
+
+CONTROLES
+- Op de aparte releasekopie zijn 79 productie-, SEO-, worker- en
+  Firecrawl-contracttests geslaagd als de normale servicegebruiker.
+- Caddyconfiguratie gevalideerd vóór reload.
+- Publieke verificatie staat in reports/livegang-20261024.json.
+  Dit rapport controleert alle 26 gemeenten, metadata, sitemap, interne
+  routes, Googlebot-user-agent en de gebruikte stylesheets/scripts.
+- Een nagebootste Googlebot-user-agent bewijst geen bezoek van echte Googlebot.
+- Search Console is in deze uitvoering niet geverifieerd en sitemaps zijn
+  niet vanuit een Google-account ingediend. Indexering is niet gegarandeerd.
+
+LIVE STRAPI: UITBREIDING UITGEROLD EN HTTPS-KOPPELING WERKT
+- Het door Michel opgegeven CMS is https://strapi.pito.app.
+- Op root@213.239.209.201, /srv/pito/strapi, is de geteste nieuwsuitbreiding
+  toegevoegd. Bestaande Strapi-versie 5.50.2 en overige appcode zijn behouden.
+  Alleen de nieuwsbestanden en de twee opstartaanroepen zijn toegevoegd.
+- Eerst een PostgreSQL-dump en code-/configuratiebackup gemaakt en gecontroleerd:
+  /srv/pito-backups/news-20261024T134651Z/ op de Strapi-server.
+  Aparte build: /srv/pito-news-deploy/20261024T134651Z/.
+- 18 domeintests, TypeScriptcontrole en productiebuild geslaagd.
+- Via de afgeschermde lokale CMS-API zijn 205 bronnen geregistreerd:
+  119 actieve RSS-bronnen en 86 handmatige bronverwijzingen.
+- Snapshot, bronnenregister en conceptingang bestaan nu. Afzonderlijke lees-,
+  concept-, bron- en importsleutels zijn server-side aangemaakt.
+  Website en worker hebben alleen de bij hun rol passende sleutels gekregen.
+- De CMS-backend is gecontroleerd op scheiding van tokens, afwijzen van
+  ongeldige concepten en blokkeren van automatisch publiceren.
+- De Cloudflare-blokkade (Browser Integrity Check, 403/1010) is na expliciete
+  goedkeuring van Michel opgelost met de actieve regel
+  PITO Nieuws API - serverkoppeling, ID 5c4731082ba44f31bfbb812f8e812a72.
+  Deze slaat uitsluitend Browser Integrity Check over voor strapi.pito.app,
+  paden /api/pito-news/* en bron-IP 2.31.50.83 of 2a01:4f8:1c16:6c3::1.
+  Logging blijft aan; andere Cloudflare-controles en Strapi-tokens blijven gelden.
+- De echte HTTPS-koppeling vanaf de nieuwsserver is gecontroleerd: snapshot
+  connected, 205 bronnen, 119 actief. Verkeerde tokenrollen geven 401,
+  ongeldige concepten 400 en automatisch publiceren 403.
+  Rapport: reports/strapi-https-20261024.json.
+- Er zijn daardoor nog geen gepubliceerde Strapi-nieuwsartikelen beschikbaar.
+  De lokale testconcepten zijn niet goedgekeurd of openbaar gepubliceerd.
+  De Google News-sitemap blijft terecht leeg.
+- De bestaande Firecrawl-sleutel is in de live workeromgeving ingesteld.
+- PITO_WRITER_PROVIDER=xai staat voorbereid. PITO_WRITER_ENABLED=0 en
+  PITO_FIRECRAWL_ENABLED=0 houden betaalde verwerking uitgeschakeld.
+- /etc/pito-news/grokbot.env op de NIEUWSSERVER bevat uitsluitend de CMS-origin,
+  bronsleutel en conceptsleutel voor de bedoelde bot; rechten 0600.
+  Het bevat geen CMS-import- of leessleutel en geen beheerderswachtwoord.
+- Michel gaat een nieuwe Grokbot aanmaken. GROKBOT-STARTOPDRACHT.txt bevat
+  de startinstructie en eerste kosteloze verbindingscontrole.
+  Bij gebruik van de Grok Bot-app gebruikt die bot de toegang van de app.
+  Alleen de afzonderlijke serverwriter vereist een xAI-API-sleutel.
+  De toegang vanaf de eigen cloudcomputer van een nieuwe externe bot is nog
+  niet gecontroleerd; de Cloudflare-uitzondering geldt alleen voor de nieuwsserver.
+- Eerst een begrensde volledige proef uitvoeren; daarna de timer activeren.
+  De bot schrijft concepten. Goedkeuren en publiceren gebeuren in Strapi.
+
+BEHEER EN HERSTEL
+- Serverconfiguratie: /etc/caddy/Caddyfile en /etc/pito-news/web.env.
+- Workerconfiguratie: /etc/pito-news/newsroom.env, rechten 0600.
+- Herstelbackup vóór wijziging:
+  /srv/pito-backups/livegang-20261024T132946Z/
+  met site-before.tar.gz, SHA256SUMS, Caddyfile en pito-news/.
+- Gecontroleerde releasekopie:
+  /srv/pito-releases/20261024T132946Z/pito-nieuws/.
+- Bij herstel eerst de inhoud van de backup bekijken. Herstel code en
+  configuratie gericht; overschrijf geen nieuwere RSS- of redactiedata.
+- De server-Git-HEAD is niet verplaatst: dit is een gecontroleerde
+  bestandendeployment. DEPLOYED-VERSION.json registreert de uitgerolde versie.

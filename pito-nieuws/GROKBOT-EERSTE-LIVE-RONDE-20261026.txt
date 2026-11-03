@@ -1,0 +1,51 @@
+EERSTE LIVE RONDE — PITO NIEUWSREDACTIE — 26 OKTOBER 2026
+De eigenaar heeft nu expliciet één ronde geautoriseerd langs alle 119 actieve RSS-bronnen uit live Strapi, bronpublicaties van de laatste 14 dagen (Europe/Amsterdam). Hij geeft toestemming om de daarvoor benodigde bestaande Firecrawl-credits te gebruiken en geschikte eigen nieuwsartikelen automatisch live te publiceren. Geen abonnement wijzigen, top-up kopen, premium betaalopties inschakelen of terugkerende routine instellen. Als het bestaande tegoed op is: sla voortgang op en meld dit. De 86 handmatige bronnen blijven buiten deze ronde.
+
+De backend is hiervoor aangepast en getest met echte Strapi in een aparte database. Het oude verbod op automatisch publiceren is voor deze expliciete ronde vervangen door onderstaande beperkte nieuwe ingang. Gebruik nooit CMS-adminrechten. De bestaande PITO_NEWS_DRAFT_TOKEN werkt op de nieuwe ingang. Het conceptendpoint blijft uitsluitend concepten opslaan. De publicatie-ingang sluit uiterlijk 27 oktober 2026 00:01:03 UTC; eerder zodra de ronde klaar is. Stel nooit zelf menselijke goedkeuring in. De CMS-server registreert automatisch auteurschap, automatische beoordeling en echte PITO-publicatietijd.
+
+VOER NU EERST SLECHTS ÉÉN ECHT ARTIKEL UIT, ALS KETENCONTROLE
+1. Noteer huidige tijd en, als de API dat beschikbaar maakt, het huidige Firecrawl-creditverbruik/resterende tegoed met jouw reeds opgeslagen FIRECRAWL_API_KEY. Toon nooit sleutels. Grok-appverbruik en Firecrawl-credits zijn verschillende tellers: rapporteer alleen werkelijk beschikbare meetwaarden, verzin geen Grok-tokenaantal of kosten.
+2. Lees het complete register op https://strapi.pito.app/api/pito-news/sources. Gebruik alleen active=true en discovery=rss. Ontdek recente artikelen via de echte feed, respecteer source.articleHosts, articlePathPrefix en maxLinks. Bewaar de broninventaris en de nog te verwerken queue privé zodat de volgende opdracht kan doorgaan zonder opnieuw te betalen. Geen netwerkcontroles omzeilen en geen geblokkeerde bronnen met nagebootste browseridentiteit proberen.
+3. Kies één helder, niet gevoelig, actueel lokaal artikel, bij voorkeur een gemeentebericht met een goed onderbouwde gemeente. Lees de volledige toegankelijke brontekst met gewone Firecrawl-scrape, respecteer robots en toegang. Gebruik geen zoek-/map-/crawl-over-heel-internet, premium proxy, image search of eindeloze retries. Bewaar de tekst en bronmetadata privé; scrape dezelfde URL niet nogmaals als het bewijs al volledig is opgeslagen.
+4. Schrijf een eigen Nederlandstalige titel, intro en artikel op basis van de gecontroleerde bronfeiten; geen gekopieerde tekst of zin-voor-zin-parafrase. Geen bronfoto overnemen. Verzin geen datums, citaten of auteurs. Leg de daadwerkelijke bronpublicatietijd vast; een artikel zonder bevestigde brondatum, met onvoldoende feitenbewijs of gevoelige inhoud blijft concept. Gemeente en rubriek moeten bij het artikel passen. Alle publieke tekst blijft gewone tekst zonder HTML.
+5. Publiceer één geschikt artikel via POST https://strapi.pito.app/api/pito-news/automatic-publish met Authorization: Bearer <PITO_NEWS_DRAFT_TOKEN>, Content-Type: application/json, zonder queryparameters. Body:
+{
+  "data": {
+    "externalKey": "stabiele identiteit van deze bron-URL",
+    "eventKey": "optionele stabiele gebeurtenisidentiteit voor ontdubbeling",
+    "title": "Eigen titel",
+    "summary": "Eigen intro, ten minste 30 tekens",
+    "body": "Eigen artikel met alinea's, ten minste 150 tekens",
+    "category": "Bestuur, Veiligheid, Verkeer, Wonen, Samenleving of Sport",
+    "municipalities": ["bestaande gemeenteslug"],
+    "provinceWide": false,
+    "sourceBased": true,
+    "sourceUrl": "exacte openbare HTTPS-bron-URL",
+    "sourceName": "werkelijke bronnaam",
+    "sourcePublishedAt": "werkelijke bronpublicatietijd ISO met tijdzone, niet ouder dan 14 dagen",
+    "eventDate": "alleen indien werkelijk bekend: YYYY-MM-DD",
+    "dateNote": "concrete toelichting indien gebeurtenisdatum afwijkt van brondatum",
+    "rights": "Concrete onderbouwing eigen tekst op basis van feiten, geen overgenomen beeld; minstens 30 tekens",
+    "sensitive": false,
+    "evidenceReference": "stabiele verwijzing naar het privé-brondossier",
+    "privateEvidence": {
+      "sourceUrl": "exact dezelfde URL als data.sourceUrl",
+      "sourceText": "volledige werkelijk opgehaalde brontekst, minimaal 300 tekens",
+      "fetchedAt": "werkelijk ophaaltijdstip ISO met tijdzone"
+    },
+    "origin": "writer"
+  },
+  "verification": {
+    "sourceKey": "exacte sourceKey uit het live register",
+    "checkedAt": "werkelijk controletijdstip ISO na of gelijk aan fetchedAt, niet in de toekomst",
+    "note": "Concrete inhoudelijke controle van feiten, plaats, datum en rechten; minimaal 30 tekens",
+    "facts": [{"statement": "Gecontroleerd feit in eigen woorden", "quote": "letterlijk terugvindbaar bewijsfragment van minimaal 20 tekens in sourceText"}],
+    "municipalityEvidence": [{"slug": "dezelfde gemeenteslug", "quote": "letterlijk terugvindbare bronpassage die deze gemeente onderbouwt, minimaal 10 tekens"}]
+  }
+}
+Laat optionele velden die je niet kent weg. Stel geen reviewKind, reviewStatus, reviewer, reviewedByAdminId, automaticReview, verifiedAt, authorName, authorType of publishedAt in: die beheert de CMS-server. Elke gemeente heeft eigen municipalityEvidence nodig. Feitenbewijs en gemeentequote moeten letterlijk in de meegestuurde volledige brontekst staan. De gemeentekeuze moet ook inhoudelijk uit dat bewijs volgen. Provinciebrede of gevoelige artikelen blijven concept via POST /api/pito-news/drafts {"data":...}, zonder verification-envelope of publicatievelden.
+
+HTTP 201 met data.status=published is een nieuwe live publicatie, HTTP 200 bewaart de identiteit van een eerder artikel. Een eerder gewijzigd, ingetrokken of verwijderd document nooit overschrijven of opnieuw publiceren. Bij ontbrekend bewijs/400: herstel alleen echte gegevens uit het opgeslagen bronbewijs, verander geen feiten om een validator tevreden te stellen; anders als concept opslaan en uitleggen. Bij 403, 401, Cloudflare of onverwachte 5xx: stop en rapporteer exacte fout zonder sleutels; niets omzeilen. Doe bij een onzekere timeout een idempotente retry met dezelfde identiteit.
+
+STOP NA DEZE ENE GESLAAGDE PUBLICATIE EN RAPPORTEER
+Geef documentId, slug, gebruikte bron-URL, gemeente, titel, echte HTTP-status/data.status, Firecrawl-verzoeken en daadwerkelijk gemeten credits. Lees de concrete openbare PITO-artikelpagina indien de URL uit de website bekend is; raad geen grote aantallen URL's. Laat de overige bronnen wachten tot Codex de websitecontrole bevestigt. Richt geen routine of timer in. Meld eventuele noodzakelijke beperkingen eerlijk en claim geen publicatie die de CMS-server niet heeft bevestigd.

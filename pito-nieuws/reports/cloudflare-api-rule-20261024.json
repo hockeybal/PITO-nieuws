@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-24T14:00:42.204052+00:00",
+  "zone": "pito.app",
+  "name": "PITO Nieuws API - serverkoppeling",
+  "ruleId": "5c4731082ba44f31bfbb812f8e812a72",
+  "status": "active",
+  "action": "skip",
+  "products": [
+    "bic"
+  ],
+  "logMatchingRequests": true,
+  "expression": "(http.host eq \"strapi.pito.app\" and ip.src in {2.31.50.83 2a01:4f8:1c16:6c3::1} and starts_with(http.request.uri.path, \"/api/pito-news/\"))",
+  "explicitUserConfirmation": true,
+  "sourceAddressVerified": true,
+  "httpsVerificationReport": "strapi-https-20261024.json"
+}

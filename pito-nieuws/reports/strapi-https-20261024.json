@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-24T13:59:12.752543+00:00",
+  "origin": "https://strapi.pito.app",
+  "newsServer": "2.31.50.83",
+  "httpsConnected": true,
+  "sources": 205,
+  "activeSources": 119,
+  "publishedArticles": 0,
+  "permissionChecks": [
+    {
+      "path": "/api/pito-news/snapshot",
+      "status": 401,
+      "expected": 401,
+      "ok": true
+    },
+    {
+      "path": "/api/pito-news/drafts",
+      "status": 401,
+      "expected": 401,
+      "ok": true
+    },
+    {
+      "path": "/api/pito-news/drafts",
+      "status": 400,
+      "expected": 400,
+      "ok": true
+    },
+    {
+      "path": "/api/pito-news/automatic-publish",
+      "status": 403,
+      "expected": 403,
+      "ok": true
+    }
+  ],
+  "allPassed": true,
+  "paidWorkersEnabled": false,
+  "cloudflareRuleId": "5c4731082ba44f31bfbb812f8e812a72"
+}

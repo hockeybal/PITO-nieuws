@@ -1,3 +1,93 @@
+VOLLEDIG BESTAAND BRONARCHIEF — 30 OKTOBER 2026
+Op verzoek van de gebruiker is het volledige bestaande lokale bronarchief zonder
+periodefilter verwerkt. Resultaat in data/newsroom/volledig-archief-20261030/:
+4.256 unieke bronadressen, 2.405 bruikbare opgeslagen teksten, 1.746 versies van
+bestaande eigen artikelen en 20.645 afzonderlijke bekendmakingen/raads-/NDW-signalen.
+Acht oudere teksten zijn hersteld uit opgeslagen HTML. 1.743 bronadressen vragen
+nog volledige brontekst; 462 daarvan hebben al een eigen artikelverwijzing.
+269 beschikbare teksten zonder eigen artikel, zeven identieke teksten en twee
+datumgevallen staan in writing-queue.json; dat is geen publicatiegoedkeuring.
+Oorspronkelijke besluiten en ontbrekende HTML/datumconflicten blijven zichtbaar.
+Open bronnenbibliotheek.html en signalenbibliotheek.html lokaal; LEESMIJ.txt en
+processing-report.json leggen de herkomst, aantallen en beperkingen vast.
+Herhaalbaar via scripts/process_existing_archive.py --output <privemap>.
+Zes gerichte tests en SQLite-integriteits-/dekkingscontroles geslaagd; het
+bronnenoverzicht is visueel in Chrome bekeken. Zoek-/filtercode lokaal getest.
+Geen betaalde API-verzoeken, nieuwe artikelen, CMS-wijzigingen of publicaties.
+De oorspronkelijke bestanden en het bestaande bronarchief zijn niet aangepast.
+
+APARTE EINDREDACTIE — 29 OKTOBER 2026
+Eigenaar heeft een aparte controlebot goedgekeurd. PITO Eindredactie is aangemaakt.
+Live Strapi heeft nu een afzonderlijke PITO_NEWS_REVIEW_TOKEN en de routes
+GET /api/pito-news/review-queue, POST /api/pito-news/review-decision.
+De schrijverssleutel kan GEEN /automatic-publish meer uitvoeren (HTTP403).
+Bestaande schrijfroutine bevestigd: dagelijks06:00, alleenconcepten,40Firecrawlcredits.
+De eigenaar heeft de aparte sleutel veilig ingevoerd; tijdelijk kopieerbestand verwijderd.
+Controleroutine bevestigd: dagelijks07:00–07:20 Europe/Amsterdam,vanaf30oktober.
+Echte ketenproef: Woudenbergconcept bo92wu8las0zn3w8ah8taege is inhoudelijk
+tegengehouden met controlemelding; Hagenwegconcept qd1pmj13ni1ackq3lcr674q9
+is daadwerkelijk gepubliceerd,zelfdeID,websiteHTTP200,automatischevermelding.
+De eerste ronde is afgerond: alle33concepten beoordeeld,11gepubliceerd,22hold.
+De website leest47geldige publicaties; alle22resterende concepten hebben een
+controleverslag. Geen betaalde extractie door de eindredactie.
+De schrijver krijgt preventieve feedback over bronbewijs, datumtoelichting en feiten.
+22domeintests en18echteStrapi/PostgreSQL-integratiechecks geslaagd.
+Back-up: /srv/pito-backups/reviewer-20261029. Geen schemawijzigingen.
+Zie GROKBOT-EINDREDACTIE.txt en reports/reviewer-20261029.json voor actuele status.
+
+HISTORISCHE STATUS
+
+HERSTEL PUBLICATIE — 29 OKTOBER 2026
+Eigenaar heeft expliciet DOORLOPEND publiceren toegestaan. Live Strapi heeft
+nu PITO_NEWS_AUTOMATIC_PUBLISH_ENABLED=1; de tijdelijke vervaldatum is verwijderd.
+De bestaande DRAFT_TOKEN en /automatic-publish blijven gelden; /drafts blijft
+alleen concepten opslaan. Bron-/datum-/bewijscontroles blijven ongewijzigd.
+Identieke, nog ongewijzigde eigen botconcepten kunnen alsnog publiceren met
+HTTP 200, hetzelfde documentId en newlyPublished=true. Menselijke saves,
+gewijzigde voorstellen, verwijderingen en intrekkingen worden nooit overschreven.
+Handmatig in Strapi: echte controle uitvoeren, Beoordelings- of correctienotitie
+invullen, Redactionele beoordeling=approved, Save, daarna Publish. Bij die
+expliciete goedkeuringsactie vult de server verifiedAt zelf met het echte
+tijdstip. De datumkiezer is alleen-lezen. Foutmeldingen geven deze stappen aan.
+Getest: 22 domeintests en 10 echte Strapi/PostgreSQL-integratiechecks, inclusief
+handmatig goedkeuren/publiceren, doorlopende toegang ondanks oude vervaldatum,
+concept alsnog publiceren, bescherming menselijke wijzigingen/intrekkingen en
+behoud van bestaande dashboardindeling.
+Back-up: /srv/pito-backups/publication-fix-20261029 op de CMS-server.
+De bestaande Grok-routine is bevestigd als PITO dagelijkse nieuwsronde (publiceren),
+06:00 Europe/Amsterdam, maximaal40Firecrawl-credits; geen extra crawl of tweede routine.
+Echte ketencontrole geslaagd: het bestaande Amersfoortse raamkunstwerkconcept
+dnbodwlru73pp9i19f5orwae is met HTTP200/newlyPublished=true gepubliceerd,
+ongewijzigd en zonder duplicaat of nieuwe scrape. Nieuwssnapshot geldig, 36 publicaties.
+Geen nieuwe API-sleutel nodig. Afbeeldingen zijn met dit herstel niet uitgebreid.
+
+HISTORISCHE STATUS
+
+LIVE GROKBOT EN AUTOMATISCHE PUBLICATIE — 26 OKTOBER 2026
+De website draait live met SEO/indexering aan op pitonieuws.nl. Live CMS is
+https://strapi.pito.app op root@213.239.209.201, /srv/pito/strapi; de nieuwssite
+staat op root@2.31.50.83, /srv/PITO-nieuws/pito-nieuws. Dit vervangt oudere
+meldingen hieronder dat de site alleen lokaal/noindex is.
+Nieuwe Grok Bot PITO Nieuwsredactie heeft alle drie bestaande sleutels veilig
+opgeslagen en leest het live bronnenregister (205 totaal, 119 actieve RSS).
+Eigenaar heeft op 26 oktober expliciet één ronde met Firecrawl en automatische
+live publicatie toegestaan. Eerste echte artikel is daadwerkelijk gepubliceerd,
+op de website en tegen de officiële bron gecontroleerd; 1 Firecrawl-credit.
+De resterende ronde is aan de bot opgedragen. Zie GROKBOT-LIVE-KOPPELING.txt
+en reports/automatic-publication-20261026.json voor actuele voortgang.
+De tijdelijke automatische ingang sluit uiterlijk 27 oktober 00:01:03 UTC;
+sluit eerder zodra de ronde klaar is. /drafts blijft uitsluitend concepten.
+Automatische artikelen dragen humanReviewed=false, reviewKind=automatic en
+zichtbaar 'Automatisch samengesteld'; geen verzonnen menselijke beoordeling.
+Onvoldoende onderbouwde, gevoelige en provinciebrede berichten blijven concept.
+Geen herhaaltimers/abonnementwijzigingen. Firecrawl-credits zijn apart van
+Grok-app-tokens; app-tokens zijn alleen te rapporteren als werkelijk beschikbaar.
+De additive Strapi-code staat in strapi/automatic-publication-addon/; 21 domein-,
+20 website-adaptertests en 6 echte Strapi/PostgreSQL-integratiechecks geslaagd.
+Back-ups op beide servers: /srv/pito-backups/automatic-20261026.
+
+HISTORISCHE OVERDRACHT EN LOKALE TESTEN
+
 GROTERE LOKALE TEST AFGEROND — 21 OKTOBER 2026
 Deze actualisatie vervangt de historische limiet/status van tien pagina's hieronder. Op nieuw verzoek zijn alle 741 geselecteerde adressen van 205 bronconfiguraties gecontroleerd. Firecrawl leverde 177 nieuwe volledige bronartikelen op; het privé-archief bevat inclusief de vier eerdere nu 181 documenten. 388 pagina's liepen op een toestemmingspoort, 90 op robots/bereikbaarheid, 27 waren indexpagina's, 42 vroegen extractiecontrole, 8 vielen buiten de periode en 9 leverden geen document. Er zijn 256 credits gebruikt; 1132 bleven over. Geen betaalde vervolgcrawl actief.
 

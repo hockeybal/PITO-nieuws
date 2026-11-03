@@ -176,12 +176,18 @@ def _article(row, wall_time, base_url=None):
     article['authorName'] = _text(author, 'author', 300)
     article['author'] = author
     author_type = row.get('authorType') or ('automatic' if 'automatisch' in author.lower() else 'human')
-    if author_type not in ('human', 'automatic') or row.get('humanReviewed', True) is not True:
+    human_reviewed = row.get('humanReviewed', True)
+    review_kind = row.get('reviewKind', 'human')
+    automatic_review = (author_type == 'automatic' and human_reviewed is False and review_kind == 'automatic')
+    if (author_type not in ('human', 'automatic') or type(human_reviewed) is not bool
+            or review_kind not in ('human', 'automatic')
+            or not (human_reviewed is True and review_kind == 'human' or automatic_review)):
         raise StrapiNewsError('CMS-auteurschap of beoordelingsbewijs ongeldig')
     article['authorType'] = author_type
-    # Authorship and human review are independent. A machine-written draft
-    # can be published only after the CMS gate records real editorial review.
-    article['humanReviewed'] = True
+    # The authenticated CMS records the review method. Never label an automatic
+    # publication as human reviewed, or accept it without explicit CMS evidence.
+    article['humanReviewed'] = human_reviewed
+    article['reviewKind'] = review_kind
     article['authorship'] = {'kind': 'automated' if author_type == 'automatic' else 'editorial'}
     additional = row.get('additionalSources') or []
     if not isinstance(additional, list) or any(not isinstance(s, dict) or not _https(s.get('url')) or not isinstance(s.get('name'), str) for s in additional):

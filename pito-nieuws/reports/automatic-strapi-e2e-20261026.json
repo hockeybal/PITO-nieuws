@@ -1,0 +1,31 @@
+{
+  "testedAt": "2026-10-25T23:59:29.551Z",
+  "actualStrapi": true,
+  "isolatedDatabase": "pito_firecrawl_e2e_0bee1f669f84a454",
+  "checks": [
+    {
+      "name": "Source endpoints reject public, news-reader and worker-write credentials",
+      "passed": true
+    },
+    {
+      "name": "Source import creates one managed Strapi source and preserves it on retry",
+      "passed": true
+    },
+    {
+      "name": "Unauthorized tokens, malformed evidence and protected client review fields cannot publish",
+      "passed": true
+    },
+    {
+      "name": "Real Strapi atomically saves evidence, records machine review and publishes once",
+      "passed": true
+    },
+    {
+      "name": "Withdrawn automatic articles are never resurrected by bot retries",
+      "passed": true
+    },
+    {
+      "name": "The original concept endpoint still cannot approve or publish",
+      "passed": true
+    }
+  ]
+}

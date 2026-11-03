@@ -1,0 +1,48 @@
+{
+  "testedAt": "2026-10-29T11:40:24.364475+00:00",
+  "cms": "https://strapi.pito.app",
+  "automaticPublishing": "continuous; explicitly authorized 2026-10-29",
+  "featureFlag": "PITO_NEWS_AUTOMATIC_PUBLISH_ENABLED=1",
+  "oldExpiryRemoved": true,
+  "manualWorkflow": [
+    "review content",
+    "enter reviewNote",
+    "select approved",
+    "Save",
+    "Publish"
+  ],
+  "verifiedAt": "server timestamp of explicit human approval",
+  "untouchedBotDraftPromotion": true,
+  "preservesHumanSavesAndWithdrawals": true,
+  "tests": {
+    "domain": 22,
+    "realStrapiPostgres": 10
+  },
+  "liveChecks": {
+    "health": 204,
+    "snapshot": 200,
+    "publishedBeforeBotCheck": 35,
+    "incompleteAutomaticSubmission": 400
+  },
+  "backup": "/srv/pito-backups/publication-fix-20261029",
+  "botRoutineUpdate": {
+    "confirmed": true,
+    "name": "PITO dagelijkse nieuwsronde (publiceren)",
+    "time": "06:00 Europe/Amsterdam",
+    "firecrawlCreditsPerRun": 40
+  },
+  "newPaidCrawlStarted": false,
+  "realPublicationCheck": {
+    "httpStatus": 200,
+    "status": "published",
+    "newlyPublished": true,
+    "created": false,
+    "documentId": "dnbodwlru73pp9i19f5orwae",
+    "url": "https://pitonieuws.nl/nieuws/utrecht/artikel/nieuw-raamkunstwerk-boven-ingang-stadhuis-amersfoort-draait-om-aandacht",
+    "originalDataUnchanged": true,
+    "newScrapes": 0,
+    "newsServerSnapshotValidated": true,
+    "publishedTotalAfterCheck": 36
+  },
+  "completedAt": "2026-10-29T11:42:49.098517+00:00"
+}

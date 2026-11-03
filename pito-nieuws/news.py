@@ -216,6 +216,9 @@ def detail(a,municipality=""):
  if not citations:extras=e(a.get('sourceName') or 'Eigen verslaggeving PITO')
  published=a.get('webPublishedAt') if a.get('publicationStatus')=='published' else None
  byline=e(a.get('authorName') or 'PITO Nieuws')
+ if a.get('authorType')=='automatic' or a.get('authorship',{}).get('kind')=='automated':
+  byline+=' · Automatisch samengesteld'
+  if a.get('humanReviewed') is True:byline+=' · Redactioneel beoordeeld'
  date_line=('<time datetime="'+e(published)+'">Gepubliceerd '+date(published)+'</time> · Bronpublicatie '+date(a.get('sourcePublishedAt'))) if published else '<time datetime="'+e(a.get('sourcePublishedAt'))+'">Bronpublicatie '+date(a.get('sourcePublishedAt'))+'</time>'
  if a.get('sourceBased') is False:date_line=date_line.split(' · Bronpublicatie ')[0]
  if a.get('dateNote'):date_line+=' · '+e(a['dateNote'])

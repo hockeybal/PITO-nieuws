@@ -1,0 +1,47 @@
+{
+  "testedAt": "2026-10-29T11:38:11.400Z",
+  "actualStrapi": true,
+  "isolatedDatabase": "pito_firecrawl_e2e_e43b3a0db70a04a8",
+  "checks": [
+    {
+      "name": "Source endpoints reject public, news-reader and worker-write credentials",
+      "passed": true
+    },
+    {
+      "name": "Source import creates one managed Strapi source and preserves it on retry",
+      "passed": true
+    },
+    {
+      "name": "Unauthorized tokens, malformed evidence and protected client review fields cannot publish",
+      "passed": true
+    },
+    {
+      "name": "Real Strapi atomically saves evidence, records machine review and publishes once",
+      "passed": true
+    },
+    {
+      "name": "Withdrawn automatic articles are never resurrected by bot retries",
+      "passed": true
+    },
+    {
+      "name": "The original concept endpoint still cannot approve or publish",
+      "passed": true
+    },
+    {
+      "name": "A real editor explicitly approves without entering a date, then publishes",
+      "passed": true
+    },
+    {
+      "name": "An identical untouched bot concept can publish later without creating a duplicate",
+      "passed": true
+    },
+    {
+      "name": "Changed proposals and human-saved bot concepts cannot be auto-published",
+      "passed": true
+    },
+    {
+      "name": "Existing dashboard layout is preserved while the approval date becomes server-managed",
+      "passed": true
+    }
+  ]
+}

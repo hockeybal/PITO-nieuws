@@ -1,0 +1,150 @@
+APARTE EINDREDACTIE — 29 OKTOBER 2026
+Eigenaar heeft een aparte controlebot goedgekeurd. PITO Eindredactie is aangemaakt.
+Live Strapi heeft nu een afzonderlijke PITO_NEWS_REVIEW_TOKEN en de routes
+GET /api/pito-news/review-queue, POST /api/pito-news/review-decision.
+De schrijverssleutel kan GEEN /automatic-publish meer uitvoeren (HTTP403).
+Bestaande schrijfroutine bevestigd: dagelijks06:00, alleenconcepten,40Firecrawlcredits.
+De eigenaar heeft de aparte sleutel veilig ingevoerd; tijdelijk kopieerbestand verwijderd.
+Controleroutine bevestigd: dagelijks07:00–07:20 Europe/Amsterdam,vanaf30oktober.
+Echte ketenproef: Woudenbergconcept bo92wu8las0zn3w8ah8taege is inhoudelijk
+tegengehouden met controlemelding; Hagenwegconcept qd1pmj13ni1ackq3lcr674q9
+is daadwerkelijk gepubliceerd,zelfdeID,websiteHTTP200,automatischevermelding.
+De eerste ronde is afgerond: alle33concepten beoordeeld,11gepubliceerd,22hold.
+De website leest47geldige publicaties; alle22resterende concepten hebben een
+controleverslag. Geen betaalde extractie door de eindredactie.
+De schrijver krijgt preventieve feedback over bronbewijs, datumtoelichting en feiten.
+22domeintests en18echteStrapi/PostgreSQL-integratiechecks geslaagd.
+Back-up: /srv/pito-backups/reviewer-20261029. Geen schemawijzigingen.
+Zie GROKBOT-EINDREDACTIE.txt en reports/reviewer-20261029.json voor actuele status.
+
+HISTORISCHE STATUS
+
+HERSTEL PUBLICATIE — 29 OKTOBER 2026
+Eigenaar heeft expliciet DOORLOPEND publiceren toegestaan. Live Strapi heeft
+nu PITO_NEWS_AUTOMATIC_PUBLISH_ENABLED=1; de tijdelijke vervaldatum is verwijderd.
+De bestaande DRAFT_TOKEN en /automatic-publish blijven gelden; /drafts blijft
+alleen concepten opslaan. Bron-/datum-/bewijscontroles blijven ongewijzigd.
+Identieke, nog ongewijzigde eigen botconcepten kunnen alsnog publiceren met
+HTTP 200, hetzelfde documentId en newlyPublished=true. Menselijke saves,
+gewijzigde voorstellen, verwijderingen en intrekkingen worden nooit overschreven.
+Handmatig in Strapi: echte controle uitvoeren, Beoordelings- of correctienotitie
+invullen, Redactionele beoordeling=approved, Save, daarna Publish. Bij die
+expliciete goedkeuringsactie vult de server verifiedAt zelf met het echte
+tijdstip. De datumkiezer is alleen-lezen. Foutmeldingen geven deze stappen aan.
+Getest: 22 domeintests en 10 echte Strapi/PostgreSQL-integratiechecks, inclusief
+handmatig goedkeuren/publiceren, doorlopende toegang ondanks oude vervaldatum,
+concept alsnog publiceren, bescherming menselijke wijzigingen/intrekkingen en
+behoud van bestaande dashboardindeling.
+Back-up: /srv/pito-backups/publication-fix-20261029 op de CMS-server.
+De bestaande Grok-routine is bevestigd als PITO dagelijkse nieuwsronde (publiceren),
+06:00 Europe/Amsterdam, maximaal40Firecrawl-credits; geen extra crawl of tweede routine.
+Echte ketencontrole geslaagd: het bestaande Amersfoortse raamkunstwerkconcept
+dnbodwlru73pp9i19f5orwae is met HTTP200/newlyPublished=true gepubliceerd,
+ongewijzigd en zonder duplicaat of nieuwe scrape. Nieuwssnapshot geldig, 36 publicaties.
+Geen nieuwe API-sleutel nodig. Afbeeldingen zijn met dit herstel niet uitgebreid.
+
+HISTORISCHE STATUS
+
+ACTUALISATIE 26 OKTOBER 2026 — EEN AUTOMATISCHE LIVE RONDE
+Eigenaar heeft expliciet automatisch publiceren uit 119 actieve RSS-bronnen
+toegestaan voor één ronde met bronpublicaties van de laatste 14 dagen.
+Alle drie sleutels zijn in de nieuwe bot ingesteld. De bot heeft live Strapi
+gelezen: HTTP 200, 205 bronnen, 119 actief; geen Cloudflare-blokkade.
+De extra ingang POST /api/pito-news/automatic-publish is actief tot uiterlijk
+2026-10-27T00:01:03.505860+00:00. De bestaande DRAFT_TOKEN werkt hiervoor.
+Conceptaanvoer blijft apart en heeft geen automatische publicatiebijwerking.
+Automatisch publiceren vereist volledige privateEvidence en verification;
+server controleert actieve RSS-bron, host/pad, datums en bewijsfragmenten.
+Dezelfde bot controleert de inhoud: dit is geen onafhankelijke menselijke
+feitencheck. humanReviewed=false en reviewKind=automatic blijven expliciet.
+Gevoelige, provinciebrede of onvoldoende onderbouwde artikelen blijven concept.
+Dubbele aanvoer overschrijft geen redactie en herstelt geen intrekkingen.
+Geen terugkerende taken en geen abonnementwijziging. Eerste echte artikel
+is aangevraagd; pas na websitecontrole wordt de overige ronde gestart.
+Zie GROKBOT-EERSTE-LIVE-RONDE-20261026.txt en reports/automatic-publication-20261026.json.
+
+HISTORISCHE INRICHTING (status hieronder deels vervangen door actualisatie)
+
+PITO — LIVE KOPPELING VOOR DE NIEUWSBOT
+24 oktober 2026
+
+CMS: https://strapi.pito.app
+Beheer: https://strapi.pito.app/admin
+Website: https://pitonieuws.nl
+
+STATUS
+De nieuwsuitbreiding en 205 bronnen staan in live Strapi. De HTTPS-koppeling
+vanaf de nieuwsserver werkt. Cloudflare heeft na goedkeuring een uitzondering
+voor uitsluitend Browser Integrity Check op de nieuws-API, vanaf de IPv4-
+en IPv6-adressen van de nieuwsserver. Strapi vereist nog steeds geldige tokens.
+De toegang vanaf de eigen cloudcomputer van een nieuwe Grokbot moet apart
+worden gecontroleerd. Er zijn geen betaalde jobs geactiveerd.
+
+NIEUWE BOT
+Op 26 oktober 2026 is PITO Nieuwsredactie aangemaakt via Chrome:
+https://grok.com/bot/4a43c98b-3776-41c4-af9d-b9ec4ddfe08e
+Titel: Lokale nieuwsredactie Utrecht. Naam, oranje huis-avatar en beschrijving
+zijn ingesteld. De volledige redactie-instructies zijn verstuurd; de bot
+bevestigt dat de rol en werkwijze blijvend zijn vastgelegd.
+De bot wacht nu op de lege beveiligde invoer voor PITO_NEWS_SOURCE_TOKEN.
+Er zijn nog geen sleutels ingevoerd of netwerkverzoeken vanuit de bot gedaan.
+GROKBOT-SLEUTELS.txt beschrijft welke drie bestaande sleutels de eigenaar
+ophaalt. De eerste latere controle leest alleen het bronregister en start
+geen Firecrawl- of schrijfjob.
+De Grok Bot-app gebruikt de toegang van de app; een eigen serverproces dat
+de xAI-API aanroept, vereist wel een afzonderlijke xAI-API-sleutel.
+Officiële uitleg: https://docs.x.ai/grok-bot/get-started
+
+BOTCREDENTIALS
+Op de nieuwsserver root@2.31.50.83:
+  /etc/pito-news/grokbot.env (0600)
+Dit bevat alleen PITO_STRAPI_URL, PITO_NEWS_SOURCE_TOKEN en
+PITO_NEWS_DRAFT_TOKEN. De echte waarden staan niet in dit document of Git.
+Dit zijn eigen koppeltokens; het standaard API-tokenvenster in Strapi is
+hiervoor niet de configuratiebron. Geef de bot geen beheer- of importsleutel.
+
+BRONNEN LEZEN
+  GET /api/pito-news/sources
+  Authorization: Bearer <PITO_NEWS_SOURCE_TOKEN>
+Het antwoord is één volledige lijst: data plus meta.complete=true en
+meta.total. Gebruik active en discovery uit dit register. Momenteel zijn
+119 RSS-bronnen actief; 86 handmatige bronverwijzingen worden niet vanzelf
+door de reguliere pipeline gecrawld. Inhoudelijk uitlezen gebeurt via
+Firecrawl met een eigen providersleutel en een ingestelde verzoeklimiet.
+
+CONCEPT AANLEVEREN
+  POST /api/pito-news/drafts
+  Authorization: Bearer <PITO_NEWS_DRAFT_TOKEN>
+  Content-Type: application/json
+  Body: {"data": <conceptobject>}
+
+Gebruik onder andere:
+  externalKey: stabiele unieke sleutel van bronversie/artikel
+  eventKey: gedeelde gebeurtenissleutel, indien onderbouwd beschikbaar
+  title, summary, body: eigen tekst; body als gewone tekst, geen HTML
+  category: Bestuur, Veiligheid, Verkeer, Wonen, Samenleving of Sport
+  municipalities: lijst met bestaande gemeenteslugs, bijvoorbeeld ["woerden"]
+  sourceUrl: echte HTTPS-bronlink
+  sourceName: werkelijke bron
+  sourcePublishedAt: echte brontijd met tijdzone, indien vastgesteld
+  eventDate/dateNote: gebeurtenisdatum en eventuele concrete datumtoelichting
+  origin: "writer"
+  evidenceReference/privateEvidence: controleerbaar privé-bronbewijs
+
+Een nieuwe aanlevering geeft HTTP 201 en een documentId. Een herhaling met
+dezelfde identiteit geeft HTTP 200 en behoudt het bestaande document.
+Nieuwe broninhoud overschrijft geen menselijke redactiewijzigingen.
+
+PUBLICEREN
+De conceptsleutel kan niet goedkeuren of publiceren. De CMS-server dwingt
+needs_review af. Automatisch publiceren geeft 403. Een redacteur controleert
+feiten, gemeente, datums en rechten, slaat op, keurt goed en kiest Publish.
+De website leest daarna de gepubliceerde snapshot met een eigen leessleutel.
+De bot heeft die leessleutel niet nodig.
+
+BESTAANDE SOFTWARE
+De serverpipeline staat in scripts/run_source_pipeline.py en gebruikt
+source_registry.py, Firecrawl en de optionele Grok-schrijver.
+De afzonderlijke archiefworkflow kan opgeslagen bronbewijs hergebruiken.
+Gebruik één gekozen uitvoerder; activeer niet tegelijk een externe bot en
+de bestaande schrijftimer zonder afstemming over wachtrijen en limieten.

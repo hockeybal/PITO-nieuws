@@ -1,0 +1,8 @@
+{
+  "collectionName": "components_pito_news_sources",
+  "info": { "displayName": "Extra bron" },
+  "attributes": {
+    "name": { "type": "string", "required": true },
+    "url": { "type": "string", "required": true }
+  }
+}

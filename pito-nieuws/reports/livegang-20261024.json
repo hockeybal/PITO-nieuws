@@ -1,0 +1,395 @@
+{
+  "checkedAt": "2026-10-24T13:33:53.762803+00:00",
+  "origin": "https://pitonieuws.nl",
+  "release": "f6e640a307cd6a76c1854fe272b3b051a118c8dd",
+  "sitemapUrls": 1239,
+  "municipalitiesChecked": 26,
+  "checks": [
+    {
+      "path": "/nieuws/utrecht",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/amersfoort",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/baarn",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/bunnik",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/bunschoten",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/de-bilt",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/de-ronde-venen",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/eemnes",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/houten",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/ijsselstein",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/leusden",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/lopik",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/montfoort",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/nieuwegein",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/oudewater",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/renswoude",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/rhenen",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/soest",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/stichtse-vecht",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/utrecht",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/utrechtse-heuvelrug",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/veenendaal",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/vijfheerenlanden",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/wijk-bij-duurstede",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/woerden",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/woudenberg",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht/zeist",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/gemeenten",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/nuttige-adressen",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/over-de-redactie",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "https://pitonieuws.nl/nieuws/utrecht/amersfoort/omgevingszaken/bekendmaking/0409e5af227b9e497a57",
+      "status": 200,
+      "robots": [
+        "index,follow,max-image-preview:large"
+      ],
+      "ok": true
+    },
+    {
+      "path": "/nieuws/redactie",
+      "status": 404,
+      "ok": true
+    },
+    {
+      "path": "/nieuws/bronberichten",
+      "status": 404,
+      "ok": true
+    },
+    {
+      "path": "/nieuws/aanvoerstatus",
+      "status": 404,
+      "ok": true
+    },
+    {
+      "path": "/data/articles.json",
+      "status": 404,
+      "ok": true
+    },
+    {
+      "path": "/news-static/source-audit/index.html",
+      "status": 404,
+      "ok": true
+    },
+    {
+      "path": "/.env",
+      "status": 400,
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht?q=utrecht",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/nieuws/utrecht [Googlebot user-agent]",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/style.css?v=7",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/news.css",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/live-sources.css?v=1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/environment.css",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/refresh.css",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/professional.css",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/newsroom-layout.css?v=1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/navigation.js",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/news.js?v=6",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/location.js?v=2",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/campaign.css?v=1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/continuity.css?v=11",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/mobile.css?v=1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/masthead.css?v=26",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/presentation.css?v=1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/masthead.js?v=4",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/news-static/campaign.js?v=3",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "path": "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "status": 200,
+      "ok": true
+    }
+  ],
+  "allPassed": true,
+  "strapi": {
+    "origin": "https://strapi.pito.app",
+    "newsSnapshotStatus": 404,
+    "sourcesStatus": 404,
+    "connected": false
+  },
+  "paidWorkersEnabled": false
+}

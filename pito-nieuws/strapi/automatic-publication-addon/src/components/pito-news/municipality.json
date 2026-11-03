@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_pito_news_municipalities",
+  "info": { "displayName": "Gemeente", "description": "Kies een gemeente uit het vaste PITO-nieuwscontract." },
+  "attributes": {
+    "slug": {
+      "type": "enumeration", "required": true,
+      "enum": ["amersfoort", "baarn", "bunnik", "bunschoten", "de-bilt", "de-ronde-venen", "eemnes", "houten", "ijsselstein", "leusden", "lopik", "montfoort", "nieuwegein", "oudewater", "renswoude", "rhenen", "soest", "stichtse-vecht", "utrecht", "utrechtse-heuvelrug", "veenendaal", "vijfheerenlanden", "wijk-bij-duurstede", "woerden", "woudenberg", "zeist"]
+    }
+  }
+}

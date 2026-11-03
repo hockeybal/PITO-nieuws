@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-25T23:27:29.911061+00:00",
+  "botName": "PITO Nieuwsredactie",
+  "botUrl": "https://grok.com/bot/4a43c98b-3776-41c4-af9d-b9ec4ddfe08e",
+  "botCreated": true,
+  "title": "Lokale nieuwsredactie Utrecht",
+  "avatar": {
+    "color": "orange",
+    "shape": "house"
+  },
+  "descriptionSaved": true,
+  "editorialInstructionsSubmitted": true,
+  "memoryConfirmation": "Bot confirmed lasting role, access rules, source processing, draft format and reporting instructions",
+  "keysEntered": false,
+  "networkCheckFromBot": false,
+  "paidCrawlStarted": false,
+  "requiredKeys": {
+    "PITO_NEWS_SOURCE_TOKEN": "present on news server",
+    "PITO_NEWS_DRAFT_TOKEN": "present on news server",
+    "FIRECRAWL_API_KEY": "present on news server"
+  },
+  "nativeAppControl": "unavailable; bot created through Chrome",
+  "termsAcceptedWithExplicitUserConfirmation": true,
+  "secretsIncluded": false,
+  "secureFirstKeyEntryRequested": true,
+  "secureFirstKeyEntryReady": true,
+  "firstKey": "PITO_NEWS_SOURCE_TOKEN",
+  "setupCompleteAwaitingOwnerKeyInput": true
+}

@@ -1,0 +1,63 @@
+{
+  "preparedAt": "2026-10-26T00:00:30.003835+00:00",
+  "cms": "https://strapi.pito.app",
+  "bot": "https://grok.com/bot/4a43c98b-3776-41c4-af9d-b9ec4ddfe08e",
+  "scope": {
+    "oneRound": true,
+    "activeRssSources": 119,
+    "sourceLookbackDays": 14,
+    "maximumAuthorizationWindowHours": 24,
+    "sensitiveArticles": "draft",
+    "recurringJobs": false,
+    "subscriptionChanges": false
+  },
+  "tests": {
+    "domain": 21,
+    "websiteAdapter": 20,
+    "realStrapiIntegration": 6
+  },
+  "websiteAdapterDeployed": true,
+  "cmsExtensionDeployed": true,
+  "autoApprovalBlocked": "Exact production scope and 24-hour window require explicit user confirmation.",
+  "backup": "/srv/pito-backups/automatic-20261026",
+  "explicitConfirmationReceived": true,
+  "automaticPublishUntil": "2026-10-27T00:01:03.505860+00:00",
+  "firstArticleRequestedAt": "2026-10-26T00:02:45.644623+00:00",
+  "liveChecks": {
+    "strapiHealth": 204,
+    "sourceCount": 205,
+    "baselinePublishedArticles": 0,
+    "invalidAutomaticSubmission": 400,
+    "websiteBrowserFreshLoad": "working; no preview banner"
+  },
+  "firstArticle": {
+    "documentId": "qli5sfc5e46xx1m34gsprluc",
+    "title": "Utrecht verlengt sloopsubsidie voor oude dieselauto’s tot eind 2027",
+    "url": "https://pitonieuws.nl/nieuws/utrecht/artikel/utrecht-verlengt-sloopsubsidie-voor-oude-dieselauto-s-tot-eind-2027",
+    "cmsStatus": 201,
+    "humanReviewed": false,
+    "reviewKind": "automatic",
+    "websiteVerified": true,
+    "sourceCheckedAgainstOfficialPage": true,
+    "seo": {
+      "robots": "index,follow,max-image-preview:large",
+      "datePublished": "2026-10-26T00:04:55.943Z"
+    }
+  },
+  "discovery": {
+    "checkedFeeds": 119,
+    "successfulFeeds": 90,
+    "robotsBlocked": 28,
+    "invalidXml": 1,
+    "uniqueCandidates": 170
+  },
+  "firstArticleUsage": {
+    "firecrawlRequests": 1,
+    "creditsBefore": 1131,
+    "creditsAfter": 1130,
+    "creditsUsed": 1,
+    "grokTokens": "not available"
+  },
+  "remainingRoundRequestedAt": "2026-10-26T00:07:32.194256+00:00",
+  "roundStatus": "running"
+}

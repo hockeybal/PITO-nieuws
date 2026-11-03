@@ -1,0 +1,220 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pito_news_articles",
+  "info": {
+    "singularName": "pito-news-article",
+    "pluralName": "pito-news-articles",
+    "displayName": "PITO Nieuwsartikel",
+    "description": "Nieuws voor pitonieuws.nl. Schrijven → opslaan → controleren (approved) → publiceren. Een gewone opgeslagen wijziging blijft concept."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "maxLength": 240
+    },
+    "slug": {
+      "type": "string",
+      "unique": true,
+      "maxLength": 180,
+      "description": "Blijvende URL-naam; automatisch bij eerste opslag. Bewust aanpassen maakt bij publicatie een permanente redirect."
+    },
+    "summary": {
+      "type": "text",
+      "required": true
+    },
+    "body": {
+      "type": "text",
+      "required": true,
+      "description": "Eigen artikeltekst als gewone tekst, zonder HTML. Alinea's scheiden met een lege regel."
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "Bestuur",
+        "Veiligheid",
+        "Verkeer",
+        "Wonen",
+        "Samenleving",
+        "Sport"
+      ],
+      "required": true
+    },
+    "municipalities": {
+      "type": "component",
+      "component": "pito-news.municipality",
+      "repeatable": true
+    },
+    "provinceWide": {
+      "type": "boolean",
+      "default": false
+    },
+    "provinceWideReason": {
+      "type": "text",
+      "description": "Verplicht bij provinciebreed nieuws: onderbouw waarom dit de hele provincie raakt."
+    },
+    "sourceBased": {
+      "type": "boolean",
+      "default": true
+    },
+    "sourceUrl": {
+      "type": "string"
+    },
+    "sourceName": {
+      "type": "string"
+    },
+    "sourcePublishedAt": {
+      "type": "datetime"
+    },
+    "eventDate": {
+      "type": "date"
+    },
+    "dateNote": {
+      "type": "text",
+      "description": "Bij ontbreken van een brondatum of bij verschillende bron- en gebeurtenisdatum: licht dit toe; niet gokken."
+    },
+    "verifiedAt": {
+      "type": "datetime"
+    },
+    "reviewStatus": {
+      "type": "enumeration",
+      "enum": [
+        "needs_review",
+        "approved",
+        "rejected"
+      ],
+      "default": "needs_review",
+      "required": true
+    },
+    "reviewer": {
+      "type": "string",
+      "description": "Door de server ingevuld met de echte aangemelde beheerder bij goedkeuring."
+    },
+    "reviewNote": {
+      "type": "text"
+    },
+    "rights": {
+      "type": "text",
+      "description": "Onderbouw tekstgebruik en eventuele beeldrechten."
+    },
+    "sensitive": {
+      "type": "boolean",
+      "default": false
+    },
+    "additionalSources": {
+      "type": "component",
+      "component": "pito-news.source",
+      "repeatable": true
+    },
+    "impact": {
+      "type": "text"
+    },
+    "ranking": {
+      "type": "json"
+    },
+    "imageKey": {
+      "type": "string"
+    },
+    "imageTopics": {
+      "type": "json"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "imageAlt": {
+      "type": "string"
+    },
+    "imageCredit": {
+      "type": "string"
+    },
+    "imageRights": {
+      "type": "text"
+    },
+    "imageWebUsageApproved": {
+      "type": "boolean",
+      "default": false,
+      "description": "Alleen aanvinken na controle van beeldrechten. Niet vrijgegeven beeld wordt niet naar de website gestuurd."
+    },
+    "author": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "description": "Bestaande PITO-gebruiker als auteur; de publieke naam kan hieronder expliciet worden ingevuld."
+    },
+    "authorName": {
+      "type": "string",
+      "description": "Werkelijk auteurschap; bij ontbreken gebruikt de server de aangemelde redacteur."
+    },
+    "authorType": {
+      "type": "enumeration",
+      "enum": [
+        "human",
+        "automatic"
+      ],
+      "default": "human"
+    },
+    "origin": {
+      "type": "enumeration",
+      "enum": [
+        "manual",
+        "rss",
+        "writer",
+        "import"
+      ],
+      "default": "manual"
+    },
+    "externalKey": {
+      "type": "string",
+      "private": true
+    },
+    "eventKey": {
+      "type": "string",
+      "private": true
+    },
+    "evidenceReference": {
+      "type": "string",
+      "private": true
+    },
+    "privateEvidence": {
+      "type": "json",
+      "private": true
+    },
+    "reviewFingerprint": {
+      "type": "string",
+      "private": true
+    },
+    "reviewedByAdminId": {
+      "type": "integer",
+      "private": true
+    },
+    "firstPitoPublishedAt": {
+      "type": "datetime",
+      "description": "Door de server vastgelegde eerste PITO-publicatiedatum; blijft gelijk bij herpublicatie."
+    },
+    "lastPitoPublishedAt": {
+      "type": "datetime",
+      "description": "Door de server vastgelegde laatste publicatiewijziging."
+    },
+    "reviewKind": {
+      "type": "enumeration",
+      "enum": [
+        "human",
+        "automatic"
+      ],
+      "default": "human",
+      "private": true
+    },
+    "automaticReview": {
+      "type": "json",
+      "private": true
+    }
+  }
+}

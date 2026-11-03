@@ -175,7 +175,7 @@ class SnapshotTests(unittest.TestCase):
         mapped = cms.validate_snapshot(payload([own]), NOW).articles[0]
         self.assertEqual(mapped['sourcePublishedAt'], '')
         self.assertEqual(cms.validate_snapshot(payload([dict(own, dateNote='')]), NOW).articles[0]['sourcePublishedAt'], '')
-        self.assertEqual(news.article_date(mapped), mapped['firstPublishedAt'][:10])
+        self.assertEqual(news.article_date(mapped), cms.local_date(mapped['firstPublishedAt']))
         self.assertTrue(news.ranking.is_recent(mapped))
         with patch('weather.get', return_value={'status': 'unavailable'}):
             html = news.detail(mapped)
@@ -195,6 +195,22 @@ class SnapshotTests(unittest.TestCase):
         self.assertNotIn('reviewer', mapped)
         with self.assertRaises(cms.StrapiNewsError):
             cms.validate_snapshot(payload([article(humanReviewed=False)]), NOW)
+
+    def test_explicit_cms_automatic_review_is_not_mislabeled_as_human(self):
+        row = article(author='PITO Nieuwsredactie', authorType='automatic',
+                      humanReviewed=False, reviewKind='automatic')
+        mapped = cms.validate_snapshot(payload([row]), NOW).articles[0]
+        self.assertFalse(mapped['humanReviewed'])
+        self.assertEqual(mapped['reviewKind'], 'automatic')
+        self.assertEqual(mapped['authorship']['kind'], 'automated')
+        with patch('weather.get', return_value={'status': 'unavailable'}):
+            rendered = news.detail(mapped)
+        self.assertIn('Automatisch samengesteld', rendered)
+        self.assertNotIn('Redactioneel beoordeeld', rendered)
+        for changes in ({'authorType': 'human'}, {'reviewKind': 'human'},
+                        {'humanReviewed': True}, {'reviewKind': 'unknown'}):
+            with self.assertRaises(cms.StrapiNewsError):
+                cms.validate_snapshot(payload([{**row, **changes}]), NOW)
 
     def test_amsterdam_calendar_date_at_midnight_and_month_boundary(self):
         self.assertEqual(news.date('2026-10-15T22:30:00Z'), '16-10-2026')

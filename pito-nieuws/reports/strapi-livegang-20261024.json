@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-24T13:53:10.215021+00:00",
+  "strapiOrigin": "https://strapi.pito.app",
+  "strapiServer": "213.239.209.201",
+  "version": "5.50.2",
+  "newsExtensionDeployed": true,
+  "databaseBackup": "/srv/pito-backups/news-20261024T134651Z/database.dump",
+  "codeBackup": "/srv/pito-backups/news-20261024T134651Z/code-before.tar.gz",
+  "domainTestsPassed": 18,
+  "typescriptPassed": true,
+  "productionBuildPassed": true,
+  "backendHealth": 204,
+  "sources": 205,
+  "activeSources": 119,
+  "publishedArticles": 0,
+  "localSnapshotComplete": true,
+  "permissionChecks": {
+    "draftTokenCannotReadSnapshot": 401,
+    "readTokenCannotReadSources": 401,
+    "readTokenCannotWriteDrafts": 401,
+    "invalidDraftRejected": 400,
+    "automaticPublishBlocked": 403
+  },
+  "httpsConnectionFromNewsServer": {
+    "connected": false,
+    "status": 403,
+    "cloudflareError": 1010,
+    "reason": "browser_signature_banned"
+  },
+  "paidWorkersEnabled": false,
+  "secretsIncluded": false
+}

@@ -1,0 +1,59 @@
+BENODIGDE SLEUTELS VOOR PITO NIEUWSREDACTIE
+Gecontroleerd op 26 oktober 2026, Europe/Amsterdam.
+
+Nieuwe bot: PITO Nieuwsredactie
+https://grok.com/bot/4a43c98b-3776-41c4-af9d-b9ec4ddfe08e
+De instructies zijn ingesteld; het lege beveiligde invoerveld voor
+PITO_NEWS_SOURCE_TOKEN staat klaar. Begin met die sleutel. Laat daarna
+de bot de volgende beveiligde invoer openen, één sleutel tegelijk.
+
+Er hoeven voor deze Grok Bot geen nieuwe providersleutels te worden gemaakt.
+De drie benodigde sleutels zijn al op de nieuwsserver aanwezig.
+
+1. PITO_NEWS_SOURCE_TOKEN
+   Doel: het beheerde bronnenregister in live Strapi lezen.
+   Bestand op de nieuwsserver: /etc/pito-news/grokbot.env.
+
+2. PITO_NEWS_DRAFT_TOKEN
+   Doel: uitsluitend artikelconcepten naar live Strapi sturen.
+   Het token kan niet goedkeuren of publiceren.
+   Bestand op de nieuwsserver: /etc/pito-news/grokbot.env.
+
+3. FIRECRAWL_API_KEY
+   Doel: toegankelijke volledige bronartikelen uitlezen via Firecrawl.
+   Bestand op de nieuwsserver: /etc/pito-news/newsroom.env.
+   Haal alleen deze regel op, niet het volledige workerbestand.
+
+Daarnaast is nodig als gewone instelling, niet als geheime sleutel:
+PITO_STRAPI_URL=https://strapi.pito.app.
+
+OPHALEN IN JE EIGEN TERMINAL
+Verbind met de nieuwsserver:
+  ssh root@2.31.50.83
+
+Toon de twee beperkte Strapi-sleutels en de CMS-origin:
+  cat /etc/pito-news/grokbot.env
+
+Toon alleen de Firecrawl-sleutel:
+  sed -n '/^FIRECRAWL_API_KEY=/p' /etc/pito-news/newsroom.env
+
+Deze opdrachten tonen de echte waarden in je eigen Terminal. De waarden
+staan niet in dit document. Gebruik de beveiligde invoer/secretvoorziening
+van de bot; plak de sleutels niet in gewone chat of in Git.
+
+NIET NODIG VOOR DEZE BOT
+- XAI_API_KEY: alleen voor het aparte Python-schrijfproces op de server.
+  De Grok Bot-app gebruikt de toegang van die app.
+- PITO_NEWS_READ_TOKEN: de website gebruikt deze, de bot heeft hem niet nodig.
+- PITO_NEWS_SOURCE_IMPORT_TOKEN: uitsluitend voor beheer/migratie.
+- Een CMS-adminwachtwoord of root-SSH-sleutel voor de bot.
+
+EERSTE CONTROLE
+Alleen het bronregister lezen, zonder Firecrawl-verbruik of conceptaanmaak.
+Verwacht 205 bronnen, waarvan momenteel 119 actieve RSS-bronnen.
+De Cloudflare-uitzondering geldt voor de nieuwsserver. De netwerktoegang
+vanaf een nieuwe botcomputer moet apart gecontroleerd worden. Stop bij een
+Cloudflare-blokkade en laat de eigenaar de gerichte instelling aanpassen.
+
+BRON
+https://docs.x.ai/grok-bot/get-started

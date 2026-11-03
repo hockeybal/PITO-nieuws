@@ -1,0 +1,79 @@
+{
+  "testedAt": "2026-10-29T13:32:36.493Z",
+  "actualStrapi": true,
+  "isolatedDatabase": "pito_firecrawl_e2e_6cbe686d89c251dc",
+  "checks": [
+    {
+      "name": "Source endpoints reject public, news-reader and worker-write credentials",
+      "passed": true
+    },
+    {
+      "name": "Source import creates one managed Strapi source and preserves it on retry",
+      "passed": true
+    },
+    {
+      "name": "Unauthorized tokens, malformed evidence and protected client review fields cannot publish",
+      "passed": true
+    },
+    {
+      "name": "Real Strapi atomically saves evidence, records machine review and publishes once",
+      "passed": true
+    },
+    {
+      "name": "Withdrawn automatic articles are never resurrected by bot retries",
+      "passed": true
+    },
+    {
+      "name": "The original concept endpoint still cannot approve or publish",
+      "passed": true
+    },
+    {
+      "name": "A real editor explicitly approves without entering a date, then publishes",
+      "passed": true
+    },
+    {
+      "name": "An identical untouched bot concept can publish later without creating a duplicate",
+      "passed": true
+    },
+    {
+      "name": "Changed proposals and human-saved bot concepts cannot be auto-published",
+      "passed": true
+    },
+    {
+      "name": "Existing dashboard layout is preserved while the approval date becomes server-managed",
+      "passed": true
+    },
+    {
+      "name": "Reviewer credentials are separate and writer can only submit concepts",
+      "passed": true
+    },
+    {
+      "name": "The reviewer queue paginates exact saved versions with source configuration",
+      "passed": true
+    },
+    {
+      "name": "Reviewer publication requires current evidence and cannot replace stored article text",
+      "passed": true
+    },
+    {
+      "name": "A hold records the control report while preserving the original concept",
+      "passed": true
+    },
+    {
+      "name": "Reviewer decisions reject changed versions and preserve human-saved drafts",
+      "passed": true
+    },
+    {
+      "name": "A fresh reviewer fetch cannot disguise an out-of-window source publication date",
+      "passed": true
+    },
+    {
+      "name": "The reviewer publishes an existing concept using fresh proof, without changing identity or text",
+      "passed": true
+    },
+    {
+      "name": "Reviewer retries cannot resurrect a manually withdrawn article",
+      "passed": true
+    }
+  ]
+}
